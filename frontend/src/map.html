@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Leaflet + D3 Overlay Debug</title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<style>
+  #map { width: 100%; height: 650px; }
+  svg { pointer-events: none; }
+</style>
+</head>
+
+<body>
+<div id="map"></div>
+
+<script>
+const map = L.map("map").setView([38.985, 117.33], 13);
+
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  maxZoom: 19
+}).addTo(map);
+
+console.log("[debug] 开始加载 multipolygons.geojson...");
+
+fetch("./map/jinnan/multipolygons.geojson")
+  .then(res => res.json())
+  .then(geojson => {
+
+    // 创建 SVG 图层
+    L.svg().addTo(map);
+    const overlay = d3.select("#map").select("svg");
+    const g = overlay.append("g").attr("class", "leaflet-zoom-hide");
+
+    // D3 投影方式：使用 Leaflet 的 map.latLngToLayerPoint
+    const projectPoint = (lng, lat) => {
+      const p = map.latLngToLayerPoint([lat, lng]);
+      return [p.x, p.y];
+    };
+
+    const path = d3.geoPath().projection(d3.geoTransform({
+      point: function(lng, lat) {
+        const point = map.latLngToLayerPoint([lat, lng]);
+        this.stream.point(point.x, point.y);
+      }
+    }));
+
+    // 绘制 polygon
+    const feature = g.selectAll("path")
+      .data(geojson.features)
+      .enter()
+      .append("path")
+      .attr("stroke", "red")
+      .attr("fill", "#ff6666")
+      .attr("fill-opacity", 0.5)
+      .attr("stroke-width", 2);
+
+    function update() {
+      feature.attr("d", path);
+      drawCenter();
+    }
+
+    map.on("zoomend moveend", update);
+    update();
+
+    // 自动缩放（Leaflet 原生支持）
+    const layer = L.geoJSON(geojson);
+    map.fitBounds(layer.getBounds());
+
+    // ============= 中心偏移 =============
+    const bounds = layer.getBounds();
+    let center = bounds.getCenter();
+
+    const offsetLat = -0.002;  // 往南偏移
+    const shiftedCenter = L.latLng(center.lat + offsetLat, center.lng);
+
+    // 画红点
+    function drawCenter() {
+      g.selectAll("circle").remove();
+
+      const screenPos = map.latLngToLayerPoint(shiftedCenter);
+
+      g.append("circle")
+        .attr("cx", screenPos.x)
+        .attr("cy", screenPos.y)
+        .attr("r", 8)
+        .attr("fill", "red");
+    }
+
+    drawCenter();
+  });
+</script>
+
+</body>
+</html>

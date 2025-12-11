@@ -1,0 +1,258 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>大数据可视化大屏</title>
+<link rel="stylesheet" href="css/style.css">
+<script src="js/cjy.js"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+
+<!-- 顶部头部 -->
+<!-- 顶部导航栏 -->
+<header>
+<nav class="head" style="height: 8%;">
+    <div class="head-icons">
+        <img src="image/布偶猫.png" alt="Mailbox" title="Mailbox"  class="scroll-mainbox">
+        <img src="image/仓鼠.png" alt="模块2" title="模块2" onclick="location.href='module2.html'">
+        <img src="image/柴犬.png" alt="模块3" title="模块3" onclick="location.href='module3.html'">
+    </div>
+    
+    <h1><a href="index.html">南开大学硕博生毕业论文可视化系统</a></h1>
+    
+    <div class="time" id="showTime">2025/12/09 20:00:00</div>
+</nav>
+</header>
+
+<!-- 页面主体 -->
+<div class="mainbox" id="mainbox">
+    <!-- 左边上下两个框 -->
+    <li style="width: 30%;">
+      <div class="boxall" style="height: 60%;">
+        <div class="alltitle">词云分布图</div>
+        <div class="boxnav" id="echarts1"></div>
+      </div>
+      <div class="boxall" style="height: 40%;">
+        <div class="alltitle">Top分析</div>
+        <div  id="top-chart">
+          <div class="table-wrapper" id="table-wrapper">
+
+          </div>
+
+        </div>
+      </div>
+    </li>
+
+    <!-- 中间上中下三个框 -->
+    <li style="width: 40%;">
+        <div class="boxall" style="height:20%">
+            <!-- 左侧：业绩总览 -->
+            <div class="overview">
+                <p>系统总论文量</p>
+                <h1><span>0</span>篇</h1>
+            </div>
+        
+            <!-- 右侧：关键指标展示 -->
+            <div class="key-metrics">
+                <ul class="metrics-list">
+                    <li>
+                        <div class="metric-circle"></div>
+                        <span>导师人数</span>
+                    </li>
+                    <li>
+                        <div class="metric-circle"></div>
+                        <span>学生人数</span>
+                    </li>
+                    <li>
+                        <div class="metric-circle"></div>
+                        <span>学院数</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        
+
+      <div class="boxall" style="height:40%;">
+        <div class="alltitle">2024年各学院发表论文数</div>
+        <div id="map-chart"></div>
+       
+      </div>
+      <div class="boxall" style="height: 40%;">
+        <div class="alltitle">各学院平均参考文献引用数</div>
+        <div id="line-chart">
+
+        </div>
+      </div>
+    </li>
+
+    <!-- 右边上下两个框 -->
+    <li style="width: 30%;">
+      <div class="boxall" style="height:60%;">
+        <div class="alltitle" >论文点击量排行榜</div>
+        
+
+  <div class="rank-box">
+    <ul class="rank-list">
+      <li class="rank-item">
+        <div class="rank-num-wrap"><span class="rank-num rank-1">1</span></div>
+        <div class="rank-main">
+          <div class="rank-title" title="这是完整的论文标题示例：——特别长的论文标题会被截断显示。">
+           
+          </div>
+          <div class="rank-row">
+            <div class="rank-bar">
+              <div class="rank-bar-fill" style="width:100%"></div>
+            </div>
+            <div class="rank-value">500</div>
+          </div>
+        </div>
+      </li>
+
+      <li class="rank-item">
+        <div class="rank-num-wrap"><span class="rank-num rank-2">2</span></div>
+        <div class="rank-main">
+          <div class="rank-title" title="论文标题示例二"></div>
+          <div class="rank-row">
+            <div class="rank-bar">
+              <div class="rank-bar-fill" style="width:92%"></div>
+            </div>
+            <div class="rank-value">400</div>
+          </div>
+        </div>
+      </li>
+
+      <li class="rank-item">
+        <div class="rank-num-wrap"><span class="rank-num rank-3">3</span></div>
+        <div class="rank-main">
+          <div class="rank-title" ></div>
+          <div class="rank-row">
+            <div class="rank-bar">
+              <div class="rank-bar-fill" style="width:90%"></div>
+            </div>
+            <div class="rank-value">180</div>
+          </div>
+        </div>
+      </li>
+
+      <li class="rank-item">
+        <div class="rank-num-wrap"><span class="rank-num">4</span></div>
+        <div class="rank-main">
+          <div class="rank-title" ></div>
+          <div class="rank-row">
+            <div class="rank-bar">
+              <div class="rank-bar-fill" style="width:88%"></div>
+            </div>
+            <div class="rank-value">160</div>
+          </div>
+        </div>
+      </li>
+
+      <li class="rank-item">
+        <div class="rank-num-wrap"><span class="rank-num">5</span></div>
+        <div class="rank-main">
+          <div class="rank-title"></div>
+          <div class="rank-row">
+            <div class="rank-bar">
+              <div class="rank-bar-fill" style="width:86%"></div>
+            </div>
+            <div class="rank-value">140</div>
+          </div>
+        </div>
+      </li>
+      <li class="rank-item">
+        <div class="rank-num-wrap"><span class="rank-num">5</span></div>
+        <div class="rank-main">
+          <div class="rank-title"></div>
+          <div class="rank-row">
+            <div class="rank-bar">
+              <div class="rank-bar-fill" style="width:86%"></div>
+            </div>
+            <div class="rank-value">140</div>
+          </div>
+        </div>
+      </li>
+      <li class="rank-item">
+        <div class="rank-num-wrap"><span class="rank-num">5</span></div>
+        <div class="rank-main">
+          <div class="rank-title"></div>
+          <div class="rank-row">
+            <div class="rank-bar">
+              <div class="rank-bar-fill" style="width:86%"></div>
+            </div>
+            <div class="rank-value">140</div>
+          </div>
+        </div>
+      </li>
+      <li class="rank-item">
+        <div class="rank-num-wrap"><span class="rank-num">5</span></div>
+        <div class="rank-main">
+          <div class="rank-title"></div>
+          <div class="rank-row">
+            <div class="rank-bar">
+              <div class="rank-bar-fill" style="width:86%"></div>
+            </div>
+            <div class="rank-value">140</div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  
+
+        
+        
+      </div>
+
+      <div class="boxall" style="height: 40%;">
+        <div class="alltitle">硕博生比例</div>
+        <div id="grad-chart"></div>
+       
+      </div>
+    </li>
+
+
+</div>
+
+<script>
+  // 显示时间
+  function showTime(){
+      const dt = new Date();
+      const y = dt.getFullYear();
+      const m = dt.getMonth()+1;
+      const d = dt.getDate();
+      const h = dt.getHours();
+      const min = dt.getMinutes();
+      const s = dt.getSeconds();
+      const format = n => n < 10 ? '0'+n : n;
+      document.getElementById("showTime").innerHTML = `${y}/${format(m)}/${format(d)} ${format(h)}:${format(min)}:${format(s)}`;
+      setTimeout(showTime,1000);
+  }
+  showTime();
+</script>
+
+<script>
+    // 获取浏览器可视窗口尺寸
+    const winWidth = window.innerWidth;
+    const winHeight = window.innerHeight;
+  
+    // 设置body或某个容器的最小宽高
+    document.body.style.minWidth = winWidth + 'px';
+    document.body.style.minHeight = winHeight + 'px';
+    document.body.style.overflow = 'auto'; // 出现滚动条
+</script>
+
+<script>
+// 布偶猫点击滚动到 mailbox
+const mainboxIcon = document.querySelector('.scroll-mainbox');
+const mainbox = document.getElementById('mainbox');
+
+mainboxIcon.addEventListener('click', () => {
+    mainbox.scrollIntoView({ behavior: 'smooth' });
+});
+</script>
+
+</body>
+
+</html>
