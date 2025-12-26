@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<html>
+<head>
+  <title>Clustered Force-directed Map (Zoomable)</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #fafafa;
+    }
+    svg {
+      width: 100vw;
+      height: 100vh;
+      cursor: grab;
+    }
+    .link {
+      stroke: #bbb;
+      stroke-opacity: 0.35;
+    }
+    .node {
+      stroke: #fff;
+      stroke-width: 1.2px;
+    }
+    .hull {
+      stroke-width: 2px;
+      stroke-linejoin: round;
+      pointer-events: none;
+    }
+    text.cluster-label {
+      font-size: 14px;
+      font-weight: bold;
+      fill: #333;
+      text-anchor: middle;
+      pointer-events: none;
+    }
+  </style>
+</head>
+
+<body>
+<svg></svg>
+
+<script>
+const width = window.innerWidth;
+const height = window.innerHeight;
+
+const svg = d3.select("svg");
+const color = d3.scaleOrdinal(d3.schemeTableau10);
+
+// =======================
+// Zoom（核心）
+// =======================
+const zoomLayer = svg.append("g");
+
+const zoom = d3.zoom()
+  .scaleExtent([0.3, 4])
+  .on("zoom", (event) => {
+    zoomLayer.attr("transform", event.transform);
+  });
+
+svg.call(zoom);
+
+// =======================
+// 读取数据
+// =======================
+d3.json("graph.json").then(data => {
+
+  const nodes = data.nodes;
+  const links = data.links;
+
+  // =======================
+  // 1️⃣ Cluster 中心
+  // =======================
+  const clusters = Array.from(new Set(nodes.map(d => d.group)))
+    .filter(d => d !== -1);
+
+  const clusterCenters = {};
+  const gap = 260;   // ⭐ 调小：整体更紧凑
+
+  const cols = Math.ceil(Math.sqrt(clusters.length));
+
+  clusters.forEach((c, i) => {
+    clusterCenters[c] = {
+      x: (i % cols) * gap + width * 0.25,
+      y: Math.floor(i / cols) * gap + height * 0.25
+    };
+  });
+
+  // =======================
+  // 2️⃣ 初始坐标
+  // =======================
+  nodes.forEach(d => {
+    if (d.group === -1) {
+      d.x = width * 0.5 + Math.random() * 120 - 60;
+      d.y = height * 0.1 + Math.random() * 120 - 60;
+    } else {
+      const c = clusterCenters[d.group];
+      d.x = c.x + (Math.random() - 0.5) * 50;
+      d.y = c.y + (Math.random() - 0.5) * 50;
+    }
+  });
+
+  // =======================
+  // 图层顺序
+  // =======================
+  const hullLayer  = zoomLayer.append("g");
+  const linkLayer  = zoomLayer.append("g");
+  const nodeLayer  = zoomLayer.append("g");
+  const labelLayer = zoomLayer.append("g");
+
+  // =======================
+  // 3️⃣ Cluster force
+  // =======================
+  function forceCluster() {
+    const strength = 0.35;
+    let nodes;
+
+    function force(alpha) {
+      nodes.forEach(d => {
+        if (d.group === -1) return;
+        const c = clusterCenters[d.group];
+        d.vx += (c.x - d.x) * strength * alpha;
+        d.vy += (c.y - d.y) * strength * alpha;
+      });
+    }
+
+    force.initialize = _ => nodes = _;
+    return force;
+  }
+
+  // =======================
+  // 4️⃣ Force simulation
+  // =======================
+  const simulation = d3.forceSimulation(nodes)
+    .force("link",
+      d3.forceLink(links)
+        .id(d => d.id)
+        .distance(d => d.source.group === d.target.group ? 45 : 160)
+        .strength(0.6)
+    )
+    .force("charge", d3.forceManyBody().strength(-90))
+    .force("collision", d3.forceCollide(9))
+    .force("cluster", forceCluster())
+    .alphaDecay(0.035);
+
+  // =======================
+  // 边
+  // =======================
+  const link = linkLayer.selectAll("line")
+    .data(links)
+    .enter()
+    .append("line")
+    .attr("class", "link");
+
+  // =======================
+  // 节点
+  // =======================
+  const node = nodeLayer.selectAll("circle")
+    .data(nodes)
+    .enter()
+    .append("circle")
+    .attr("class", "node")
+    .attr("r", 5)
+    .attr("fill", d => d.group === -1 ? "#ccc" : color(d.group))
+    .call(d3.drag()
+      .on("start", dragstarted)
+      .on("drag", dragged)
+      .on("end", dragended)
+    );
+
+  // =======================
+  // 5️⃣ Hull
+  // =======================
+  function drawHulls() {
+    const grouped = d3.group(nodes.filter(d => d.group !== -1), d => d.group);
+
+    const hulls = Array.from(grouped, ([group, pts]) => {
+      const poly = d3.polygonHull(pts.map(d => [d.x, d.y]));
+      return { group, path: poly };
+    });
+
+    const paths = hullLayer.selectAll("path")
+      .data(hulls, d => d.group);
+
+    paths.enter()
+      .append("path")
+      .attr("class", "hull")
+      .merge(paths)
+      .attr("d", d => d.path ? "M" + d.path.join("L") + "Z" : null)
+      .attr("fill", d => color(d.group))
+      .attr("stroke", d => color(d.group))
+      .attr("opacity", 0.22);
+
+    paths.exit().remove();
+  }
+
+  // =======================
+  // 6️⃣ Cluster 标签
+  // =======================
+  const clusterLabels = data.cluster_labels || {};
+
+  labelLayer.selectAll("text")
+    .data(clusters)
+    .enter()
+    .append("text")
+    .attr("class", "cluster-label")
+    .attr("x", d => clusterCenters[d].x)
+    .attr("y", d => clusterCenters[d].y)
+    .text(d => clusterLabels[d] ?? `Cluster ${d}`);
+
+  // =======================
+  // Tick
+  // =======================
+  simulation.on("tick", () => {
+    link
+      .attr("x1", d => d.source.x)
+      .attr("y1", d => d.source.y)
+      .attr("x2", d => d.target.x)
+      .attr("y2", d => d.target.y);
+
+    node
+      .attr("cx", d => d.x)
+      .attr("cy", d => d.y);
+
+    drawHulls();
+  });
+
+  // =======================
+  // Drag
+  // =======================
+  function dragstarted(event, d) {
+    if (!event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+
+  function dragged(event, d) {
+    d.fx = event.x;
+    d.fy = event.y;
+  }
+
+  function dragended(event, d) {
+    if (!event.active) simulation.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+  }
+
+  // =======================
+  // 初始缩小一点
+  // =======================
+  svg.call(
+    zoom.transform,
+    d3.zoomIdentity.translate(width * 0.1, height * 0.1).scale(0.8)
+  );
+
+});
+</script>
+</body>
+</html>
