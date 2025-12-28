@@ -74,12 +74,12 @@ function drawGraduatePieCharts(data) {
   const container = d3.select("#grad-chart");
   container.selectAll("*").remove();
   const rect = container.node().getBoundingClientRect();
-  const width = rect.width;
+  const width = rect.width*1;
   const height = rect.height;
   
 
   const perWidth = width / 3;
-  const radius = Math.min(perWidth, height) * 0.35;
+  const radius = Math.min(perWidth, height) * 0.2;
 
   const color = d3.scaleOrdinal()
     .domain(["硕士", "博士"])
@@ -93,7 +93,7 @@ function drawGraduatePieCharts(data) {
 
   Object.entries(data).forEach(([year, v]) => {
     const group = svg.append("g")
-      .attr("transform", `translate(${perWidth * (index + 0.5)}, ${height / 2})`);
+      .attr("transform", `translate(${perWidth * (index + 0.5)}, ${height / 2-10})`);
     const total = d3.sum(Object.values(v));   // 计算总人数
     const pie = d3.pie().value(d => d[1]);
     const arc = d3.arc().innerRadius(0).outerRadius(radius);
@@ -131,9 +131,9 @@ function drawGraduatePieCharts(data) {
     // 标题（年份）
     group.append("text")
       .attr("text-anchor", "middle")
-      .attr("y", -radius - 20)
+      .attr("y", -radius - 10)
       .attr("fill", "#fff")
-      .attr("font-size", "16px")
+      .attr("font-size", "14px")
       .text(year);
 
     // legend
@@ -150,7 +150,7 @@ function drawGraduatePieCharts(data) {
 
     legend.append("text")
       .attr("x", 20)
-      .attr("y", 12)
+      .attr("y", 14)
       .attr("fill", "#fff")
       .attr("font-size", "12px")
       .text(d => `${d[0]}：${d[1]}人`);

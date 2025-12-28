@@ -28,70 +28,45 @@
 <!-- 页面主体 -->
 <div class="mainbox" id="mainbox">
     <!-- 左边上下两个框 -->
-    <li style="width: 30%;">
-      <div class="boxall" style="height: 60%;">
-        <div class="alltitle">词云分布图</div>
-        <div class="boxnav" id="echarts1"></div>
-      </div>
-      <div class="boxall" style="height: 40%;">
-        <div class="alltitle">Top分析</div>
-        <div  id="top-chart">
-          <div class="table-wrapper" id="table-wrapper">
-
-          </div>
-
-        </div>
-      </div>
-    </li>
-
-    <!-- 中间上中下三个框 -->
     <li style="width: 40%;">
-        <div class="boxall" style="height:20%">
-            <!-- 左侧：业绩总览 -->
-            <div class="overview">
-                <p>系统总论文量</p>
-                <h1><span>0</span>篇</h1>
-            </div>
-        
-            <!-- 右侧：关键指标展示 -->
-            <div class="key-metrics">
-                <ul class="metrics-list">
-                    <li>
-                        <div class="metric-circle"></div>
-                        <span>导师人数</span>
-                    </li>
-                    <li>
-                        <div class="metric-circle"></div>
-                        <span>学生人数</span>
-                    </li>
-                    <li>
-                        <div class="metric-circle"></div>
-                        <span>学院数</span>
-                    </li>
-                </ul>
-            </div>
+      <div class="boxall" style="height:17%">
+        <!-- 左侧：业绩总览 -->
+        <div class="overview">
+            <p>系统总论文量</p>
+            <h1><span>0</span>篇</h1>
         </div>
-        
-
-      <div class="boxall" style="height:40%;">
-        <div class="alltitle">2024年各学院发表论文数</div>
-        <div id="map-chart"></div>
-       
-      </div>
-      <div class="boxall" style="height: 40%;">
-        <div class="alltitle">各学院平均参考文献引用数</div>
-        <div id="line-chart">
-
+    
+        <!-- 右侧：关键指标展示 -->
+        <div class="key-metrics">
+            <ul class="metrics-list">
+                <li>
+                    <div class="metric-circle"></div>
+                    <span>导师人数</span>
+                </li>
+                <li>
+                    <div class="metric-circle"></div>
+                    <span>学生人数</span>
+                </li>
+                <li>
+                    <div class="metric-circle"></div>
+                    <span>学院数</span>
+                </li>
+            </ul>
         </div>
+    </div>
+
+      <!-- 👇 新增一个容器 -->
+  <div class="box-row">
+    <div class="boxall">
+      <div class="alltitle">Top分析</div>
+      <div id="top-chart">
+        <div class="table-wrapper" id="table-wrapper"></div>
       </div>
-    </li>
+    </div>
 
-    <!-- 右边上下两个框 -->
-    <li style="width: 30%;">
-      <div class="boxall" style="height:60%;">
-        <div class="alltitle" >论文点击量排行榜</div>
-        
-
+    <div class="boxall">
+      <div class="alltitle">论文点击量排行榜</div>
+      
   <div class="rank-box">
     <ul class="rank-list">
       <li class="rank-item">
@@ -198,19 +173,43 @@
       </li>
     </ul>
   </div>
+    </div>
 
-  
+  </div>
+
+  <div class="boxall" style="height: 16%;">
+    <div class="alltitle">硕博生比例</div>
+    <div id="grad-chart"></div>
+  </div>
+
+  <div class="boxall" style="height: 39%;">
+    <div class="alltitle">各学院平均参考文献引用数</div>
+    <div id="line-chart">
+
+    </div>
+  </div>
+
+
+
+
+
+
+    </li>
+
+    <!-- 中间上中下三个框 -->
+    <li style="width: 59%;">
 
         
-        
-      </div>
 
-      <div class="boxall" style="height: 40%;">
-        <div class="alltitle">硕博生比例</div>
-        <div id="grad-chart"></div>
+      <div class="boxall" style="height:102%;">
+        <div class="alltitle">2024年各学院发表论文数</div>
+  =
        
       </div>
+
     </li>
+
+ 
 
 
 </div>

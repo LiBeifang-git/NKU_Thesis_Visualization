@@ -91,10 +91,10 @@ body {
 /* =================主体布局================= */
 .mainbox {
   padding: 0 0.2rem;
-  height: calc(100% - 1.5rem); /* 减去 head 高度 */
+  height: calc(100% - 2rem); /* 减去 head 高度 */
   display: flex;
   padding-top: 4.3%;  /* 留出 nav 高度 */
-
+  box-sizing: border-box;
 }
 .mainbox > ul {
   display: flex;
@@ -174,7 +174,18 @@ body {
   flex: 1;
 }
 
-/*===============中上图表========================*/
+.box-row {
+  display: flex;
+  justify-content: space-between;
+  height: 30%;
+}
+
+.box-row .boxall {
+  width: 50%;
+  height: 100%;
+}
+
+/*===============左上图表========================*/
 
 /* 左侧业绩总览 */
 .overview {
@@ -287,10 +298,11 @@ body {
 /* 内容区：整体向下让出标题空间，所有内容整体放大 */
 .rank-box {
   width: 100%;
-  padding-top: 1.5rem;        /* 原 2rem → 3rem，让标题有更多空间 */
-  height: calc(100% - 1rem);
+  height: calc(100% - 3.5rem);
   box-sizing: border-box;
-  overflow: hidden;
+  overflow-y: auto;          /* 关键：不够就滚动 */
+  overflow-x: hidden;
+  margin-top: 1.8rem;
 }
 
 /* 列表竖排，条目充分分隔 */
@@ -312,6 +324,11 @@ body {
   gap: 0.3rem;               /* 原 0.12rem → 0.6rem */
   padding: 0.2rem 0.3rem;    /* 原 0.35rem 0.4rem → 0.8rem 0.6rem */
   background: transparent;
+}
+
+.rank-item:hover {
+  transform: translateX(0.04rem);
+  background: rgba(255,255,255,0.15);
 }
 
 /* 左侧编号区域更宽 */
@@ -443,13 +460,16 @@ body {
 
 /*==================右下图表================*/
 #grad-chart {
-  margin-top: -2rem;
-  flex: 1;               /* 自动占满剩余高度 */
+  width: 80%;
+  height: 100%;
+  /* 向右偏移 */
+  margin-left: 20%;
+  flex: 1;
   display: flex;
   justify-content: space-between;
-  height: 100%;
-
+  box-sizing: border-box;
 }
+
 /*==========================左下图========================*/
 #top-chart {
   width: 100%;
