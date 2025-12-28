@@ -460,15 +460,37 @@ body {
 
 /*==================右下图表================*/
 #grad-chart {
-  width: 80%;
+  width: 70%;
   height: 100%;
-  /* 向右偏移 */
-  margin-left: 20%;
   flex: 1;
   display: flex;
   justify-content: space-between;
   box-sizing: border-box;
+
 }
+
+#grad-content {
+  height: 100%;
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.3rem 0.4rem;
+  border-radius: 8px;
+  margin-top: 0.2rem;
+}
+
+#grad-content p {
+  width: 30%;
+  margin: 0;
+  font-size: 1.2rem;
+  color: #201d1d;
+  white-space: nowrap;
+  margin-top: 25px;
+  margin-left:25px;
+}
+
+
 
 /*==========================左下图========================*/
 #top-chart {
