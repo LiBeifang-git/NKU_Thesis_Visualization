@@ -1,0 +1,2854 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "1,3-苯并二噁英",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 1,
+      "label": "1,3-苯并噁嗪",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 2,
+      "label": "1,6-共轭加成/环化串联反应",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 3,
+      "label": "ATRP合成法",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 4,
+      "label": "CO2催化转化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 5,
+      "label": "[3+2]环加成",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 6,
+      "label": "γ-癸内酯",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 7,
+      "label": "δ-癸内酯",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 8,
+      "label": "不对称催化氢化",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 9,
+      "label": "不对称合成",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 10,
+      "label": "不对称烯丙基化反应",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 11,
+      "label": "不对称转移氢化",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 12,
+      "label": "中性电池",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 13,
+      "label": "二乙基锌",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 14,
+      "label": "二氧化碳",
+      "group": 5,
+      "size": 2
+    },
+    {
+      "id": 15,
+      "label": "二氧化碳还原",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 16,
+      "label": "亲金属相互作用",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 17,
+      "label": "低温电解液",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 18,
+      "label": "低碳烯烃",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 19,
+      "label": "光催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 20,
+      "label": "关键词：热活化延迟荧光",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 21,
+      "label": "动态动力学拆分",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 22,
+      "label": "去溶剂化能",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 23,
+      "label": "双层复合结构",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 24,
+      "label": "双键异构化",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 25,
+      "label": "反应机制",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 26,
+      "label": "受体蛋白",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 27,
+      "label": "可见光",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 28,
+      "label": "同手性偏好",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 29,
+      "label": "后期C–H键官能团化",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 30,
+      "label": "吡啶C–H键官能团化",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 31,
+      "label": "含氮杂环",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 32,
+      "label": "固态电解质",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 33,
+      "label": "复合物催化剂",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 34,
+      "label": "多吡啶羧酸配体",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 35,
+      "label": "多重共振",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 36,
+      "label": "多阴离子配位",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 37,
+      "label": "大气气溶胶，酸-碱团簇，光解离光谱，团簇结构",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 38,
+      "label": "安全性",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 39,
+      "label": "宽温域",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 40,
+      "label": "密度泛函理论",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 41,
+      "label": "对映选择性",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 42,
+      "label": "微液滴",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 43,
+      "label": "微相分离",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 44,
+      "label": "惰性气体活化",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 45,
+      "label": "手性磷酸催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 46,
+      "label": "手性香料",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 47,
+      "label": "抑菌活性",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 48,
+      "label": "接力催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 49,
+      "label": "早期检测",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 50,
+      "label": "星形嵌段共聚物",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 51,
+      "label": "有机催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 52,
+      "label": "有机光催化剂",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 53,
+      "label": "有机联三硫化合物",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 54,
+      "label": "有机联二硫化合物",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 55,
+      "label": "有机转化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 56,
+      "label": "构效关系",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 57,
+      "label": "构象不对称性",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 58,
+      "label": "核壳结构",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 59,
+      "label": "根寄生杂草",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 60,
+      "label": "植物保护",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 61,
+      "label": "植物生长调节",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 62,
+      "label": "植物病原真菌",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 63,
+      "label": "正极材料",
+      "group": 2,
+      "size": 2
+    },
+    {
+      "id": 64,
+      "label": "气-液界面",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 65,
+      "label": "氘代化合物",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 66,
+      "label": "氟代溶剂",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 67,
+      "label": "氟磷酸氧钒钠",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 68,
+      "label": "氢化二苯并呋喃骨架",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 69,
+      "label": "氮杂环硅宾",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 70,
+      "label": "氮杂环硅碱金属氢化物",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 71,
+      "label": "氯代溶剂",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 72,
+      "label": "氯化金团簇",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 73,
+      "label": "水系有机液流电池",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 74,
+      "label": "溶剂化结构",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 75,
+      "label": "热催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 76,
+      "label": "烯烃还原",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 77,
+      "label": "独脚金内酯",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 78,
+      "label": "环丙胺",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 79,
+      "label": "环己烯酮",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 80,
+      "label": "理论计算",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 81,
+      "label": "生物标志物",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 82,
+      "label": "生物活性",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 83,
+      "label": "电化学合成",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 84,
+      "label": "电喷雾电离-傅里叶变换离子回旋共振质谱",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 85,
+      "label": "电解水制氢",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 86,
+      "label": "电解质",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 87,
+      "label": "相变",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 88,
+      "label": "硅负离子",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 89,
+      "label": "硼催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 90,
+      "label": "硼基",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 91,
+      "label": "碳包覆",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 92,
+      "label": "磷酸酯",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 93,
+      "label": "离子源",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 94,
+      "label": "窄谱带",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 95,
+      "label": "端基改性",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 96,
+      "label": "红外光解离光谱",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 97,
+      "label": "纯蓝色发光",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 98,
+      "label": "细胞外囊泡",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 99,
+      "label": "经典分子动力学模拟",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 100,
+      "label": "结构稳定性",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 101,
+      "label": "羧化",
+      "group": 5,
+      "size": 2
+    },
+    {
+      "id": 102,
+      "label": "脯氨酸气相团簇",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 103,
+      "label": "膀胱癌",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 104,
+      "label": "膜电极",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 105,
+      "label": "自支撑电极",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 106,
+      "label": "芳基/烯基硼酸",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 107,
+      "label": "芳基化反应",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 108,
+      "label": "芳基吡唑",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 109,
+      "label": "荧光量子产率",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 110,
+      "label": "质谱分析",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 111,
+      "label": "转录组测序",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 112,
+      "label": "软包电池",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 113,
+      "label": "轴手性",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 114,
+      "label": "过渡金属磷/硫化物",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 115,
+      "label": "还原媒介",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 116,
+      "label": "邻羟基苯基取代对亚甲基醌",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 117,
+      "label": "配位聚合物",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 118,
+      "label": "酮",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 119,
+      "label": "酮酸不对称氢化",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 120,
+      "label": "醌",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 121,
+      "label": "金属离子选择性",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 122,
+      "label": "钙钛矿量子点",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 123,
+      "label": "钛掺杂",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 124,
+      "label": "钠离子电池",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 125,
+      "label": "钠离子软包电池",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 126,
+      "label": "钯催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 127,
+      "label": "钴催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 128,
+      "label": "铁基催化剂",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 129,
+      "label": "锂离子电池",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 130,
+      "label": "锂金属电池",
+      "group": 2,
+      "size": 3
+    },
+    {
+      "id": 131,
+      "label": "锂金属电池电解液",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 132,
+      "label": "镍锰基层状氧化物",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 133,
+      "label": "静电作用",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 134,
+      "label": "非均相催化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 135,
+      "label": "高压电解液",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 136,
+      "label": "高电压",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 137,
+      "label": "高镍正极",
+      "group": 2,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 36,
+      "target": 137,
+      "value": 0.36129337549209595,
+      "count": 1
+    },
+    {
+      "source": 137,
+      "target": 22,
+      "value": 0.2845727801322937,
+      "count": 1
+    },
+    {
+      "source": 137,
+      "target": 130,
+      "value": 0.4634203016757965,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 137,
+      "value": 0.4709649980068207,
+      "count": 1
+    },
+    {
+      "source": 36,
+      "target": 22,
+      "value": 0.3391892611980438,
+      "count": 1
+    },
+    {
+      "source": 36,
+      "target": 130,
+      "value": 0.2893703579902649,
+      "count": 1
+    },
+    {
+      "source": 36,
+      "target": 17,
+      "value": 0.3667113184928894,
+      "count": 1
+    },
+    {
+      "source": 130,
+      "target": 22,
+      "value": 0.2624790370464325,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 22,
+      "value": 0.44946038722991943,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 130,
+      "value": 0.4244532585144043,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 5,
+      "value": 0.17751891911029816,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 31,
+      "value": 0.2248174548149109,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 52,
+      "value": 0.47920703887939453,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 78,
+      "value": 0.28306975960731506,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 31,
+      "value": 0.43704134225845337,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 52,
+      "value": 0.23824810981750488,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 78,
+      "value": 0.30132269859313965,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 52,
+      "value": 0.3097871243953705,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 78,
+      "value": 0.4097388684749603,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 52,
+      "value": 0.2514529228210449,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 90,
+      "value": 0.4059196710586548,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 88,
+      "value": 0.4591502547264099,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 70,
+      "value": 0.6202242374420166,
+      "count": 1
+    },
+    {
+      "source": 90,
+      "target": 88,
+      "value": 0.4565969705581665,
+      "count": 1
+    },
+    {
+      "source": 90,
+      "target": 70,
+      "value": 0.3715968132019043,
+      "count": 1
+    },
+    {
+      "source": 88,
+      "target": 70,
+      "value": 0.4767129421234131,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 39,
+      "value": 0.2664259672164917,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 136,
+      "value": 0.18431991338729858,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 130,
+      "value": 0.22366629540920258,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 112,
+      "value": 0.2153070569038391,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 136,
+      "value": 0.28223133087158203,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 130,
+      "value": 0.1827746331691742,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 112,
+      "value": 0.23978762328624725,
+      "count": 1
+    },
+    {
+      "source": 130,
+      "target": 136,
+      "value": 0.27814093232154846,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 136,
+      "value": 0.36057519912719727,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 130,
+      "value": 0.4301428198814392,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 33,
+      "value": 0.5551804900169373,
+      "count": 1
+    },
+    {
+      "source": 117,
+      "target": 33,
+      "value": 0.4535798728466034,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 33,
+      "value": 0.3366866111755371,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 117,
+      "value": 0.3925914168357849,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 34,
+      "value": 0.30780497193336487,
+      "count": 1
+    },
+    {
+      "source": 117,
+      "target": 34,
+      "value": 0.5482883453369141,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 49,
+      "value": 0.3536777198314667,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 98,
+      "value": 0.30798542499542236,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 103,
+      "value": 0.28729012608528137,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 111,
+      "value": 0.2668159008026123,
+      "count": 1
+    },
+    {
+      "source": 49,
+      "target": 98,
+      "value": 0.24841830134391785,
+      "count": 1
+    },
+    {
+      "source": 103,
+      "target": 49,
+      "value": 0.2495989352464676,
+      "count": 1
+    },
+    {
+      "source": 49,
+      "target": 111,
+      "value": 0.26519471406936646,
+      "count": 1
+    },
+    {
+      "source": 103,
+      "target": 98,
+      "value": 0.32473376393318176,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 111,
+      "value": 0.25450611114501953,
+      "count": 1
+    },
+    {
+      "source": 103,
+      "target": 111,
+      "value": 0.14087459444999695,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 60,
+      "value": 0.18439233303070068,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 65,
+      "value": 0.39272353053092957,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 76,
+      "value": 0.3915975093841553,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 83,
+      "value": 0.19579650461673737,
+      "count": 1
+    },
+    {
+      "source": 65,
+      "target": 60,
+      "value": 0.15790915489196777,
+      "count": 1
+    },
+    {
+      "source": 76,
+      "target": 60,
+      "value": 0.23429428040981293,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 60,
+      "value": 0.20916637778282166,
+      "count": 1
+    },
+    {
+      "source": 65,
+      "target": 76,
+      "value": 0.3162330389022827,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 65,
+      "value": 0.17483924329280853,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 76,
+      "value": 0.4067232608795166,
+      "count": 1
+    },
+    {
+      "source": 38,
+      "target": 135,
+      "value": 0.21695318818092346,
+      "count": 1
+    },
+    {
+      "source": 38,
+      "target": 92,
+      "value": 0.2702264189720154,
+      "count": 1
+    },
+    {
+      "source": 38,
+      "target": 130,
+      "value": 0.20691409707069397,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 92,
+      "value": 0.3163987398147583,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 130,
+      "value": 0.36299294233322144,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 130,
+      "value": 0.2517683506011963,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 121,
+      "value": 0.2851981520652771,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 121,
+      "value": 0.3293488323688507,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 121,
+      "value": 0.24568913877010345,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 121,
+      "value": 0.3459922671318054,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 84,
+      "value": 0.36460238695144653,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 102,
+      "value": 0.21427547931671143,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 96,
+      "value": 0.3446945548057556,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 84,
+      "value": 0.08933287113904953,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 96,
+      "value": 0.5203722715377808,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 96,
+      "value": 0.11897308379411697,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 97,
+      "value": 0.38489872217178345,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 94,
+      "value": 0.24116215109825134,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 109,
+      "value": 0.47239863872528076,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 35,
+      "value": 0.22366860508918762,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 94,
+      "value": 0.172135129570961,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 109,
+      "value": 0.4890557527542114,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 35,
+      "value": 0.26852840185165405,
+      "count": 1
+    },
+    {
+      "source": 94,
+      "target": 109,
+      "value": 0.24078680574893951,
+      "count": 1
+    },
+    {
+      "source": 94,
+      "target": 35,
+      "value": 0.3713420629501343,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 109,
+      "value": 0.3149982690811157,
+      "count": 1
+    },
+    {
+      "source": 122,
+      "target": 55,
+      "value": 0.31165170669555664,
+      "count": 1
+    },
+    {
+      "source": 134,
+      "target": 55,
+      "value": 0.4109019935131073,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 55,
+      "value": 0.44894060492515564,
+      "count": 1
+    },
+    {
+      "source": 122,
+      "target": 134,
+      "value": 0.2732717990875244,
+      "count": 1
+    },
+    {
+      "source": 122,
+      "target": 19,
+      "value": 0.3702119290828705,
+      "count": 1
+    },
+    {
+      "source": 134,
+      "target": 19,
+      "value": 0.5043224096298218,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 77,
+      "value": 0.21746118366718292,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 59,
+      "value": 0.1642199605703354,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 82,
+      "value": 0.3704869747161865,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 61,
+      "value": 0.32869410514831543,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 59,
+      "value": 0.2057516872882843,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 82,
+      "value": 0.1655873954296112,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 61,
+      "value": 0.1957528293132782,
+      "count": 1
+    },
+    {
+      "source": 59,
+      "target": 82,
+      "value": 0.1865585297346115,
+      "count": 1
+    },
+    {
+      "source": 59,
+      "target": 61,
+      "value": 0.425368994474411,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 61,
+      "value": 0.4507685899734497,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 1,
+      "value": 0.27618086338043213,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 2,
+      "value": 0.3699289560317993,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 0,
+      "value": 0.2971150875091553,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 116,
+      "value": 0.24995484948158264,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0.40610942244529724,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "value": 0.8270987868309021,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 116,
+      "value": 0.47190505266189575,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "value": 0.395404577255249,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 116,
+      "value": 0.2705119252204895,
+      "count": 1
+    },
+    {
+      "source": 116,
+      "target": 0,
+      "value": 0.4014672636985779,
+      "count": 1
+    },
+    {
+      "source": 89,
+      "target": 48,
+      "value": 0.5991261005401611,
+      "count": 1
+    },
+    {
+      "source": 89,
+      "target": 126,
+      "value": 0.5577247142791748,
+      "count": 1
+    },
+    {
+      "source": 89,
+      "target": 10,
+      "value": 0.2675335109233856,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 89,
+      "value": 0.2987508177757263,
+      "count": 1
+    },
+    {
+      "source": 126,
+      "target": 48,
+      "value": 0.5902341604232788,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 48,
+      "value": 0.3428654670715332,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 48,
+      "value": 0.31557178497314453,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 126,
+      "value": 0.39495623111724854,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 126,
+      "value": 0.41322624683380127,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 10,
+      "value": 0.4520432651042938,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 86,
+      "value": 0.40758389234542847,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 12,
+      "value": 0.3912234902381897,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 120,
+      "value": 0.1638670563697815,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 12,
+      "value": 0.37740570306777954,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 120,
+      "value": 0.23647259175777435,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 120,
+      "value": 0.1368894726037979,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 107,
+      "value": 0.40825405716896057,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 113,
+      "value": 0.2670552134513855,
+      "count": 1
+    },
+    {
+      "source": 45,
+      "target": 9,
+      "value": 0.4779762029647827,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 108,
+      "value": 0.261971116065979,
+      "count": 1
+    },
+    {
+      "source": 113,
+      "target": 107,
+      "value": 0.2268034666776657,
+      "count": 1
+    },
+    {
+      "source": 45,
+      "target": 107,
+      "value": 0.4084815979003906,
+      "count": 1
+    },
+    {
+      "source": 108,
+      "target": 107,
+      "value": 0.6115714311599731,
+      "count": 1
+    },
+    {
+      "source": 45,
+      "target": 113,
+      "value": 0.2954367399215698,
+      "count": 1
+    },
+    {
+      "source": 108,
+      "target": 113,
+      "value": 0.17600730061531067,
+      "count": 1
+    },
+    {
+      "source": 45,
+      "target": 108,
+      "value": 0.3054475784301758,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 40,
+      "value": 0.4348660707473755,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 131,
+      "value": 0.1996626853942871,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 66,
+      "value": 0.27823299169540405,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 71,
+      "value": 0.28811216354370117,
+      "count": 1
+    },
+    {
+      "source": 131,
+      "target": 40,
+      "value": 0.18294477462768555,
+      "count": 1
+    },
+    {
+      "source": 66,
+      "target": 40,
+      "value": 0.2870214581489563,
+      "count": 1
+    },
+    {
+      "source": 71,
+      "target": 40,
+      "value": 0.22436806559562683,
+      "count": 1
+    },
+    {
+      "source": 131,
+      "target": 66,
+      "value": 0.3604389429092407,
+      "count": 1
+    },
+    {
+      "source": 131,
+      "target": 71,
+      "value": 0.3963644504547119,
+      "count": 1
+    },
+    {
+      "source": 66,
+      "target": 71,
+      "value": 0.7284717559814453,
+      "count": 1
+    },
+    {
+      "source": 101,
+      "target": 118,
+      "value": 0.38704603910446167,
+      "count": 1
+    },
+    {
+      "source": 101,
+      "target": 106,
+      "value": 0.3576813340187073,
+      "count": 1
+    },
+    {
+      "source": 101,
+      "target": 13,
+      "value": 0.24120686948299408,
+      "count": 1
+    },
+    {
+      "source": 101,
+      "target": 14,
+      "value": 0.41899776458740234,
+      "count": 2
+    },
+    {
+      "source": 118,
+      "target": 106,
+      "value": 0.2757419943809509,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 118,
+      "value": 0.3376528024673462,
+      "count": 1
+    },
+    {
+      "source": 118,
+      "target": 14,
+      "value": 0.42587196826934814,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 106,
+      "value": 0.3589877486228943,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 106,
+      "value": 0.2440125197172165,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 0.3269768953323364,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 25,
+      "value": 0.3111056387424469,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 25,
+      "value": 0.3164268136024475,
+      "count": 1
+    },
+    {
+      "source": 110,
+      "target": 25,
+      "value": 0.27070459723472595,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 93,
+      "value": 0.3075551986694336,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 42,
+      "value": 0.5338024497032166,
+      "count": 1
+    },
+    {
+      "source": 110,
+      "target": 42,
+      "value": 0.25871771574020386,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 93,
+      "value": 0.33323150873184204,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 110,
+      "value": 0.25133413076400757,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 93,
+      "value": 0.30131977796554565,
+      "count": 1
+    },
+    {
+      "source": 110,
+      "target": 93,
+      "value": 0.3535827398300171,
+      "count": 1
+    },
+    {
+      "source": 123,
+      "target": 91,
+      "value": 0.45975497364997864,
+      "count": 1
+    },
+    {
+      "source": 125,
+      "target": 91,
+      "value": 0.3946666121482849,
+      "count": 1
+    },
+    {
+      "source": 91,
+      "target": 67,
+      "value": 0.2209777534008026,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 91,
+      "value": 0.4123448133468628,
+      "count": 1
+    },
+    {
+      "source": 123,
+      "target": 125,
+      "value": 0.29416632652282715,
+      "count": 1
+    },
+    {
+      "source": 123,
+      "target": 67,
+      "value": 0.3464411497116089,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 123,
+      "value": 0.40422260761260986,
+      "count": 1
+    },
+    {
+      "source": 125,
+      "target": 67,
+      "value": 0.3119449019432068,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 125,
+      "value": 0.3169923424720764,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 67,
+      "value": 0.25707006454467773,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 95,
+      "value": 0.2660984992980957,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 129,
+      "value": 0.4134920835494995,
+      "count": 1
+    },
+    {
+      "source": 95,
+      "target": 129,
+      "value": 0.1672554612159729,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 104,
+      "value": 0.5475651025772095,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 23,
+      "value": 0.2752089500427246,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 114,
+      "value": 0.29878368973731995,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 85,
+      "value": 0.46026796102523804,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 23,
+      "value": 0.2974664866924286,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 114,
+      "value": 0.23840604722499847,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 85,
+      "value": 0.4560171961784363,
+      "count": 1
+    },
+    {
+      "source": 114,
+      "target": 23,
+      "value": 0.24899427592754364,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 23,
+      "value": 0.2039279192686081,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 114,
+      "value": 0.25744056701660156,
+      "count": 1
+    },
+    {
+      "source": 127,
+      "target": 29,
+      "value": 0.34947872161865234,
+      "count": 1
+    },
+    {
+      "source": 127,
+      "target": 101,
+      "value": 0.30570101737976074,
+      "count": 1
+    },
+    {
+      "source": 127,
+      "target": 14,
+      "value": 0.3581528067588806,
+      "count": 1
+    },
+    {
+      "source": 101,
+      "target": 29,
+      "value": 0.3823665678501129,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 14,
+      "value": 0.2554799020290375,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 21,
+      "value": 0.2789287865161896,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 68,
+      "value": 0.38882550597190857,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 8,
+      "value": 0.27512556314468384,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 8,
+      "value": 0.362661212682724,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 21,
+      "value": 0.15306159853935242,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 21,
+      "value": 0.17117086052894592,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 21,
+      "value": 0.3881717920303345,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 68,
+      "value": 0.3351653814315796,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 68,
+      "value": 0.22105839848518372,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 24,
+      "value": 0.20250603556632996,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 44,
+      "value": 0.38875454664230347,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 80,
+      "value": 0.24387748539447784,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 72,
+      "value": 0.4124527871608734,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 80,
+      "value": 0.2828969657421112,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 72,
+      "value": 0.23813650012016296,
+      "count": 1
+    },
+    {
+      "source": 80,
+      "target": 72,
+      "value": 0.18230104446411133,
+      "count": 1
+    },
+    {
+      "source": 100,
+      "target": 132,
+      "value": 0.2529260814189911,
+      "count": 1
+    },
+    {
+      "source": 100,
+      "target": 87,
+      "value": 0.32997363805770874,
+      "count": 1
+    },
+    {
+      "source": 100,
+      "target": 124,
+      "value": 0.16180720925331116,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 100,
+      "value": 0.3158825635910034,
+      "count": 1
+    },
+    {
+      "source": 132,
+      "target": 87,
+      "value": 0.1447867751121521,
+      "count": 1
+    },
+    {
+      "source": 132,
+      "target": 124,
+      "value": 0.24066555500030518,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 132,
+      "value": 0.3518848419189453,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 124,
+      "value": 0.11832983046770096,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 87,
+      "value": 0.23238307237625122,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 124,
+      "value": 0.2937786281108856,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 62,
+      "value": 0.309309184551239,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 54,
+      "value": 0.273373007774353,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 53,
+      "value": 0.25745195150375366,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 47,
+      "value": 0.17360180616378784,
+      "count": 1
+    },
+    {
+      "source": 62,
+      "target": 54,
+      "value": 0.24269115924835205,
+      "count": 1
+    },
+    {
+      "source": 62,
+      "target": 53,
+      "value": 0.23024842143058777,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 62,
+      "value": 0.06276452541351318,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 53,
+      "value": 0.8711374998092651,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 54,
+      "value": 0.22977852821350098,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 53,
+      "value": 0.212749183177948,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 58,
+      "value": 0.21305981278419495,
+      "count": 1
+    },
+    {
+      "source": 128,
+      "target": 58,
+      "value": 0.18402984738349915,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 58,
+      "value": 0.25305694341659546,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 58,
+      "value": 0.19048386812210083,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 128,
+      "value": 0.5626338720321655,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 75,
+      "value": 0.3095712661743164,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 15,
+      "value": 0.38916510343551636,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 128,
+      "value": 0.2721119523048401,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 128,
+      "value": 0.41236498951911926,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 15,
+      "value": 0.39507919549942017,
+      "count": 1
+    },
+    {
+      "source": 133,
+      "target": 57,
+      "value": 0.1608288288116455,
+      "count": 1
+    },
+    {
+      "source": 50,
+      "target": 57,
+      "value": 0.21749430894851685,
+      "count": 1
+    },
+    {
+      "source": 57,
+      "target": 43,
+      "value": 0.25634443759918213,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 57,
+      "value": 0.2047002911567688,
+      "count": 1
+    },
+    {
+      "source": 133,
+      "target": 50,
+      "value": 0.18614444136619568,
+      "count": 1
+    },
+    {
+      "source": 133,
+      "target": 43,
+      "value": 0.3185987174510956,
+      "count": 1
+    },
+    {
+      "source": 133,
+      "target": 3,
+      "value": 0.17254599928855896,
+      "count": 1
+    },
+    {
+      "source": 50,
+      "target": 43,
+      "value": 0.17681390047073364,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 50,
+      "value": 0.424400269985199,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 43,
+      "value": 0.20911534130573273,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 6,
+      "value": 0.2615819573402405,
+      "count": 1
+    },
+    {
+      "source": 119,
+      "target": 46,
+      "value": 0.2808365821838379,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 11,
+      "value": 0.2865978479385376,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 7,
+      "value": 0.27546951174736023,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 41,
+      "value": 0.22953927516937256,
+      "count": 1
+    },
+    {
+      "source": 119,
+      "target": 6,
+      "value": 0.4692533016204834,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "value": 0.3746089041233063,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0.8075729012489319,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 41,
+      "value": 0.23870167136192322,
+      "count": 1
+    },
+    {
+      "source": 119,
+      "target": 11,
+      "value": 0.753600537776947,
+      "count": 1
+    },
+    {
+      "source": 119,
+      "target": 7,
+      "value": 0.442645788192749,
+      "count": 1
+    },
+    {
+      "source": 119,
+      "target": 41,
+      "value": 0.2726624011993408,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "value": 0.35255637764930725,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 11,
+      "value": 0.3172343075275421,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 7,
+      "value": 0.2666054666042328,
+      "count": 1
+    }
+  ],
+  "advisor_keywords": {
+    "陈军": {
+      "total_keywords": 18,
+      "top10_keywords": [
+        [
+          "锂金属电池",
+          2
+        ],
+        [
+          "溶剂化结构",
+          1
+        ],
+        [
+          "宽温域",
+          1
+        ],
+        [
+          "高电压",
+          1
+        ],
+        [
+          "软包电池",
+          1
+        ],
+        [
+          "磷酸酯",
+          1
+        ],
+        [
+          "高压电解液",
+          1
+        ],
+        [
+          "安全性",
+          1
+        ],
+        [
+          "水系有机液流电池",
+          1
+        ],
+        [
+          "醌",
+          1
+        ]
+      ]
+    },
+    "程方益": {
+      "total_keywords": 10,
+      "top10_keywords": [
+        [
+          "锂金属电池",
+          1
+        ],
+        [
+          "低温电解液",
+          1
+        ],
+        [
+          "去溶剂化能",
+          1
+        ],
+        [
+          "多阴离子配位",
+          1
+        ],
+        [
+          "高镍正极",
+          1
+        ],
+        [
+          "电解水制氢",
+          1
+        ],
+        [
+          "自支撑电极",
+          1
+        ],
+        [
+          "双层复合结构",
+          1
+        ],
+        [
+          "过渡金属磷/硫化物",
+          1
+        ],
+        [
+          "膜电极",
+          1
+        ]
+      ]
+    },
+    "孔祥蕾": {
+      "total_keywords": 10,
+      "top10_keywords": [
+        [
+          "大气气溶胶，酸-碱团簇，光解离光谱，团簇结构",
+          1
+        ],
+        [
+          "脯氨酸气相团簇",
+          1
+        ],
+        [
+          "金属离子选择性",
+          1
+        ],
+        [
+          "同手性偏好",
+          1
+        ],
+        [
+          "电喷雾电离-傅里叶变换离子回旋共振质谱",
+          1
+        ],
+        [
+          "红外光解离光谱",
+          1
+        ],
+        [
+          "理论计算",
+          1
+        ],
+        [
+          "氯化金团簇",
+          1
+        ],
+        [
+          "亲金属相互作用",
+          1
+        ],
+        [
+          "惰性气体活化",
+          1
+        ]
+      ]
+    },
+    "李鑫": {
+      "total_keywords": 10,
+      "top10_keywords": [
+        [
+          "有机催化",
+          1
+        ],
+        [
+          "邻羟基苯基取代对亚甲基醌",
+          1
+        ],
+        [
+          "1,6-共轭加成/环化串联反应",
+          1
+        ],
+        [
+          "1,3-苯并噁嗪",
+          1
+        ],
+        [
+          "1,3-苯并二噁英",
+          1
+        ],
+        [
+          "轴手性",
+          1
+        ],
+        [
+          "芳基吡唑",
+          1
+        ],
+        [
+          "不对称合成",
+          1
+        ],
+        [
+          "手性磷酸催化",
+          1
+        ],
+        [
+          "芳基化反应",
+          1
+        ]
+      ]
+    },
+    "王佰全": {
+      "total_keywords": 9,
+      "top10_keywords": [
+        [
+          "二氧化碳",
+          2
+        ],
+        [
+          "羧化",
+          2
+        ],
+        [
+          "二乙基锌",
+          1
+        ],
+        [
+          "芳基/烯基硼酸",
+          1
+        ],
+        [
+          "酮",
+          1
+        ],
+        [
+          "钴催化",
+          1
+        ],
+        [
+          "后期C–H键官能团化",
+          1
+        ]
+      ]
+    }
+  },
+  "top5teacher": [
+    "陈军",
+    "程方益",
+    "孔祥蕾",
+    "李鑫",
+    "王佰全"
+  ],
+  "cluster_stats": {
+    "0": {
+      "total": 27,
+      "keywords": {
+        "1,3-苯并二噁英": 1,
+        "1,3-苯并噁嗪": 1,
+        "1,6-共轭加成/环化串联反应": 1,
+        "ATRP合成法": 1,
+        "[3+2]环加成": 1,
+        "不对称催化氢化": 1,
+        "不对称合成": 1,
+        "不对称烯丙基化反应": 1,
+        "不对称转移氢化": 1,
+        "二乙基锌": 1,
+        "反应机制": 1,
+        "后期C–H键官能团化": 1,
+        "吡啶C–H键官能团化": 1,
+        "含氮杂环": 1,
+        "多吡啶羧酸配体": 1,
+        "手性香料": 1,
+        "星形嵌段共聚物": 1,
+        "氟磷酸氧钒钠": 1,
+        "氢化二苯并呋喃骨架": 1,
+        "氮杂环硅宾": 1,
+        "氮杂环硅碱金属氢化物": 1,
+        "芳基/烯基硼酸": 1,
+        "芳基化反应": 1,
+        "芳基吡唑": 1,
+        "邻羟基苯基取代对亚甲基醌": 1,
+        "配位聚合物": 1,
+        "酮酸不对称氢化": 1
+      }
+    },
+    "4": {
+      "total": 18,
+      "keywords": {
+        "CO2催化转化": 1,
+        "光催化": 1,
+        "复合物催化剂": 1,
+        "手性磷酸催化": 1,
+        "接力催化": 1,
+        "有机催化": 1,
+        "有机光催化剂": 1,
+        "有机联三硫化合物": 1,
+        "有机联二硫化合物": 1,
+        "有机转化": 1,
+        "氘代化合物": 1,
+        "热催化": 1,
+        "硼催化": 1,
+        "过渡金属磷/硫化物": 1,
+        "钯催化": 1,
+        "钴催化": 1,
+        "铁基催化剂": 1,
+        "非均相催化": 1
+      }
+    },
+    "5": {
+      "total": 16,
+      "keywords": {
+        "γ-癸内酯": 1,
+        "δ-癸内酯": 1,
+        "二氧化碳": 2,
+        "二氧化碳还原": 1,
+        "低碳烯烃": 1,
+        "烯烃还原": 1,
+        "独脚金内酯": 1,
+        "环丙胺": 1,
+        "环己烯酮": 1,
+        "碳包覆": 1,
+        "磷酸酯": 1,
+        "羧化": 2,
+        "酮": 1,
+        "醌": 1
+      }
+    },
+    "2": {
+      "total": 26,
+      "keywords": {
+        "中性电池": 1,
+        "低温电解液": 1,
+        "去溶剂化能": 1,
+        "固态电解质": 1,
+        "正极材料": 2,
+        "氟代溶剂": 1,
+        "氯代溶剂": 1,
+        "水系有机液流电池": 1,
+        "电化学合成": 1,
+        "电解水制氢": 1,
+        "电解质": 1,
+        "膜电极": 1,
+        "自支撑电极": 1,
+        "软包电池": 1,
+        "钠离子电池": 1,
+        "钠离子软包电池": 1,
+        "锂离子电池": 1,
+        "锂金属电池": 3,
+        "锂金属电池电解液": 1,
+        "静电作用": 1,
+        "高压电解液": 1,
+        "高电压": 1,
+        "高镍正极": 1
+      }
+    },
+    "1": {
+      "total": 25,
+      "keywords": {
+        "亲金属相互作用": 1,
+        "关键词：热活化延迟荧光": 1,
+        "可见光": 1,
+        "多重共振": 1,
+        "多阴离子配位": 1,
+        "大气气溶胶，酸-碱团簇，光解离光谱，团簇结构": 1,
+        "宽温域": 1,
+        "微液滴": 1,
+        "惰性气体活化": 1,
+        "气-液界面": 1,
+        "氯化金团簇": 1,
+        "电喷雾电离-傅里叶变换离子回旋共振质谱": 1,
+        "硅负离子": 1,
+        "硼基": 1,
+        "离子源": 1,
+        "窄谱带": 1,
+        "红外光解离光谱": 1,
+        "纯蓝色发光": 1,
+        "脯氨酸气相团簇": 1,
+        "荧光量子产率": 1,
+        "质谱分析": 1,
+        "金属离子选择性": 1,
+        "钙钛矿量子点": 1,
+        "钛掺杂": 1,
+        "镍锰基层状氧化物": 1
+      }
+    },
+    "3": {
+      "total": 19,
+      "keywords": {
+        "动态动力学拆分": 1,
+        "双层复合结构": 1,
+        "双键异构化": 1,
+        "同手性偏好": 1,
+        "安全性": 1,
+        "密度泛函理论": 1,
+        "对映选择性": 1,
+        "微相分离": 1,
+        "构效关系": 1,
+        "构象不对称性": 1,
+        "核壳结构": 1,
+        "溶剂化结构": 1,
+        "理论计算": 1,
+        "相变": 1,
+        "端基改性": 1,
+        "经典分子动力学模拟": 1,
+        "结构稳定性": 1,
+        "轴手性": 1,
+        "还原媒介": 1
+      }
+    },
+    "6": {
+      "total": 12,
+      "keywords": {
+        "受体蛋白": 1,
+        "抑菌活性": 1,
+        "早期检测": 1,
+        "根寄生杂草": 1,
+        "植物保护": 1,
+        "植物生长调节": 1,
+        "植物病原真菌": 1,
+        "生物标志物": 1,
+        "生物活性": 1,
+        "细胞外囊泡": 1,
+        "膀胱癌": 1,
+        "转录组测序": 1
+      }
+    }
+  },
+  "cluster_labels": {
+    "0": "不对称合成方法",
+    "1": "光催化与反应机制",
+    "2": "锂离子电池技术",
+    "3": "动力学与构效关系",
+    "4": "二氧化碳转化研究",
+    "5": "生物活性与植物保护",
+    "6": "分子相互作用与功能"
+  }
+}

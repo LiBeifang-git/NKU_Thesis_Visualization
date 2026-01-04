@@ -1,0 +1,248 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "ERS",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 1,
+      "label": "PTPN2",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 2,
+      "label": "TNBC",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 3,
+      "label": "上丘",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 4,
+      "label": "凋亡",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 5,
+      "label": "双眼交互",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 6,
+      "label": "方位选择性",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 7,
+      "label": "方向选择性",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 8,
+      "label": "眼优势",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 9,
+      "label": "视皮层",
+      "group": -2,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 9,
+      "target": 3,
+      "value": 0.2362109273672104,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 6,
+      "value": 0.27028435468673706,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 5,
+      "value": 0.41687721014022827,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0.27519434690475464,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0.37868982553482056,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0.2912334203720093,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0.20225055515766144,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0.2720504105091095,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 3,
+      "value": 0.2841827869415283,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0.308893084526062,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0.78978431224823,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0.37424740195274353,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0.32057684659957886,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 5,
+      "value": 0.45737096667289734,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0.37860000133514404,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "value": 0.24417559802532196,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0.37002032995224,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0.13765808939933777,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0.24895092844963074,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0.07054775953292847,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0.10156715661287308,
+      "count": 1
+    }
+  ],
+  "advisor_keywords": {
+    "史学锋": {
+      "total_keywords": 6,
+      "top10_keywords": [
+        [
+          "上丘",
+          1
+        ],
+        [
+          "视皮层",
+          1
+        ],
+        [
+          "方向选择性",
+          1
+        ],
+        [
+          "方位选择性",
+          1
+        ],
+        [
+          "双眼交互",
+          1
+        ],
+        [
+          "眼优势",
+          1
+        ]
+      ]
+    },
+    "罗娜": {
+      "total_keywords": 4,
+      "top10_keywords": [
+        [
+          "PTPN2",
+          1
+        ],
+        [
+          "ERS",
+          1
+        ],
+        [
+          "TNBC",
+          1
+        ],
+        [
+          "凋亡",
+          1
+        ]
+      ]
+    }
+  },
+  "top5teacher": [
+    "史学锋",
+    "罗娜"
+  ]
+}

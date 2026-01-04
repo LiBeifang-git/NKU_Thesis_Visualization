@@ -1,0 +1,854 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "Android",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 1,
+      "label": "AntvG6",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 2,
+      "label": "GPT",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 3,
+      "label": "OCR",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 4,
+      "label": "SpringBoot",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 5,
+      "label": "Vue.js",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 6,
+      "label": "Web系统",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 7,
+      "label": "Web自动化",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 8,
+      "label": "二维细胞自动机",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 9,
+      "label": "人工智能应用",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 10,
+      "label": "伪随机数",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 11,
+      "label": "伪随机数生成器",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 12,
+      "label": "区块链",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 13,
+      "label": "双目视觉",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 14,
+      "label": "发布站点",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 15,
+      "label": "古汉语",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 16,
+      "label": "可视化",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 17,
+      "label": "增强现实技术",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 18,
+      "label": "多切分",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 19,
+      "label": "大型语言模型",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 20,
+      "label": "安全",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 21,
+      "label": "实体描述生成",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 22,
+      "label": "微光图像增强",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 23,
+      "label": "拖拽式编程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 24,
+      "label": "教学资源",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 25,
+      "label": "数字出版",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 26,
+      "label": "智能现场态势感知",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 27,
+      "label": "智能选择",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 28,
+      "label": "深度学习",
+      "group": -2,
+      "size": 3
+    },
+    {
+      "id": 29,
+      "label": "混合加密",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 30,
+      "label": "点线特征",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 31,
+      "label": "特征融合",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 32,
+      "label": "生成式人工智能",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 33,
+      "label": "电子病历",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 34,
+      "label": "知识图谱",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 35,
+      "label": "维基百科",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 36,
+      "label": "肺癌;肺结节检测;Transformer;卷积神经网络;CT图像",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 37,
+      "label": "自然语言处理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 38,
+      "label": "自研三维引擎",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 39,
+      "label": "虚假新闻",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 40,
+      "label": "视觉SLAM",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 41,
+      "label": "资源共享",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 42,
+      "label": "预训练语言模型",
+      "group": -2,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 34,
+      "target": 4,
+      "value": 0.160257488489151,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 24,
+      "value": 0.3710651695728302,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 9,
+      "value": 0.30284011363983154,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 24,
+      "value": 0.20392483472824097,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 0.19275477528572083,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 9,
+      "value": 0.26692917943000793,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 27,
+      "value": 0.18212395906448364,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0.2731248736381531,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 18,
+      "value": 0.16359107196331024,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 0.2197064757347107,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 18,
+      "value": 0.26180702447891235,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 18,
+      "value": 0.21300019323825836,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "value": 0.2752928137779236,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "value": 0.2726447284221649,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0.8707176446914673,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 29,
+      "value": 0.2981201410293579,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 20,
+      "value": 0.2631746530532837,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 33,
+      "value": 0.29941245913505554,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 20,
+      "value": 0.26818913221359253,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 33,
+      "value": 0.2290118932723999,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 33,
+      "value": 0.23404031991958618,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 25,
+      "value": 0.28416359424591064,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 41,
+      "value": 0.34126365184783936,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "value": 0.4473169445991516,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 41,
+      "value": 0.2686820328235626,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 14,
+      "value": 0.4597685635089874,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 14,
+      "value": 0.41801828145980835,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 28,
+      "value": 0.24186091125011444,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 16,
+      "value": 0.36980682611465454,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0.22536423802375793,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 16,
+      "value": 0.33522719144821167,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0.12998777627944946,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0.19735082983970642,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 19,
+      "value": 0.34323036670684814,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 32,
+      "value": 0.28824615478515625,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 39,
+      "value": 0.18577474355697632,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 32,
+      "value": 0.40266191959381104,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 39,
+      "value": 0.16353246569633484,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 39,
+      "value": 0.17482677102088928,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 42,
+      "value": 0.4436052441596985,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 35,
+      "value": 0.23256315290927887,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 21,
+      "value": 0.3195640444755554,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 15,
+      "value": 0.2921733856201172,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 35,
+      "value": 0.19153888523578644,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 42,
+      "value": 0.23720769584178925,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 15,
+      "value": 0.25984737277030945,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 35,
+      "value": 0.1824108064174652,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 15,
+      "value": 0.1948055624961853,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 15,
+      "value": 0.13599811494350433,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 31,
+      "value": 0.32661211490631104,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 30,
+      "value": 0.3139757215976715,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 40,
+      "value": 0.5153317451477051,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 30,
+      "value": 0.4425405263900757,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 40,
+      "value": 0.2982448637485504,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 40,
+      "value": 0.2611669898033142,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 28,
+      "value": 0.23148411512374878,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 23,
+      "value": 0.2831200361251831,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0.6109904646873474,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 23,
+      "value": 0.2478233277797699,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 7,
+      "value": 0.32899439334869385,
+      "count": 1
+    },
+    {
+      "source": 23,
+      "target": 7,
+      "value": 0.36472946405410767,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 38,
+      "value": 0.3898022770881653,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 26,
+      "value": 0.38734686374664307,
+      "count": 1
+    },
+    {
+      "source": 38,
+      "target": 26,
+      "value": 0.25689953565597534,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 28,
+      "value": 0.28063568472862244,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 4,
+      "value": 0.10529923439025879,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 0,
+      "value": 0.121928870677948,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 4,
+      "value": 0.23365557193756104,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 28,
+      "value": 0.16965743899345398,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0.3395431935787201,
+      "count": 1
+    }
+  ],
+  "advisor_keywords": {
+    "张玉志": {
+      "total_keywords": 16,
+      "top10_keywords": [
+        [
+          "深度学习",
+          2
+        ],
+        [
+          "人工智能应用",
+          1
+        ],
+        [
+          "知识图谱",
+          1
+        ],
+        [
+          "教学资源",
+          1
+        ],
+        [
+          "SpringBoot",
+          1
+        ],
+        [
+          "多切分",
+          1
+        ],
+        [
+          "智能选择",
+          1
+        ],
+        [
+          "GPT",
+          1
+        ],
+        [
+          "OCR",
+          1
+        ],
+        [
+          "可视化",
+          1
+        ]
+      ]
+    },
+    "师文轩": {
+      "total_keywords": 8,
+      "top10_keywords": [
+        [
+          "数字出版",
+          1
+        ],
+        [
+          "资源共享",
+          1
+        ],
+        [
+          "发布站点",
+          1
+        ],
+        [
+          "Web系统",
+          1
+        ],
+        [
+          "虚假新闻",
+          1
+        ],
+        [
+          "知识图谱",
+          1
+        ],
+        [
+          "大型语言模型",
+          1
+        ],
+        [
+          "生成式人工智能",
+          1
+        ]
+      ]
+    },
+    "王超": {
+      "total_keywords": 7,
+      "top10_keywords": [
+        [
+          "二维细胞自动机",
+          1
+        ],
+        [
+          "伪随机数",
+          1
+        ],
+        [
+          "伪随机数生成器",
+          1
+        ],
+        [
+          "微光图像增强",
+          1
+        ],
+        [
+          "深度学习",
+          1
+        ],
+        [
+          "Android",
+          1
+        ],
+        [
+          "SpringBoot",
+          1
+        ]
+      ]
+    },
+    "胡梦婷": {
+      "total_keywords": 5,
+      "top10_keywords": [
+        [
+          "预训练语言模型",
+          1
+        ],
+        [
+          "实体描述生成",
+          1
+        ],
+        [
+          "古汉语",
+          1
+        ],
+        [
+          "维基百科",
+          1
+        ],
+        [
+          "自然语言处理",
+          1
+        ]
+      ]
+    },
+    "邢树松": {
+      "total_keywords": 4,
+      "top10_keywords": [
+        [
+          "电子病历",
+          1
+        ],
+        [
+          "区块链",
+          1
+        ],
+        [
+          "混合加密",
+          1
+        ],
+        [
+          "安全",
+          1
+        ]
+      ]
+    }
+  },
+  "top5teacher": [
+    "张玉志",
+    "师文轩",
+    "王超",
+    "胡梦婷",
+    "邢树松"
+  ]
+}

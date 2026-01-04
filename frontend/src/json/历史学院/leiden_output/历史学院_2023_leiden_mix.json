@@ -1,0 +1,8153 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "CiteSpace",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 1,
+      "label": "“一无所知党”",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 2,
+      "label": "“中国化”传教策略",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 3,
+      "label": "“內／外”",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 4,
+      "label": "《乐天却病法》",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 5,
+      "label": "《伊格纳提乌斯传》",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 6,
+      "label": "《华山碑》",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 7,
+      "label": "《大汗国志》",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 8,
+      "label": "《大陆报》",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 9,
+      "label": "《宋书》",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 10,
+      "label": "《山海经》类型",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 11,
+      "label": "《春秋》三传",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 12,
+      "label": "《水云村泯稿》",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 13,
+      "label": "《诗经》",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 14,
+      "label": "一战",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 15,
+      "label": "丁国瑞",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 16,
+      "label": "三家《列女传》注",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 17,
+      "label": "丘",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 18,
+      "label": "东北鼠疫",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 19,
+      "label": "东南地区",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 20,
+      "label": "东周",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 21,
+      "label": "东汉",
+      "group": 2,
+      "size": 2
+    },
+    {
+      "id": 22,
+      "label": "两京制",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 23,
+      "label": "两党制",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 24,
+      "label": "两广地区",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 25,
+      "label": "中东铁路",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 26,
+      "label": "中医现代化",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 27,
+      "label": "中国古代才女文化",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 28,
+      "label": "中国古代陶瓷质文物",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 29,
+      "label": "中国妇女史",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 30,
+      "label": "中外交涉",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 31,
+      "label": "中外文化交流",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 32,
+      "label": "中心广场自来水厂",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 33,
+      "label": "中朝史学比较",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 34,
+      "label": "中期拜占庭",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 35,
+      "label": "中泰关系",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 36,
+      "label": "丰镐、洛邑地区",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 37,
+      "label": "临湘侯国",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 38,
+      "label": "主权",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 39,
+      "label": "乐天修养馆",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 40,
+      "label": "乡",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 41,
+      "label": "乡丘对应",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 42,
+      "label": "乡村社会",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 43,
+      "label": "书法风格",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 44,
+      "label": "二元对立",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 45,
+      "label": "二战",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 46,
+      "label": "交通运力",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 47,
+      "label": "京东河道",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 48,
+      "label": "京师仓",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 49,
+      "label": "人物形象",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 50,
+      "label": "仁社",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 51,
+      "label": "仓储设施",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 52,
+      "label": "仪象制度",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 53,
+      "label": "任廷旭",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 54,
+      "label": "仿铜陶瓷",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 55,
+      "label": "传教自觉",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 56,
+      "label": "传染病",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 57,
+      "label": "传染病防治",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 58,
+      "label": "传统知识",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 59,
+      "label": "伪满洲国",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 60,
+      "label": "佛教信仰",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 61,
+      "label": "供应",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 62,
+      "label": "侨批",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 63,
+      "label": "俄国",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 64,
+      "label": "信仰世界",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 65,
+      "label": "信息可视化",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 66,
+      "label": "倗",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 67,
+      "label": "倗氏",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 68,
+      "label": "健康",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 69,
+      "label": "元世祖朝",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 70,
+      "label": "元代",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 71,
+      "label": "元代佛教",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 72,
+      "label": "元数据",
+      "group": 7,
+      "size": 2
+    },
+    {
+      "id": 73,
+      "label": "元朝",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 74,
+      "label": "元末明初",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 75,
+      "label": "元首崇拜",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 76,
+      "label": "兄弟会",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 77,
+      "label": "先秦时期",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 78,
+      "label": "党派斗争",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 79,
+      "label": "公民团体",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 80,
+      "label": "典型示范",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 81,
+      "label": "养生",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 82,
+      "label": "军队",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 83,
+      "label": "农业集体化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 84,
+      "label": "农民工",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 85,
+      "label": "出入简",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 86,
+      "label": "出土女性玉饰",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 87,
+      "label": "出土资料",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 88,
+      "label": "刘仁航",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 89,
+      "label": "刘壎",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 90,
+      "label": "利玛窦",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 91,
+      "label": "副食品",
+      "group": 9,
+      "size": 2
+    },
+    {
+      "id": 92,
+      "label": "功臣号",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 93,
+      "label": "功臣官僚",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 94,
+      "label": "动物史",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 95,
+      "label": "北京政府",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 96,
+      "label": "北方文化带",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 97,
+      "label": "北运河",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 98,
+      "label": "北魏",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 99,
+      "label": "区域特征",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 100,
+      "label": "区域社会",
+      "group": 4,
+      "size": 2
+    },
+    {
+      "id": 101,
+      "label": "医学史",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 102,
+      "label": "医神崇拜",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 103,
+      "label": "华山",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 104,
+      "label": "华盛顿会议",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 105,
+      "label": "南京吏部",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 106,
+      "label": "南开大学博物馆",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 107,
+      "label": "南蛮艺术",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 108,
+      "label": "即墨黄氏",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 109,
+      "label": "历史地理学史",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 110,
+      "label": "历史知识社会化",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 111,
+      "label": "历史记忆",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 112,
+      "label": "厲王",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 113,
+      "label": "厲王革典",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 114,
+      "label": "双边关系",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 115,
+      "label": "双重政权",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 116,
+      "label": "叙利亚",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 117,
+      "label": "口岸文人",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 118,
+      "label": "古埃及",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 119,
+      "label": "古希腊",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 120,
+      "label": "古琴科事件红色恐慌共产主义威胁情报事件",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 121,
+      "label": "史念海",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 122,
+      "label": "司法权限",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 123,
+      "label": "吕梁",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 124,
+      "label": "启蒙运动",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 125,
+      "label": "吴兴沈氏",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 126,
+      "label": "周夷王",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 127,
+      "label": "哈尔滨",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 128,
+      "label": "哈菲兹·阿萨德",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 129,
+      "label": "唐代",
+      "group": 2,
+      "size": 5
+    },
+    {
+      "id": 130,
+      "label": "唐代地方官",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 131,
+      "label": "嘉定三屠",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 132,
+      "label": "噩国",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 133,
+      "label": "四体书法",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 134,
+      "label": "国共关系",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 135,
+      "label": "国家制度",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 136,
+      "label": "国家安全体制",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 137,
+      "label": "国际联盟",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 138,
+      "label": "圣丹尼尔",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 139,
+      "label": "圣徒传记",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 140,
+      "label": "圣徒崇拜",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 141,
+      "label": "地域性",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 142,
+      "label": "地域社会",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 143,
+      "label": "地方士绅",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 144,
+      "label": "地方治理",
+      "group": 4,
+      "size": 3
+    },
+    {
+      "id": 145,
+      "label": "地望",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 146,
+      "label": "基督教",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 147,
+      "label": "墓葬",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 148,
+      "label": "墨西哥",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 149,
+      "label": "士大夫",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 150,
+      "label": "复兴运动",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 151,
+      "label": "外交政策",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 152,
+      "label": "大闹会审公廨事件",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 153,
+      "label": "天主教会",
+      "group": 3,
+      "size": 2
+    },
+    {
+      "id": 154,
+      "label": "天津",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 155,
+      "label": "天津市",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 156,
+      "label": "太常礼仪院",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 157,
+      "label": "夫马局",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 158,
+      "label": "夫马费",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 159,
+      "label": "奥古斯塔勒斯",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 160,
+      "label": "女性史学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 161,
+      "label": "女性领域",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 162,
+      "label": "妇女",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 163,
+      "label": "姚广孝",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 164,
+      "label": "娱乐生活",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 165,
+      "label": "学校卫生",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 166,
+      "label": "宋代",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 167,
+      "label": "官制改革",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 168,
+      "label": "实地考察",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 169,
+      "label": "客邮",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 170,
+      "label": "宣慰使",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 171,
+      "label": "宣慰司",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 172,
+      "label": "宣教工具",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 173,
+      "label": "家族兴衰",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 174,
+      "label": "容闳",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 175,
+      "label": "封赠",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 176,
+      "label": "尊老制度",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 177,
+      "label": "小亚细亚地区",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 178,
+      "label": "层次分析模型",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 179,
+      "label": "山东问题",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 180,
+      "label": "山地民族",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 181,
+      "label": "山地环境",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 182,
+      "label": "山地生活",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 183,
+      "label": "岭南",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 184,
+      "label": "岭南医学",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 185,
+      "label": "崇佛活动",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 186,
+      "label": "崇祯与南明历史",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 187,
+      "label": "工业革命",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 188,
+      "label": "差序格局",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 189,
+      "label": "差徭",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 190,
+      "label": "巴巴拉·W·塔奇曼",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 191,
+      "label": "巴西",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 192,
+      "label": "巴西外交",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 193,
+      "label": "巴黎和会",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": 194,
+      "label": "平衡战略",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 195,
+      "label": "年代",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 196,
+      "label": "弗提乌斯分裂",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 197,
+      "label": "彝族先民",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 198,
+      "label": "形象",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 199,
+      "label": "忠君观念",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 200,
+      "label": "怀姓九宗",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 201,
+      "label": "思想观念",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 202,
+      "label": "情报机构",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 203,
+      "label": "成因",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 204,
+      "label": "战国秦汉时期",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 205,
+      "label": "技术推广",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 206,
+      "label": "报告",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 207,
+      "label": "拉斐尔·努涅斯",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 208,
+      "label": "拉普拉塔总督区",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 209,
+      "label": "拜占庭早期",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 210,
+      "label": "拜占庭皇权",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 211,
+      "label": "推拉力理论",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 212,
+      "label": "政教关系",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 213,
+      "label": "政治生活",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 214,
+      "label": "教育",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 215,
+      "label": "文化交流",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 216,
+      "label": "文化保守主义",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 217,
+      "label": "文化因素",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 218,
+      "label": "文化治理",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 219,
+      "label": "文字事功",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 220,
+      "label": "文物",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 221,
+      "label": "文物信息资源",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 222,
+      "label": "文献价值",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 223,
+      "label": "新中国",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 224,
+      "label": "新学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 225,
+      "label": "新石器时代",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 226,
+      "label": "新西班牙",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 227,
+      "label": "方济各会",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 228,
+      "label": "旅行",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 229,
+      "label": "族姓",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 230,
+      "label": "日俄战争",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 231,
+      "label": "日常生活",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 232,
+      "label": "日本",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 233,
+      "label": "明代",
+      "group": 2,
+      "size": 4
+    },
+    {
+      "id": 234,
+      "label": "明季史料",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 235,
+      "label": "明清思想史",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 236,
+      "label": "明清时期",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 237,
+      "label": "明清易代",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 238,
+      "label": "明琉关系",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 239,
+      "label": "春运",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 240,
+      "label": "昭和制钢所",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 241,
+      "label": "晉南",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 242,
+      "label": "晋南",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 243,
+      "label": "晚清",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 244,
+      "label": "晚清香港",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 245,
+      "label": "月光社",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 246,
+      "label": "有用于世",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 247,
+      "label": "朝鲜半岛",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 248,
+      "label": "朝鲜王朝党争",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 249,
+      "label": "朝鲜王朝史馆",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 250,
+      "label": "朝鲜王朝官方史学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 251,
+      "label": "朝鲜王朝王权与史学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 252,
+      "label": "本体",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 253,
+      "label": "本土主义",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 254,
+      "label": "权力结构",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 255,
+      "label": "植物类形象",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 256,
+      "label": "植物类用具",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 257,
+      "label": "植物类食物",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 258,
+      "label": "死者",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 259,
+      "label": "殖民扩张",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 260,
+      "label": "殷遗民",
+      "group": 3,
+      "size": 2
+    },
+    {
+      "id": 261,
+      "label": "民主共和社团",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 262,
+      "label": "民主化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 263,
+      "label": "民众政治参与",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 264,
+      "label": "民国",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 265,
+      "label": "民族主义",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 266,
+      "label": "民族主义史学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 267,
+      "label": "气候治理",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 268,
+      "label": "水土保持工作",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 269,
+      "label": "汉代",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 270,
+      "label": "汉唐政治",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 271,
+      "label": "汉墓",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 272,
+      "label": "汉碑运动",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 273,
+      "label": "汉隶",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 274,
+      "label": "江南",
+      "group": 0,
+      "size": 2
+    },
+    {
+      "id": 275,
+      "label": "沈约",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 276,
+      "label": "河东",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 277,
+      "label": "河南地区",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 278,
+      "label": "泰国华侨",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 279,
+      "label": "洗象节",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 280,
+      "label": "流通体制",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 281,
+      "label": "海东青",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 282,
+      "label": "海派",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 283,
+      "label": "海防",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 284,
+      "label": "海陆丝绸之路",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 285,
+      "label": "清代",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 286,
+      "label": "清明节",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 287,
+      "label": "清末新政",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 288,
+      "label": "游戏",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 289,
+      "label": "湖南",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 290,
+      "label": "湘水",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 291,
+      "label": "熊希龄",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 292,
+      "label": "版本价值",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 293,
+      "label": "版本源流",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 294,
+      "label": "特征",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 295,
+      "label": "特殊药品",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 296,
+      "label": "王室权威",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 297,
+      "label": "环保组织",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 298,
+      "label": "环境史",
+      "group": 8,
+      "size": 2
+    },
+    {
+      "id": 299,
+      "label": "现代化,墨西哥,葡萄酒业,葡萄种植业,葡萄酒贸易",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 300,
+      "label": "珠山八友",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 301,
+      "label": "瓷画",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 302,
+      "label": "生命观",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 303,
+      "label": "生意管理",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 304,
+      "label": "生计方式",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 305,
+      "label": "申采浩",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 306,
+      "label": "电影放映",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 307,
+      "label": "画像石",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 308,
+      "label": "留美生",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 309,
+      "label": "瘟疫",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 310,
+      "label": "睡虎地秦简",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 311,
+      "label": "知识传播",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 312,
+      "label": "知识体系",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 313,
+      "label": "知识史",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 314,
+      "label": "知识图谱",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 315,
+      "label": "石刻",
+      "group": 6,
+      "size": 2
+    },
+    {
+      "id": 316,
+      "label": "碑学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 317,
+      "label": "礼乐",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 318,
+      "label": "礼仪性武器",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 319,
+      "label": "礼俗",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 320,
+      "label": "社会交往网络",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 321,
+      "label": "社会变迁",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 322,
+      "label": "社会生活",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 323,
+      "label": "祖先崇拜",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 324,
+      "label": "神谕",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 325,
+      "label": "祠庙石刻",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 326,
+      "label": "祠神信仰",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 327,
+      "label": "祭供",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 328,
+      "label": "祭祀",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 329,
+      "label": "禁卫职官",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 330,
+      "label": "种族关系",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 331,
+      "label": "科学革命",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 332,
+      "label": "秘鲁",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 333,
+      "label": "秦汉",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 334,
+      "label": "移民",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 335,
+      "label": "窖藏井",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 336,
+      "label": "端方",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 337,
+      "label": "箕子信仰",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 338,
+      "label": "类型分析",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 339,
+      "label": "线上展览",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 340,
+      "label": "经学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 341,
+      "label": "经济博弈",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 342,
+      "label": "编辑",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 343,
+      "label": "美国",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": 344,
+      "label": "美国人党",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 345,
+      "label": "美国外交",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 346,
+      "label": "美国环保协会",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 347,
+      "label": "美国红十字会,公共卫生工作,人道主义",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 348,
+      "label": "美国罪犯租赁制度",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 349,
+      "label": "美国认同",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 350,
+      "label": "美洲会议",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 351,
+      "label": "美英关系",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 352,
+      "label": "老人生活",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 353,
+      "label": "考察",
+      "group": 7,
+      "size": 2
+    },
+    {
+      "id": 354,
+      "label": "联邦德国",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 355,
+      "label": "自然",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 356,
+      "label": "自然知识",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 357,
+      "label": "花鸟画",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 358,
+      "label": "苏州",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 359,
+      "label": "苦修圣徒",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 360,
+      "label": "苦力",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 361,
+      "label": "英美",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 362,
+      "label": "英雄",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 363,
+      "label": "英雄崇拜",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 364,
+      "label": "蒸汽机",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 365,
+      "label": "衰弱",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 366,
+      "label": "被释奴",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 367,
+      "label": "装饰品",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 368,
+      "label": "西周时期",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 369,
+      "label": "西周王朝",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 370,
+      "label": "西奥多·罗斯福",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 371,
+      "label": "西学",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 372,
+      "label": "西方一体化",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 373,
+      "label": "西方势力",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 374,
+      "label": "西班牙",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": 375,
+      "label": "诗僧",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 376,
+      "label": "谈判",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 377,
+      "label": "费城",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 378,
+      "label": "资源对策",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 379,
+      "label": "赠爵",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 380,
+      "label": "身份",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 381,
+      "label": "身体生成",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 382,
+      "label": "转变期",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 383,
+      "label": "迁葬墓",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 384,
+      "label": "近代化",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 385,
+      "label": "近代天津,道路空间,道路改造",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 386,
+      "label": "近代绍兴",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 387,
+      "label": "迪亚斯时期",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 388,
+      "label": "道台",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 389,
+      "label": "遗民史学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 390,
+      "label": "郑伯克段于鄢",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 391,
+      "label": "重新武装",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 392,
+      "label": "金石学",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 393,
+      "label": "銅器銘文",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 394,
+      "label": "钢铁增产",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 395,
+      "label": "铁路附属地",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 396,
+      "label": "长城地带",
+      "group": 0,
+      "size": 2
+    },
+    {
+      "id": 397,
+      "label": "长安",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 398,
+      "label": "长江下游地区",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 399,
+      "label": "长沙吴简",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 400,
+      "label": "门阀士族",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 401,
+      "label": "阿根廷",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 402,
+      "label": "阿登纳",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 403,
+      "label": "陈设",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 404,
+      "label": "陕北黄土高原",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 405,
+      "label": "陕甘宁边区",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 406,
+      "label": "陶器和陶塑",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 407,
+      "label": "陶寺北墓地，青铜器，晋文化",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 408,
+      "label": "陶灶",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 409,
+      "label": "陶瓷装饰",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 410,
+      "label": "随粮摊征",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 411,
+      "label": "霸",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 412,
+      "label": "霸氏",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 413,
+      "label": "青岛",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 414,
+      "label": "青花瓷",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 415,
+      "label": "青铜器",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 416,
+      "label": "青铜工具",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 417,
+      "label": "青铜文化",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 418,
+      "label": "青铜礼器",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 419,
+      "label": "静坐呼吸法",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 420,
+      "label": "革命",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 421,
+      "label": "革命人物",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 422,
+      "label": "革命制度党",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 423,
+      "label": "顺直水利委员会",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 424,
+      "label": "领事机构",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 425,
+      "label": "题名",
+      "group": 7,
+      "size": 1
+    },
+    {
+      "id": 426,
+      "label": "马克思主义",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 427,
+      "label": "马公愚",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 428,
+      "label": "马尼拉大帆船贸易",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": 429,
+      "label": "马戏团",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 430,
+      "label": "驯象",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 431,
+      "label": "高校博物馆",
+      "group": 8,
+      "size": 1
+    },
+    {
+      "id": 432,
+      "label": "鲁东南地区",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 433,
+      "label": "鲜卑",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 434,
+      "label": "麦哲伦海峡",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 435,
+      "label": "黄河流域",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 436,
+      "label": "黄热病",
+      "group": 9,
+      "size": 1
+    },
+    {
+      "id": 437,
+      "label": "黑人问题",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 438,
+      "label": "龙",
+      "group": 0,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 249,
+      "target": 250,
+      "value": 0.719268262386322,
+      "count": 1
+    },
+    {
+      "source": 248,
+      "target": 250,
+      "value": 0.556493878364563,
+      "count": 1
+    },
+    {
+      "source": 251,
+      "target": 250,
+      "value": 0.7723038792610168,
+      "count": 1
+    },
+    {
+      "source": 33,
+      "target": 250,
+      "value": 0.5497430562973022,
+      "count": 1
+    },
+    {
+      "source": 248,
+      "target": 249,
+      "value": 0.5448529124259949,
+      "count": 1
+    },
+    {
+      "source": 251,
+      "target": 249,
+      "value": 0.6339869499206543,
+      "count": 1
+    },
+    {
+      "source": 249,
+      "target": 33,
+      "value": 0.404233455657959,
+      "count": 1
+    },
+    {
+      "source": 248,
+      "target": 251,
+      "value": 0.5814139246940613,
+      "count": 1
+    },
+    {
+      "source": 248,
+      "target": 33,
+      "value": 0.3117918372154236,
+      "count": 1
+    },
+    {
+      "source": 251,
+      "target": 33,
+      "value": 0.5380510687828064,
+      "count": 1
+    },
+    {
+      "source": 134,
+      "target": 115,
+      "value": 0.30386847257614136,
+      "count": 1
+    },
+    {
+      "source": 134,
+      "target": 405,
+      "value": 0.24706867337226868,
+      "count": 1
+    },
+    {
+      "source": 405,
+      "target": 115,
+      "value": 0.2998282313346863,
+      "count": 1
+    },
+    {
+      "source": 313,
+      "target": 141,
+      "value": 0.15831640362739563,
+      "count": 1
+    },
+    {
+      "source": 313,
+      "target": 183,
+      "value": 0.12874671816825867,
+      "count": 1
+    },
+    {
+      "source": 313,
+      "target": 184,
+      "value": 0.1791064292192459,
+      "count": 1
+    },
+    {
+      "source": 183,
+      "target": 141,
+      "value": 0.2556488811969757,
+      "count": 1
+    },
+    {
+      "source": 184,
+      "target": 141,
+      "value": 0.22699013352394104,
+      "count": 1
+    },
+    {
+      "source": 183,
+      "target": 184,
+      "value": 0.7683535814285278,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 57,
+      "value": 0.16869215667247772,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 26,
+      "value": 0.2099958062171936,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 216,
+      "value": 0.2200055718421936,
+      "count": 1
+    },
+    {
+      "source": 57,
+      "target": 26,
+      "value": 0.2994658946990967,
+      "count": 1
+    },
+    {
+      "source": 57,
+      "target": 216,
+      "value": 0.1446915864944458,
+      "count": 1
+    },
+    {
+      "source": 216,
+      "target": 26,
+      "value": 0.24812635779380798,
+      "count": 1
+    },
+    {
+      "source": 276,
+      "target": 315,
+      "value": 0.23749980330467224,
+      "count": 1
+    },
+    {
+      "source": 144,
+      "target": 315,
+      "value": 0.1780945062637329,
+      "count": 1
+    },
+    {
+      "source": 315,
+      "target": 129,
+      "value": 0.2600841522216797,
+      "count": 2
+    },
+    {
+      "source": 315,
+      "target": 100,
+      "value": 0.13308364152908325,
+      "count": 1
+    },
+    {
+      "source": 276,
+      "target": 144,
+      "value": 0.215276300907135,
+      "count": 1
+    },
+    {
+      "source": 276,
+      "target": 129,
+      "value": 0.26700782775878906,
+      "count": 1
+    },
+    {
+      "source": 276,
+      "target": 100,
+      "value": 0.24466447532176971,
+      "count": 1
+    },
+    {
+      "source": 144,
+      "target": 129,
+      "value": 0.15605764091014862,
+      "count": 2
+    },
+    {
+      "source": 144,
+      "target": 100,
+      "value": 0.5286930799484253,
+      "count": 2
+    },
+    {
+      "source": 129,
+      "target": 100,
+      "value": 0.13214343786239624,
+      "count": 2
+    },
+    {
+      "source": 91,
+      "target": 223,
+      "value": 0.11747020483016968,
+      "count": 1
+    },
+    {
+      "source": 91,
+      "target": 280,
+      "value": 0.1788368821144104,
+      "count": 1
+    },
+    {
+      "source": 91,
+      "target": 61,
+      "value": 0.35707977414131165,
+      "count": 1
+    },
+    {
+      "source": 91,
+      "target": 155,
+      "value": 0.18675392866134644,
+      "count": 1
+    },
+    {
+      "source": 223,
+      "target": 280,
+      "value": 0.22305342555046082,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 223,
+      "value": 0.1787060797214508,
+      "count": 1
+    },
+    {
+      "source": 223,
+      "target": 155,
+      "value": 0.26080819964408875,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 280,
+      "value": 0.3343580961227417,
+      "count": 1
+    },
+    {
+      "source": 155,
+      "target": 280,
+      "value": 0.18109798431396484,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 155,
+      "value": 0.26152583956718445,
+      "count": 1
+    },
+    {
+      "source": 283,
+      "target": 373,
+      "value": 0.3103347718715668,
+      "count": 1
+    },
+    {
+      "source": 283,
+      "target": 285,
+      "value": 0.16999460756778717,
+      "count": 1
+    },
+    {
+      "source": 283,
+      "target": 233,
+      "value": 0.23373280465602875,
+      "count": 1
+    },
+    {
+      "source": 285,
+      "target": 373,
+      "value": 0.2221408188343048,
+      "count": 1
+    },
+    {
+      "source": 373,
+      "target": 233,
+      "value": 0.23275044560432434,
+      "count": 1
+    },
+    {
+      "source": 285,
+      "target": 233,
+      "value": 0.4830625653266907,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 70,
+      "value": 0.2260027378797531,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 93,
+      "value": 0.6109666228294373,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 175,
+      "value": 0.28667011857032776,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 379,
+      "value": 0.3575403094291687,
+      "count": 1
+    },
+    {
+      "source": 70,
+      "target": 93,
+      "value": 0.2512141466140747,
+      "count": 1
+    },
+    {
+      "source": 175,
+      "target": 70,
+      "value": 0.2628600597381592,
+      "count": 1
+    },
+    {
+      "source": 70,
+      "target": 379,
+      "value": 0.23750030994415283,
+      "count": 1
+    },
+    {
+      "source": 175,
+      "target": 93,
+      "value": 0.2658931016921997,
+      "count": 1
+    },
+    {
+      "source": 379,
+      "target": 93,
+      "value": 0.31204119324684143,
+      "count": 1
+    },
+    {
+      "source": 175,
+      "target": 379,
+      "value": 0.5779131650924683,
+      "count": 1
+    },
+    {
+      "source": 352,
+      "target": 176,
+      "value": 0.4793729782104492,
+      "count": 1
+    },
+    {
+      "source": 352,
+      "target": 269,
+      "value": 0.14138126373291016,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 352,
+      "value": 0.1896483600139618,
+      "count": 1
+    },
+    {
+      "source": 302,
+      "target": 352,
+      "value": 0.43056195974349976,
+      "count": 1
+    },
+    {
+      "source": 176,
+      "target": 269,
+      "value": 0.24576111137866974,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 176,
+      "value": 0.16196362674236298,
+      "count": 1
+    },
+    {
+      "source": 302,
+      "target": 176,
+      "value": 0.3296865224838257,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 269,
+      "value": 0.20202910900115967,
+      "count": 1
+    },
+    {
+      "source": 302,
+      "target": 269,
+      "value": 0.14542202651500702,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 302,
+      "value": 0.15061375498771667,
+      "count": 1
+    },
+    {
+      "source": 228,
+      "target": 231,
+      "value": 0.3822428584098816,
+      "count": 1
+    },
+    {
+      "source": 231,
+      "target": 149,
+      "value": 0.280185341835022,
+      "count": 1
+    },
+    {
+      "source": 231,
+      "target": 233,
+      "value": 0.1906396895647049,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 231,
+      "value": 0.2747933864593506,
+      "count": 1
+    },
+    {
+      "source": 228,
+      "target": 149,
+      "value": 0.1606164574623108,
+      "count": 1
+    },
+    {
+      "source": 228,
+      "target": 233,
+      "value": 0.23120051622390747,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 228,
+      "value": 0.1874847561120987,
+      "count": 1
+    },
+    {
+      "source": 149,
+      "target": 233,
+      "value": 0.19104976952075958,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 149,
+      "value": 0.15689197182655334,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 233,
+      "value": 0.19808147847652435,
+      "count": 1
+    },
+    {
+      "source": 353,
+      "target": 105,
+      "value": 0.25673484802246094,
+      "count": 1
+    },
+    {
+      "source": 353,
+      "target": 22,
+      "value": 0.20032203197479248,
+      "count": 1
+    },
+    {
+      "source": 353,
+      "target": 233,
+      "value": 0.23238536715507507,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 22,
+      "value": 0.3496764302253723,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 233,
+      "value": 0.24728725850582123,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 233,
+      "value": 0.3197525143623352,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 423,
+      "value": 0.36679303646087646,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 97,
+      "value": 0.5203578472137451,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 291,
+      "value": 0.11799532175064087,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 423,
+      "value": 0.3587169945240021,
+      "count": 1
+    },
+    {
+      "source": 291,
+      "target": 423,
+      "value": 0.06383921205997467,
+      "count": 1
+    },
+    {
+      "source": 291,
+      "target": 97,
+      "value": 0.14435352385044098,
+      "count": 1
+    },
+    {
+      "source": 378,
+      "target": 240,
+      "value": 0.21015237271785736,
+      "count": 1
+    },
+    {
+      "source": 378,
+      "target": 59,
+      "value": 0.14202266931533813,
+      "count": 1
+    },
+    {
+      "source": 378,
+      "target": 394,
+      "value": 0.34579044580459595,
+      "count": 1
+    },
+    {
+      "source": 240,
+      "target": 59,
+      "value": 0.1971346139907837,
+      "count": 1
+    },
+    {
+      "source": 240,
+      "target": 394,
+      "value": 0.45375651121139526,
+      "count": 1
+    },
+    {
+      "source": 59,
+      "target": 394,
+      "value": 0.1573236882686615,
+      "count": 1
+    },
+    {
+      "source": 315,
+      "target": 142,
+      "value": 0.16924194991588593,
+      "count": 1
+    },
+    {
+      "source": 315,
+      "target": 64,
+      "value": 0.21067091822624207,
+      "count": 1
+    },
+    {
+      "source": 315,
+      "target": 274,
+      "value": 0.13807299733161926,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 142,
+      "value": 0.2449190616607666,
+      "count": 1
+    },
+    {
+      "source": 274,
+      "target": 142,
+      "value": 0.21725398302078247,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 142,
+      "value": 0.08542728424072266,
+      "count": 1
+    },
+    {
+      "source": 274,
+      "target": 64,
+      "value": 0.10991571843624115,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 64,
+      "value": 0.17271578311920166,
+      "count": 1
+    },
+    {
+      "source": 274,
+      "target": 129,
+      "value": 0.2516535520553589,
+      "count": 1
+    },
+    {
+      "source": 206,
+      "target": 174,
+      "value": 0.2620193660259247,
+      "count": 1
+    },
+    {
+      "source": 332,
+      "target": 174,
+      "value": 0.19725388288497925,
+      "count": 1
+    },
+    {
+      "source": 360,
+      "target": 174,
+      "value": 0.3297799825668335,
+      "count": 1
+    },
+    {
+      "source": 376,
+      "target": 174,
+      "value": 0.2910546064376831,
+      "count": 1
+    },
+    {
+      "source": 206,
+      "target": 332,
+      "value": 0.16500401496887207,
+      "count": 1
+    },
+    {
+      "source": 360,
+      "target": 206,
+      "value": 0.2391781508922577,
+      "count": 1
+    },
+    {
+      "source": 376,
+      "target": 206,
+      "value": 0.3568689823150635,
+      "count": 1
+    },
+    {
+      "source": 360,
+      "target": 332,
+      "value": 0.21123722195625305,
+      "count": 1
+    },
+    {
+      "source": 376,
+      "target": 332,
+      "value": 0.19244369864463806,
+      "count": 1
+    },
+    {
+      "source": 360,
+      "target": 376,
+      "value": 0.2788545489311218,
+      "count": 1
+    },
+    {
+      "source": 236,
+      "target": 182,
+      "value": 0.15348470211029053,
+      "count": 1
+    },
+    {
+      "source": 236,
+      "target": 180,
+      "value": 0.21351191401481628,
+      "count": 1
+    },
+    {
+      "source": 197,
+      "target": 236,
+      "value": 0.20911885797977448,
+      "count": 1
+    },
+    {
+      "source": 236,
+      "target": 181,
+      "value": 0.15452654659748077,
+      "count": 1
+    },
+    {
+      "source": 298,
+      "target": 236,
+      "value": 0.2070157527923584,
+      "count": 1
+    },
+    {
+      "source": 182,
+      "target": 180,
+      "value": 0.6734921336174011,
+      "count": 1
+    },
+    {
+      "source": 197,
+      "target": 182,
+      "value": 0.240603506565094,
+      "count": 1
+    },
+    {
+      "source": 182,
+      "target": 181,
+      "value": 0.7782574892044067,
+      "count": 1
+    },
+    {
+      "source": 298,
+      "target": 182,
+      "value": 0.2763345539569855,
+      "count": 1
+    },
+    {
+      "source": 197,
+      "target": 180,
+      "value": 0.4399464726448059,
+      "count": 1
+    },
+    {
+      "source": 181,
+      "target": 180,
+      "value": 0.6169638633728027,
+      "count": 1
+    },
+    {
+      "source": 298,
+      "target": 180,
+      "value": 0.16586527228355408,
+      "count": 1
+    },
+    {
+      "source": 197,
+      "target": 181,
+      "value": 0.17257633805274963,
+      "count": 1
+    },
+    {
+      "source": 298,
+      "target": 197,
+      "value": 0.20146067440509796,
+      "count": 1
+    },
+    {
+      "source": 298,
+      "target": 181,
+      "value": 0.42358455061912537,
+      "count": 1
+    },
+    {
+      "source": 381,
+      "target": 214,
+      "value": 0.23110657930374146,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 381,
+      "value": 0.3311058580875397,
+      "count": 1
+    },
+    {
+      "source": 165,
+      "target": 381,
+      "value": 0.22878001630306244,
+      "count": 1
+    },
+    {
+      "source": 384,
+      "target": 381,
+      "value": 0.23842057585716248,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 214,
+      "value": 0.4194158911705017,
+      "count": 1
+    },
+    {
+      "source": 165,
+      "target": 214,
+      "value": 0.3770287334918976,
+      "count": 1
+    },
+    {
+      "source": 384,
+      "target": 214,
+      "value": 0.3063247799873352,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 165,
+      "value": 0.45061561465263367,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 384,
+      "value": 0.22662955522537231,
+      "count": 1
+    },
+    {
+      "source": 384,
+      "target": 165,
+      "value": 0.16190823912620544,
+      "count": 1
+    },
+    {
+      "source": 342,
+      "target": 219,
+      "value": 0.3338775038719177,
+      "count": 1
+    },
+    {
+      "source": 342,
+      "target": 371,
+      "value": 0.22767478227615356,
+      "count": 1
+    },
+    {
+      "source": 342,
+      "target": 117,
+      "value": 0.26123958826065063,
+      "count": 1
+    },
+    {
+      "source": 342,
+      "target": 53,
+      "value": 0.2209825962781906,
+      "count": 1
+    },
+    {
+      "source": 371,
+      "target": 219,
+      "value": 0.2659010589122772,
+      "count": 1
+    },
+    {
+      "source": 117,
+      "target": 219,
+      "value": 0.34925973415374756,
+      "count": 1
+    },
+    {
+      "source": 219,
+      "target": 53,
+      "value": 0.14954324066638947,
+      "count": 1
+    },
+    {
+      "source": 371,
+      "target": 117,
+      "value": 0.2684288024902344,
+      "count": 1
+    },
+    {
+      "source": 371,
+      "target": 53,
+      "value": 0.1894747018814087,
+      "count": 1
+    },
+    {
+      "source": 117,
+      "target": 53,
+      "value": 0.22507333755493164,
+      "count": 1
+    },
+    {
+      "source": 217,
+      "target": 367,
+      "value": 0.2726043164730072,
+      "count": 1
+    },
+    {
+      "source": 217,
+      "target": 96,
+      "value": 0.3522304892539978,
+      "count": 1
+    },
+    {
+      "source": 367,
+      "target": 96,
+      "value": 0.18847376108169556,
+      "count": 1
+    },
+    {
+      "source": 169,
+      "target": 30,
+      "value": 0.31843042373657227,
+      "count": 1
+    },
+    {
+      "source": 169,
+      "target": 95,
+      "value": 0.24172069132328033,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 95,
+      "value": 0.2508930265903473,
+      "count": 1
+    },
+    {
+      "source": 424,
+      "target": 122,
+      "value": 0.28715792298316956,
+      "count": 1
+    },
+    {
+      "source": 424,
+      "target": 152,
+      "value": 0.17859473824501038,
+      "count": 1
+    },
+    {
+      "source": 424,
+      "target": 388,
+      "value": 0.19385646283626556,
+      "count": 1
+    },
+    {
+      "source": 152,
+      "target": 122,
+      "value": 0.3334100842475891,
+      "count": 1
+    },
+    {
+      "source": 388,
+      "target": 122,
+      "value": 0.2731049656867981,
+      "count": 1
+    },
+    {
+      "source": 152,
+      "target": 388,
+      "value": 0.2514891028404236,
+      "count": 1
+    },
+    {
+      "source": 179,
+      "target": 8,
+      "value": 0.2797207236289978,
+      "count": 1
+    },
+    {
+      "source": 179,
+      "target": 413,
+      "value": 0.3542293310165405,
+      "count": 1
+    },
+    {
+      "source": 179,
+      "target": 104,
+      "value": 0.17219816148281097,
+      "count": 1
+    },
+    {
+      "source": 179,
+      "target": 14,
+      "value": 0.15060950815677643,
+      "count": 1
+    },
+    {
+      "source": 179,
+      "target": 193,
+      "value": 0.08064398914575577,
+      "count": 1
+    },
+    {
+      "source": 413,
+      "target": 8,
+      "value": 0.26792797446250916,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 104,
+      "value": 0.21409061551094055,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "value": 0.19885754585266113,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 193,
+      "value": 0.11645485460758209,
+      "count": 1
+    },
+    {
+      "source": 413,
+      "target": 104,
+      "value": 0.23992256820201874,
+      "count": 1
+    },
+    {
+      "source": 413,
+      "target": 14,
+      "value": 0.2206810712814331,
+      "count": 1
+    },
+    {
+      "source": 413,
+      "target": 193,
+      "value": 0.16281312704086304,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 14,
+      "value": 0.31885749101638794,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 193,
+      "value": 0.5434748530387878,
+      "count": 1
+    },
+    {
+      "source": 193,
+      "target": 14,
+      "value": 0.38837891817092896,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 344,
+      "value": 0.39667296409606934,
+      "count": 1
+    },
+    {
+      "source": 334,
+      "target": 1,
+      "value": 0.1575511246919632,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 253,
+      "value": 0.24194300174713135,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 349,
+      "value": 0.22502979636192322,
+      "count": 1
+    },
+    {
+      "source": 334,
+      "target": 344,
+      "value": 0.24381335079669952,
+      "count": 1
+    },
+    {
+      "source": 253,
+      "target": 344,
+      "value": 0.24971620738506317,
+      "count": 1
+    },
+    {
+      "source": 349,
+      "target": 344,
+      "value": 0.46809208393096924,
+      "count": 1
+    },
+    {
+      "source": 334,
+      "target": 253,
+      "value": 0.24079391360282898,
+      "count": 1
+    },
+    {
+      "source": 334,
+      "target": 349,
+      "value": 0.29638567566871643,
+      "count": 1
+    },
+    {
+      "source": 253,
+      "target": 349,
+      "value": 0.2649165391921997,
+      "count": 1
+    },
+    {
+      "source": 262,
+      "target": 261,
+      "value": 0.5520845055580139,
+      "count": 1
+    },
+    {
+      "source": 262,
+      "target": 213,
+      "value": 0.4443221688270569,
+      "count": 1
+    },
+    {
+      "source": 263,
+      "target": 262,
+      "value": 0.5065062046051025,
+      "count": 1
+    },
+    {
+      "source": 262,
+      "target": 78,
+      "value": 0.38230881094932556,
+      "count": 1
+    },
+    {
+      "source": 261,
+      "target": 213,
+      "value": 0.38941454887390137,
+      "count": 1
+    },
+    {
+      "source": 263,
+      "target": 261,
+      "value": 0.45153453946113586,
+      "count": 1
+    },
+    {
+      "source": 261,
+      "target": 78,
+      "value": 0.3731417953968048,
+      "count": 1
+    },
+    {
+      "source": 263,
+      "target": 213,
+      "value": 0.573223888874054,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 213,
+      "value": 0.4066527187824249,
+      "count": 1
+    },
+    {
+      "source": 263,
+      "target": 78,
+      "value": 0.3133477568626404,
+      "count": 1
+    },
+    {
+      "source": 205,
+      "target": 80,
+      "value": 0.32576945424079895,
+      "count": 1
+    },
+    {
+      "source": 205,
+      "target": 404,
+      "value": 0.17424510419368744,
+      "count": 1
+    },
+    {
+      "source": 205,
+      "target": 268,
+      "value": 0.33096933364868164,
+      "count": 1
+    },
+    {
+      "source": 205,
+      "target": 83,
+      "value": 0.28471189737319946,
+      "count": 1
+    },
+    {
+      "source": 80,
+      "target": 404,
+      "value": 0.17635752260684967,
+      "count": 1
+    },
+    {
+      "source": 268,
+      "target": 80,
+      "value": 0.2260647416114807,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 80,
+      "value": 0.23567454516887665,
+      "count": 1
+    },
+    {
+      "source": 268,
+      "target": 404,
+      "value": 0.29466134309768677,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 404,
+      "value": 0.21679338812828064,
+      "count": 1
+    },
+    {
+      "source": 268,
+      "target": 83,
+      "value": 0.2738766670227051,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 170,
+      "value": 0.1965034306049347,
+      "count": 1
+    },
+    {
+      "source": 274,
+      "target": 170,
+      "value": 0.16582664847373962,
+      "count": 1
+    },
+    {
+      "source": 170,
+      "target": 171,
+      "value": 0.7958296537399292,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 274,
+      "value": 0.15316787362098694,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 171,
+      "value": 0.18261881172657013,
+      "count": 1
+    },
+    {
+      "source": 274,
+      "target": 171,
+      "value": 0.14847028255462646,
+      "count": 1
+    },
+    {
+      "source": 164,
+      "target": 333,
+      "value": 0.12460330873727798,
+      "count": 1
+    },
+    {
+      "source": 288,
+      "target": 333,
+      "value": 0.21560794115066528,
+      "count": 1
+    },
+    {
+      "source": 164,
+      "target": 288,
+      "value": 0.4259290397167206,
+      "count": 1
+    },
+    {
+      "source": 392,
+      "target": 272,
+      "value": 0.22978869080543518,
+      "count": 1
+    },
+    {
+      "source": 392,
+      "target": 273,
+      "value": 0.16159391403198242,
+      "count": 1
+    },
+    {
+      "source": 392,
+      "target": 316,
+      "value": 0.3964654207229614,
+      "count": 1
+    },
+    {
+      "source": 392,
+      "target": 6,
+      "value": 0.19588862359523773,
+      "count": 1
+    },
+    {
+      "source": 273,
+      "target": 272,
+      "value": 0.5011152029037476,
+      "count": 1
+    },
+    {
+      "source": 272,
+      "target": 316,
+      "value": 0.539049506187439,
+      "count": 1
+    },
+    {
+      "source": 272,
+      "target": 6,
+      "value": 0.5630776882171631,
+      "count": 1
+    },
+    {
+      "source": 273,
+      "target": 316,
+      "value": 0.26734960079193115,
+      "count": 1
+    },
+    {
+      "source": 273,
+      "target": 6,
+      "value": 0.32544445991516113,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 316,
+      "value": 0.5113774538040161,
+      "count": 1
+    },
+    {
+      "source": 121,
+      "target": 109,
+      "value": 0.28473976254463196,
+      "count": 1
+    },
+    {
+      "source": 121,
+      "target": 426,
+      "value": 0.20015837252140045,
+      "count": 1
+    },
+    {
+      "source": 121,
+      "target": 246,
+      "value": 0.21685919165611267,
+      "count": 1
+    },
+    {
+      "source": 121,
+      "target": 168,
+      "value": 0.19579406082630157,
+      "count": 1
+    },
+    {
+      "source": 109,
+      "target": 426,
+      "value": 0.20011162757873535,
+      "count": 1
+    },
+    {
+      "source": 109,
+      "target": 246,
+      "value": 0.1601339727640152,
+      "count": 1
+    },
+    {
+      "source": 109,
+      "target": 168,
+      "value": 0.22870391607284546,
+      "count": 1
+    },
+    {
+      "source": 426,
+      "target": 246,
+      "value": 0.20926201343536377,
+      "count": 1
+    },
+    {
+      "source": 426,
+      "target": 168,
+      "value": 0.17463351786136627,
+      "count": 1
+    },
+    {
+      "source": 168,
+      "target": 246,
+      "value": 0.17221741378307343,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 278,
+      "value": 0.5032460689544678,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 62,
+      "value": 0.18167981505393982,
+      "count": 1
+    },
+    {
+      "source": 278,
+      "target": 62,
+      "value": 0.27230775356292725,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 389,
+      "value": 0.18167290091514587,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 27,
+      "value": 0.3415226936340332,
+      "count": 1
+    },
+    {
+      "source": 235,
+      "target": 27,
+      "value": 0.31115564703941345,
+      "count": 1
+    },
+    {
+      "source": 160,
+      "target": 27,
+      "value": 0.3925234377384186,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 389,
+      "value": 0.21323195099830627,
+      "count": 1
+    },
+    {
+      "source": 235,
+      "target": 389,
+      "value": 0.35908928513526917,
+      "count": 1
+    },
+    {
+      "source": 160,
+      "target": 389,
+      "value": 0.5291886329650879,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 235,
+      "value": 0.242792010307312,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 160,
+      "value": 0.3331061899662018,
+      "count": 1
+    },
+    {
+      "source": 160,
+      "target": 235,
+      "value": 0.2953454256057739,
+      "count": 1
+    },
+    {
+      "source": 411,
+      "target": 241,
+      "value": 0.1859721541404724,
+      "count": 1
+    },
+    {
+      "source": 241,
+      "target": 66,
+      "value": 0.2048158347606659,
+      "count": 1
+    },
+    {
+      "source": 241,
+      "target": 393,
+      "value": 0.18956339359283447,
+      "count": 1
+    },
+    {
+      "source": 411,
+      "target": 66,
+      "value": 0.38519999384880066,
+      "count": 1
+    },
+    {
+      "source": 411,
+      "target": 393,
+      "value": 0.207290381193161,
+      "count": 1
+    },
+    {
+      "source": 66,
+      "target": 393,
+      "value": 0.22114545106887817,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 336,
+      "value": 0.2656378448009491,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 230,
+      "value": 0.14129401743412018,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 287,
+      "value": 0.16213758289813995,
+      "count": 1
+    },
+    {
+      "source": 336,
+      "target": 230,
+      "value": 0.14876532554626465,
+      "count": 1
+    },
+    {
+      "source": 336,
+      "target": 287,
+      "value": 0.20618464052677155,
+      "count": 1
+    },
+    {
+      "source": 287,
+      "target": 230,
+      "value": 0.2501205801963806,
+      "count": 1
+    },
+    {
+      "source": 366,
+      "target": 75,
+      "value": 0.2395026683807373,
+      "count": 1
+    },
+    {
+      "source": 366,
+      "target": 159,
+      "value": 0.11959423869848251,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 159,
+      "value": 0.12632887065410614,
+      "count": 1
+    },
+    {
+      "source": 218,
+      "target": 306,
+      "value": 0.21859833598136902,
+      "count": 1
+    },
+    {
+      "source": 218,
+      "target": 172,
+      "value": 0.23432907462120056,
+      "count": 1
+    },
+    {
+      "source": 218,
+      "target": 154,
+      "value": 0.14615899324417114,
+      "count": 1
+    },
+    {
+      "source": 306,
+      "target": 172,
+      "value": 0.22959010303020477,
+      "count": 1
+    },
+    {
+      "source": 306,
+      "target": 154,
+      "value": 0.17666953802108765,
+      "count": 1
+    },
+    {
+      "source": 172,
+      "target": 154,
+      "value": 0.16237559914588928,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 328,
+      "value": 0.22242289781570435,
+      "count": 1
+    },
+    {
+      "source": 317,
+      "target": 328,
+      "value": 0.4078958034515381,
+      "count": 1
+    },
+    {
+      "source": 156,
+      "target": 328,
+      "value": 0.3516772389411926,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 317,
+      "value": 0.1608276665210724,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 156,
+      "value": 0.16910183429718018,
+      "count": 1
+    },
+    {
+      "source": 317,
+      "target": 156,
+      "value": 0.5002845525741577,
+      "count": 1
+    },
+    {
+      "source": 157,
+      "target": 158,
+      "value": 0.6384555101394653,
+      "count": 1
+    },
+    {
+      "source": 157,
+      "target": 189,
+      "value": 0.20011764764785767,
+      "count": 1
+    },
+    {
+      "source": 157,
+      "target": 410,
+      "value": 0.20563146471977234,
+      "count": 1
+    },
+    {
+      "source": 158,
+      "target": 189,
+      "value": 0.18549086153507233,
+      "count": 1
+    },
+    {
+      "source": 158,
+      "target": 410,
+      "value": 0.1923387348651886,
+      "count": 1
+    },
+    {
+      "source": 189,
+      "target": 410,
+      "value": 0.24252811074256897,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 39,
+      "value": 0.4821411371231079,
+      "count": 1
+    },
+    {
+      "source": 419,
+      "target": 4,
+      "value": 0.16425353288650513,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 4,
+      "value": 0.29932570457458496,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 88,
+      "value": 0.22077703475952148,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 355,
+      "value": 0.18377938866615295,
+      "count": 1
+    },
+    {
+      "source": 419,
+      "target": 39,
+      "value": 0.19186176359653473,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 39,
+      "value": 0.427714467048645,
+      "count": 1
+    },
+    {
+      "source": 88,
+      "target": 39,
+      "value": 0.2792454957962036,
+      "count": 1
+    },
+    {
+      "source": 355,
+      "target": 39,
+      "value": 0.2454412579536438,
+      "count": 1
+    },
+    {
+      "source": 419,
+      "target": 81,
+      "value": 0.3212929368019104,
+      "count": 1
+    },
+    {
+      "source": 419,
+      "target": 88,
+      "value": 0.18776656687259674,
+      "count": 1
+    },
+    {
+      "source": 419,
+      "target": 355,
+      "value": 0.19258996844291687,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 88,
+      "value": 0.2412407100200653,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 355,
+      "value": 0.37170884013175964,
+      "count": 1
+    },
+    {
+      "source": 88,
+      "target": 355,
+      "value": 0.1954578459262848,
+      "count": 1
+    },
+    {
+      "source": 186,
+      "target": 222,
+      "value": 0.16515174508094788,
+      "count": 1
+    },
+    {
+      "source": 186,
+      "target": 284,
+      "value": 0.20835047960281372,
+      "count": 1
+    },
+    {
+      "source": 186,
+      "target": 238,
+      "value": 0.23602509498596191,
+      "count": 1
+    },
+    {
+      "source": 222,
+      "target": 284,
+      "value": 0.17587396502494812,
+      "count": 1
+    },
+    {
+      "source": 222,
+      "target": 238,
+      "value": 0.15053370594978333,
+      "count": 1
+    },
+    {
+      "source": 284,
+      "target": 238,
+      "value": 0.29315540194511414,
+      "count": 1
+    },
+    {
+      "source": 361,
+      "target": 341,
+      "value": 0.20697319507598877,
+      "count": 1
+    },
+    {
+      "source": 361,
+      "target": 387,
+      "value": 0.16773904860019684,
+      "count": 1
+    },
+    {
+      "source": 361,
+      "target": 194,
+      "value": 0.22983065247535706,
+      "count": 1
+    },
+    {
+      "source": 341,
+      "target": 387,
+      "value": 0.15303999185562134,
+      "count": 1
+    },
+    {
+      "source": 341,
+      "target": 194,
+      "value": 0.4447265565395355,
+      "count": 1
+    },
+    {
+      "source": 387,
+      "target": 194,
+      "value": 0.2078472226858139,
+      "count": 1
+    },
+    {
+      "source": 144,
+      "target": 130,
+      "value": 0.3859594464302063,
+      "count": 1
+    },
+    {
+      "source": 144,
+      "target": 326,
+      "value": 0.1806132197380066,
+      "count": 1
+    },
+    {
+      "source": 144,
+      "target": 325,
+      "value": 0.1588730812072754,
+      "count": 1
+    },
+    {
+      "source": 130,
+      "target": 326,
+      "value": 0.0935078114271164,
+      "count": 1
+    },
+    {
+      "source": 130,
+      "target": 325,
+      "value": 0.16597391664981842,
+      "count": 1
+    },
+    {
+      "source": 326,
+      "target": 325,
+      "value": 0.5337119698524475,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 126,
+      "value": 0.46600890159606934,
+      "count": 1
+    },
+    {
+      "source": 126,
+      "target": 369,
+      "value": 0.39823395013809204,
+      "count": 1
+    },
+    {
+      "source": 365,
+      "target": 126,
+      "value": 0.2204064428806305,
+      "count": 1
+    },
+    {
+      "source": 113,
+      "target": 126,
+      "value": 0.3366749882698059,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 369,
+      "value": 0.284346342086792,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 365,
+      "value": 0.18185053765773773,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 113,
+      "value": 0.7084757089614868,
+      "count": 1
+    },
+    {
+      "source": 365,
+      "target": 369,
+      "value": 0.2717466354370117,
+      "count": 1
+    },
+    {
+      "source": 113,
+      "target": 369,
+      "value": 0.22096121311187744,
+      "count": 1
+    },
+    {
+      "source": 113,
+      "target": 365,
+      "value": 0.14320330321788788,
+      "count": 1
+    },
+    {
+      "source": 409,
+      "target": 300,
+      "value": 0.2153719961643219,
+      "count": 1
+    },
+    {
+      "source": 409,
+      "target": 301,
+      "value": 0.6515357494354248,
+      "count": 1
+    },
+    {
+      "source": 409,
+      "target": 357,
+      "value": 0.36190417408943176,
+      "count": 1
+    },
+    {
+      "source": 300,
+      "target": 301,
+      "value": 0.24875393509864807,
+      "count": 1
+    },
+    {
+      "source": 300,
+      "target": 357,
+      "value": 0.24631069600582123,
+      "count": 1
+    },
+    {
+      "source": 301,
+      "target": 357,
+      "value": 0.6416118144989014,
+      "count": 1
+    },
+    {
+      "source": 309,
+      "target": 119,
+      "value": 0.24594011902809143,
+      "count": 1
+    },
+    {
+      "source": 309,
+      "target": 101,
+      "value": 0.3010362982749939,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 309,
+      "value": 0.6208103895187378,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 309,
+      "value": 0.241154283285141,
+      "count": 1
+    },
+    {
+      "source": 101,
+      "target": 119,
+      "value": 0.35726556181907654,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 119,
+      "value": 0.15496346354484558,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 119,
+      "value": 0.26722514629364014,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 101,
+      "value": 0.3345603346824646,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 101,
+      "value": 0.4653299152851105,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 102,
+      "value": 0.27979952096939087,
+      "count": 1
+    },
+    {
+      "source": 340,
+      "target": 13,
+      "value": 0.2988221049308777,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "value": 0.3557718098163605,
+      "count": 1
+    },
+    {
+      "source": 390,
+      "target": 13,
+      "value": 0.16262012720108032,
+      "count": 1
+    },
+    {
+      "source": 270,
+      "target": 13,
+      "value": 0.16040045022964478,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 340,
+      "value": 0.23222994804382324,
+      "count": 1
+    },
+    {
+      "source": 390,
+      "target": 340,
+      "value": 0.12774589657783508,
+      "count": 1
+    },
+    {
+      "source": 340,
+      "target": 270,
+      "value": 0.1866477131843567,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 390,
+      "value": 0.22457702457904816,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 270,
+      "value": 0.1812656819820404,
+      "count": 1
+    },
+    {
+      "source": 390,
+      "target": 270,
+      "value": 0.15200811624526978,
+      "count": 1
+    },
+    {
+      "source": 330,
+      "target": 437,
+      "value": 0.48661285638809204,
+      "count": 1
+    },
+    {
+      "source": 348,
+      "target": 437,
+      "value": 0.3074389696121216,
+      "count": 1
+    },
+    {
+      "source": 330,
+      "target": 348,
+      "value": 0.2693770229816437,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 239,
+      "value": 0.37581461668014526,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 178,
+      "value": 0.10903219133615494,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 211,
+      "value": 0.1039171889424324,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 46,
+      "value": 0.2456684410572052,
+      "count": 1
+    },
+    {
+      "source": 178,
+      "target": 239,
+      "value": 0.05902639403939247,
+      "count": 1
+    },
+    {
+      "source": 211,
+      "target": 239,
+      "value": 0.2204562872648239,
+      "count": 1
+    },
+    {
+      "source": 239,
+      "target": 46,
+      "value": 0.49716269969940186,
+      "count": 1
+    },
+    {
+      "source": 178,
+      "target": 211,
+      "value": 0.3316011428833008,
+      "count": 1
+    },
+    {
+      "source": 178,
+      "target": 46,
+      "value": 0.18133382499217987,
+      "count": 1
+    },
+    {
+      "source": 211,
+      "target": 46,
+      "value": 0.3329535722732544,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "value": 0.5184224247932434,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 41,
+      "value": 0.5655773878097534,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 41,
+      "value": 0.2275213897228241,
+      "count": 1
+    },
+    {
+      "source": 399,
+      "target": 41,
+      "value": 0.22693771123886108,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 41,
+      "value": 0.24536599218845367,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 40,
+      "value": 0.395309716463089,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 40,
+      "value": 0.3146621882915497,
+      "count": 1
+    },
+    {
+      "source": 399,
+      "target": 40,
+      "value": 0.20890608429908752,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 40,
+      "value": 0.21819622814655304,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 37,
+      "value": 0.20812278985977173,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 399,
+      "value": 0.25551313161849976,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 85,
+      "value": 0.20722246170043945,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 399,
+      "value": 0.3189619779586792,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 85,
+      "value": 0.1402728259563446,
+      "count": 1
+    },
+    {
+      "source": 399,
+      "target": 85,
+      "value": 0.332552433013916,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 202,
+      "value": 0.28119367361068726,
+      "count": 1
+    },
+    {
+      "source": 422,
+      "target": 202,
+      "value": 0.23532459139823914,
+      "count": 1
+    },
+    {
+      "source": 148,
+      "target": 202,
+      "value": 0.171053946018219,
+      "count": 1
+    },
+    {
+      "source": 136,
+      "target": 202,
+      "value": 0.4493600130081177,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 422,
+      "value": 0.2868616580963135,
+      "count": 1
+    },
+    {
+      "source": 148,
+      "target": 82,
+      "value": 0.09651461243629456,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 136,
+      "value": 0.28952306509017944,
+      "count": 1
+    },
+    {
+      "source": 148,
+      "target": 422,
+      "value": 0.15680775046348572,
+      "count": 1
+    },
+    {
+      "source": 422,
+      "target": 136,
+      "value": 0.31490200757980347,
+      "count": 1
+    },
+    {
+      "source": 148,
+      "target": 136,
+      "value": 0.12242504209280014,
+      "count": 1
+    },
+    {
+      "source": 331,
+      "target": 245,
+      "value": 0.1694539189338684,
+      "count": 1
+    },
+    {
+      "source": 331,
+      "target": 364,
+      "value": 0.30076396465301514,
+      "count": 1
+    },
+    {
+      "source": 331,
+      "target": 187,
+      "value": 0.603716254234314,
+      "count": 1
+    },
+    {
+      "source": 245,
+      "target": 364,
+      "value": 0.13278032839298248,
+      "count": 1
+    },
+    {
+      "source": 245,
+      "target": 187,
+      "value": 0.14533430337905884,
+      "count": 1
+    },
+    {
+      "source": 364,
+      "target": 187,
+      "value": 0.4208243787288666,
+      "count": 1
+    },
+    {
+      "source": 201,
+      "target": 21,
+      "value": 0.1603115200996399,
+      "count": 1
+    },
+    {
+      "source": 201,
+      "target": 322,
+      "value": 0.3046988248825073,
+      "count": 1
+    },
+    {
+      "source": 201,
+      "target": 432,
+      "value": 0.1134113073348999,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 322,
+      "value": 0.11564551293849945,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 432,
+      "value": 0.2875107228755951,
+      "count": 1
+    },
+    {
+      "source": 322,
+      "target": 432,
+      "value": 0.13928739726543427,
+      "count": 1
+    },
+    {
+      "source": 358,
+      "target": 243,
+      "value": 0.24557512998580933,
+      "count": 1
+    },
+    {
+      "source": 358,
+      "target": 264,
+      "value": 0.2286076545715332,
+      "count": 1
+    },
+    {
+      "source": 358,
+      "target": 319,
+      "value": 0.20016737282276154,
+      "count": 1
+    },
+    {
+      "source": 358,
+      "target": 286,
+      "value": 0.22334608435630798,
+      "count": 1
+    },
+    {
+      "source": 243,
+      "target": 264,
+      "value": 0.5277657508850098,
+      "count": 1
+    },
+    {
+      "source": 243,
+      "target": 319,
+      "value": 0.2360587865114212,
+      "count": 1
+    },
+    {
+      "source": 286,
+      "target": 243,
+      "value": 0.37797993421554565,
+      "count": 1
+    },
+    {
+      "source": 264,
+      "target": 319,
+      "value": 0.30060362815856934,
+      "count": 1
+    },
+    {
+      "source": 286,
+      "target": 264,
+      "value": 0.29853102564811707,
+      "count": 1
+    },
+    {
+      "source": 286,
+      "target": 319,
+      "value": 0.283062219619751,
+      "count": 1
+    },
+    {
+      "source": 321,
+      "target": 143,
+      "value": 0.31472304463386536,
+      "count": 1
+    },
+    {
+      "source": 321,
+      "target": 386,
+      "value": 0.3286757171154022,
+      "count": 1
+    },
+    {
+      "source": 321,
+      "target": 224,
+      "value": 0.3017720580101013,
+      "count": 1
+    },
+    {
+      "source": 321,
+      "target": 420,
+      "value": 0.37971383333206177,
+      "count": 1
+    },
+    {
+      "source": 143,
+      "target": 386,
+      "value": 0.3347160220146179,
+      "count": 1
+    },
+    {
+      "source": 224,
+      "target": 143,
+      "value": 0.2776656746864319,
+      "count": 1
+    },
+    {
+      "source": 143,
+      "target": 420,
+      "value": 0.18338152766227722,
+      "count": 1
+    },
+    {
+      "source": 224,
+      "target": 386,
+      "value": 0.38236570358276367,
+      "count": 1
+    },
+    {
+      "source": 386,
+      "target": 420,
+      "value": 0.28939539194107056,
+      "count": 1
+    },
+    {
+      "source": 224,
+      "target": 420,
+      "value": 0.27628064155578613,
+      "count": 1
+    },
+    {
+      "source": 188,
+      "target": 44,
+      "value": 0.3673672080039978,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 161,
+      "value": 0.2803228795528412,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 29,
+      "value": 0.19421125948429108,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 3,
+      "value": 0.41997578740119934,
+      "count": 1
+    },
+    {
+      "source": 188,
+      "target": 161,
+      "value": 0.31008413434028625,
+      "count": 1
+    },
+    {
+      "source": 188,
+      "target": 29,
+      "value": 0.16580218076705933,
+      "count": 1
+    },
+    {
+      "source": 188,
+      "target": 3,
+      "value": 0.26707446575164795,
+      "count": 1
+    },
+    {
+      "source": 161,
+      "target": 29,
+      "value": 0.46888765692710876,
+      "count": 1
+    },
+    {
+      "source": 161,
+      "target": 3,
+      "value": 0.26958227157592773,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 3,
+      "value": 0.1234770342707634,
+      "count": 1
+    },
+    {
+      "source": 163,
+      "target": 320,
+      "value": 0.1532520353794098,
+      "count": 1
+    },
+    {
+      "source": 163,
+      "target": 74,
+      "value": 0.17250151932239532,
+      "count": 1
+    },
+    {
+      "source": 163,
+      "target": 375,
+      "value": 0.18185542523860931,
+      "count": 1
+    },
+    {
+      "source": 320,
+      "target": 74,
+      "value": 0.11867442727088928,
+      "count": 1
+    },
+    {
+      "source": 320,
+      "target": 375,
+      "value": 0.1615334004163742,
+      "count": 1
+    },
+    {
+      "source": 375,
+      "target": 74,
+      "value": 0.2370058000087738,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 125,
+      "value": 0.2683494985103607,
+      "count": 1
+    },
+    {
+      "source": 125,
+      "target": 199,
+      "value": 0.23589342832565308,
+      "count": 1
+    },
+    {
+      "source": 125,
+      "target": 275,
+      "value": 0.4091153144836426,
+      "count": 1
+    },
+    {
+      "source": 400,
+      "target": 125,
+      "value": 0.25099611282348633,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 199,
+      "value": 0.21888190507888794,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 275,
+      "value": 0.2587801516056061,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 400,
+      "value": 0.15488260984420776,
+      "count": 1
+    },
+    {
+      "source": 199,
+      "target": 275,
+      "value": 0.26832303404808044,
+      "count": 1
+    },
+    {
+      "source": 400,
+      "target": 199,
+      "value": 0.21421711146831512,
+      "count": 1
+    },
+    {
+      "source": 400,
+      "target": 275,
+      "value": 0.10778188705444336,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 167,
+      "value": 0.20780405402183533,
+      "count": 1
+    },
+    {
+      "source": 329,
+      "target": 167,
+      "value": 0.4296458065509796,
+      "count": 1
+    },
+    {
+      "source": 167,
+      "target": 254,
+      "value": 0.3627990186214447,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 329,
+      "value": 0.19137170910835266,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 254,
+      "value": 0.1565086841583252,
+      "count": 1
+    },
+    {
+      "source": 329,
+      "target": 254,
+      "value": 0.20082250237464905,
+      "count": 1
+    },
+    {
+      "source": 23,
+      "target": 153,
+      "value": 0.2170867621898651,
+      "count": 1
+    },
+    {
+      "source": 23,
+      "target": 150,
+      "value": 0.15960010886192322,
+      "count": 1
+    },
+    {
+      "source": 23,
+      "target": 207,
+      "value": 0.09470993280410767,
+      "count": 1
+    },
+    {
+      "source": 153,
+      "target": 150,
+      "value": 0.21847477555274963,
+      "count": 1
+    },
+    {
+      "source": 153,
+      "target": 207,
+      "value": 0.11902132630348206,
+      "count": 1
+    },
+    {
+      "source": 150,
+      "target": 207,
+      "value": 0.11451695114374161,
+      "count": 1
+    },
+    {
+      "source": 281,
+      "target": 7,
+      "value": 0.1759352684020996,
+      "count": 1
+    },
+    {
+      "source": 281,
+      "target": 227,
+      "value": 0.1433388590812683,
+      "count": 1
+    },
+    {
+      "source": 281,
+      "target": 71,
+      "value": 0.09758052229881287,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 227,
+      "value": 0.13191546499729156,
+      "count": 1
+    },
+    {
+      "source": 71,
+      "target": 7,
+      "value": 0.18932285904884338,
+      "count": 1
+    },
+    {
+      "source": 71,
+      "target": 227,
+      "value": 0.31057512760162354,
+      "count": 1
+    },
+    {
+      "source": 380,
+      "target": 55,
+      "value": 0.23079700767993927,
+      "count": 1
+    },
+    {
+      "source": 90,
+      "target": 55,
+      "value": 0.11304677277803421,
+      "count": 1
+    },
+    {
+      "source": 198,
+      "target": 55,
+      "value": 0.21422836184501648,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 55,
+      "value": 0.458536833524704,
+      "count": 1
+    },
+    {
+      "source": 380,
+      "target": 90,
+      "value": 0.17434994876384735,
+      "count": 1
+    },
+    {
+      "source": 380,
+      "target": 198,
+      "value": 0.4510110020637512,
+      "count": 1
+    },
+    {
+      "source": 380,
+      "target": 2,
+      "value": 0.13513219356536865,
+      "count": 1
+    },
+    {
+      "source": 90,
+      "target": 198,
+      "value": 0.20941436290740967,
+      "count": 1
+    },
+    {
+      "source": 90,
+      "target": 2,
+      "value": 0.12169964611530304,
+      "count": 1
+    },
+    {
+      "source": 198,
+      "target": 2,
+      "value": 0.1431637555360794,
+      "count": 1
+    },
+    {
+      "source": 91,
+      "target": 295,
+      "value": 0.4441767930984497,
+      "count": 1
+    },
+    {
+      "source": 91,
+      "target": 244,
+      "value": 0.13920751214027405,
+      "count": 1
+    },
+    {
+      "source": 91,
+      "target": 303,
+      "value": 0.2728172540664673,
+      "count": 1
+    },
+    {
+      "source": 295,
+      "target": 244,
+      "value": 0.15201705694198608,
+      "count": 1
+    },
+    {
+      "source": 295,
+      "target": 303,
+      "value": 0.21490228176116943,
+      "count": 1
+    },
+    {
+      "source": 244,
+      "target": 303,
+      "value": 0.21305546164512634,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 314,
+      "value": 0.3876693844795227,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 220,
+      "value": 0.21822288632392883,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 65,
+      "value": 0.3412984609603882,
+      "count": 1
+    },
+    {
+      "source": 314,
+      "target": 220,
+      "value": 0.24698254466056824,
+      "count": 1
+    },
+    {
+      "source": 314,
+      "target": 65,
+      "value": 0.42743387818336487,
+      "count": 1
+    },
+    {
+      "source": 220,
+      "target": 65,
+      "value": 0.21830900013446808,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 427,
+      "value": 0.18408426642417908,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 282,
+      "value": 0.24307049810886383,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 133,
+      "value": 0.5789284706115723,
+      "count": 1
+    },
+    {
+      "source": 427,
+      "target": 282,
+      "value": 0.20818358659744263,
+      "count": 1
+    },
+    {
+      "source": 427,
+      "target": 133,
+      "value": 0.23111501336097717,
+      "count": 1
+    },
+    {
+      "source": 282,
+      "target": 133,
+      "value": 0.14375917613506317,
+      "count": 1
+    },
+    {
+      "source": 144,
+      "target": 289,
+      "value": 0.188981294631958,
+      "count": 1
+    },
+    {
+      "source": 144,
+      "target": 290,
+      "value": 0.22658470273017883,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 289,
+      "value": 0.2751181125640869,
+      "count": 1
+    },
+    {
+      "source": 100,
+      "target": 289,
+      "value": 0.21505051851272583,
+      "count": 1
+    },
+    {
+      "source": 290,
+      "target": 289,
+      "value": 0.4284599721431732,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 290,
+      "value": 0.2615043520927429,
+      "count": 1
+    },
+    {
+      "source": 100,
+      "target": 290,
+      "value": 0.24060985445976257,
+      "count": 1
+    },
+    {
+      "source": 173,
+      "target": 108,
+      "value": 0.24978387355804443,
+      "count": 1
+    },
+    {
+      "source": 173,
+      "target": 237,
+      "value": 0.19397470355033875,
+      "count": 1
+    },
+    {
+      "source": 108,
+      "target": 237,
+      "value": 0.2798488140106201,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 177,
+      "value": 0.2022908627986908,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 42,
+      "value": 0.09915755689144135,
+      "count": 1
+    },
+    {
+      "source": 177,
+      "target": 42,
+      "value": 0.16051378846168518,
+      "count": 1
+    },
+    {
+      "source": 353,
+      "target": 124,
+      "value": 0.15863031148910522,
+      "count": 1
+    },
+    {
+      "source": 353,
+      "target": 374,
+      "value": 0.15422117710113525,
+      "count": 1
+    },
+    {
+      "source": 434,
+      "target": 353,
+      "value": 0.09612584114074707,
+      "count": 1
+    },
+    {
+      "source": 353,
+      "target": 208,
+      "value": 0.07776680588722229,
+      "count": 1
+    },
+    {
+      "source": 124,
+      "target": 374,
+      "value": 0.18354354798793793,
+      "count": 1
+    },
+    {
+      "source": 434,
+      "target": 124,
+      "value": 0.17176476120948792,
+      "count": 1
+    },
+    {
+      "source": 124,
+      "target": 208,
+      "value": 0.11051206290721893,
+      "count": 1
+    },
+    {
+      "source": 434,
+      "target": 374,
+      "value": 0.19083385169506073,
+      "count": 1
+    },
+    {
+      "source": 208,
+      "target": 374,
+      "value": 0.2442375123500824,
+      "count": 1
+    },
+    {
+      "source": 434,
+      "target": 208,
+      "value": 0.1492309272289276,
+      "count": 1
+    },
+    {
+      "source": 195,
+      "target": 438,
+      "value": 0.1902998983860016,
+      "count": 1
+    },
+    {
+      "source": 195,
+      "target": 229,
+      "value": 0.2268548160791397,
+      "count": 1
+    },
+    {
+      "source": 195,
+      "target": 145,
+      "value": 0.23408687114715576,
+      "count": 1
+    },
+    {
+      "source": 195,
+      "target": 132,
+      "value": 0.2768855690956116,
+      "count": 1
+    },
+    {
+      "source": 438,
+      "target": 229,
+      "value": 0.24982218444347382,
+      "count": 1
+    },
+    {
+      "source": 438,
+      "target": 145,
+      "value": 0.224676251411438,
+      "count": 1
+    },
+    {
+      "source": 438,
+      "target": 132,
+      "value": 0.200242817401886,
+      "count": 1
+    },
+    {
+      "source": 229,
+      "target": 145,
+      "value": 0.24392041563987732,
+      "count": 1
+    },
+    {
+      "source": 132,
+      "target": 229,
+      "value": 0.24465163052082062,
+      "count": 1
+    },
+    {
+      "source": 132,
+      "target": 145,
+      "value": 0.27713263034820557,
+      "count": 1
+    },
+    {
+      "source": 323,
+      "target": 324,
+      "value": 0.38359367847442627,
+      "count": 1
+    },
+    {
+      "source": 323,
+      "target": 362,
+      "value": 0.28035515546798706,
+      "count": 1
+    },
+    {
+      "source": 323,
+      "target": 363,
+      "value": 0.5490942001342773,
+      "count": 1
+    },
+    {
+      "source": 323,
+      "target": 258,
+      "value": 0.3171553313732147,
+      "count": 1
+    },
+    {
+      "source": 324,
+      "target": 362,
+      "value": 0.37784379720687866,
+      "count": 1
+    },
+    {
+      "source": 324,
+      "target": 363,
+      "value": 0.38921988010406494,
+      "count": 1
+    },
+    {
+      "source": 324,
+      "target": 258,
+      "value": 0.3027454614639282,
+      "count": 1
+    },
+    {
+      "source": 362,
+      "target": 363,
+      "value": 0.7242472171783447,
+      "count": 1
+    },
+    {
+      "source": 362,
+      "target": 258,
+      "value": 0.3540007174015045,
+      "count": 1
+    },
+    {
+      "source": 363,
+      "target": 258,
+      "value": 0.2683302164077759,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 10,
+      "value": 0.31727179884910583,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 356,
+      "value": 0.6034892201423645,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 298,
+      "value": 0.29263240098953247,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 312,
+      "value": 0.593008816242218,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 356,
+      "value": 0.2688889503479004,
+      "count": 1
+    },
+    {
+      "source": 298,
+      "target": 10,
+      "value": 0.2487483024597168,
+      "count": 1
+    },
+    {
+      "source": 312,
+      "target": 10,
+      "value": 0.24385234713554382,
+      "count": 1
+    },
+    {
+      "source": 298,
+      "target": 356,
+      "value": 0.3217223882675171,
+      "count": 1
+    },
+    {
+      "source": 312,
+      "target": 356,
+      "value": 0.5254390835762024,
+      "count": 1
+    },
+    {
+      "source": 298,
+      "target": 312,
+      "value": 0.21812066435813904,
+      "count": 1
+    },
+    {
+      "source": 297,
+      "target": 267,
+      "value": 0.4011556804180145,
+      "count": 1
+    },
+    {
+      "source": 297,
+      "target": 343,
+      "value": 0.2832885682582855,
+      "count": 1
+    },
+    {
+      "source": 297,
+      "target": 346,
+      "value": 0.6663233041763306,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 267,
+      "value": 0.1841077208518982,
+      "count": 1
+    },
+    {
+      "source": 267,
+      "target": 346,
+      "value": 0.27469295263290405,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 346,
+      "value": 0.4043698012828827,
+      "count": 1
+    },
+    {
+      "source": 140,
+      "target": 359,
+      "value": 0.555886447429657,
+      "count": 1
+    },
+    {
+      "source": 140,
+      "target": 209,
+      "value": 0.21074533462524414,
+      "count": 1
+    },
+    {
+      "source": 140,
+      "target": 138,
+      "value": 0.41103893518447876,
+      "count": 1
+    },
+    {
+      "source": 140,
+      "target": 139,
+      "value": 0.6603142023086548,
+      "count": 1
+    },
+    {
+      "source": 359,
+      "target": 209,
+      "value": 0.1512773334980011,
+      "count": 1
+    },
+    {
+      "source": 359,
+      "target": 138,
+      "value": 0.3234961926937103,
+      "count": 1
+    },
+    {
+      "source": 359,
+      "target": 139,
+      "value": 0.5440674424171448,
+      "count": 1
+    },
+    {
+      "source": 209,
+      "target": 138,
+      "value": 0.1428665965795517,
+      "count": 1
+    },
+    {
+      "source": 209,
+      "target": 139,
+      "value": 0.13526996970176697,
+      "count": 1
+    },
+    {
+      "source": 139,
+      "target": 138,
+      "value": 0.38950157165527344,
+      "count": 1
+    },
+    {
+      "source": 271,
+      "target": 99,
+      "value": 0.17582041025161743,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 408,
+      "value": 0.2053891122341156,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 338,
+      "value": 0.3726634681224823,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 24,
+      "value": 0.3986392617225647,
+      "count": 1
+    },
+    {
+      "source": 271,
+      "target": 408,
+      "value": 0.3370019495487213,
+      "count": 1
+    },
+    {
+      "source": 271,
+      "target": 338,
+      "value": 0.2014184594154358,
+      "count": 1
+    },
+    {
+      "source": 271,
+      "target": 24,
+      "value": 0.26395195722579956,
+      "count": 1
+    },
+    {
+      "source": 408,
+      "target": 338,
+      "value": 0.24457760155200958,
+      "count": 1
+    },
+    {
+      "source": 408,
+      "target": 24,
+      "value": 0.2107982635498047,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 338,
+      "value": 0.1986503005027771,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 403,
+      "value": 0.23217982053756714,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 327,
+      "value": 0.23144331574440002,
+      "count": 1
+    },
+    {
+      "source": 327,
+      "target": 403,
+      "value": 0.3465365767478943,
+      "count": 1
+    },
+    {
+      "source": 398,
+      "target": 86,
+      "value": 0.1466478854417801,
+      "count": 1
+    },
+    {
+      "source": 398,
+      "target": 233,
+      "value": 0.1399509608745575,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 233,
+      "value": 0.09861060976982117,
+      "count": 1
+    },
+    {
+      "source": 318,
+      "target": 296,
+      "value": 0.21955999732017517,
+      "count": 1
+    },
+    {
+      "source": 318,
+      "target": 118,
+      "value": 0.1585589051246643,
+      "count": 1
+    },
+    {
+      "source": 296,
+      "target": 118,
+      "value": 0.1938301920890808,
+      "count": 1
+    },
+    {
+      "source": 131,
+      "target": 111,
+      "value": 0.20408962666988373,
+      "count": 1
+    },
+    {
+      "source": 131,
+      "target": 265,
+      "value": 0.14715442061424255,
+      "count": 1
+    },
+    {
+      "source": 131,
+      "target": 234,
+      "value": 0.15691685676574707,
+      "count": 1
+    },
+    {
+      "source": 111,
+      "target": 265,
+      "value": 0.3282467722892761,
+      "count": 1
+    },
+    {
+      "source": 111,
+      "target": 234,
+      "value": 0.33906829357147217,
+      "count": 1
+    },
+    {
+      "source": 265,
+      "target": 234,
+      "value": 0.10580621659755707,
+      "count": 1
+    },
+    {
+      "source": 430,
+      "target": 94,
+      "value": 0.364255428314209,
+      "count": 1
+    },
+    {
+      "source": 430,
+      "target": 429,
+      "value": 0.48926007747650146,
+      "count": 1
+    },
+    {
+      "source": 52,
+      "target": 430,
+      "value": 0.35295039415359497,
+      "count": 1
+    },
+    {
+      "source": 430,
+      "target": 279,
+      "value": 0.3931838572025299,
+      "count": 1
+    },
+    {
+      "source": 94,
+      "target": 429,
+      "value": 0.31333258748054504,
+      "count": 1
+    },
+    {
+      "source": 52,
+      "target": 94,
+      "value": 0.17264533042907715,
+      "count": 1
+    },
+    {
+      "source": 94,
+      "target": 279,
+      "value": 0.18414977192878723,
+      "count": 1
+    },
+    {
+      "source": 52,
+      "target": 429,
+      "value": 0.30282458662986755,
+      "count": 1
+    },
+    {
+      "source": 279,
+      "target": 429,
+      "value": 0.28683537244796753,
+      "count": 1
+    },
+    {
+      "source": 52,
+      "target": 279,
+      "value": 0.3420349955558777,
+      "count": 1
+    },
+    {
+      "source": 436,
+      "target": 32,
+      "value": 0.09402144700288773,
+      "count": 1
+    },
+    {
+      "source": 436,
+      "target": 377,
+      "value": 0.13997682929039001,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 377,
+      "value": 0.22378258407115936,
+      "count": 1
+    },
+    {
+      "source": 192,
+      "target": 193,
+      "value": 0.24323613941669464,
+      "count": 1
+    },
+    {
+      "source": 192,
+      "target": 137,
+      "value": 0.2111510932445526,
+      "count": 1
+    },
+    {
+      "source": 193,
+      "target": 137,
+      "value": 0.35707345604896545,
+      "count": 1
+    },
+    {
+      "source": 310,
+      "target": 48,
+      "value": 0.2567342519760132,
+      "count": 1
+    },
+    {
+      "source": 310,
+      "target": 335,
+      "value": 0.31039145588874817,
+      "count": 1
+    },
+    {
+      "source": 310,
+      "target": 204,
+      "value": 0.37949684262275696,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 310,
+      "value": 0.16171905398368835,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 335,
+      "value": 0.315782755613327,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 204,
+      "value": 0.21724870800971985,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 48,
+      "value": 0.4113619327545166,
+      "count": 1
+    },
+    {
+      "source": 204,
+      "target": 335,
+      "value": 0.1418575793504715,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 335,
+      "value": 0.3342720866203308,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 204,
+      "value": 0.13518904149532318,
+      "count": 1
+    },
+    {
+      "source": 60,
+      "target": 162,
+      "value": 0.168960303068161,
+      "count": 1
+    },
+    {
+      "source": 185,
+      "target": 162,
+      "value": 0.23327821493148804,
+      "count": 1
+    },
+    {
+      "source": 397,
+      "target": 162,
+      "value": 0.2824743390083313,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 162,
+      "value": 0.2011519968509674,
+      "count": 1
+    },
+    {
+      "source": 60,
+      "target": 185,
+      "value": 0.5008280277252197,
+      "count": 1
+    },
+    {
+      "source": 397,
+      "target": 60,
+      "value": 0.1375984251499176,
+      "count": 1
+    },
+    {
+      "source": 60,
+      "target": 129,
+      "value": 0.16793230175971985,
+      "count": 1
+    },
+    {
+      "source": 397,
+      "target": 185,
+      "value": 0.23767727613449097,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 185,
+      "value": 0.20414340496063232,
+      "count": 1
+    },
+    {
+      "source": 397,
+      "target": 129,
+      "value": 0.3111804127693176,
+      "count": 1
+    },
+    {
+      "source": 370,
+      "target": 351,
+      "value": 0.16358515620231628,
+      "count": 1
+    },
+    {
+      "source": 370,
+      "target": 345,
+      "value": 0.26620224118232727,
+      "count": 1
+    },
+    {
+      "source": 345,
+      "target": 351,
+      "value": 0.5311630368232727,
+      "count": 1
+    },
+    {
+      "source": 293,
+      "target": 89,
+      "value": 0.13042621314525604,
+      "count": 1
+    },
+    {
+      "source": 293,
+      "target": 292,
+      "value": 0.46966537833213806,
+      "count": 1
+    },
+    {
+      "source": 293,
+      "target": 12,
+      "value": 0.2517164349555969,
+      "count": 1
+    },
+    {
+      "source": 89,
+      "target": 292,
+      "value": 0.16085150837898254,
+      "count": 1
+    },
+    {
+      "source": 89,
+      "target": 12,
+      "value": 0.1822340339422226,
+      "count": 1
+    },
+    {
+      "source": 292,
+      "target": 12,
+      "value": 0.11651375889778137,
+      "count": 1
+    },
+    {
+      "source": 308,
+      "target": 79,
+      "value": 0.20371198654174805,
+      "count": 1
+    },
+    {
+      "source": 308,
+      "target": 50,
+      "value": 0.2101762890815735,
+      "count": 1
+    },
+    {
+      "source": 308,
+      "target": 76,
+      "value": 0.1967625617980957,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 50,
+      "value": 0.31261926889419556,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 76,
+      "value": 0.3781355023384094,
+      "count": 1
+    },
+    {
+      "source": 50,
+      "target": 76,
+      "value": 0.3537422716617584,
+      "count": 1
+    },
+    {
+      "source": 382,
+      "target": 203,
+      "value": 0.3674778342247009,
+      "count": 1
+    },
+    {
+      "source": 414,
+      "target": 203,
+      "value": 0.16256698966026306,
+      "count": 1
+    },
+    {
+      "source": 294,
+      "target": 203,
+      "value": 0.3376302719116211,
+      "count": 1
+    },
+    {
+      "source": 382,
+      "target": 414,
+      "value": 0.15519839525222778,
+      "count": 1
+    },
+    {
+      "source": 382,
+      "target": 294,
+      "value": 0.23322603106498718,
+      "count": 1
+    },
+    {
+      "source": 414,
+      "target": 294,
+      "value": 0.22686749696731567,
+      "count": 1
+    },
+    {
+      "source": 166,
+      "target": 277,
+      "value": 0.25913283228874207,
+      "count": 1
+    },
+    {
+      "source": 166,
+      "target": 383,
+      "value": 0.2246769666671753,
+      "count": 1
+    },
+    {
+      "source": 277,
+      "target": 383,
+      "value": 0.1843390166759491,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 196,
+      "value": 0.29668128490448,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 212,
+      "value": 0.09632325917482376,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 210,
+      "value": 0.1954220086336136,
+      "count": 1
+    },
+    {
+      "source": 196,
+      "target": 212,
+      "value": 0.19631913304328918,
+      "count": 1
+    },
+    {
+      "source": 210,
+      "target": 196,
+      "value": 0.25264492630958557,
+      "count": 1
+    },
+    {
+      "source": 210,
+      "target": 212,
+      "value": 0.21067075431346893,
+      "count": 1
+    },
+    {
+      "source": 339,
+      "target": 221,
+      "value": 0.3119874596595764,
+      "count": 1
+    },
+    {
+      "source": 339,
+      "target": 421,
+      "value": 0.1997523158788681,
+      "count": 1
+    },
+    {
+      "source": 339,
+      "target": 72,
+      "value": 0.26805806159973145,
+      "count": 1
+    },
+    {
+      "source": 221,
+      "target": 421,
+      "value": 0.18558497726917267,
+      "count": 1
+    },
+    {
+      "source": 221,
+      "target": 72,
+      "value": 0.2912450134754181,
+      "count": 1
+    },
+    {
+      "source": 421,
+      "target": 72,
+      "value": 0.22007200121879578,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 63,
+      "value": 0.1527484804391861,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 395,
+      "value": 0.16102412343025208,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 25,
+      "value": 0.2717759907245636,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 127,
+      "value": 0.2735164761543274,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 395,
+      "value": 0.16414710879325867,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 25,
+      "value": 0.1884981244802475,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 127,
+      "value": 0.2464355230331421,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 395,
+      "value": 0.4902156591415405,
+      "count": 1
+    },
+    {
+      "source": 395,
+      "target": 127,
+      "value": 0.2385883331298828,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 127,
+      "value": 0.2930832505226135,
+      "count": 1
+    },
+    {
+      "source": 110,
+      "target": 190,
+      "value": 0.050627678632736206,
+      "count": 1
+    },
+    {
+      "source": 110,
+      "target": 311,
+      "value": 0.4737679362297058,
+      "count": 1
+    },
+    {
+      "source": 190,
+      "target": 311,
+      "value": 0.1339779943227768,
+      "count": 1
+    },
+    {
+      "source": 226,
+      "target": 232,
+      "value": 0.2961845397949219,
+      "count": 1
+    },
+    {
+      "source": 107,
+      "target": 232,
+      "value": 0.2905786633491516,
+      "count": 1
+    },
+    {
+      "source": 428,
+      "target": 232,
+      "value": 0.16214337944984436,
+      "count": 1
+    },
+    {
+      "source": 146,
+      "target": 232,
+      "value": 0.23524761199951172,
+      "count": 1
+    },
+    {
+      "source": 226,
+      "target": 107,
+      "value": 0.284243106842041,
+      "count": 1
+    },
+    {
+      "source": 226,
+      "target": 428,
+      "value": 0.260864794254303,
+      "count": 1
+    },
+    {
+      "source": 146,
+      "target": 226,
+      "value": 0.223716601729393,
+      "count": 1
+    },
+    {
+      "source": 428,
+      "target": 107,
+      "value": 0.22824418544769287,
+      "count": 1
+    },
+    {
+      "source": 146,
+      "target": 107,
+      "value": 0.16760966181755066,
+      "count": 1
+    },
+    {
+      "source": 146,
+      "target": 428,
+      "value": 0.11813706904649734,
+      "count": 1
+    },
+    {
+      "source": 153,
+      "target": 374,
+      "value": 0.18347042798995972,
+      "count": 1
+    },
+    {
+      "source": 153,
+      "target": 259,
+      "value": 0.16849713027477264,
+      "count": 1
+    },
+    {
+      "source": 153,
+      "target": 428,
+      "value": 0.18765079975128174,
+      "count": 1
+    },
+    {
+      "source": 259,
+      "target": 374,
+      "value": 0.27595677971839905,
+      "count": 1
+    },
+    {
+      "source": 428,
+      "target": 374,
+      "value": 0.24594122171401978,
+      "count": 1
+    },
+    {
+      "source": 259,
+      "target": 428,
+      "value": 0.21949954330921173,
+      "count": 1
+    },
+    {
+      "source": 431,
+      "target": 72,
+      "value": 0.18538102507591248,
+      "count": 1
+    },
+    {
+      "source": 252,
+      "target": 72,
+      "value": 0.3706167936325073,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 72,
+      "value": 0.14790423214435577,
+      "count": 1
+    },
+    {
+      "source": 106,
+      "target": 72,
+      "value": 0.11774948239326477,
+      "count": 1
+    },
+    {
+      "source": 431,
+      "target": 252,
+      "value": 0.2010709047317505,
+      "count": 1
+    },
+    {
+      "source": 431,
+      "target": 28,
+      "value": 0.26785901188850403,
+      "count": 1
+    },
+    {
+      "source": 431,
+      "target": 106,
+      "value": 0.5928484797477722,
+      "count": 1
+    },
+    {
+      "source": 252,
+      "target": 28,
+      "value": 0.12329209595918655,
+      "count": 1
+    },
+    {
+      "source": 252,
+      "target": 106,
+      "value": 0.11426648497581482,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 106,
+      "value": 0.3140255808830261,
+      "count": 1
+    },
+    {
+      "source": 425,
+      "target": 103,
+      "value": 0.24661681056022644,
+      "count": 1
+    },
+    {
+      "source": 425,
+      "target": 129,
+      "value": 0.2178991734981537,
+      "count": 1
+    },
+    {
+      "source": 103,
+      "target": 129,
+      "value": 0.2898745536804199,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 114,
+      "value": 0.28440535068511963,
+      "count": 1
+    },
+    {
+      "source": 128,
+      "target": 114,
+      "value": 0.12058579921722412,
+      "count": 1
+    },
+    {
+      "source": 116,
+      "target": 114,
+      "value": 0.26868557929992676,
+      "count": 1
+    },
+    {
+      "source": 151,
+      "target": 114,
+      "value": 0.4918583631515503,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 128,
+      "value": 0.17078176140785217,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 116,
+      "value": 0.36539164185523987,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 151,
+      "value": 0.25243157148361206,
+      "count": 1
+    },
+    {
+      "source": 128,
+      "target": 116,
+      "value": 0.2968933582305908,
+      "count": 1
+    },
+    {
+      "source": 128,
+      "target": 151,
+      "value": 0.15052519738674164,
+      "count": 1
+    },
+    {
+      "source": 116,
+      "target": 151,
+      "value": 0.2548867464065552,
+      "count": 1
+    },
+    {
+      "source": 266,
+      "target": 337,
+      "value": 0.15357834100723267,
+      "count": 1
+    },
+    {
+      "source": 266,
+      "target": 247,
+      "value": 0.13266977667808533,
+      "count": 1
+    },
+    {
+      "source": 266,
+      "target": 305,
+      "value": 0.13690003752708435,
+      "count": 1
+    },
+    {
+      "source": 337,
+      "target": 247,
+      "value": 0.10640893876552582,
+      "count": 1
+    },
+    {
+      "source": 337,
+      "target": 305,
+      "value": 0.17327579855918884,
+      "count": 1
+    },
+    {
+      "source": 247,
+      "target": 305,
+      "value": 0.23164749145507812,
+      "count": 1
+    },
+    {
+      "source": 372,
+      "target": 38,
+      "value": 0.1735457181930542,
+      "count": 1
+    },
+    {
+      "source": 391,
+      "target": 38,
+      "value": 0.22915387153625488,
+      "count": 1
+    },
+    {
+      "source": 38,
+      "target": 354,
+      "value": 0.23489312827587128,
+      "count": 1
+    },
+    {
+      "source": 38,
+      "target": 402,
+      "value": 0.1900322288274765,
+      "count": 1
+    },
+    {
+      "source": 372,
+      "target": 391,
+      "value": 0.2030126452445984,
+      "count": 1
+    },
+    {
+      "source": 372,
+      "target": 354,
+      "value": 0.2665508985519409,
+      "count": 1
+    },
+    {
+      "source": 372,
+      "target": 402,
+      "value": 0.09480823576450348,
+      "count": 1
+    },
+    {
+      "source": 391,
+      "target": 354,
+      "value": 0.20715562999248505,
+      "count": 1
+    },
+    {
+      "source": 391,
+      "target": 402,
+      "value": 0.14443525671958923,
+      "count": 1
+    },
+    {
+      "source": 354,
+      "target": 402,
+      "value": 0.1703002005815506,
+      "count": 1
+    },
+    {
+      "source": 147,
+      "target": 307,
+      "value": 0.2428065836429596,
+      "count": 1
+    },
+    {
+      "source": 147,
+      "target": 21,
+      "value": 0.2309303879737854,
+      "count": 1
+    },
+    {
+      "source": 147,
+      "target": 123,
+      "value": 0.21385039389133453,
+      "count": 1
+    },
+    {
+      "source": 307,
+      "target": 21,
+      "value": 0.10151536762714386,
+      "count": 1
+    },
+    {
+      "source": 307,
+      "target": 123,
+      "value": 0.09465476125478745,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 123,
+      "value": 0.26164597272872925,
+      "count": 1
+    },
+    {
+      "source": 257,
+      "target": 256,
+      "value": 0.5908188819885254,
+      "count": 1
+    },
+    {
+      "source": 304,
+      "target": 256,
+      "value": 0.2482185810804367,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 256,
+      "value": 0.13102012872695923,
+      "count": 1
+    },
+    {
+      "source": 255,
+      "target": 256,
+      "value": 0.6366521120071411,
+      "count": 1
+    },
+    {
+      "source": 433,
+      "target": 256,
+      "value": 0.12049193680286407,
+      "count": 1
+    },
+    {
+      "source": 257,
+      "target": 304,
+      "value": 0.24781957268714905,
+      "count": 1
+    },
+    {
+      "source": 257,
+      "target": 31,
+      "value": 0.11606335639953613,
+      "count": 1
+    },
+    {
+      "source": 255,
+      "target": 257,
+      "value": 0.6319166421890259,
+      "count": 1
+    },
+    {
+      "source": 257,
+      "target": 433,
+      "value": 0.14508971571922302,
+      "count": 1
+    },
+    {
+      "source": 304,
+      "target": 31,
+      "value": 0.1550348997116089,
+      "count": 1
+    },
+    {
+      "source": 255,
+      "target": 304,
+      "value": 0.28012901544570923,
+      "count": 1
+    },
+    {
+      "source": 433,
+      "target": 304,
+      "value": 0.19147814810276031,
+      "count": 1
+    },
+    {
+      "source": 255,
+      "target": 31,
+      "value": 0.1995086818933487,
+      "count": 1
+    },
+    {
+      "source": 433,
+      "target": 31,
+      "value": 0.1671418398618698,
+      "count": 1
+    },
+    {
+      "source": 255,
+      "target": 433,
+      "value": 0.1514236330986023,
+      "count": 1
+    },
+    {
+      "source": 396,
+      "target": 417,
+      "value": 0.23277485370635986,
+      "count": 1
+    },
+    {
+      "source": 396,
+      "target": 418,
+      "value": 0.18410031497478485,
+      "count": 1
+    },
+    {
+      "source": 215,
+      "target": 396,
+      "value": 0.20639261603355408,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 396,
+      "value": 0.20310723781585693,
+      "count": 1
+    },
+    {
+      "source": 418,
+      "target": 417,
+      "value": 0.6335604786872864,
+      "count": 1
+    },
+    {
+      "source": 215,
+      "target": 417,
+      "value": 0.42249709367752075,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 417,
+      "value": 0.3923538327217102,
+      "count": 1
+    },
+    {
+      "source": 215,
+      "target": 418,
+      "value": 0.27027782797813416,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 418,
+      "value": 0.3729925751686096,
+      "count": 1
+    },
+    {
+      "source": 215,
+      "target": 77,
+      "value": 0.17960208654403687,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 350,
+      "value": 0.4288153052330017,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 191,
+      "value": 0.361348032951355,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 401,
+      "value": 0.3313368260860443,
+      "count": 1
+    },
+    {
+      "source": 343,
+      "target": 45,
+      "value": 0.2861424386501312,
+      "count": 1
+    },
+    {
+      "source": 350,
+      "target": 191,
+      "value": 0.22236977517604828,
+      "count": 1
+    },
+    {
+      "source": 401,
+      "target": 350,
+      "value": 0.31117141246795654,
+      "count": 1
+    },
+    {
+      "source": 350,
+      "target": 45,
+      "value": 0.2438722848892212,
+      "count": 1
+    },
+    {
+      "source": 401,
+      "target": 191,
+      "value": 0.4057193100452423,
+      "count": 1
+    },
+    {
+      "source": 45,
+      "target": 191,
+      "value": 0.20193924009799957,
+      "count": 1
+    },
+    {
+      "source": 401,
+      "target": 45,
+      "value": 0.21352076530456543,
+      "count": 1
+    },
+    {
+      "source": 396,
+      "target": 416,
+      "value": 0.19282829761505127,
+      "count": 1
+    },
+    {
+      "source": 396,
+      "target": 20,
+      "value": 0.336907297372818,
+      "count": 1
+    },
+    {
+      "source": 416,
+      "target": 20,
+      "value": 0.17242303490638733,
+      "count": 1
+    },
+    {
+      "source": 260,
+      "target": 36,
+      "value": 0.24522152543067932,
+      "count": 1
+    },
+    {
+      "source": 260,
+      "target": 368,
+      "value": 0.25583046674728394,
+      "count": 1
+    },
+    {
+      "source": 260,
+      "target": 415,
+      "value": 0.387911319732666,
+      "count": 1
+    },
+    {
+      "source": 36,
+      "target": 368,
+      "value": 0.26448267698287964,
+      "count": 1
+    },
+    {
+      "source": 36,
+      "target": 415,
+      "value": 0.24027381837368011,
+      "count": 1
+    },
+    {
+      "source": 368,
+      "target": 415,
+      "value": 0.30670058727264404,
+      "count": 1
+    },
+    {
+      "source": 225,
+      "target": 406,
+      "value": 0.33727115392684937,
+      "count": 1
+    },
+    {
+      "source": 225,
+      "target": 435,
+      "value": 0.18642672896385193,
+      "count": 1
+    },
+    {
+      "source": 225,
+      "target": 49,
+      "value": 0.1819928139448166,
+      "count": 1
+    },
+    {
+      "source": 406,
+      "target": 435,
+      "value": 0.16449210047721863,
+      "count": 1
+    },
+    {
+      "source": 406,
+      "target": 49,
+      "value": 0.28291457891464233,
+      "count": 1
+    },
+    {
+      "source": 49,
+      "target": 435,
+      "value": 0.15811841189861298,
+      "count": 1
+    },
+    {
+      "source": 260,
+      "target": 200,
+      "value": 0.20841924846172333,
+      "count": 1
+    },
+    {
+      "source": 260,
+      "target": 412,
+      "value": 0.19501081109046936,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 260,
+      "value": 0.21370400488376617,
+      "count": 1
+    },
+    {
+      "source": 260,
+      "target": 242,
+      "value": 0.298613578081131,
+      "count": 1
+    },
+    {
+      "source": 200,
+      "target": 412,
+      "value": 0.23285505175590515,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 200,
+      "value": 0.24828626215457916,
+      "count": 1
+    },
+    {
+      "source": 200,
+      "target": 242,
+      "value": 0.24304136633872986,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 412,
+      "value": 0.6132270097732544,
+      "count": 1
+    },
+    {
+      "source": 412,
+      "target": 242,
+      "value": 0.15152564644813538,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 242,
+      "value": 0.1310744732618332,
+      "count": 1
+    }
+  ],
+  "advisor_keywords": {
+    "夏炎": {
+      "total_keywords": 24,
+      "top10_keywords": [
+        [
+          "唐代",
+          4
+        ],
+        [
+          "地方治理",
+          3
+        ],
+        [
+          "石刻",
+          2
+        ],
+        [
+          "区域社会",
+          2
+        ],
+        [
+          "河东",
+          1
+        ],
+        [
+          "江南",
+          1
+        ],
+        [
+          "地域社会",
+          1
+        ],
+        [
+          "信仰世界",
+          1
+        ],
+        [
+          "祠神信仰",
+          1
+        ],
+        [
+          "祠庙石刻",
+          1
+        ]
+      ]
+    },
+    "余新忠": {
+      "total_keywords": 19,
+      "top10_keywords": [
+        [
+          "岭南",
+          1
+        ],
+        [
+          "岭南医学",
+          1
+        ],
+        [
+          "地域性",
+          1
+        ],
+        [
+          "知识史",
+          1
+        ],
+        [
+          "丁国瑞",
+          1
+        ],
+        [
+          "文化保守主义",
+          1
+        ],
+        [
+          "中医现代化",
+          1
+        ],
+        [
+          "传染病防治",
+          1
+        ],
+        [
+          "学校卫生",
+          1
+        ],
+        [
+          "健康",
+          1
+        ]
+      ]
+    },
+    "刘尊志": {
+      "total_keywords": 18,
+      "top10_keywords": [
+        [
+          "东汉",
+          2
+        ],
+        [
+          "鲁东南地区",
+          1
+        ],
+        [
+          "社会生活",
+          1
+        ],
+        [
+          "思想观念",
+          1
+        ],
+        [
+          "两广地区",
+          1
+        ],
+        [
+          "汉墓",
+          1
+        ],
+        [
+          "陶灶",
+          1
+        ],
+        [
+          "类型分析",
+          1
+        ],
+        [
+          "区域特征",
+          1
+        ],
+        [
+          "战国秦汉时期",
+          1
+        ]
+      ]
+    },
+    "王利华": {
+      "total_keywords": 16,
+      "top10_keywords": [
+        [
+          "环境史",
+          2
+        ],
+        [
+          "山地环境",
+          1
+        ],
+        [
+          "山地生活",
+          1
+        ],
+        [
+          "山地民族",
+          1
+        ],
+        [
+          "彝族先民",
+          1
+        ],
+        [
+          "明清时期",
+          1
+        ],
+        [
+          "自然知识",
+          1
+        ],
+        [
+          "传统知识",
+          1
+        ],
+        [
+          "知识体系",
+          1
+        ],
+        [
+          "《山海经》类型",
+          1
+        ]
+      ]
+    },
+    "贾洪波": {
+      "total_keywords": 16,
+      "top10_keywords": [
+        [
+          "长城地带",
+          2
+        ],
+        [
+          "陶寺北墓地，青铜器，晋文化",
+          1
+        ],
+        [
+          "仿铜陶瓷",
+          1
+        ],
+        [
+          "祭供",
+          1
+        ],
+        [
+          "陈设",
+          1
+        ],
+        [
+          "青铜礼器",
+          1
+        ],
+        [
+          "青铜文化",
+          1
+        ],
+        [
+          "先秦时期",
+          1
+        ],
+        [
+          "文化交流",
+          1
+        ],
+        [
+          "东周",
+          1
+        ]
+      ]
+    }
+  },
+  "top5teacher": [
+    "夏炎",
+    "余新忠",
+    "刘尊志",
+    "王利华",
+    "贾洪波"
+  ],
+  "cluster_stats": {
+    "7": {
+      "total": 43,
+      "keywords": {
+        "CiteSpace": 1,
+        "“內／外”": 1,
+        "《大陆报》": 1,
+        "人物形象": 1,
+        "侨批": 1,
+        "信息可视化": 1,
+        "倗": 1,
+        "倗氏": 1,
+        "元数据": 2,
+        "典型示范": 1,
+        "出入简": 1,
+        "利玛窦": 1,
+        "地望": 1,
+        "实地考察": 1,
+        "客邮": 1,
+        "容闳": 1,
+        "层次分析模型": 1,
+        "差徭": 1,
+        "形象": 1,
+        "成因": 1,
+        "报告": 1,
+        "文字事功": 1,
+        "文献价值": 1,
+        "本体": 1,
+        "版本价值": 1,
+        "版本源流": 1,
+        "特征": 1,
+        "电影放映": 1,
+        "端方": 1,
+        "类型分析": 1,
+        "线上展览": 1,
+        "编辑": 1,
+        "考察": 2,
+        "苦力": 1,
+        "衰弱": 1,
+        "身份": 1,
+        "身体生成": 1,
+        "道台": 1,
+        "霸": 1,
+        "霸氏": 1,
+        "题名": 1
+      }
+    },
+    "5": {
+      "total": 43,
+      "keywords": {
+        "“一无所知党”": 1,
+        "一战": 1,
+        "两京制": 1,
+        "两党制": 1,
+        "主权": 1,
+        "二元对立": 1,
+        "二战": 1,
+        "仪象制度": 1,
+        "党派斗争": 1,
+        "军队": 1,
+        "双重政权": 1,
+        "古琴科事件红色恐慌共产主义威胁情报事件": 1,
+        "司法权限": 1,
+        "启蒙运动": 1,
+        "国家制度": 1,
+        "国家安全体制": 1,
+        "复兴运动": 1,
+        "大闹会审公廨事件": 1,
+        "夫马局": 1,
+        "夫马费": 1,
+        "官制改革": 1,
+        "工业革命": 1,
+        "差序格局": 1,
+        "弗提乌斯分裂": 1,
+        "情报机构": 1,
+        "政教关系": 1,
+        "权力结构": 1,
+        "洗象节": 1,
+        "海防": 1,
+        "王室权威": 1,
+        "禁卫职官": 1,
+        "科学革命": 1,
+        "联邦德国": 1,
+        "蒸汽机": 1,
+        "费城": 1,
+        "重新武装": 1,
+        "革命": 1,
+        "革命人物": 1,
+        "革命制度党": 1,
+        "马克思主义": 1,
+        "马公愚": 1,
+        "马戏团": 1,
+        "驯象": 1
+      }
+    },
+    "1": {
+      "total": 58,
+      "keywords": {
+        "“中国化”传教策略": 1,
+        "中外交涉": 1,
+        "中外文化交流": 1,
+        "中泰关系": 1,
+        "华盛顿会议": 1,
+        "双边关系": 1,
+        "叙利亚": 1,
+        "哈菲兹·阿萨德": 1,
+        "国共关系": 1,
+        "墨西哥": 1,
+        "外交政策": 1,
+        "奥古斯塔勒斯": 1,
+        "巴巴拉·W·塔奇曼": 1,
+        "巴西": 1,
+        "巴西外交": 1,
+        "巴黎和会": 2,
+        "拉斐尔·努涅斯": 1,
+        "文化交流": 1,
+        "文化保守主义": 1,
+        "文化因素": 1,
+        "文化治理": 1,
+        "文物": 1,
+        "文物信息资源": 1,
+        "新西班牙": 1,
+        "日本": 1,
+        "明琉关系": 1,
+        "本土主义": 1,
+        "殖民扩张": 1,
+        "民族主义": 1,
+        "泰国华侨": 1,
+        "现代化,墨西哥,葡萄酒业,葡萄种植业,葡萄酒贸易": 1,
+        "留美生": 1,
+        "种族关系": 1,
+        "秘鲁": 1,
+        "移民": 1,
+        "美国": 3,
+        "美国人党": 1,
+        "美国外交": 1,
+        "美国罪犯租赁制度": 1,
+        "美国认同": 1,
+        "美洲会议": 1,
+        "美英关系": 1,
+        "英美": 1,
+        "西奥多·罗斯福": 1,
+        "西学": 1,
+        "西方一体化": 1,
+        "西方势力": 1,
+        "西班牙": 2,
+        "阿根廷": 1,
+        "阿登纳": 1,
+        "领事机构": 1,
+        "马尼拉大帆船贸易": 2,
+        "黑人问题": 1
+      }
+    },
+    "9": {
+      "total": 26,
+      "keywords": {
+        "《乐天却病法》": 1,
+        "东北鼠疫": 1,
+        "中东铁路": 1,
+        "交通运力": 1,
+        "仓储设施": 1,
+        "传染病": 1,
+        "传染病防治": 1,
+        "供应": 1,
+        "副食品": 2,
+        "学校卫生": 1,
+        "平衡战略": 1,
+        "推拉力理论": 1,
+        "春运": 1,
+        "昭和制钢所": 1,
+        "流通体制": 1,
+        "特殊药品": 1,
+        "生意管理": 1,
+        "瘟疫": 1,
+        "经济博弈": 1,
+        "谈判": 1,
+        "资源对策": 1,
+        "钢铁增产": 1,
+        "铁路附属地": 1,
+        "随粮摊征": 1,
+        "黄热病": 1
+      }
+    },
+    "6": {
+      "total": 43,
+      "keywords": {
+        "《伊格纳提乌斯传》": 1,
+        "《华山碑》": 1,
+        "《大汗国志》": 1,
+        "《宋书》": 1,
+        "《山海经》类型": 1,
+        "《春秋》三传": 1,
+        "《诗经》": 1,
+        "中国古代陶瓷质文物": 1,
+        "书法风格": 1,
+        "仿铜陶瓷": 1,
+        "先秦时期": 1,
+        "出土女性玉饰": 1,
+        "出土资料": 1,
+        "北方文化带": 1,
+        "南蛮艺术": 1,
+        "口岸文人": 1,
+        "四体书法": 1,
+        "新石器时代": 1,
+        "明季史料": 1,
+        "植物类形象": 1,
+        "植物类用具": 1,
+        "植物类食物": 1,
+        "珠山八友": 1,
+        "瓷画": 1,
+        "画像石": 1,
+        "石刻": 2,
+        "礼仪性武器": 1,
+        "窖藏井": 1,
+        "花鸟画": 1,
+        "装饰品": 1,
+        "诗僧": 1,
+        "銅器銘文": 1,
+        "陈设": 1,
+        "陶器和陶塑": 1,
+        "陶寺北墓地，青铜器，晋文化": 1,
+        "陶灶": 1,
+        "陶瓷装饰": 1,
+        "青花瓷": 1,
+        "青铜器": 1,
+        "青铜工具": 1,
+        "青铜文化": 1,
+        "青铜礼器": 1
+      }
+    },
+    "0": {
+      "total": 56,
+      "keywords": {
+        "《水云村泯稿》": 1,
+        "丁国瑞": 1,
+        "东南地区": 1,
+        "东周": 1,
+        "两广地区": 1,
+        "中心广场自来水厂": 1,
+        "丰镐、洛邑地区": 1,
+        "京东河道": 1,
+        "任廷旭": 1,
+        "刘仁航": 1,
+        "刘壎": 1,
+        "北运河": 1,
+        "华山": 1,
+        "南京吏部": 1,
+        "即墨黄氏": 1,
+        "史念海": 1,
+        "吕梁": 1,
+        "吴兴沈氏": 1,
+        "哈尔滨": 1,
+        "天津": 1,
+        "天津市": 1,
+        "姚广孝": 1,
+        "山东问题": 1,
+        "岭南": 1,
+        "岭南医学": 1,
+        "拉普拉塔总督区": 1,
+        "晉南": 1,
+        "晋南": 1,
+        "江南": 2,
+        "沈约": 1,
+        "河东": 1,
+        "河南地区": 1,
+        "海东青": 1,
+        "海派": 1,
+        "海陆丝绸之路": 1,
+        "湖南": 1,
+        "湘水": 1,
+        "熊希龄": 1,
+        "申采浩": 1,
+        "苏州": 1,
+        "近代天津,道路空间,道路改造": 1,
+        "郑伯克段于鄢": 1,
+        "长城地带": 2,
+        "长安": 1,
+        "长江下游地区": 1,
+        "长沙吴简": 1,
+        "陕北黄土高原": 1,
+        "陕甘宁边区": 1,
+        "青岛": 1,
+        "顺直水利委员会": 1,
+        "鲁东南地区": 1,
+        "麦哲伦海峡": 1,
+        "黄河流域": 1,
+        "龙": 1
+      }
+    },
+    "8": {
+      "total": 36,
+      "keywords": {
+        "三家《列女传》注": 1,
+        "中国古代才女文化": 1,
+        "中国妇女史": 1,
+        "中朝史学比较": 1,
+        "传统知识": 1,
+        "动物史": 1,
+        "医学史": 1,
+        "南开大学博物馆": 1,
+        "历史地理学史": 1,
+        "历史知识社会化": 1,
+        "历史记忆": 1,
+        "女性史学": 1,
+        "女性领域": 1,
+        "妇女": 1,
+        "崇祯与南明历史": 1,
+        "思想观念": 1,
+        "技术推广": 1,
+        "新学": 1,
+        "朝鲜半岛": 1,
+        "朝鲜王朝党争": 1,
+        "朝鲜王朝史馆": 1,
+        "朝鲜王朝官方史学": 1,
+        "朝鲜王朝王权与史学": 1,
+        "民族主义史学": 1,
+        "环境史": 2,
+        "知识传播": 1,
+        "知识体系": 1,
+        "知识史": 1,
+        "知识图谱": 1,
+        "碑学": 1,
+        "经学": 1,
+        "自然知识": 1,
+        "遗民史学": 1,
+        "金石学": 1,
+        "高校博物馆": 1
+      }
+    },
+    "4": {
+      "total": 48,
+      "keywords": {
+        "丘": 1,
+        "乡": 1,
+        "乡丘对应": 1,
+        "乡村社会": 1,
+        "仁社": 1,
+        "健康": 1,
+        "兄弟会": 1,
+        "公民团体": 1,
+        "养生": 1,
+        "农业集体化": 1,
+        "农民工": 1,
+        "北京政府": 1,
+        "区域特征": 1,
+        "区域社会": 2,
+        "国际联盟": 1,
+        "地域性": 1,
+        "地域社会": 1,
+        "地方治理": 3,
+        "娱乐生活": 1,
+        "小亚细亚地区": 1,
+        "山地民族": 1,
+        "山地环境": 1,
+        "山地生活": 1,
+        "政治生活": 1,
+        "教育": 1,
+        "旅行": 1,
+        "日常生活": 1,
+        "月光社": 1,
+        "民主共和社团": 1,
+        "民主化": 1,
+        "民众政治参与": 1,
+        "气候治理": 1,
+        "水土保持工作": 1,
+        "游戏": 1,
+        "环保组织": 1,
+        "生命观": 1,
+        "生计方式": 1,
+        "社会交往网络": 1,
+        "社会变迁": 1,
+        "社会生活": 1,
+        "美国环保协会": 1,
+        "美国红十字会,公共卫生工作,人道主义": 1,
+        "老人生活": 1,
+        "自然": 1,
+        "静坐呼吸法": 1
+      }
+    },
+    "2": {
+      "total": 59,
+      "keywords": {
+        "东汉": 2,
+        "中医现代化": 1,
+        "中期拜占庭": 1,
+        "临湘侯国": 1,
+        "伪满洲国": 1,
+        "俄国": 1,
+        "元世祖朝": 1,
+        "元代": 1,
+        "元代佛教": 1,
+        "元朝": 1,
+        "元末明初": 1,
+        "北魏": 1,
+        "厲王": 1,
+        "厲王革典": 1,
+        "古埃及": 1,
+        "古希腊": 1,
+        "周夷王": 1,
+        "唐代": 5,
+        "唐代地方官": 1,
+        "噩国": 1,
+        "宋代": 1,
+        "年代": 1,
+        "战国秦汉时期": 1,
+        "拜占庭早期": 1,
+        "拜占庭皇权": 1,
+        "新中国": 1,
+        "日俄战争": 1,
+        "明代": 4,
+        "明清思想史": 1,
+        "明清时期": 1,
+        "明清易代": 1,
+        "晚清": 1,
+        "晚清香港": 1,
+        "民国": 1,
+        "汉代": 1,
+        "汉唐政治": 1,
+        "汉墓": 1,
+        "汉碑运动": 1,
+        "汉隶": 1,
+        "清代": 1,
+        "清明节": 1,
+        "清末新政": 1,
+        "睡虎地秦简": 1,
+        "秦汉": 1,
+        "西周时期": 1,
+        "西周王朝": 1,
+        "转变期": 1,
+        "近代化": 1,
+        "近代绍兴": 1,
+        "迪亚斯时期": 1,
+        "鲜卑": 1
+      }
+    },
+    "3": {
+      "total": 52,
+      "keywords": {
+        "乐天修养馆": 1,
+        "京师仓": 1,
+        "传教自觉": 1,
+        "佛教信仰": 1,
+        "信仰世界": 1,
+        "元首崇拜": 1,
+        "功臣号": 1,
+        "功臣官僚": 1,
+        "医神崇拜": 1,
+        "嘉定三屠": 1,
+        "圣丹尼尔": 1,
+        "圣徒传记": 1,
+        "圣徒崇拜": 1,
+        "地方士绅": 1,
+        "基督教": 1,
+        "墓葬": 1,
+        "士大夫": 1,
+        "天主教会": 2,
+        "太常礼仪院": 1,
+        "宣慰使": 1,
+        "宣慰司": 1,
+        "宣教工具": 1,
+        "家族兴衰": 1,
+        "封赠": 1,
+        "尊老制度": 1,
+        "崇佛活动": 1,
+        "彝族先民": 1,
+        "忠君观念": 1,
+        "怀姓九宗": 1,
+        "方济各会": 1,
+        "族姓": 1,
+        "有用于世": 1,
+        "死者": 1,
+        "殷遗民": 2,
+        "礼乐": 1,
+        "礼俗": 1,
+        "祖先崇拜": 1,
+        "神谕": 1,
+        "祠庙石刻": 1,
+        "祠神信仰": 1,
+        "祭供": 1,
+        "祭祀": 1,
+        "箕子信仰": 1,
+        "苦修圣徒": 1,
+        "英雄": 1,
+        "英雄崇拜": 1,
+        "被释奴": 1,
+        "赠爵": 1,
+        "迁葬墓": 1,
+        "门阀士族": 1
+      }
+    }
+  },
+  "cluster_labels": {
+    "0": "地方历史研究",
+    "1": "中外关系史",
+    "2": "古代经济与医学",
+    "3": "宗教与信仰研究",
+    "4": "乡村社会治理",
+    "5": "政治制度与战争",
+    "6": "古代文物与书法",
+    "7": "信息可视化与元数据",
+    "8": "女性历史与传统知识",
+    "9": "公共卫生与传染病"
+  }
+}

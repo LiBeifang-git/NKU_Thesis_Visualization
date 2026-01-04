@@ -1,0 +1,2588 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "Choquard方程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 1,
+      "label": "Clebsch变量",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 2,
+      "label": "DropBlock",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 3,
+      "label": "Einstein-Randers度量",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 4,
+      "label": "Einstein度量",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 5,
+      "label": "G-K外汇期权模型",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 6,
+      "label": "GerberShiu函数",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 7,
+      "label": "HJB方程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 8,
+      "label": "Hamilton结构",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 9,
+      "label": "Killing标架",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 10,
+      "label": "Laurent现象",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 11,
+      "label": "Liouville定理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 12,
+      "label": "MNIST",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 13,
+      "label": "Maxwell-Vlasov系统",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 14,
+      "label": "Oracle性质",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 15,
+      "label": "Phase-type分布",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 16,
+      "label": "Schwarz信息准则",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 17,
+      "label": "Stackelberg均衡",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 18,
+      "label": "TTr1SVD",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 19,
+      "label": "VGG",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 20,
+      "label": "alpha-局部紧",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 21,
+      "label": "不动点集",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 22,
+      "label": "不可约元",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 23,
+      "label": "亚式外汇篮子期权",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 24,
+      "label": "交叉核实",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 25,
+      "label": "余齐性为一Finsler空间",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 26,
+      "label": "典型相关分析",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 27,
+      "label": "分子描述符",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 28,
+      "label": "制药",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 29,
+      "label": "动力系统",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 30,
+      "label": "动态规划",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 31,
+      "label": "半监督桥神经网络",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 32,
+      "label": "半经典解",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 33,
+      "label": "单调性",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 34,
+      "label": "卷积相关分析",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 35,
+      "label": "卷积神经网络",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 36,
+      "label": "变分法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 37,
+      "label": "可度量化空间",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 38,
+      "label": "同伦不动点集",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 39,
+      "label": "噪声激励",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 40,
+      "label": "图像分割",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 41,
+      "label": "图像分析",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 42,
+      "label": "图像加密",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 43,
+      "label": "图像压缩",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 44,
+      "label": "坐标下降法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 45,
+      "label": "复合二项风险模型",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 46,
+      "label": "多变点检测",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 47,
+      "label": "多解",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 48,
+      "label": "奇异值分解",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 49,
+      "label": "定性性质",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 50,
+      "label": "导航问题",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 51,
+      "label": "射影平坦",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 52,
+      "label": "巨分支",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 53,
+      "label": "常旗曲率",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 54,
+      "label": "平移对称高阶幂法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 55,
+      "label": "广义丛代数",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 56,
+      "label": "广义非局部双相方程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 57,
+      "label": "张量分解",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 58,
+      "label": "微分同胚群",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 59,
+      "label": "扰动分析.",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 60,
+      "label": "投资组合利润回撤",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 61,
+      "label": "投资组合管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 62,
+      "label": "收敛率",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 63,
+      "label": "时耗",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 64,
+      "label": "最优随机控制",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 65,
+      "label": "最小化破产概率",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 66,
+      "label": "有理同伦等价",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 67,
+      "label": "有理同伦论",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 68,
+      "label": "本质复杂度",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 69,
+      "label": "李群作用",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 70,
+      "label": "极大值原理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 71,
+      "label": "模型选择",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 72,
+      "label": "正则化",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 73,
+      "label": "正则性",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 74,
+      "label": "比较定理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 75,
+      "label": "混合方差缩减技术",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 76,
+      "label": "滑动方法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 77,
+      "label": "演化",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 78,
+      "label": "热核估计",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 79,
+      "label": "特征融合",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 80,
+      "label": "玻色-爱因斯坦凝聚态",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 81,
+      "label": "理想不可压缩流体",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 82,
+      "label": "相似场",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 83,
+      "label": "相依索赔",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 84,
+      "label": "相合性",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 85,
+      "label": "矩阵摄动理论",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 86,
+      "label": "稀疏.",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 87,
+      "label": "窄域原理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 88,
+      "label": "类激活映射",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 89,
+      "label": "粘性解",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 90,
+      "label": "系统惩罚",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 91,
+      "label": "纳什均衡",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 92,
+      "label": "罚方法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 93,
+      "label": "色噪声",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 94,
+      "label": "芬斯勒度量",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 95,
+      "label": "蒙特卡罗方法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 96,
+      "label": "谱方法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 97,
+      "label": "贝叶斯信息准则",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 98,
+      "label": "赋权快速查找算法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 99,
+      "label": "超图的持续上同调",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 100,
+      "label": "重构",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 101,
+      "label": "间歇性",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 102,
+      "label": "随机偏微分方程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 103,
+      "label": "随机分红",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 104,
+      "label": "随机利率",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 105,
+      "label": "随机图",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 106,
+      "label": "随机图过程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 107,
+      "label": "随机控制最优化",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 108,
+      "label": "随机收入",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 109,
+      "label": "随机矩阵理论",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 110,
+      "label": "随机过程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 111,
+      "label": "非局部双相方程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 112,
+      "label": "非线性特征值",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 113,
+      "label": "非线性非局部椭圆问题",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 114,
+      "label": "非线性非齐次椭圆障碍问题",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 115,
+      "label": "高维推断",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 116,
+      "label": "齐性流形",
+      "group": -2,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 99,
+      "target": 28,
+      "value": 0.1386510133743286,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 27,
+      "value": 0.2375834882259369,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 27,
+      "value": 0.1985481083393097,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 49,
+      "value": 0.4263472557067871,
+      "count": 1
+    },
+    {
+      "source": 113,
+      "target": 49,
+      "value": 0.18330469727516174,
+      "count": 1
+    },
+    {
+      "source": 49,
+      "target": 114,
+      "value": 0.15789443254470825,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 113,
+      "value": 0.2605844736099243,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 114,
+      "value": 0.24493148922920227,
+      "count": 1
+    },
+    {
+      "source": 113,
+      "target": 114,
+      "value": 0.7646573781967163,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 53,
+      "value": 0.3551219403743744,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 94,
+      "value": 0.2890965938568115,
+      "count": 1
+    },
+    {
+      "source": 53,
+      "target": 94,
+      "value": 0.31065505743026733,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 55,
+      "value": 0.253059446811676,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 22,
+      "value": 0.24251368641853333,
+      "count": 1
+    },
+    {
+      "source": 55,
+      "target": 22,
+      "value": 0.3152569532394409,
+      "count": 1
+    },
+    {
+      "source": 66,
+      "target": 21,
+      "value": 0.25572460889816284,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 38,
+      "value": 0.7162014245986938,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 21,
+      "value": 0.20843452215194702,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 69,
+      "value": 0.2640754282474518,
+      "count": 1
+    },
+    {
+      "source": 66,
+      "target": 38,
+      "value": 0.5012046098709106,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 66,
+      "value": 0.7763962745666504,
+      "count": 1
+    },
+    {
+      "source": 66,
+      "target": 69,
+      "value": 0.1990966498851776,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 38,
+      "value": 0.4926391839981079,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 38,
+      "value": 0.18555717170238495,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 69,
+      "value": 0.2069927453994751,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 63,
+      "value": 0.18343082070350647,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "value": 0.8214916586875916,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 98,
+      "value": 0.24871128797531128,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 77,
+      "value": 0.20388615131378174,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 52,
+      "value": 0.18044063448905945,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 106,
+      "value": 0.21478819847106934,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 63,
+      "value": 0.1687334030866623,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 77,
+      "value": 0.1925433874130249,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 52,
+      "value": 0.22711727023124695,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 106,
+      "value": 0.23900063335895538,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 106,
+      "value": 0.27313241362571716,
+      "count": 1
+    },
+    {
+      "source": 52,
+      "target": 106,
+      "value": 0.16721701622009277,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 77,
+      "value": 0.05507417023181915,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 52,
+      "value": 0.23773279786109924,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 52,
+      "value": 0.15653014183044434,
+      "count": 1
+    },
+    {
+      "source": 90,
+      "target": 29,
+      "value": 0.44087496399879456,
+      "count": 1
+    },
+    {
+      "source": 90,
+      "target": 17,
+      "value": 0.2482677549123764,
+      "count": 1
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "value": 0.18397432565689087,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 17,
+      "value": 0.16589626669883728,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 91,
+      "value": 0.16757920384407043,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 91,
+      "value": 0.41592127084732056,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 12,
+      "value": 0.33588671684265137,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 88,
+      "value": 0.18557897210121155,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 0.19788363575935364,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 35,
+      "value": 0.3268046975135803,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 88,
+      "value": 0.24100308120250702,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 0.14654606580734253,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 35,
+      "value": 0.3827650547027588,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 88,
+      "value": 0.15396085381507874,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 88,
+      "value": 0.2467522770166397,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 35,
+      "value": 0.047652967274188995,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 68,
+      "value": 0.22706031799316406,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 37,
+      "value": 0.2414858639240265,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 37,
+      "value": 0.3935203552246094,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 50,
+      "value": 0.2884525656700134,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 50,
+      "value": 0.22298508882522583,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 50,
+      "value": 0.20694023370742798,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 82,
+      "value": 0.2587607204914093,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 25,
+      "value": 0.1596083641052246,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 25,
+      "value": 0.3486367464065552,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 101,
+      "value": 0.1664227843284607,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 93,
+      "value": 0.20134811103343964,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 102,
+      "value": 0.22090928256511688,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 39,
+      "value": 0.25226449966430664,
+      "count": 1
+    },
+    {
+      "source": 93,
+      "target": 101,
+      "value": 0.30184057354927063,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 101,
+      "value": 0.23239865899085999,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 101,
+      "value": 0.2945607900619507,
+      "count": 1
+    },
+    {
+      "source": 93,
+      "target": 102,
+      "value": 0.27020615339279175,
+      "count": 1
+    },
+    {
+      "source": 93,
+      "target": 39,
+      "value": 0.6007735729217529,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 39,
+      "value": 0.3311329782009125,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 36,
+      "value": 0.34678325057029724,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 47,
+      "value": 0.23286518454551697,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 92,
+      "value": 0.24266895651817322,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 32,
+      "value": 0.24427920579910278,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 36,
+      "value": 0.34432312846183777,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 36,
+      "value": 0.42092931270599365,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 36,
+      "value": 0.37095940113067627,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 47,
+      "value": 0.2956007421016693,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 32,
+      "value": 0.45967406034469604,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 32,
+      "value": 0.3996044993400574,
+      "count": 1
+    },
+    {
+      "source": 95,
+      "target": 5,
+      "value": 0.32084447145462036,
+      "count": 1
+    },
+    {
+      "source": 95,
+      "target": 23,
+      "value": 0.2074052393436432,
+      "count": 1
+    },
+    {
+      "source": 95,
+      "target": 75,
+      "value": 0.388262540102005,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 23,
+      "value": 0.5522826910018921,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 75,
+      "value": 0.2767619490623474,
+      "count": 1
+    },
+    {
+      "source": 23,
+      "target": 75,
+      "value": 0.18905209004878998,
+      "count": 1
+    },
+    {
+      "source": 70,
+      "target": 11,
+      "value": 0.4599020183086395,
+      "count": 1
+    },
+    {
+      "source": 70,
+      "target": 56,
+      "value": 0.3778214454650879,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 56,
+      "value": 0.3589470088481903,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 1,
+      "value": 0.20820817351341248,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0.3435935378074646,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0.3752506971359253,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 58,
+      "value": 0.3425517678260803,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 81,
+      "value": 0.3402025103569031,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 81,
+      "value": 0.22621241211891174,
+      "count": 1
+    },
+    {
+      "source": 81,
+      "target": 58,
+      "value": 0.22788242995738983,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 8,
+      "value": 0.3275948762893677,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 58,
+      "value": 0.3247393071651459,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 58,
+      "value": 0.2542967200279236,
+      "count": 1
+    },
+    {
+      "source": 116,
+      "target": 3,
+      "value": 0.40943339467048645,
+      "count": 1
+    },
+    {
+      "source": 116,
+      "target": 4,
+      "value": 0.26777034997940063,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0.7427819967269897,
+      "count": 1
+    },
+    {
+      "source": 57,
+      "target": 43,
+      "value": 0.3263600468635559,
+      "count": 1
+    },
+    {
+      "source": 57,
+      "target": 18,
+      "value": 0.30265796184539795,
+      "count": 1
+    },
+    {
+      "source": 57,
+      "target": 42,
+      "value": 0.28994858264923096,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 18,
+      "value": 0.19167374074459076,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 42,
+      "value": 0.6316207647323608,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 18,
+      "value": 0.1833397001028061,
+      "count": 1
+    },
+    {
+      "source": 33,
+      "target": 87,
+      "value": 0.26886001229286194,
+      "count": 1
+    },
+    {
+      "source": 33,
+      "target": 111,
+      "value": 0.37430036067962646,
+      "count": 1
+    },
+    {
+      "source": 33,
+      "target": 76,
+      "value": 0.33047664165496826,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 111,
+      "value": 0.3173024654388428,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 76,
+      "value": 0.2273794412612915,
+      "count": 1
+    },
+    {
+      "source": 111,
+      "target": 76,
+      "value": 0.21221446990966797,
+      "count": 1
+    },
+    {
+      "source": 62,
+      "target": 80,
+      "value": 0.24580930173397064,
+      "count": 1
+    },
+    {
+      "source": 62,
+      "target": 59,
+      "value": 0.21589374542236328,
+      "count": 1
+    },
+    {
+      "source": 62,
+      "target": 54,
+      "value": 0.25353020429611206,
+      "count": 1
+    },
+    {
+      "source": 62,
+      "target": 112,
+      "value": 0.2770870625972748,
+      "count": 1
+    },
+    {
+      "source": 80,
+      "target": 59,
+      "value": 0.23145288228988647,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 80,
+      "value": 0.260883092880249,
+      "count": 1
+    },
+    {
+      "source": 80,
+      "target": 112,
+      "value": 0.2840576171875,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 59,
+      "value": 0.2821475565433502,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 59,
+      "value": 0.3602272570133209,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 112,
+      "value": 0.4401127099990845,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 79,
+      "value": 0.40724891424179077,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 31,
+      "value": 0.3191230893135071,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 26,
+      "value": 0.5764292478561401,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 100,
+      "value": 0.23214560747146606,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 31,
+      "value": 0.35427001118659973,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 79,
+      "value": 0.4124442934989929,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 100,
+      "value": 0.33306682109832764,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 31,
+      "value": 0.3101993799209595,
+      "count": 1
+    },
+    {
+      "source": 100,
+      "target": 31,
+      "value": 0.22095701098442078,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 100,
+      "value": 0.2607188820838928,
+      "count": 1
+    },
+    {
+      "source": 108,
+      "target": 103,
+      "value": 0.6757147908210754,
+      "count": 1
+    },
+    {
+      "source": 108,
+      "target": 6,
+      "value": 0.3385968804359436,
+      "count": 1
+    },
+    {
+      "source": 108,
+      "target": 83,
+      "value": 0.3393787145614624,
+      "count": 1
+    },
+    {
+      "source": 108,
+      "target": 45,
+      "value": 0.32981857657432556,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 103,
+      "value": 0.4106338918209076,
+      "count": 1
+    },
+    {
+      "source": 103,
+      "target": 83,
+      "value": 0.28801870346069336,
+      "count": 1
+    },
+    {
+      "source": 103,
+      "target": 45,
+      "value": 0.29812106490135193,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 83,
+      "value": 0.3002049922943115,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 45,
+      "value": 0.3974330425262451,
+      "count": 1
+    },
+    {
+      "source": 45,
+      "target": 83,
+      "value": 0.26472604274749756,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 89,
+      "value": 0.15416871011257172,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 74,
+      "value": 0.20067551732063293,
+      "count": 1
+    },
+    {
+      "source": 65,
+      "target": 74,
+      "value": 0.2099047303199768,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 74,
+      "value": 0.2247859239578247,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 64,
+      "value": 0.27524223923683167,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 74,
+      "value": 0.18419508635997772,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 89,
+      "value": 0.2071336805820465,
+      "count": 1
+    },
+    {
+      "source": 65,
+      "target": 89,
+      "value": 0.18851494789123535,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 89,
+      "value": 0.29945695400238037,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 89,
+      "value": 0.18789705634117126,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 89,
+      "value": 0.19723469018936157,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 65,
+      "value": 0.39303553104400635,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 7,
+      "value": 0.319838285446167,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 64,
+      "value": 0.4731253981590271,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 15,
+      "value": 0.32940489053726196,
+      "count": 1
+    },
+    {
+      "source": 65,
+      "target": 7,
+      "value": 0.3849632740020752,
+      "count": 1
+    },
+    {
+      "source": 65,
+      "target": 64,
+      "value": 0.41717493534088135,
+      "count": 1
+    },
+    {
+      "source": 65,
+      "target": 15,
+      "value": 0.2711451053619385,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 64,
+      "value": 0.34415173530578613,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 7,
+      "value": 0.33367180824279785,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 64,
+      "value": 0.32760900259017944,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 71,
+      "value": 0.41003650426864624,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 16,
+      "value": 0.3284096121788025,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 86,
+      "value": 0.3198275864124298,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 72,
+      "value": 0.3103206157684326,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 30,
+      "value": 0.32371076941490173,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 115,
+      "value": 0.32868367433547974,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 84,
+      "value": 0.23530425131320953,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 14,
+      "value": 0.25995132327079773,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 24,
+      "value": 0.2548068165779114,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 44,
+      "value": 0.31864744424819946,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 46,
+      "value": 0.2432672083377838,
+      "count": 1
+    },
+    {
+      "source": 71,
+      "target": 16,
+      "value": 0.3480066955089569,
+      "count": 1
+    },
+    {
+      "source": 71,
+      "target": 86,
+      "value": 0.27257299423217773,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 71,
+      "value": 0.2990305423736572,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 71,
+      "value": 0.37349265813827515,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 71,
+      "value": 0.36085474491119385,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 71,
+      "value": 0.317934513092041,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 71,
+      "value": 0.21351823210716248,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 71,
+      "value": 0.2962600290775299,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 71,
+      "value": 0.2862756550312042,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 71,
+      "value": 0.37278610467910767,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 16,
+      "value": 0.21347065269947052,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 16,
+      "value": 0.5173383951187134,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 16,
+      "value": 0.23130521178245544,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 16,
+      "value": 0.3130941390991211,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 16,
+      "value": 0.2457250952720642,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "value": 0.18028050661087036,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 16,
+      "value": 0.3111300766468048,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 16,
+      "value": 0.307536244392395,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 16,
+      "value": 0.27306270599365234,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 86,
+      "value": 0.2171974778175354,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 86,
+      "value": 0.24579188227653503,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 86,
+      "value": 0.3045997619628906,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 86,
+      "value": 0.2264406681060791,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 86,
+      "value": 0.2194942981004715,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 86,
+      "value": 0.25635668635368347,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 86,
+      "value": 0.22326141595840454,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 86,
+      "value": 0.24591165781021118,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 30,
+      "value": 0.17919796705245972,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 115,
+      "value": 0.32774823904037476,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 84,
+      "value": 0.22432555258274078,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 14,
+      "value": 0.18497736752033234,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 24,
+      "value": 0.22934603691101074,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 44,
+      "value": 0.22957320511341095,
+      "count": 1
+    },
+    {
+      "source": 97,
+      "target": 46,
+      "value": 0.22650223970413208,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 115,
+      "value": 0.31370145082473755,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 84,
+      "value": 0.23901993036270142,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 14,
+      "value": 0.25598108768463135,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 30,
+      "value": 0.2664912939071655,
+      "count": 2
+    },
+    {
+      "source": 44,
+      "target": 30,
+      "value": 0.29050183296203613,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 46,
+      "value": 0.33318042755126953,
+      "count": 2
+    },
+    {
+      "source": 115,
+      "target": 84,
+      "value": 0.23044529557228088,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 14,
+      "value": 0.20127414166927338,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 115,
+      "value": 0.31159165501594543,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 115,
+      "value": 0.372810035943985,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 46,
+      "value": 0.33219289779663086,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 84,
+      "value": 0.3195854425430298,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 84,
+      "value": 0.35572153329849243,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 84,
+      "value": 0.2351299673318863,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 46,
+      "value": 0.20910505950450897,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 14,
+      "value": 0.2863568067550659,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 14,
+      "value": 0.18749675154685974,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 46,
+      "value": 0.1628328561782837,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 44,
+      "value": 0.27696752548217773,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 46,
+      "value": 0.3363494277000427,
+      "count": 2
+    },
+    {
+      "source": 44,
+      "target": 46,
+      "value": 0.2846696674823761,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 41,
+      "value": 0.3386198878288269,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 40,
+      "value": 0.34104669094085693,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 109,
+      "value": 0.43496978282928467,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 48,
+      "value": 0.2045094221830368,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 85,
+      "value": 0.37996700406074524,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 48,
+      "value": 0.3802422285079956,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 48,
+      "value": 0.2511361837387085,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 46,
+      "value": 0.3191296458244324,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 40,
+      "value": 0.7301532030105591,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 109,
+      "value": 0.24028611183166504,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 41,
+      "value": 0.2651135325431824,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 85,
+      "value": 0.3150823414325714,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 41,
+      "value": 0.40965735912323,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 41,
+      "value": 0.2654995322227478,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 46,
+      "value": 0.3316209316253662,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 109,
+      "value": 0.20979419350624084,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 40,
+      "value": 0.2716664671897888,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 85,
+      "value": 0.25852131843566895,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 40,
+      "value": 0.35009169578552246,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 40,
+      "value": 0.26039618253707886,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 46,
+      "value": 0.2900676727294922,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 109,
+      "value": 0.26890888810157776,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 109,
+      "value": 0.6381958723068237,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 109,
+      "value": 0.321593701839447,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 109,
+      "value": 0.26618197560310364,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 109,
+      "value": 0.3313262164592743,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 85,
+      "value": 0.3286483883857727,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 30,
+      "value": 0.32012543082237244,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 85,
+      "value": 0.36483249068260193,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 85,
+      "value": 0.20722860097885132,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 85,
+      "value": 0.3468708395957947,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 24,
+      "value": 0.29375186562538147,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 46,
+      "value": 0.33603018522262573,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 110,
+      "value": 0.2873471677303314,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 107,
+      "value": 0.3761754631996155,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 60,
+      "value": 0.6442516446113586,
+      "count": 1
+    },
+    {
+      "source": 110,
+      "target": 107,
+      "value": 0.5374904274940491,
+      "count": 1
+    },
+    {
+      "source": 110,
+      "target": 60,
+      "value": 0.24937528371810913,
+      "count": 1
+    },
+    {
+      "source": 107,
+      "target": 60,
+      "value": 0.29079359769821167,
+      "count": 1
+    }
+  ],
+  "advisor_keywords": {
+    "江一鸣": {
+      "total_keywords": 14,
+      "top10_keywords": [
+        [
+          "随机偏微分方程",
+          1
+        ],
+        [
+          "色噪声",
+          1
+        ],
+        [
+          "间歇性",
+          1
+        ],
+        [
+          "噪声激励",
+          1
+        ],
+        [
+          "热核估计",
+          1
+        ],
+        [
+          "亚式外汇篮子期权",
+          1
+        ],
+        [
+          "G-K外汇期权模型",
+          1
+        ],
+        [
+          "蒙特卡罗方法",
+          1
+        ],
+        [
+          "混合方差缩减技术",
+          1
+        ],
+        [
+          "特征融合",
+          1
+        ]
+      ]
+    },
+    "郭军义": {
+      "total_keywords": 12,
+      "top10_keywords": [
+        [
+          "复合二项风险模型",
+          1
+        ],
+        [
+          "随机分红",
+          1
+        ],
+        [
+          "随机收入",
+          1
+        ],
+        [
+          "相依索赔",
+          1
+        ],
+        [
+          "GerberShiu函数",
+          1
+        ],
+        [
+          "最优随机控制",
+          1
+        ],
+        [
+          "HJB方程",
+          1
+        ],
+        [
+          "粘性解",
+          1
+        ],
+        [
+          "比较定理",
+          1
+        ],
+        [
+          "随机利率",
+          1
+        ]
+      ]
+    },
+    "邹长亮": {
+      "total_keywords": 12,
+      "top10_keywords": [
+        [
+          "多变点检测",
+          1
+        ],
+        [
+          "交叉核实",
+          1
+        ],
+        [
+          "模型选择",
+          1
+        ],
+        [
+          "动态规划",
+          1
+        ],
+        [
+          "Schwarz信息准则",
+          1
+        ],
+        [
+          "贝叶斯信息准则",
+          1
+        ],
+        [
+          "坐标下降法",
+          1
+        ],
+        [
+          "高维推断",
+          1
+        ],
+        [
+          "相合性",
+          1
+        ],
+        [
+          "Oracle性质",
+          1
+        ]
+      ]
+    },
+    "张震球": {
+      "total_keywords": 11,
+      "top10_keywords": [
+        [
+          "非线性非局部椭圆问题",
+          1
+        ],
+        [
+          "定性性质",
+          1
+        ],
+        [
+          "非线性非齐次椭圆障碍问题",
+          1
+        ],
+        [
+          "正则性",
+          1
+        ],
+        [
+          "广义非局部双相方程",
+          1
+        ],
+        [
+          "极大值原理",
+          1
+        ],
+        [
+          "Liouville定理",
+          1
+        ],
+        [
+          "非局部双相方程",
+          1
+        ],
+        [
+          "滑动方法",
+          1
+        ],
+        [
+          "窄域原理",
+          1
+        ]
+      ]
+    },
+    "杨庆之": {
+      "total_keywords": 9,
+      "top10_keywords": [
+        [
+          "张量分解",
+          1
+        ],
+        [
+          "TTr1SVD",
+          1
+        ],
+        [
+          "图像加密",
+          1
+        ],
+        [
+          "图像压缩",
+          1
+        ],
+        [
+          "玻色-爱因斯坦凝聚态",
+          1
+        ],
+        [
+          "非线性特征值",
+          1
+        ],
+        [
+          "平移对称高阶幂法",
+          1
+        ],
+        [
+          "收敛率",
+          1
+        ],
+        [
+          "扰动分析.",
+          1
+        ]
+      ]
+    }
+  },
+  "top5teacher": [
+    "江一鸣",
+    "郭军义",
+    "邹长亮",
+    "张震球",
+    "杨庆之"
+  ]
+}
