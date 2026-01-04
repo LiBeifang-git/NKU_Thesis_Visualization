@@ -1,0 +1,864 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "云游戏系统",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 1,
+      "label": "任务分发",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 2,
+      "label": "任务卸载",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 3,
+      "label": "内核融合",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 4,
+      "label": "分布式计算",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 5,
+      "label": "动态网络",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 6,
+      "label": "区块链系统",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 7,
+      "label": "医学图像",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 8,
+      "label": "卷积神经网络",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 9,
+      "label": "图染色",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 10,
+      "label": "场景图生成",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 11,
+      "label": "多任务处理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 12,
+      "label": "多项式时间算法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 13,
+      "label": "存内计算",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 14,
+      "label": "容器网络;Kubernetes系统;eBPF内核技术;P4可编程交换机;软硬件结合",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 15,
+      "label": "并行渲染",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 16,
+      "label": "异常检测",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 17,
+      "label": "强完美图定理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 18,
+      "label": "扩散模型",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 19,
+      "label": "智能合约",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 20,
+      "label": "残余密度优先调度",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 21,
+      "label": "深度强化学习",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 22,
+      "label": "点临界图",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 23,
+      "label": "禁用子图",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 24,
+      "label": "移动边缘计算",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 25,
+      "label": "端到端架构",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 26,
+      "label": "篡改定位",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 27,
+      "label": "网络加速",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 28,
+      "label": "自适应决策",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 29,
+      "label": "节点分类",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 30,
+      "label": "视频预测",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 31,
+      "label": "调度算法",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 32,
+      "label": "谓词概率分布",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 33,
+      "label": "贝叶斯优化",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 34,
+      "label": "负载调度",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 35,
+      "label": "资源分配",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 36,
+      "label": "资源调度",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 37,
+      "label": "超分辨率",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 38,
+      "label": "边缘计算",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 39,
+      "label": "长尾偏置",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 40,
+      "label": "静态属性图",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 41,
+      "label": "静态异质属性图",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 42,
+      "label": "高低频信号",
+      "group": -2,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 38,
+      "value": 0.28249233961105347,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 38,
+      "value": 0.27105575799942017,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 38,
+      "value": 0.26900607347488403,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 38,
+      "value": 0.29545214772224426,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 35,
+      "value": 0.6686789989471436,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0.19836676120758057,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 28,
+      "value": 0.2655458152294159,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 35,
+      "value": 0.2079981118440628,
+      "count": 1
+    },
+    {
+      "source": 28,
+      "target": 35,
+      "value": 0.30503562092781067,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 28,
+      "value": 0.37975987792015076,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 7,
+      "value": 0.18597835302352905,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0.3049928843975067,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 7,
+      "value": 0.23938730359077454,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 26,
+      "value": 0.12718215584754944,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 26,
+      "value": 0.2436758130788803,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 8,
+      "value": 0.2784808576107025,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 10,
+      "value": 0.12831898033618927,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 10,
+      "value": 0.16204187273979187,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 10,
+      "value": 0.2617970407009125,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 10,
+      "value": 0.24932974576950073,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 39,
+      "value": 0.38651782274246216,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 39,
+      "value": 0.26754772663116455,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 39,
+      "value": 0.24439315497875214,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 32,
+      "value": 0.15483197569847107,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 32,
+      "value": 0.26278096437454224,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 18,
+      "value": 0.29091912508010864,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 24,
+      "value": 0.20566785335540771,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 24,
+      "value": 0.3238179683685303,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 24,
+      "value": 0.2786604166030884,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "value": 0.31635189056396484,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 0.34157031774520874,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 31,
+      "value": 0.5720536708831787,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 22,
+      "value": 0.28935787081718445,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 23,
+      "value": 0.3764339089393616,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 17,
+      "value": 0.27863767743110657,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 9,
+      "value": 0.22201472520828247,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "value": 0.4251049757003784,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 17,
+      "value": 0.3837285041809082,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 22,
+      "value": 0.2335299551486969,
+      "count": 1
+    },
+    {
+      "source": 23,
+      "target": 17,
+      "value": 0.3743581473827362,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 23,
+      "value": 0.2501490116119385,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 17,
+      "value": 0.33915817737579346,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "value": 0.8154680728912354,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 40,
+      "value": 0.20281141996383667,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 40,
+      "value": 0.2880955636501312,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 16,
+      "value": 0.20800459384918213,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 41,
+      "value": 0.25596269965171814,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 41,
+      "value": 0.28176844120025635,
+      "count": 1
+    },
+    {
+      "source": 16,
+      "target": 41,
+      "value": 0.2726696729660034,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 42,
+      "value": 0.22751396894454956,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 16,
+      "value": 0.23945832252502441,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 16,
+      "value": 0.2568853795528412,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 15,
+      "value": 0.27502861618995667,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 0.2054845690727234,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 34,
+      "value": 0.25735512375831604,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 33,
+      "value": 0.2545321583747864,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 34,
+      "value": 0.3397318720817566,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 33,
+      "value": 0.27844271063804626,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 19,
+      "value": 0.47789421677589417,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 4,
+      "value": 0.3357887268066406,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0.4371141195297241,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "value": 0.3420371413230896,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "value": 0.2872413396835327,
+      "count": 1
+    },
+    {
+      "source": 36,
+      "target": 13,
+      "value": 0.2876930832862854,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 3,
+      "value": 0.3090437948703766,
+      "count": 1
+    },
+    {
+      "source": 36,
+      "target": 3,
+      "value": 0.22904573380947113,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 36,
+      "value": 0.429343581199646,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 5,
+      "value": 0.24109236896038055,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 5,
+      "value": 0.35808250308036804,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 5,
+      "value": 0.5812150239944458,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 30,
+      "value": 0.32463639974594116,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 37,
+      "value": 0.31751829385757446,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 30,
+      "value": 0.3242475986480713,
+      "count": 1
+    }
+  ],
+  "advisor_keywords": {
+    "袁晓洁": {
+      "total_keywords": 10,
+      "top10_keywords": [
+        [
+          "场景图生成",
+          1
+        ],
+        [
+          "长尾偏置",
+          1
+        ],
+        [
+          "谓词概率分布",
+          1
+        ],
+        [
+          "端到端架构",
+          1
+        ],
+        [
+          "扩散模型",
+          1
+        ],
+        [
+          "静态属性图",
+          1
+        ],
+        [
+          "静态异质属性图",
+          1
+        ],
+        [
+          "高低频信号",
+          1
+        ],
+        [
+          "节点分类",
+          1
+        ],
+        [
+          "异常检测",
+          1
+        ]
+      ]
+    },
+    "李雨森": {
+      "total_keywords": 8,
+      "top10_keywords": [
+        [
+          "云游戏系统",
+          1
+        ],
+        [
+          "并行渲染",
+          1
+        ],
+        [
+          "贝叶斯优化",
+          1
+        ],
+        [
+          "负载调度",
+          1
+        ],
+        [
+          "存内计算",
+          1
+        ],
+        [
+          "内核融合",
+          1
+        ],
+        [
+          "多任务处理",
+          1
+        ],
+        [
+          "资源调度",
+          1
+        ]
+      ]
+    },
+    "刘晓光": {
+      "total_keywords": 5,
+      "top10_keywords": [
+        [
+          "边缘计算",
+          1
+        ],
+        [
+          "任务分发",
+          1
+        ],
+        [
+          "资源分配",
+          1
+        ],
+        [
+          "深度强化学习",
+          1
+        ],
+        [
+          "自适应决策",
+          1
+        ]
+      ]
+    },
+    "黄申为": {
+      "total_keywords": 5,
+      "top10_keywords": [
+        [
+          "图染色",
+          1
+        ],
+        [
+          "点临界图",
+          1
+        ],
+        [
+          "禁用子图",
+          1
+        ],
+        [
+          "强完美图定理",
+          1
+        ],
+        [
+          "多项式时间算法",
+          1
+        ]
+      ]
+    },
+    "王刚": {
+      "total_keywords": 4,
+      "top10_keywords": [
+        [
+          "医学图像",
+          1
+        ],
+        [
+          "篡改定位",
+          1
+        ],
+        [
+          "卷积神经网络",
+          1
+        ],
+        [
+          "扩散模型",
+          1
+        ]
+      ]
+    }
+  },
+  "top5teacher": [
+    "袁晓洁",
+    "李雨森",
+    "刘晓光",
+    "黄申为",
+    "王刚"
+  ]
+}

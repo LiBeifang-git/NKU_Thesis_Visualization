@@ -1,0 +1,1516 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "5G",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 1,
+      "label": "ASP.NET",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 2,
+      "label": "ASP技术",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 3,
+      "label": "B/S体系",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 4,
+      "label": "JSP",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 5,
+      "label": "Java",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 6,
+      "label": "JavaEE",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 7,
+      "label": "MyBatis",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 8,
+      "label": "MySQL",
+      "group": -2,
+      "size": 3
+    },
+    {
+      "id": 9,
+      "label": "Nginx+Tomcat",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 10,
+      "label": "ObliviousHashing",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 11,
+      "label": "PTP协议",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 12,
+      "label": "SQLServer",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 13,
+      "label": "SaaS",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 14,
+      "label": "SpringMVC",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 15,
+      "label": "Struts+Spring+Hibernate框架",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 16,
+      "label": "b/s架构",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 17,
+      "label": "web",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 18,
+      "label": "一张图",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 19,
+      "label": "个性化学习",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 20,
+      "label": "中小企业",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 21,
+      "label": "互联网教育",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 22,
+      "label": "交通量调查",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 23,
+      "label": "人才招聘管理，PHP，YII框架，MVC设计模式",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 24,
+      "label": "代码混淆",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 25,
+      "label": "任务卸载",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 26,
+      "label": "任务驱动",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 27,
+      "label": "企业竞争力",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 28,
+      "label": "便民服务",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 29,
+      "label": "信息共享",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 30,
+      "label": "信息平台",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 31,
+      "label": "信息技术",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 32,
+      "label": "信息系统",
+      "group": -2,
+      "size": 2
+    },
+    {
+      "id": 33,
+      "label": "公路管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 34,
+      "label": "决策支持",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 35,
+      "label": "分布式假设",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 36,
+      "label": "创业园区",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 37,
+      "label": "功能扩展",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 38,
+      "label": "区域医疗卫生信息化",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 39,
+      "label": "协同办公,电子日志系统,设计与分析,B/S结构",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 40,
+      "label": "南港工业区",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 41,
+      "label": "历史影像",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 42,
+      "label": "变更管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 43,
+      "label": "声纹识别",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 44,
+      "label": "客户关系管理系统",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 45,
+      "label": "工作流",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 46,
+      "label": "市场营销",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 47,
+      "label": "平台",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 48,
+      "label": "招商服务管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 49,
+      "label": "提升人效",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 50,
+      "label": "效能监察",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 51,
+      "label": "数据共享",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 52,
+      "label": "数据整合",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 53,
+      "label": "数据驱动",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 54,
+      "label": "时间同步",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 55,
+      "label": "服务器管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 56,
+      "label": "机器学习",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 57,
+      "label": "模块化",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 58,
+      "label": "残差网络",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 59,
+      "label": "汽车销售管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 60,
+      "label": "注意力机制",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 61,
+      "label": "混合高斯模型",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 62,
+      "label": "物业综合管理系统，ASP.NET框架，B/S研发模式，物业管理机制，智能化服务小区",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 63,
+      "label": "特征表示",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 64,
+      "label": "用户关联",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 65,
+      "label": "电子商城",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 66,
+      "label": "离散序列",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 67,
+      "label": "移动边缘计算",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 68,
+      "label": "系统办公",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 69,
+      "label": "绩效考核",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 70,
+      "label": "综合应用系统",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 71,
+      "label": "网站群",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 72,
+      "label": "网络课程",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 73,
+      "label": "翻转课堂",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 74,
+      "label": "规划管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 75,
+      "label": "车辆资产管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 76,
+      "label": "软件保护",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 77,
+      "label": "软件水印",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 78,
+      "label": "软件维护",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 79,
+      "label": "软件质量度量",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 80,
+      "label": "软件防篡改",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 81,
+      "label": "进销存管理",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 82,
+      "label": "进销存系统",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 83,
+      "label": "远程教学",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 84,
+      "label": "远程防篡改",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 85,
+      "label": "销售企业",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 86,
+      "label": "销售服务",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 87,
+      "label": "销售目标设置",
+      "group": -2,
+      "size": 1
+    },
+    {
+      "id": 88,
+      "label": "非结构化数据库",
+      "group": -2,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 63,
+      "target": 66,
+      "value": 0.31430333852767944,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 66,
+      "value": 0.4170546531677246,
+      "count": 1
+    },
+    {
+      "source": 66,
+      "target": 60,
+      "value": 0.20841600000858307,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 63,
+      "value": 0.3300361633300781,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 60,
+      "value": 0.3039754629135132,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 60,
+      "value": 0.25940364599227905,
+      "count": 1
+    },
+    {
+      "source": 71,
+      "target": 57,
+      "value": 0.29358983039855957,
+      "count": 1
+    },
+    {
+      "source": 71,
+      "target": 29,
+      "value": 0.3818039298057556,
+      "count": 1
+    },
+    {
+      "source": 71,
+      "target": 37,
+      "value": 0.3068242073059082,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 57,
+      "value": 0.3028450310230255,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 57,
+      "value": 0.4645056128501892,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 37,
+      "value": 0.41276437044143677,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 65,
+      "value": 0.3253227472305298,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 65,
+      "value": 0.39786863327026367,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 65,
+      "value": 0.12936684489250183,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 65,
+      "value": 0.09384912252426147,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 46,
+      "value": 0.5231523513793945,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 46,
+      "value": 0.16197310388088226,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 7,
+      "value": 0.08238878846168518,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 14,
+      "value": 0.21439960598945618,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 7,
+      "value": 0.15518724918365479,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 7,
+      "value": 0.5175145268440247,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 36,
+      "value": 0.35133057832717896,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 36,
+      "value": 0.09433217346668243,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 36,
+      "value": 0.0450519323348999,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 48,
+      "value": 0.09760645031929016,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 48,
+      "value": 0.0830402672290802,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0.3449505865573883,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 50,
+      "value": 0.602825403213501,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 50,
+      "value": 0.29243266582489014,
+      "count": 1
+    },
+    {
+      "source": 45,
+      "target": 50,
+      "value": 0.3450021743774414,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 32,
+      "value": 0.21931536495685577,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 45,
+      "value": 0.28747230768203735,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 45,
+      "value": 0.2501291036605835,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 83,
+      "value": 0.591162383556366,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 16,
+      "value": 0.1965184509754181,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 83,
+      "value": 0.18709079921245575,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 16,
+      "value": 0.27320396900177,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 72,
+      "value": 0.35042399168014526,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 16,
+      "value": 0.25222718715667725,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 75,
+      "value": 0.1526353359222412,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 8,
+      "value": 0.09927771240472794,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 9,
+      "value": 0.16001911461353302,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 0.30787205696105957,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0.40355384349823,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0.20248691737651825,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 43,
+      "value": 0.2895643711090088,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 61,
+      "value": 0.3740262985229492,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 58,
+      "value": 0.39450252056121826,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 43,
+      "value": 0.18342284858226776,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 43,
+      "value": 0.25032997131347656,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 61,
+      "value": 0.3561023473739624,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 20,
+      "value": 0.275740385055542,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 20,
+      "value": 0.18663550913333893,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 15,
+      "value": 0.22839489579200745,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 44,
+      "value": 0.27166450023651123,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 87,
+      "value": 0.20190836489200592,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 44,
+      "value": 0.3335624933242798,
+      "count": 1
+    },
+    {
+      "source": 55,
+      "target": 42,
+      "value": 0.4020913243293762,
+      "count": 1
+    },
+    {
+      "source": 55,
+      "target": 52,
+      "value": 0.30150318145751953,
+      "count": 1
+    },
+    {
+      "source": 52,
+      "target": 42,
+      "value": 0.3902952969074249,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 1,
+      "value": 0.13496682047843933,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 30,
+      "value": 0.3303893804550171,
+      "count": 1
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "value": 0.29493147134780884,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 38,
+      "value": 0.30792802572250366,
+      "count": 1
+    },
+    {
+      "source": 38,
+      "target": 28,
+      "value": 0.27456405758857727,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 38,
+      "value": 0.22640365362167358,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 28,
+      "value": 0.31415003538131714,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 47,
+      "value": 0.3397314250469208,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 28,
+      "value": 0.31732112169265747,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 21,
+      "value": 0.40094679594039917,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 19,
+      "value": 0.3831319212913513,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 88,
+      "value": 0.20927192270755768,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 21,
+      "value": 0.1857369989156723,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 19,
+      "value": 0.33590859174728394,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 88,
+      "value": 0.17725026607513428,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 73,
+      "value": 0.2517838776111603,
+      "count": 1
+    },
+    {
+      "source": 19,
+      "target": 88,
+      "value": 0.27438807487487793,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 19,
+      "value": 0.2476775348186493,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 88,
+      "value": 0.2504485249519348,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 31,
+      "value": 0.4022703170776367,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 31,
+      "value": 0.2824028730392456,
+      "count": 1
+    },
+    {
+      "source": 49,
+      "target": 31,
+      "value": 0.2606015205383301,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 27,
+      "value": 0.3115358352661133,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 49,
+      "value": 0.3499264717102051,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 49,
+      "value": 0.35647088289260864,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 33,
+      "value": 0.4872649312019348,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 4,
+      "value": 0.1396912932395935,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 8,
+      "value": 0.06897372752428055,
+      "count": 1
+    },
+    {
+      "source": 33,
+      "target": 4,
+      "value": 0.16718116402626038,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 33,
+      "value": 0.09380866587162018,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 4,
+      "value": 0.2529829740524292,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 81,
+      "value": 0.43532058596611023,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 1,
+      "value": 0.13900882005691528,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 12,
+      "value": 0.20353588461875916,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 81,
+      "value": 0.2076893448829651,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 81,
+      "value": 0.23291893303394318,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0.5023574829101562,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 76,
+      "value": 0.4120626449584961,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 76,
+      "value": 0.678765058517456,
+      "count": 1
+    },
+    {
+      "source": 80,
+      "target": 76,
+      "value": 0.6916259527206421,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 77,
+      "value": 0.4171302914619446,
+      "count": 1
+    },
+    {
+      "source": 24,
+      "target": 80,
+      "value": 0.4144700765609741,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 80,
+      "value": 0.6135175228118896,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 10,
+      "value": 0.19983339309692383,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 54,
+      "value": 0.31429845094680786,
+      "count": 1
+    },
+    {
+      "source": 84,
+      "target": 11,
+      "value": 0.2921799421310425,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 54,
+      "value": 0.10755081474781036,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 10,
+      "value": 0.07559273391962051,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 54,
+      "value": 0.3542587459087372,
+      "count": 1
+    },
+    {
+      "source": 53,
+      "target": 78,
+      "value": 0.3817112445831299,
+      "count": 1
+    },
+    {
+      "source": 53,
+      "target": 79,
+      "value": 0.30302393436431885,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "value": 0.4916514456272125,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 59,
+      "value": 0.2815249562263489,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "value": 0.3561502695083618,
+      "count": 1
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0.30215156078338623,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 59,
+      "value": 0.32549506425857544,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 59,
+      "value": 0.2604922950267792,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 3,
+      "value": 0.4160962700843811,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 67,
+      "value": 0.24918687343597412,
+      "count": 1
+    },
+    {
+      "source": 0,
+      "target": 25,
+      "value": 0.14600379765033722,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 0,
+      "value": 0.09422613680362701,
+      "count": 1
+    },
+    {
+      "source": 25,
+      "target": 67,
+      "value": 0.20566785335540771,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 67,
+      "value": 0.16217131912708282,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 25,
+      "value": 0.2881752550601959,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 74,
+      "value": 0.2637042701244354,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 70,
+      "value": 0.313593327999115,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 74,
+      "value": 0.276932954788208,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 34,
+      "value": 0.4444856345653534,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 70,
+      "value": 0.3065737783908844,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 18,
+      "value": 0.1987317055463791,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 34,
+      "value": 0.2745513916015625,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 70,
+      "value": 0.1913892775774002,
+      "count": 1
+    },
+    {
+      "source": 34,
+      "target": 70,
+      "value": 0.4287666082382202,
+      "count": 1
+    },
+    {
+      "source": 40,
+      "target": 34,
+      "value": 0.19744659960269928,
+      "count": 1
+    }
+  ],
+  "advisor_keywords": {
+    "李忠伟": {
+      "total_keywords": 9,
+      "top10_keywords": [
+        [
+          "销售企业",
+          1
+        ],
+        [
+          "进销存管理",
+          1
+        ],
+        [
+          "ASP.NET",
+          1
+        ],
+        [
+          "SQLServer",
+          1
+        ],
+        [
+          "规划管理",
+          1
+        ],
+        [
+          "一张图",
+          1
+        ],
+        [
+          "综合应用系统",
+          1
+        ],
+        [
+          "南港工业区",
+          1
+        ],
+        [
+          "决策支持",
+          1
+        ]
+      ]
+    },
+    "贾春福": {
+      "total_keywords": 8,
+      "top10_keywords": [
+        [
+          "软件保护",
+          1
+        ],
+        [
+          "代码混淆",
+          1
+        ],
+        [
+          "软件水印",
+          1
+        ],
+        [
+          "软件防篡改",
+          1
+        ],
+        [
+          "远程防篡改",
+          1
+        ],
+        [
+          "ObliviousHashing",
+          1
+        ],
+        [
+          "时间同步",
+          1
+        ],
+        [
+          "PTP协议",
+          1
+        ]
+      ]
+    },
+    "李朝晖": {
+      "total_keywords": 6,
+      "top10_keywords": [
+        [
+          "中小企业",
+          1
+        ],
+        [
+          "进销存系统",
+          1
+        ],
+        [
+          "Struts+Spring+Hibernate框架",
+          1
+        ],
+        [
+          "SaaS",
+          1
+        ],
+        [
+          "客户关系管理系统",
+          1
+        ],
+        [
+          "销售目标设置",
+          1
+        ]
+      ]
+    },
+    "刘晓光": {
+      "total_keywords": 5,
+      "top10_keywords": [
+        [
+          "电子商城",
+          1
+        ],
+        [
+          "市场营销",
+          1
+        ],
+        [
+          "销售服务",
+          1
+        ],
+        [
+          "SpringMVC",
+          1
+        ],
+        [
+          "MyBatis",
+          1
+        ]
+      ]
+    },
+    "史广顺": {
+      "total_keywords": 5,
+      "top10_keywords": [
+        [
+          "互联网教育",
+          1
+        ],
+        [
+          "翻转课堂",
+          1
+        ],
+        [
+          "个性化学习",
+          1
+        ],
+        [
+          "非结构化数据库",
+          1
+        ],
+        [
+          "任务驱动",
+          1
+        ]
+      ]
+    }
+  },
+  "top5teacher": [
+    "李忠伟",
+    "贾春福",
+    "李朝晖",
+    "刘晓光",
+    "史广顺"
+  ]
+}
