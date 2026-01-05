@@ -5,256 +5,889 @@
   <title>Clustered Force-directed Map (Zoomable)</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <style>
-    body {
-      margin: 0;
-      font-family: sans-serif;
-      background: #fafafa;
+    body { margin: 0; font-family: sans-serif; background: #fafafa; }
+    svg { width: 100vw; height: 100vh; cursor: grab; }
+    .link { stroke: #bbb; stroke-opacity: 0.35; transition: stroke 0.3s, stroke-opacity 0.3s; }
+    .node { stroke: #fff; stroke-width: 1.2px; transition: stroke-width 0.2s, stroke 0.2s, fill 0.3s, opacity 0.3s; }
+    .node.circle { stroke: #fff; stroke-width: 1.2px; }
+    .hull { stroke-width: 3px; stroke-linejoin: round; pointer-events: none; transition: fill 0.3s, stroke 0.3s, opacity 0.3s; }
+    .cluster-label { font-size: 14px; font-weight: bold; fill: #333; text-anchor: middle; pointer-events: none; transition: fill 0.3s, opacity 0.3s; }
+    
+    .select-wrapper {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      z-index: 100;
+      display: flex;
+      gap: 15px;
+      background: rgba(255,255,255,0.95);
+      padding: 10px 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
-    svg {
-      width: 100vw;
-      height: 100vh;
-      cursor: grab;
+    .select-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
-    .link {
-      stroke: #bbb;
-      stroke-opacity: 0.35;
+    .select-item label {
+      font-size: 14px;
+      color: #333;
     }
-    .node {
-      stroke: #fff;
-      stroke-width: 1.2px;
+    .select-item select {
+      padding: 6px 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+      min-width: 180px;
     }
-    .hull {
-      stroke-width: 2px;
-      stroke-linejoin: round;
-      pointer-events: none;
+
+    #teacher-display-container {
+      position: absolute;
+      top: 80px;
+      left: 20px;
+      z-index: 100;
+      background: rgba(255,255,255,0.95);
+      padding: 10px 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      display: block;
+      min-width: 180px;
     }
-    text.cluster-label {
+    #teacher-display-title {
       font-size: 14px;
       font-weight: bold;
-      fill: #333;
-      text-anchor: middle;
+      color: #333;
+      margin-bottom: 8px;
+    }
+    #teacher-button-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      padding: 0;
+      margin: 0;
+    }
+    .teacher-button {
+      padding: 6px 10px;
+      background: #f8f8f8;
+      border: 1px solid #e0e0e0;
+      border-radius: 4px;
+      font-size: 14px;
+      color: #555;
+      text-align: left;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .teacher-button:hover {
+      background: #e8f4f8;
+      border-color: #4299e1;
+      color: #2d3748;
+    }
+    .teacher-button.active {
+      background: #4299e1;
+      border-color: #4299e1;
+      color: white;
+    }
+    #teacher-display-empty {
+      font-size: 14px;
+      color: #999;
+      margin-top: 4px;
+      display: none;
+    }
+    .tooltip {
+      position: absolute;
+      background: rgba(255,255,255,0.98);
+      padding: 8px 12px;
+      border-radius: 6px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+      font-size: 14px;
+      color: #333;
       pointer-events: none;
+      z-index: 200;
+      display: none;
+      border: 1px solid #e0e0e0;
+      white-space: nowrap;
+    }
+    /* 置灰样式 */
+    .node.grayed {
+      fill: #cccccc !important;
+      opacity: 0.5;
+    }
+    .link.grayed {
+      stroke: #dddddd !important;
+      stroke-opacity: 0.15 !important;
+    }
+    .hull.grayed {
+      fill: rgba(204,204,204,0.1) !important;
+      stroke: #cccccc !important;
+      opacity: 0.5;
+    }
+    .cluster-label.grayed {
+      fill: #999999 !important;
+      opacity: 0.5;
+    }
+    /* 颜色图例样式：9梯度绿→红渐变 */
+    .color-legend {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      z-index: 100;
+      background: rgba(255,255,255,0.95);
+      padding: 10px 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .legend-label {
+      font-size: 14px;
+      color: #333;
+      white-space: nowrap;
+    }
+    .legend-gradient {
+      width: 200px;
+      height: 10px;
+      border-radius: 5px;
+      /* 9梯度绿→红渐变 */
+      background: linear-gradient(to right, 
+        #2ecc71, #58d68d, #82e0aa, #a9dfa9, 
+        #f1c40f, #f39c12, #e67e22, #d35400, 
+        #e74c3c
+      );
+    }
+    .legend-min, .legend-max {
+      font-size: 12px;
+      color: #666;
+      white-space: nowrap;
     }
   </style>
 </head>
-
 <body>
-<svg></svg>
+  <div class="select-wrapper">
+    <div class="select-item">
+      <label for="school-select">选择学院：</label>
+      <select id="school-select">
+        <option value="">请选择学院...</option>
+        <option value="computer">计算机学院</option>
+        <option value="history">历史学院</option>
+        <option value="software">软件学院</option>
+        <option value="finance">金融学院</option>
+        <option value="math">数学科学学院</option>
+        <option value="chemistry">化学学院</option>
+        <option value="medicine">医学院</option>
+      </select>
+    </div>
+    <div class="select-item">
+      <label for="year-select">选择年份：</label>
+      <select id="year-select">
+        <option value="">请选择年份...</option>
+      </select>
+    </div>
+  </div>
+  <div id="teacher-display-container">
+    <div id="teacher-display-title">当前学院年份教师：</div>
+    <div id="teacher-button-group"></div>
+    <div id="teacher-display-empty">暂无教师数据</div>
+  </div>
+  <div class="tooltip"></div>
+  <!-- 颜色图例 -->
+  <div class="color-legend">
+    <span class="legend-label">簇大小：</span>
+    <div class="legend-gradient"></div>
+    <span class="legend-min">小</span>
+    <span class="legend-max">大</span>
+  </div>
+  <svg></svg>
 
-<script>
-const width = window.innerWidth;
-const height = window.innerHeight;
+  <script>
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+    const svg = d3.select("svg");
+    const tooltip = d3.select(".tooltip");
 
-const svg = d3.select("svg");
-const color = d3.scaleOrdinal(d3.schemeTableau10);
+    const zoomLayer = svg.append("g");
+    const zoom = d3.zoom()
+      .scaleExtent([0.3, 4])
+      .on("zoom", (event) => {
+        zoomLayer.attr("transform", event.transform);
+      });
+    svg.call(zoom);
 
-// =======================
-// Zoom（核心）
-// =======================
-const zoomLayer = svg.append("g");
+    // 全局变量
+    let globalClusters = [];
+    let globalClusterCenters = {};
+    let globalNodes = [];
+    let clusterSizeCache = {};
+    let layoutStable = false;
+    const stableAlphaThreshold = 0.005;
+    let simulation = null;
+    let clusterLabels = {};
+    let keywordNameToIdMap = {};
+    let teacherKeywordsMap = {}; // 教师-关键词映射（用于筛选）
+    let currentSelectedTeacher = null; // 当前选中的教师
+    
+    // 9梯度绿→红热力色阶
+    let clusterColorScale;
+    const heatmapColors = [
+      "#2ecc71", // 梯度1：亮绿（最小簇）
+      "#58d68d", // 梯度2：浅绿
+      "#82e0aa", // 梯度3：淡绿
+      "#a9dfa9", // 梯度4：微绿
+      "#f1c40f", // 梯度5：黄色（中间值）
+      "#f39c12", // 梯度6：橙黄
+      "#e67e22", // 梯度7：橙红
+      "#d35400", // 梯度8：深红橙
+      "#e74c3c"  // 梯度9：深红（最大簇）
+    ];
 
-const zoom = d3.zoom()
-  .scaleExtent([0.3, 4])
-  .on("zoom", (event) => {
-    zoomLayer.attr("transform", event.transform);
-  });
-
-svg.call(zoom);
-
-// =======================
-// 读取数据
-// =======================
-d3.json("graph.json").then(data => {
-
-  const nodes = data.nodes;
-  const links = data.links;
-
-  // =======================
-  // 1️⃣ Cluster 中心
-  // =======================
-  const clusters = Array.from(new Set(nodes.map(d => d.group)))
-    .filter(d => d !== -1);
-
-  const clusterCenters = {};
-  const gap = 260;   // ⭐ 调小：整体更紧凑
-
-  const cols = Math.ceil(Math.sqrt(clusters.length));
-
-  clusters.forEach((c, i) => {
-    clusterCenters[c] = {
-      x: (i % cols) * gap + width * 0.25,
-      y: Math.floor(i / cols) * gap + height * 0.25
+    // 学院-年份-文件映射
+    const fileMap = {
+      "computer": {
+        "2018":"json/计算机学院/leiden_output/计算机学院_2018_leiden_mix.json",
+        "2019":"json/计算机学院/leiden_output/计算机学院_2019_leiden_mix.json",
+        "2020":"json/计算机学院/leiden_output/计算机学院_2020_leiden_mix.json",
+        "2021":"json/计算机学院/leiden_output/计算机学院_2021_leiden_mix.json",
+        "2022":"json/计算机学院/leiden_output/计算机学院_2022_leiden_mix.json",
+        "2023":"json/计算机学院/leiden_output/计算机学院_2023_leiden_mix.json",
+        "2024":"json/计算机学院/leiden_output/计算机学院_2024_leiden_mix.json"
+      },
+      "history": {
+        "2019":"json/历史学院/leiden_output/历史学院_2019_leiden_mix.json",
+        "2020":"json/历史学院/leiden_output/历史学院_2020_leiden_mix.json",
+        "2021":"json/历史学院/leiden_output/历史学院_2021_leiden_mix.json",
+        "2022":"json/历史学院/leiden_output/历史学院_2022_leiden_mix.json",
+        "2023":"json/历史学院/leiden_output/历史学院_2023_leiden_mix.json",
+        "2024":"json/历史学院/leiden_output/历史学院_2024_leiden_mix.json"
+      },
+      "software": {
+        "2019":"json/软件学院/leiden_output/软件学院_2019_leiden_mix.json",
+        "2020":"json/软件学院/leiden_output/软件学院_2020_leiden_mix.json",
+        "2021":"json/软件学院/leiden_output/软件学院_2021_leiden_mix.json",
+        "2022":"json/软件学院/leiden_output/软件学院_2022_leiden_mix.json",
+        "2023":"json/软件学院/leiden_output/软件学院_2023_leiden_mix.json",
+        "2024":"json/软件学院/leiden_output/软件学院_2024_leiden_mix.json"
+      },
+      "finance": {
+        "2020":"json/金融学院/leiden_output/金融学院_2020_leiden_mix.json",
+        "2021":"json/金融学院/leiden_output/金融学院_2021_leiden_mix.json",
+        "2022":"json/金融学院/leiden_output/金融学院_2022_leiden_mix.json",
+        "2023":"json/金融学院/leiden_output/金融学院_2023_leiden_mix.json",
+        "2024":"json/金融学院/leiden_output/金融学院_2024_leiden_mix.json"
+      },
+      "math": {
+        "2019":"json/数学科学学院/leiden_output/数学科学学院_2019_leiden_mix.json",
+        "2020":"json/数学科学学院/leiden_output/数学科学学院_2020_leiden_mix.json",
+        "2021":"json/数学科学学院/leiden_output/数学科学学院_2021_leiden_mix.json",
+        "2022":"json/数学科学学院/leiden_output/数学科学学院_2022_leiden_mix.json",
+        "2023":"json/数学科学学院/leiden_output/数学科学学院_2023_leiden_mix.json",
+        "2024":"json/数学科学学院/leiden_output/数学科学学院_2024_leiden_mix.json"
+      },
+      "chemistry": {
+        "2020":"json/化学学院/leiden_output/化学学院_2020_leiden_mix.json",
+        "2021":"json/化学学院/leiden_output/化学学院_2021_leiden_mix.json",
+        "2022":"json/化学学院/leiden_output/化学学院_2022_leiden_mix.json",
+        "2023":"json/化学学院/leiden_output/化学学院_2023_leiden_mix.json",
+        "2024":"json/化学学院/leiden_output/化学学院_2024_leiden_mix.json"
+      },
+      "medicine": {
+        "2019":"json/医学院/leiden_output/医学院_2019_leiden_mix.json",
+        "2020":"json/医学院/leiden_output/医学院_2020_leiden_mix.json",
+        "2021":"json/医学院/leiden_output/医学院_2021_leiden_mix.json",
+        "2022":"json/医学院/leiden_output/医学院_2022_leiden_mix.json",
+        "2023":"json/医学院/leiden_output/医学院_2023_leiden_mix.json"
+      },
+      "default": "json/计算机学院/leiden_output/计算机学院_2024_leiden_mix.json"
     };
-  });
 
-  // =======================
-  // 2️⃣ 初始坐标
-  // =======================
-  nodes.forEach(d => {
-    if (d.group === -1) {
-      d.x = width * 0.5 + Math.random() * 120 - 60;
-      d.y = height * 0.1 + Math.random() * 120 - 60;
-    } else {
-      const c = clusterCenters[d.group];
-      d.x = c.x + (Math.random() - 0.5) * 50;
-      d.y = c.y + (Math.random() - 0.5) * 50;
+    // 获取所有唯一年份
+    function getAllUniqueYears() {
+      const allYears = new Set();
+      Object.values(fileMap).forEach(schoolData => {
+        if (typeof schoolData === "object" && !Array.isArray(schoolData)) {
+          Object.keys(schoolData).forEach(year => {
+            if (/^\d{4}$/.test(year)) {
+              allYears.add(year);
+            }
+          });
+        }
+      });
+      return Array.from(allYears).sort((a, b) => a - b);
     }
-  });
 
-  // =======================
-  // 图层顺序
-  // =======================
-  const hullLayer  = zoomLayer.append("g");
-  const linkLayer  = zoomLayer.append("g");
-  const nodeLayer  = zoomLayer.append("g");
-  const labelLayer = zoomLayer.append("g");
+    // 根据学院获取对应年份
+    function getYearsBySchool(schoolValue) {
+      if (!schoolValue) {
+        return getAllUniqueYears();
+      }
+      const schoolData = fileMap[schoolValue] || {};
+      const years = Object.keys(schoolData).filter(year => /^\d{4}$/.test(year));
+      return years.sort((a, b) => a - b);
+    }
 
-  // =======================
-  // 3️⃣ Cluster force
-  // =======================
-  function forceCluster() {
-    const strength = 0.35;
-    let nodes;
+    // 渲染年份选择框
+    function renderYearSelect(years) {
+      const yearSelect = d3.select("#year-select");
+      yearSelect.selectAll("option:not([value=''])").remove();
+      yearSelect.selectAll("option.year-option")
+        .data(years)
+        .enter()
+        .append("option")
+        .attr("class", "year-option")
+        .attr("value", d => d)
+        .text(d => d);
+    }
 
-    function force(alpha) {
-      nodes.forEach(d => {
-        if (d.group === -1) return;
-        const c = clusterCenters[d.group];
-        d.vx += (c.x - d.x) * strength * alpha;
-        d.vy += (c.y - d.y) * strength * alpha;
+    // 加载图谱数据
+    function loadGraphData(filePath) {
+      // 重置状态
+      resetGraphState();
+      layoutStable = false;
+      currentSelectedTeacher = null;
+      
+      d3.json(filePath).then(data => {
+        console.log("=== 原始数据 ===", data);
+        
+        // 深拷贝数据
+        globalNodes = JSON.parse(JSON.stringify(data.nodes || []));
+        const links = JSON.parse(JSON.stringify(data.links || []));
+
+        // 重建关键词ID映射
+        keywordNameToIdMap = {};
+        globalNodes.forEach(node => {
+          if (!node.type || node.type === "keyword") {
+            const rawName = (node.label || node.name || "").trim();
+            const cleanName = rawName.toLowerCase().replace(/\s+/g, "").replace(/[^\u4e00-\u9fa5a-zA-Z0-9]/g, "");
+            if (cleanName) {
+              keywordNameToIdMap[cleanName] = node.id;
+              keywordNameToIdMap[rawName] = node.id;
+            }
+          }
+        });
+
+        // 解析教师-关键词映射（仅用于筛选）
+        const top5teacher = data.top5teacher || [];
+        const advisor_keywords = data.advisor_keywords || {};
+        teacherKeywordsMap = {};
+        
+        Object.keys(advisor_keywords).forEach(teacherName => {
+          let keywords = [];
+          if (Array.isArray(advisor_keywords[teacherName])) {
+            keywords = advisor_keywords[teacherName];
+          } else if (advisor_keywords[teacherName].top10_keywords) {
+            keywords = advisor_keywords[teacherName].top10_keywords.map(item => {
+              return Array.isArray(item) ? item[0] : item;
+            });
+          }
+          
+          // 清洗关键词并映射到ID
+          keywords = keywords.map(k => {
+            const rawK = (k || "").trim();
+            const cleanK = rawK.toLowerCase().replace(/\s+/g, "").replace(/[^\u4e00-\u9fa5a-zA-Z0-9]/g, "");
+            return keywordNameToIdMap[cleanK] || keywordNameToIdMap[rawK] || null;
+          }).filter(Boolean);
+          
+          teacherKeywordsMap[teacherName] = keywords;
+        });
+        
+        // 计算簇大小（仅统计关键词节点）
+        const validNodes = globalNodes.filter(d => d.group !== -1 && (!d.type || d.type === "keyword"));
+        clusterSizeCache = {};
+        d3.group(validNodes, d => d.group).forEach((clusterNodes, group) => {
+          clusterSizeCache[group] = clusterNodes.length;
+        });
+        console.log("簇大小缓存（关键词节点数）：", clusterSizeCache);
+
+        // 创建9梯度绿→红热力色比例尺
+        globalClusters = Array.from(new Set(globalNodes.map(d => d.group))).filter(d => d !== -1);
+        const clusterSizes = globalClusters.map(group => clusterSizeCache[group] || 1);
+        clusterColorScale = d3.scaleQuantile()
+          .domain(clusterSizes)
+          .range(heatmapColors);
+
+        // 节点大小比例尺
+        const nodeSizes = globalNodes.map(d => d.size || 1);
+        const sizeScale = d3.scaleSqrt()
+          .domain(d3.extent(nodeSizes))
+          .range([4, 15]);
+
+        // 基于簇大小动态分配初始空间
+        clusterLabels = data.cluster_labels || {};
+        globalClusterCenters = {};
+        const totalNodes = Object.values(clusterSizeCache).reduce((a, b) => a + b, 0);
+        const clusterWeights = {};
+        Object.keys(clusterSizeCache).forEach(group => {
+          clusterWeights[group] = clusterSizeCache[group] / totalNodes;
+        });
+        
+        // 极坐标分布簇中心
+        globalClusters.forEach((c, i) => {
+          const angle = (i / globalClusters.length) * 2 * Math.PI;
+          const weight = clusterWeights[c] || 0.1;
+          const radius = Math.min(width, height) * (0.25 + weight * 1.5);
+          globalClusterCenters[c] = {
+            x: width/2 + radius * Math.cos(angle),
+            y: height/2 + radius * Math.sin(angle)
+          };
+        });
+
+        // 初始化节点坐标
+        globalNodes.forEach(d => {
+          if (d.group === -1) {
+            d.x = globalClusterCenters[-1]?.x || (width * 0.5 + Math.random() * 150 - 75);
+            d.y = globalClusterCenters[-1]?.y || (height * 0.1 + Math.random() * 150 - 75);
+          } else {
+            const c = globalClusterCenters[d.group];
+            const clusterSize = clusterSizeCache[d.group] || 10;
+            const offset = clusterSize > 20 ? 60 : (clusterSize > 10 ? 40 : 20);
+            d.x = c.x + (Math.random() - 0.5) * offset;
+            d.y = c.y + (Math.random() - 0.5) * offset;
+          }
+        });
+
+        // 清空图层
+        zoomLayer.selectAll("*").remove();
+        const hullLayer  = zoomLayer.append("g");
+        const linkLayer = zoomLayer.append("g");
+        const nodeLayer  = zoomLayer.append("g");
+        const labelLayer = zoomLayer.append("g");
+
+        // 动态簇力
+        function forceCluster() {
+          let nodes;
+          function force(alpha) {
+            const currentStrength = layoutStable ? 0.2 : 
+              (d => {
+                const clusterSize = clusterSizeCache[d.group] || 10;
+                return clusterSize > 30 ? 0.9 : (clusterSize > 15 ? 0.7 : 0.5);
+              });
+            
+            nodes.forEach(d => {
+              if (d.group === -1) return;
+              const c = globalClusterCenters[d.group];
+              const strength = typeof currentStrength === "function" ? currentStrength(d) : currentStrength;
+              d.vx += (c.x - d.x) * strength * alpha;
+              d.vy += (c.y - d.y) * strength * alpha;
+            });
+          }
+          force.initialize = _ => nodes = _;
+          return force;
+        }
+
+        // 簇间排斥力
+        function forceClusterRepel() {
+          const strength = 1000;
+          let nodes;
+          
+          function force(alpha) {
+            if (layoutStable) return;
+            
+            const clusterGroups = Object.keys(globalClusterCenters).filter(g => g !== "-1");
+            for (let i = 0; i < clusterGroups.length; i++) {
+              const g1 = clusterGroups[i];
+              const c1 = globalClusterCenters[g1];
+              for (let j = i + 1; j < clusterGroups.length; j++) {
+                const g2 = clusterGroups[j];
+                const c2 = globalClusterCenters[g2];
+                
+                const dx = c2.x - c1.x;
+                const dy = c2.y - c1.y;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+                const minDistance = Math.min(width, height) * 0.1;
+                
+                if (distance < minDistance) {
+                  const force = (strength * alpha) / distance;
+                  globalClusterCenters[g1].x -= dx * force;
+                  globalClusterCenters[g1].y -= dy * force;
+                  globalClusterCenters[g2].x += dx * force;
+                  globalClusterCenters[g2].y += dy * force;
+                }
+              }
+            }
+          }
+          
+          force.initialize = _ => nodes = _;
+          return force;
+        }
+
+        // 精细化力导向参数
+        simulation = d3.forceSimulation(globalNodes)
+          .force("link", d3.forceLink(links).id(d => d.id)
+            .distance(d => {
+              const sourceSize = sizeScale(d.source.size || 1);
+              const targetSize = sizeScale(d.target.size || 1);
+              return d.source.group === d.target.group 
+                ? 30 + (sourceSize + targetSize) 
+                : 350 + (sourceSize + targetSize);
+            })
+            .strength(d => {
+              return d.source.group === d.target.group ? 0.95 : 0.4;
+            })
+          )
+          .force("charge", d3.forceManyBody()
+            .strength(d => {
+              const nodeSize = sizeScale(d.size || 1);
+              return - (300 + nodeSize * 10);
+            })
+            .distanceMin(d => {
+              return sizeScale(d.size || 1) * 2;
+            })
+            .distanceMax(1000)
+          )
+          .force("collision", d3.forceCollide()
+            .radius(d => {
+              const clusterSize = clusterSizeCache[d.group] || 10;
+              const base = clusterSize > 20 ? 12 : 8;
+              return sizeScale(d.size || 1) + base;
+            })
+            .strength(0.95)
+            .iterations(15)
+          )
+          .force("cluster", forceCluster())
+          .force("clusterRepel", forceClusterRepel())
+          .alphaDecay(0.015)
+          .velocityDecay(0.92)
+          .alpha(1)
+          .restart();
+
+        // 绘制边
+        const link = linkLayer.selectAll("line")
+          .data(links)
+          .enter()
+          .append("line")
+          .attr("class", "link")
+          .attr("stroke-width", d => {
+            return d.source.group === d.target.group ? 1.2 : 0.8;
+          })
+          .attr("stroke", d => {
+            if (d.source.group === d.target.group) {
+              const clusterColor = clusterColorScale(clusterSizeCache[d.source.group] || 1);
+              const colorObj = d3.color(clusterColor);
+              return `rgb(${Math.min(255, colorObj.r + 12)}, ${Math.min(255, colorObj.g + 12)}, ${Math.min(255, colorObj.b + 12)})`;
+            }
+            return "#bbb";
+          });
+
+        // 绘制节点
+        const node = nodeLayer.selectAll("circle.node.circle")
+          .data(globalNodes.filter(d => !d.type || d.type === "keyword"))
+          .enter()
+          .append("circle")
+          .attr("class", "node circle")
+          .attr("r", d => sizeScale(d.size || 1))
+          .attr("fill", d => {
+            if (d.group === -1) return "#ccc";
+            return clusterColorScale(clusterSizeCache[d.group] || 1);
+          })
+          .on("mouseover", function(event) {
+            d3.select(this).transition().duration(100).attr("r", d => sizeScale(d.size || 1) + 2);
+            nodeMouseOver(event, d3.select(this).datum());
+          })
+          .on("mouseout", function(event) {
+            d3.select(this).transition().duration(100).attr("r", d => sizeScale(d.size || 1));
+            nodeMouseOut(event, d3.select(this).datum());
+          })
+          .on("mousemove", nodeMouseMove)
+          .call(d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended)
+          );
+
+        // 绘制簇Hull
+        function drawHulls() {
+          const grouped = d3.group(globalNodes.filter(d => d.group !== -1 && (!d.type || d.type === "keyword")), d => d.group);
+          const hulls = Array.from(grouped, ([group, pts]) => {
+            const poly = d3.polygonHull(pts.map(d => [d.x, d.y]));
+            const size = clusterSizeCache[group] || 1;
+            return { group, path: poly, size: size };
+          });
+
+          const paths = hullLayer.selectAll("path")
+            .data(hulls, d => d.group);
+
+          paths.enter()
+            .append("path")
+            .attr("class", "hull")
+            .merge(paths)
+            .attr("d", d => d.path ? "M" + d.path.join("L") + "Z" : null)
+            .attr("fill", d => {
+              const baseColor = clusterColorScale(d.size);
+              const colorObj = d3.color(baseColor);
+              return `rgba(${colorObj.r}, ${colorObj.g}, ${colorObj.b}, 0.3)`;
+            })
+            .attr("stroke", d => {
+              const baseColor = clusterColorScale(d.size);
+              const colorObj = d3.color(baseColor);
+              const darkerR = Math.max(0, colorObj.r - 12);
+              const darkerG = Math.max(0, colorObj.g - 12);
+              const darkerB = Math.max(0, colorObj.b - 12);
+              return colorObj ? `rgb(${darkerR}, ${darkerG}, ${darkerB})` : "#e74c3c";
+            })
+            .attr("stroke-width", d => {
+              return d.size > 30 ? 3 : 2;
+            })
+            .attr("stroke-opacity", 1);
+
+          paths.exit().remove();
+        }
+
+        // 绘制簇标签
+        const clusterLabel = labelLayer.selectAll("text")
+          .data(globalClusters)
+          .enter()
+          .append("text")
+          .attr("class", "cluster-label")
+          .attr("x", d => globalClusterCenters[d].x)
+          .attr("y", d => globalClusterCenters[d].y)
+          .attr("font-size", d => {
+            const size = clusterSizeCache[d] || 10;
+            return size > 30 ? 16 : (size > 15 ? 15 : 14);
+          })
+          .attr("stroke", "#fff")
+          .attr("stroke-width", 2)
+          .attr("paint-order", "stroke fill")
+          .attr("fill", d => {
+            const clusterColor = clusterColorScale(clusterSizeCache[d] || 1);
+            const colorObj = d3.color(clusterColor);
+            return colorObj.l < 0.5 ? "#fff" : "#333";
+          })
+          .text(d => {
+            const size = clusterSizeCache[d] || 0;
+            return `${clusterLabels[d] ?? `Cluster ${d}`} (${size}个关键词)`;
+          });
+
+        // Tick事件
+        let tickCount = 0;
+        simulation.on("tick", () => {
+          tickCount++;
+          
+          if (!layoutStable && simulation.alpha() < stableAlphaThreshold) {
+            layoutStable = true;
+            console.log("布局已稳定，停止多余计算");
+            simulation.force("cluster", forceCluster()).alphaDecay(0.05);
+          }
+
+          // 更新边和节点
+          link.attr("x1", d => d.source.x)
+              .attr("y1", d => d.source.y)
+              .attr("x2", d => d.target.x)
+              .attr("y2", d => d.target.y);
+          
+          node.attr("cx", d => d.x).attr("cy", d => d.y);
+          
+          if (!layoutStable || tickCount % 5 === 0) {
+            drawHulls();
+          }
+        });
+
+        // 通用鼠标事件
+        function nodeMouseOver(event, d) {
+          let displayText = `关键词：${d.label || d.name || "未知"}${d.size ? ` (${d.size}次)` : ""}`;
+          if (d.group !== -1) {
+            const clusterSize = clusterSizeCache[d.group] || 0;
+            displayText += `<br>所属簇：${clusterLabels[d.group] ?? `Cluster ${d.group}`} (${clusterSize}个关键词)`;
+          }
+          tooltip.html(displayText)
+            .style("display", "block")
+            .style("left", (event.pageX + 10) + "px")
+            .style("top", (event.pageY - 10) + "px");
+          d3.select(event.currentTarget).attr("stroke-width", 2).attr("stroke", "#333");
+        }
+
+        function nodeMouseMove(event) {
+          tooltip.style("left", (event.pageX + 10) + "px").style("top", (event.pageY - 10) + "px");
+        }
+
+        function nodeMouseOut(event, d) {
+          tooltip.style("display", "none");
+          d3.select(event.currentTarget).attr("stroke-width", 1.2).attr("stroke", "#fff");
+        }
+
+        // 拖拽事件
+        function dragstarted(event, d) {
+          if (!event.active) simulation.alphaTarget(0.2).restart();
+          d.fx = d.x;
+          d.fy = d.y;
+          layoutStable = false;
+        }
+        function dragged(event, d) {
+          d.fx = event.x;
+          d.fy = event.y;
+        }
+        function dragended(event, d) {
+          if (!event.active) simulation.alphaTarget(0);
+          d.fx = null;
+          d.fy = null;
+        }
+
+        // 初始缩放
+        svg.call(zoom.transform, d3.zoomIdentity.translate(width * 0.05, height * 0.05).scale(0.85));
+
+        // 渲染教师按钮组
+        renderTeacherButtons(top5teacher.filter(Boolean));
+
+      }).catch(error => {
+        console.error("数据加载失败：", error);
+        alert(`加载文件${filePath}失败，请检查文件路径和格式！`);
       });
     }
 
-    force.initialize = _ => nodes = _;
-    return force;
-  }
+    // 渲染教师按钮组
+    function renderTeacherButtons(teacherNames) {
+      const buttonGroup = d3.select("#teacher-button-group");
+      buttonGroup.html("");
+      
+      if (teacherNames.length > 0) {
+        d3.select("#teacher-display-empty").style("display", "none");
+        
+        teacherNames.forEach(teacherName => {
+          const button = buttonGroup.append("button")
+            .attr("class", "teacher-button")
+            .attr("data-name", teacherName)
+            .text(teacherName)
+            .on("click", function() {
+              const name = d3.select(this).attr("data-name");
+              toggleTeacherFilter(name, this);
+            });
+        });
+      } else {
+        d3.select("#teacher-display-empty").style("display", "block");
+      }
+    }
 
-  // =======================
-  // 4️⃣ Force simulation
-  // =======================
-  const simulation = d3.forceSimulation(nodes)
-    .force("link",
-      d3.forceLink(links)
-        .id(d => d.id)
-        .distance(d => d.source.group === d.target.group ? 45 : 160)
-        .strength(0.6)
-    )
-    .force("charge", d3.forceManyBody().strength(-90))
-    .force("collision", d3.forceCollide(9))
-    .force("cluster", forceCluster())
-    .alphaDecay(0.035);
+    // 切换教师筛选状态
+    function toggleTeacherFilter(teacherName, buttonElement) {
+      // 如果点击的是当前选中的教师，取消筛选
+      if (currentSelectedTeacher === teacherName) {
+        resetAllElementsStyle();
+        currentSelectedTeacher = null;
+        d3.selectAll(".teacher-button").classed("active", false);
+        return;
+      }
+      
+      // 取消之前选中的教师，设置新选中状态
+      currentSelectedTeacher = teacherName;
+      d3.selectAll(".teacher-button").classed("active", false);
+      d3.select(buttonElement).classed("active", true);
+      
+      // 获取该教师相关的关键词ID和所属簇
+      const relatedKeywordIds = teacherKeywordsMap[teacherName] || [];
+      const relatedClusters = new Set();
+      
+      // 找到相关关键词所属的簇
+      globalNodes.forEach(node => {
+        if (relatedKeywordIds.includes(node.id) && node.group !== -1) {
+          relatedClusters.add(node.group);
+        }
+      });
+      
+      console.log(`筛选教师【${teacherName}】：相关关键词ID=${relatedKeywordIds}，相关簇=${Array.from(relatedClusters)}`);
+      
+      // 重置所有元素样式
+      resetAllElementsStyle();
+      
+      // 非相关节点置灰
+      d3.selectAll(".node.circle")
+        .filter(d => !relatedKeywordIds.includes(d.id) && d.group !== -1)
+        .classed("grayed", true);
+      
+      // 非相关边置灰
+      d3.selectAll(".link")
+        .filter(d => {
+          // 边的两端都不在相关关键词列表中，且不属于相关簇
+          const sourceInRelated = relatedKeywordIds.includes(d.source.id) || relatedClusters.has(d.source.group);
+          const targetInRelated = relatedKeywordIds.includes(d.target.id) || relatedClusters.has(d.target.group);
+          return !sourceInRelated && !targetInRelated;
+        })
+        .classed("grayed", true);
+      
+      // 非相关簇Hull置灰
+      d3.selectAll(".hull")
+        .filter(d => !relatedClusters.has(d.group))
+        .classed("grayed", true);
+      
+      // 非相关簇标签置灰
+      d3.selectAll(".cluster-label")
+        .filter(d => !relatedClusters.has(d))
+        .classed("grayed", true);
+    }
 
-  // =======================
-  // 边
-  // =======================
-  const link = linkLayer.selectAll("line")
-    .data(links)
-    .enter()
-    .append("line")
-    .attr("class", "link");
+    // 重置所有元素样式
+    function resetAllElementsStyle() {
+      d3.selectAll(".node.circle").classed("grayed", false);
+      d3.selectAll(".link").classed("grayed", false);
+      d3.selectAll(".hull").classed("grayed", false);
+      d3.selectAll(".cluster-label").classed("grayed", false);
+    }
 
-  // =======================
-  // 节点
-  // =======================
-  const node = nodeLayer.selectAll("circle")
-    .data(nodes)
-    .enter()
-    .append("circle")
-    .attr("class", "node")
-    .attr("r", 5)
-    .attr("fill", d => d.group === -1 ? "#ccc" : color(d.group))
-    .call(d3.drag()
-      .on("start", dragstarted)
-      .on("drag", dragged)
-      .on("end", dragended)
-    );
+    // 重置图表状态
+    function resetGraphState() {
+      if (simulation) {
+        simulation.stop();
+        simulation = null;
+      }
+      globalClusters = [];
+      globalClusterCenters = {};
+      globalNodes = [];
+      clusterSizeCache = {};
+      clusterColorScale = null;
+      clusterLabels = {};
+      keywordNameToIdMap = {};
+      teacherKeywordsMap = {};
+      
+      zoomLayer.selectAll("*").remove();
+      svg.select("defs").remove();
+      
+      d3.select("#teacher-button-group").html("");
+      d3.select("#teacher-display-empty").style("display", "none");
+      resetAllElementsStyle();
+    }
 
-  // =======================
-  // 5️⃣ Hull
-  // =======================
-  function drawHulls() {
-    const grouped = d3.group(nodes.filter(d => d.group !== -1), d => d.group);
+    // 绑定学院/年份选择框事件
+    function bindSchoolYearSelectEvent() {
+      const schoolSelect = d3.select("#school-select");
+      const yearSelect = d3.select("#year-select");
+      
+      schoolSelect.on("change", function() {
+        const schoolValue = this.value;
+        const years = getYearsBySchool(schoolValue);
+        renderYearSelect(years);
+        yearSelect.property("value", "");
+        handleSelectChange();
+      });
+      
+      yearSelect.on("change", handleSelectChange);
+      
+      function handleSelectChange() {
+        const schoolValue = schoolSelect.property("value");
+        const yearValue = yearSelect.property("value");
+        
+        let filePath = fileMap["default"];
+        if (schoolValue && yearValue) {
+          filePath = fileMap[schoolValue]?.[yearValue] || fileMap["default"];
+        } else if (schoolValue) {
+          const schoolYears = getYearsBySchool(schoolValue);
+          if (schoolYears.length > 0) {
+            filePath = fileMap[schoolValue][schoolYears[0]] || fileMap["default"];
+            yearSelect.property("value", schoolYears[0]);
+          }
+        } else if (yearValue) {
+          filePath = fileMap["computer"]?.[yearValue] || fileMap["default"];
+          schoolSelect.property("value", "computer");
+        }
+        
+        loadGraphData(filePath);
+      }
+    }
 
-    const hulls = Array.from(grouped, ([group, pts]) => {
-      const poly = d3.polygonHull(pts.map(d => [d.x, d.y]));
-      return { group, path: poly };
-    });
-
-    const paths = hullLayer.selectAll("path")
-      .data(hulls, d => d.group);
-
-    paths.enter()
-      .append("path")
-      .attr("class", "hull")
-      .merge(paths)
-      .attr("d", d => d.path ? "M" + d.path.join("L") + "Z" : null)
-      .attr("fill", d => color(d.group))
-      .attr("stroke", d => color(d.group))
-      .attr("opacity", 0.22);
-
-    paths.exit().remove();
-  }
-
-  // =======================
-  // 6️⃣ Cluster 标签
-  // =======================
-  const clusterLabels = data.cluster_labels || {};
-
-  labelLayer.selectAll("text")
-    .data(clusters)
-    .enter()
-    .append("text")
-    .attr("class", "cluster-label")
-    .attr("x", d => clusterCenters[d].x)
-    .attr("y", d => clusterCenters[d].y)
-    .text(d => clusterLabels[d] ?? `Cluster ${d}`);
-
-  // =======================
-  // Tick
-  // =======================
-  simulation.on("tick", () => {
-    link
-      .attr("x1", d => d.source.x)
-      .attr("y1", d => d.source.y)
-      .attr("x2", d => d.target.x)
-      .attr("y2", d => d.target.y);
-
-    node
-      .attr("cx", d => d.x)
-      .attr("cy", d => d.y);
-
-    drawHulls();
-  });
-
-  // =======================
-  // Drag
-  // =======================
-  function dragstarted(event, d) {
-    if (!event.active) simulation.alphaTarget(0.3).restart();
-    d.fx = d.x;
-    d.fy = d.y;
-  }
-
-  function dragged(event, d) {
-    d.fx = event.x;
-    d.fy = event.y;
-  }
-
-  function dragended(event, d) {
-    if (!event.active) simulation.alphaTarget(0);
-    d.fx = null;
-    d.fy = null;
-  }
-
-  // =======================
-  // 初始缩小一点
-  // =======================
-  svg.call(
-    zoom.transform,
-    d3.zoomIdentity.translate(width * 0.1, height * 0.1).scale(0.8)
-  );
-
-});
-</script>
+    // 初始化
+    (function init() {
+      const allYears = getAllUniqueYears();
+      renderYearSelect(allYears);
+      bindSchoolYearSelectEvent();
+      loadGraphData(fileMap["default"]);
+    })();
+  </script>
 </body>
 </html>

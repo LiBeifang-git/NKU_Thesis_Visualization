@@ -237,7 +237,7 @@ function renderTopTable(data) {
 
 
 
-async function loadLineChart() {
+window.loadLineChart = async function() {
   // 请求后端接口获取数据
   const res = await fetch("http://localhost:3020/api/cjy/middown");
   const data = await res.json();
@@ -426,6 +426,14 @@ g.append("g")
       .text(d.college)
       .style("font-size", "12px");
   });
+  window.addEventListener("DOMContentLoaded", () => {
+  loadStats();
+  loadRank();
+  loadGraduatePieCharts();
+  loadTopchart();
+  window.loadLineChart(); 
+  loadOSMMap();
+});
 }
 
 function loadOSMMap() {

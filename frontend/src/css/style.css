@@ -96,6 +96,12 @@ body {
   padding-top: 4.3%;  /* 留出 nav 高度 */
   box-sizing: border-box;
 }
+
+.mainbox > li {
+    float: left;           /* 旧版写法，或者配合 flex 使用 */
+    padding: 0 0.1rem;
+    list-style-type: none; /* 去掉列表前面的点 */
+}
 .mainbox > ul {
   display: flex;
   flex: 1;
@@ -598,4 +604,82 @@ margin-top: 2.5rem;
   margin-top: 2.5rem;
   
  
+}
+.view-switch {
+    display: flex;
+    gap: 8px; /* 按钮之间的间距 */
+}
+
+/* 按钮样式 */
+.view-btn {
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.3);
+    color: #ccc;
+    padding: 4px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 12px;
+    transition: all 0.3s;
+    outline: none;
+}
+
+.view-btn:hover {
+    background: rgba(255,255,255,0.2);
+    color: #fff;
+}
+
+/* 选中状态 */
+.view-btn.active {
+    background: #0f62fe; /* 选中时的蓝色背景 */
+    color: white;
+    border-color: #0f62fe;
+    box-shadow: 0 0 5px rgba(15, 98, 254, 0.5);
+}
+/* 确保 Tab 内容容器撑满父级 */
+.tab-content {
+    width: 100%;
+    height: 100%;
+}
+
+/* 修复 graph.html (object) 的宽度问题 */
+#child-object {
+    width: 100%;
+    height: 100%;
+    display: block; /* 消除 inline 间隙 */
+    border: none;
+}
+
+/* 修复 D3 容器宽度 */
+#scatter-plot {
+    width: 100%;
+    height: 85%; /* 给标题和图例留出空间 */
+    position: relative;
+}
+.chart-card h2 {
+    font-size: 20px !important; /* 增大标题 */
+    font-weight: bold;
+}
+
+.legend-box {
+    font-size: 16px !important; /* 增大图例文字 */
+    margin-bottom: 20px;
+}
+
+.legend-item .legend-color {
+    width: 16px;
+    height: 16px; /* 增大图例色块 */
+}
+
+/* --- 修复河流图 Tooltip 文字太小 --- */
+.stream-tooltip {
+    font-size: 16px !important; /* 增大提示框文字 */
+    line-height: 1.8 !important;
+    padding: 15px !important;
+    max-width: 300px;
+}
+
+/* --- 修复全局 Tooltip (散点图用) --- */
+#global-tooltip {
+    font-size: 15px !important;
+    line-height: 1.6;
 }

@@ -10,7 +10,7 @@ app.use(express.json());
 const pool = mysql.createPool({
   host: 'localhost',
   user: 'root',
-  password: 'cjy20030306yuE',
+  password: 'WaterCloset1nk',
   database: 'nk_thesis'
 });
 
@@ -301,6 +301,78 @@ ORDER BY
   }
 });
 
+app.get('/api/cjy/middown', async (req, res) => {
+  try {
+    const [rows] = await pool.query(`
+ SELECT
+    学位年度 AS year,
+    院系 AS college,
+    AVG(CAST(\`参考文献总数\` AS UNSIGNED)) AS avg_refs,
+    MAX(CAST(\`参考文献总数\`AS UNSIGNED)) AS max_refs,
+    MIN(CAST(\`参考文献总数\`AS UNSIGNED)) AS min_refs,
+    COUNT(*) AS thesis_count
+FROM
+    thesis_detail
+WHERE
+  \`参考文献总数\` IS NOT NULL
+    AND \`参考文献总数\` <> ''
+    AND 学位年度 >= 2004
+    AND 院系 IN (
+        '化学学院',
+        '医学院',
+        '历史学院',
+        '商学院',
+        '外国语学院',
+        '数学科学学院',
+        '文学院',
+        '物理科学学院',
+        '环境科学与工程学院',
+        '生命科学学院',
+        '经济学院'
+    )
+GROUP BY
+    学位年度,
+    院系
+ORDER BY
+    学位年度 ASC,
+    avg_refs DESC;
+    `);
+    res.json(rows);
+    
+  } catch (err) {
+    console.error(err);
+    res.status(500).send('Server Error');
+  }
+});
+
+app.get('/api/cjy/stream-data', async (req, res) => {
+    try {
+        const sql = `
+            SELECT 
+                学位年度 as year, 
+                院系 as college, 
+                COUNT(*) as count 
+            FROM thesis_detail 
+            WHERE 学位年度 >= 2004 
+            GROUP BY 学位年度, 院系 
+            ORDER BY 学位年度 ASC
+        `;
+
+        const [results] = await pool.query(sql);
+
+        res.json({ 
+            code: 200, 
+            data: results 
+        });
+
+    } catch (err) {
+        console.error("Database Error:", err);
+        res.status(500).json({ 
+            code: 500, 
+            message: 'Database query failed' 
+        });
+    }
+});
 
 const path = require('path');
 
