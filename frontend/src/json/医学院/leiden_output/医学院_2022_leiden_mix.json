@@ -15,19 +15,19 @@
     {
       "id": 2,
       "label": "AKT/MMP-2/9",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 3,
       "label": "Akkermansia",
-      "group": 10,
+      "group": 0,
       "size": 1
     },
     {
       "id": 4,
       "label": "BATF2",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
@@ -39,61 +39,61 @@
     {
       "id": 6,
       "label": "CBCT",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 7,
       "label": "CCC复合物",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 8,
       "label": "CCR5",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 9,
       "label": "COMMD3",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 10,
       "label": "CRF07_BC",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 11,
       "label": "CRISPR/Cas9",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 12,
       "label": "CRISPR/Cas9筛选",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 13,
       "label": "CXCR4",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 14,
       "label": "CYP2C19基因、血小板聚集率、P2Y12受体拮抗剂、不良心血管事件(MACE)、镁离子",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 15,
       "label": "Ccn2",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
@@ -111,121 +111,121 @@
     {
       "id": 18,
       "label": "DMD/BMD",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 19,
       "label": "DNA甲基化",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 20,
       "label": "DPSCs",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 21,
       "label": "EGCG",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 22,
       "label": "EpCAM",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 23,
       "label": "FOXOs",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 24,
       "label": "GPR30",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 25,
       "label": "HER-2",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 26,
       "label": "HFD",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 27,
       "label": "HIF-1α",
-      "group": 2,
+      "group": 0,
       "size": 2
     },
     {
       "id": 28,
       "label": "HIV-1",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 29,
       "label": "HLA-B27",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 30,
       "label": "HSPG2",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 31,
       "label": "IL-10",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 32,
       "label": "IL-17A",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 33,
       "label": "IL-1ra",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 34,
       "label": "IL-23",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 35,
       "label": "IL-6/STAT3",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 36,
       "label": "ITGB1",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 37,
       "label": "ITK",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
@@ -237,91 +237,91 @@
     {
       "id": 39,
       "label": "Legumain",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 40,
       "label": "MDSCs",
-      "group": 2,
+      "group": 0,
       "size": 2
     },
     {
       "id": 41,
       "label": "METTL3",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 42,
       "label": "MTCNN",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 43,
       "label": "MUC16/CA125",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 44,
       "label": "MassARRAY技术",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 45,
       "label": "Micro-CT",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 46,
       "label": "NAD+",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 47,
       "label": "NEU4",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 48,
       "label": "NLRP3炎症小体",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 49,
       "label": "NaCl",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 50,
       "label": "OPG",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 51,
       "label": "OPG/RANKL",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 52,
       "label": "PCR检测",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 53,
       "label": "PD-L1",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
@@ -333,13 +333,13 @@
     {
       "id": 55,
       "label": "PPAR-γ",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 56,
       "label": "PRPS2",
-      "group": 2,
+      "group": 0,
       "size": 3
     },
     {
@@ -351,139 +351,139 @@
     {
       "id": 58,
       "label": "RANKL",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 59,
       "label": "RNF180",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 60,
       "label": "ROI-C",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 61,
       "label": "SEM",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 62,
       "label": "SEPT9",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 63,
       "label": "SLC25A13基因",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 64,
       "label": "STM2457",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 65,
       "label": "Sox9+细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 66,
       "label": "TLR4信号通路",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 67,
       "label": "TP53R273C突变",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 68,
       "label": "Th17/Treg",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 69,
       "label": "T淋巴细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 70,
       "label": "T细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 71,
       "label": "USP51",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 72,
       "label": "VEGFA",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 73,
       "label": "W-line",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 74,
       "label": "m6A",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 75,
       "label": "mTOR",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 76,
       "label": "miR-15b-5p",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 77,
       "label": "miR-290a-5p",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 78,
       "label": "miRNA",
-      "group": 2,
+      "group": 0,
       "size": 2
     },
     {
       "id": 79,
       "label": "microRNA",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 80,
       "label": "xCT",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
@@ -507,13 +507,13 @@
     {
       "id": 84,
       "label": "三阴性乳腺癌",
-      "group": 5,
+      "group": 4,
       "size": 4
     },
     {
       "id": 85,
       "label": "上尿路尿路上皮癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -525,13 +525,13 @@
     {
       "id": 87,
       "label": "下颌运动",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 88,
       "label": "下颌骨",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -549,43 +549,43 @@
     {
       "id": 91,
       "label": "中低位直肠癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 92,
       "label": "中空介孔二氧化锰",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 93,
       "label": "临床病理特征",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 94,
       "label": "临床随访数据库",
-      "group": 8,
+      "group": 1,
       "size": 1
     },
     {
       "id": 95,
       "label": "乙型肝炎病毒",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 96,
       "label": "乳腺癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 97,
       "label": "乳腺癌转移",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -597,7 +597,7 @@
     {
       "id": 99,
       "label": "乳酸菌表达",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -609,7 +609,7 @@
     {
       "id": 101,
       "label": "人乳头瘤病毒",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -627,7 +627,7 @@
     {
       "id": 104,
       "label": "人脐带间充质干细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -639,7 +639,7 @@
     {
       "id": 106,
       "label": "低能量激光",
-      "group": 8,
+      "group": 2,
       "size": 2
     },
     {
@@ -651,7 +651,7 @@
     {
       "id": 108,
       "label": "体表恶性肿瘤",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -663,25 +663,25 @@
     {
       "id": 110,
       "label": "供体和受体",
-      "group": 0,
+      "group": 5,
       "size": 1
     },
     {
       "id": 111,
       "label": "供体筛选",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 112,
       "label": "供区并发症",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 113,
       "label": "侵袭转移",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -693,19 +693,19 @@
     {
       "id": 115,
       "label": "保留生育功能",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 116,
       "label": "偏头痛",
-      "group": 9,
+      "group": 3,
       "size": 1
     },
     {
       "id": 117,
       "label": "光动力法牙齿漂白",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -717,67 +717,67 @@
     {
       "id": 119,
       "label": "光遗传学",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 120,
       "label": "免疫原性",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 121,
       "label": "免疫微环境",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 122,
       "label": "免疫抑制",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 123,
       "label": "免疫检查点抑制剂",
-      "group": 4,
+      "group": 5,
       "size": 2
     },
     {
       "id": 124,
       "label": "免疫相关不良反应",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 125,
       "label": "全外显子测序",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 126,
       "label": "全外测序",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 127,
       "label": "共表达基因",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 128,
       "label": "关键基因",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 129,
       "label": "具核梭杆菌",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
@@ -801,7 +801,7 @@
     {
       "id": 133,
       "label": "内踝锁定板",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
@@ -813,13 +813,13 @@
     {
       "id": 135,
       "label": "内镜解剖",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
       "id": 136,
       "label": "内镜黏膜下剥离术",
-      "group": 1,
+      "group": 2,
       "size": 2
     },
     {
@@ -843,19 +843,19 @@
     {
       "id": 140,
       "label": "分化",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 141,
       "label": "分子分型",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 142,
       "label": "分泌表达",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -867,37 +867,37 @@
     {
       "id": 144,
       "label": "创伤修复",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 145,
       "label": "创面修复",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 146,
       "label": "创面愈合",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 147,
       "label": "前入路颈椎融合术",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 148,
       "label": "前列腺癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 149,
       "label": "前列腺癌根治术",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -909,19 +909,19 @@
     {
       "id": 151,
       "label": "前牙",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 152,
       "label": "前牙压低",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 153,
       "label": "功能性消化不良",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
@@ -939,31 +939,31 @@
     {
       "id": 156,
       "label": "化疗",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 157,
       "label": "化疗/光动力疗法",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 158,
       "label": "化疗耐药",
-      "group": 8,
+      "group": 5,
       "size": 1
     },
     {
       "id": 159,
       "label": "十二指肠乳头癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 160,
       "label": "半月板损伤",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -981,19 +981,19 @@
     {
       "id": 163,
       "label": "危险因素",
-      "group": 1,
+      "group": 3,
       "size": 2
     },
     {
       "id": 164,
       "label": "卵巢储备功能减退",
-      "group": 0,
+      "group": 3,
       "size": 1
     },
     {
       "id": 165,
       "label": "卵巢癌",
-      "group": 5,
+      "group": 4,
       "size": 3
     },
     {
@@ -1005,19 +1005,19 @@
     {
       "id": 167,
       "label": "原位再生",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 168,
       "label": "原发性肝癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 169,
       "label": "反应性，感染性，关节炎",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -1053,61 +1053,61 @@
     {
       "id": 175,
       "label": "嗜性转换",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 176,
       "label": "圆锥角膜",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 177,
       "label": "基因工程",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 178,
       "label": "基因突变",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 179,
       "label": "增生性瘢痕",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 180,
       "label": "复发、难治",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 181,
       "label": "复发模式",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 182,
       "label": "外泌体",
-      "group": 0,
+      "group": 5,
       "size": 3
     },
     {
       "id": 183,
       "label": "外科治疗",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 184,
       "label": "多模态超声",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -1131,13 +1131,13 @@
     {
       "id": 188,
       "label": "子宫内膜不典型增生",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 189,
       "label": "子宫内膜样癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -1167,25 +1167,25 @@
     {
       "id": 194,
       "label": "宫颈病变",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 195,
       "label": "宫颈癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 196,
       "label": "家系研究",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 197,
       "label": "富集分析",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -1197,7 +1197,7 @@
     {
       "id": 199,
       "label": "射频消融术",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "id": 201,
       "label": "小胶质细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -1221,49 +1221,49 @@
     {
       "id": 203,
       "label": "尿路外复发",
-      "group": 7,
+      "group": 4,
       "size": 1
     },
     {
       "id": 204,
       "label": "局部复发",
-      "group": 7,
+      "group": 4,
       "size": 1
     },
     {
       "id": 205,
       "label": "嵌合抗原受体",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 206,
       "label": "巨噬细胞",
-      "group": 4,
+      "group": 5,
       "size": 2
     },
     {
       "id": 207,
       "label": "巨噬细胞极化",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 208,
       "label": "差异基因",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 209,
       "label": "希特林蛋白缺乏症",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 210,
       "label": "干细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -1275,7 +1275,7 @@
     {
       "id": 212,
       "label": "异常剪接",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -1311,7 +1311,7 @@
     {
       "id": 218,
       "label": "恶性肿瘤",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -1335,43 +1335,43 @@
     {
       "id": 222,
       "label": "成人脊柱畸形",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 223,
       "label": "成体干细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 224,
       "label": "成纤维细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 225,
       "label": "手术导板",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 226,
       "label": "手术策略",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 227,
       "label": "手术计划",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 228,
       "label": "扩散张量成像",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -1389,19 +1389,19 @@
     {
       "id": 231,
       "label": "抗生素",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 232,
       "label": "抵抗机制",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 233,
       "label": "招募",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -1413,7 +1413,7 @@
     {
       "id": 235,
       "label": "损伤修复",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -1425,7 +1425,7 @@
     {
       "id": 237,
       "label": "插入/缺失突变",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -1443,7 +1443,7 @@
     {
       "id": 240,
       "label": "放化疗，dMMR，局部进展期直肠癌，治疗抵抗",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -1461,37 +1461,37 @@
     {
       "id": 243,
       "label": "断裂点",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 244,
       "label": "旁分泌",
-      "group": 0,
+      "group": 5,
       "size": 1
     },
     {
       "id": 245,
       "label": "无复发生存期",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 246,
       "label": "无托槽隐形矫治",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 247,
       "label": "早发型结直肠癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 248,
       "label": "早期子宫内膜癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -1503,19 +1503,19 @@
     {
       "id": 250,
       "label": "易损斑块",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 251,
       "label": "晚期胰腺癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 252,
       "label": "晚期非小细胞肺癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -1533,7 +1533,7 @@
     {
       "id": 255,
       "label": "有先兆偏头痛",
-      "group": 9,
+      "group": 3,
       "size": 1
     },
     {
@@ -1545,13 +1545,13 @@
     {
       "id": 257,
       "label": "未分化型早期胃癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 258,
       "label": "机器人辅助腹腔镜",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
@@ -1569,25 +1569,25 @@
     {
       "id": 261,
       "label": "椎间融合器",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 262,
       "label": "正畸保持",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 263,
       "label": "正畸治疗",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 264,
       "label": "正畸疼痛",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -1605,55 +1605,55 @@
     {
       "id": 267,
       "label": "汗腺",
-      "group": 0,
+      "group": 5,
       "size": 1
     },
     {
       "id": 268,
       "label": "治疗效果",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 269,
       "label": "治疗有效率",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 270,
       "label": "流行病学",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 271,
       "label": "浅表性食管癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 272,
       "label": "消融技术",
-      "group": 8,
+      "group": 1,
       "size": 1
     },
     {
       "id": 273,
       "label": "涎腺腺样囊性癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 274,
       "label": "淋巴管",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 275,
       "label": "淋巴细胞亚群",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -1671,13 +1671,13 @@
     {
       "id": 278,
       "label": "溃疡性结肠炎",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
       "id": 279,
       "label": "激素抵抗",
-      "group": 0,
+      "group": 5,
       "size": 1
     },
     {
@@ -1689,13 +1689,13 @@
     {
       "id": 281,
       "label": "炎症",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 282,
       "label": "点突变",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -1707,31 +1707,31 @@
     {
       "id": 284,
       "label": "照度",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 285,
       "label": "牙槽骨改建",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 286,
       "label": "牙齿漂白",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 287,
       "label": "独立危险因素",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 288,
       "label": "狼疮肾炎",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -1779,31 +1779,31 @@
     {
       "id": 296,
       "label": "甲状腺乳头状癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 297,
       "label": "疗效",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 298,
       "label": "疗效评估",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 299,
       "label": "癌恶病质",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 300,
       "label": "癌症干细胞（CSCs）",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -1815,19 +1815,19 @@
     {
       "id": 302,
       "label": "皮质脊髓束",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 303,
       "label": "直肠后系膜厚度",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 304,
       "label": "直肠癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -1839,7 +1839,7 @@
     {
       "id": 306,
       "label": "真菌性角膜炎",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -1851,19 +1851,19 @@
     {
       "id": 308,
       "label": "硬脑膜",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
       "id": 309,
       "label": "磁共振成像",
-      "group": 1,
+      "group": 3,
       "size": 2
     },
     {
       "id": 310,
       "label": "神经炎症",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
@@ -1875,7 +1875,7 @@
     {
       "id": 312,
       "label": "种植性转移",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -1887,31 +1887,31 @@
     {
       "id": 314,
       "label": "穿刺",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 315,
       "label": "突触可塑性",
-      "group": 6,
+      "group": 1,
       "size": 2
     },
     {
       "id": 316,
       "label": "筛查",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 317,
       "label": "类器官培养",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 318,
       "label": "类淋巴系统",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -1941,19 +1941,19 @@
     {
       "id": 323,
       "label": "纳米抗体",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 324,
       "label": "线粒体-细胞核通信",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 325,
       "label": "组织再生",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -1965,49 +1965,49 @@
     {
       "id": 327,
       "label": "细胞凋亡",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 328,
       "label": "细胞外囊泡",
-      "group": 4,
+      "group": 5,
       "size": 2
     },
     {
       "id": 329,
       "label": "细胞学",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 330,
       "label": "细胞衰老",
-      "group": 4,
+      "group": 5,
       "size": 2
     },
     {
       "id": 331,
       "label": "细胞连接",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 332,
       "label": "经鼻内镜",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
       "id": 333,
       "label": "结肠炎",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
       "id": 334,
       "label": "结肠镜检查",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
@@ -2043,7 +2043,7 @@
     {
       "id": 340,
       "label": "罕见变异",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -2061,7 +2061,7 @@
     {
       "id": 343,
       "label": "耐药性",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -2073,7 +2073,7 @@
     {
       "id": 345,
       "label": "聚集诱导发光",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -2085,25 +2085,25 @@
     {
       "id": 347,
       "label": "肌萎缩侧索硬化",
-      "group": 8,
+      "group": 2,
       "size": 2
     },
     {
       "id": 348,
       "label": "肝切除术",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 349,
       "label": "肝移植",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 350,
       "label": "肝细胞癌",
-      "group": 5,
+      "group": 4,
       "size": 2
     },
     {
@@ -2115,31 +2115,31 @@
     {
       "id": 352,
       "label": "肠微生态移植",
-      "group": 10,
+      "group": 4,
       "size": 2
     },
     {
       "id": 353,
       "label": "肠道功能障碍",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
       "id": 354,
       "label": "肠道微生物",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
       "id": 355,
       "label": "肠道细菌",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
       "id": 356,
       "label": "股前外侧皮瓣",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -2151,7 +2151,7 @@
     {
       "id": 358,
       "label": "肺腺癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -2163,79 +2163,79 @@
     {
       "id": 360,
       "label": "肿瘤免疫微环境",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 361,
       "label": "肿瘤微环境响应",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 362,
       "label": "肿瘤新生抗原",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 363,
       "label": "肿瘤浸润性免疫细胞。",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 364,
       "label": "肿瘤突变负荷",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 365,
       "label": "肿瘤细胞干性",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 366,
       "label": "胃癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 367,
       "label": "胆道闭锁",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 368,
       "label": "背阔肌皮瓣",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 369,
       "label": "胚胎干细胞",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 370,
       "label": "胞内表达",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 371,
       "label": "胰头癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 372,
       "label": "胰腺癌",
-      "group": 5,
+      "group": 4,
       "size": 2
     },
     {
@@ -2259,19 +2259,19 @@
     {
       "id": 376,
       "label": "脂质体",
-      "group": 0,
+      "group": 5,
       "size": 1
     },
     {
       "id": 377,
       "label": "脊柱-骨盆-髋关节序列",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 378,
       "label": "脑活动图谱",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -2283,31 +2283,31 @@
     {
       "id": 380,
       "label": "腰椎椎体融合术",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 381,
       "label": "膀胱内复发",
-      "group": 7,
+      "group": 4,
       "size": 1
     },
     {
       "id": 382,
       "label": "自噬",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
       "id": 383,
       "label": "致泻大肠埃希氏菌",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
       "id": 384,
       "label": "致病基因",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -2319,7 +2319,7 @@
     {
       "id": 386,
       "label": "色温",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -2361,7 +2361,7 @@
     {
       "id": 393,
       "label": "血管微环境",
-      "group": 3,
+      "group": 5,
       "size": 1
     },
     {
@@ -2397,7 +2397,7 @@
     {
       "id": 399,
       "label": "表观遗传学，组蛋白去甲基化酶，KDM4D，6-甲基腺嘌呤核苷酸（m6A），RNA去甲基化酶，ALKBH5，小分子抑制剂，结构优化，肿瘤",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -2427,13 +2427,13 @@
     {
       "id": 404,
       "label": "角膜生物力学",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 405,
       "label": "警报素S100A8/A9",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
@@ -2457,7 +2457,7 @@
     {
       "id": 409,
       "label": "诱导分化",
-      "group": 4,
+      "group": 5,
       "size": 1
     },
     {
@@ -2469,19 +2469,19 @@
     {
       "id": 411,
       "label": "超声",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 412,
       "label": "超声造影",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 413,
       "label": "踝关节骨折分型",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -2499,19 +2499,19 @@
     {
       "id": 416,
       "label": "转录分析",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 417,
       "label": "转录组",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 418,
       "label": "辅助放化疗",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
@@ -2529,25 +2529,25 @@
     {
       "id": 421,
       "label": "近端交界性失败",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 422,
       "label": "远端胃癌根治术，Billroth-Ⅱ式吻合，反流性胃炎，术后生活质量",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 423,
       "label": "远端胆管癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 424,
       "label": "退行性颈椎病",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
@@ -2559,19 +2559,19 @@
     {
       "id": 426,
       "label": "邻面去釉",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 427,
       "label": "釉质厚度",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 428,
       "label": "釉质微裂纹",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -2583,7 +2583,7 @@
     {
       "id": 430,
       "label": "重度溃疡性结肠炎",
-      "group": 10,
+      "group": 4,
       "size": 1
     },
     {
@@ -2601,25 +2601,25 @@
     {
       "id": 433,
       "label": "错配修复",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 434,
       "label": "长节段固定融合手术",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 435,
       "label": "问卷调查",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 436,
       "label": "间充质干细胞",
-      "group": 4,
+      "group": 5,
       "size": 3
     },
     {
@@ -2637,7 +2637,7 @@
     {
       "id": 439,
       "label": "静息态功能磁共振",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -2649,19 +2649,19 @@
     {
       "id": 441,
       "label": "非小细胞肺癌",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 442,
       "label": "非治愈性",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 443,
       "label": "非肝硬化",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
@@ -2691,31 +2691,31 @@
     {
       "id": 448,
       "label": "颅底脊索瘤",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 449,
       "label": "颌面骨缺损",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 450,
       "label": "颞下颌关节",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 451,
       "label": "颧骨突出",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 452,
       "label": "风险评分工具",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -2733,13 +2733,13 @@
     {
       "id": 455,
       "label": "骨肉瘤",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 456,
       "label": "高分辨MRI",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -2763,13 +2763,13 @@
     {
       "id": 460,
       "label": "高通量测序",
-      "group": 6,
+      "group": 1,
       "size": 2
     },
     {
       "id": 461,
       "label": "高颧骨楔形截骨降低术",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -2781,7 +2781,7 @@
     {
       "id": 463,
       "label": "龋坏",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -9149,77 +9149,110 @@
   ],
   "cluster_stats": {
     "1": {
-      "total": 75,
+      "total": 106,
       "keywords": {
         "3D打印": 2,
         "3D生物打印": 1,
+        "CRISPR/Cas9": 1,
+        "CRISPR/Cas9筛选": 1,
         "Cox比例风险模型": 1,
-        "Micro-CT": 1,
+        "DNA甲基化": 1,
+        "MassARRAY技术": 1,
+        "PCR检测": 1,
+        "TP53R273C突变": 1,
         "三维有限元": 1,
+        "临床病理特征": 1,
+        "临床随访数据库": 1,
+        "乳酸菌表达": 1,
         "人工智能": 2,
+        "供体筛选": 1,
+        "侵袭转移": 1,
+        "光遗传学": 1,
+        "全外显子测序": 1,
+        "全外测序": 1,
+        "共表达基因": 1,
+        "关键基因": 1,
         "内体运输": 1,
         "内固定": 1,
-        "内踝锁定板": 1,
         "内镜": 1,
-        "内镜解剖": 1,
-        "内镜黏膜下剥离术": 2,
         "冠状位分型": 1,
+        "分化": 1,
+        "分子分型": 1,
+        "分泌表达": 1,
         "列线图": 1,
         "功能连接": 1,
-        "危险因素": 2,
         "受控释放": 1,
-        "多模态超声": 1,
+        "嗜性转换": 1,
+        "基因工程": 1,
+        "基因突变": 1,
         "大尺度网络": 1,
         "安全性": 1,
         "定位": 1,
         "定点递送": 1,
+        "家系研究": 1,
+        "富集分析": 1,
         "导航": 1,
         "小世界属性": 1,
-        "扩散张量成像": 1,
+        "差异基因": 1,
+        "希特林蛋白缺乏症": 1,
+        "异常剪接": 1,
+        "招募": 1,
         "控制": 1,
+        "插入/缺失突变": 1,
         "支架": 1,
         "支架结构": 1,
         "数据库": 1,
         "整合素": 1,
+        "断裂点": 1,
         "智能诊断": 1,
         "有限元分析": 1,
+        "流行病学": 1,
+        "消融技术": 1,
         "深度学习": 1,
         "混合现实": 1,
-        "独立危险因素": 1,
+        "点突变": 1,
+        "照度": 1,
         "生存时间": 1,
         "生物三维打印": 1,
         "真实世界研究": 1,
-        "磁共振成像": 2,
+        "种植性转移": 1,
+        "突触可塑性": 2,
+        "筛查": 1,
         "组织工程": 1,
-        "经鼻内镜": 1,
         "统计形状模型": 1,
         "网页计算器": 1,
+        "罕见变异": 1,
         "聚类分析": 1,
+        "聚集诱导发光": 1,
+        "肿瘤突变负荷": 1,
+        "胞内表达": 1,
         "能量密度": 1,
-        "脑活动图谱": 1,
+        "致病基因": 1,
+        "色温": 1,
+        "表观遗传学，组蛋白去甲基化酶，KDM4D，6-甲基腺嘌呤核苷酸（m6A），RNA去甲基化酶，ALKBH5，小分子抑制剂，结构优化，肿瘤": 1,
         "诊断": 2,
-        "超声": 1,
-        "超声造影": 1,
         "轨迹相似性": 1,
+        "转录分析": 1,
+        "转录组": 1,
         "运动功能": 1,
         "运动训练": 1,
         "递送载体": 1,
+        "问卷调查": 1,
         "零切迹": 1,
-        "静息态功能磁共振": 1,
         "预后": 6,
         "预后分析": 2,
         "预后因素": 1,
         "预测模型": 1,
-        "风险评分工具": 1,
         "骨组织工程": 1,
-        "高分辨MRI": 1,
+        "高通量测序": 2,
         "力": 1
       }
     },
-    "2": {
-      "total": 63,
+    "0": {
+      "total": 126,
       "keywords": {
         "AKT/MMP-2/9": 1,
+        "Akkermansia": 1,
         "BATF2": 1,
         "CBCT": 1,
         "CCC复合物": 1,
@@ -9227,7 +9260,9 @@
         "COMMD3": 1,
         "CRF07_BC": 1,
         "CXCR4": 1,
+        "CYP2C19基因、血小板聚集率、P2Y12受体拮抗剂、不良心血管事件(MACE)、镁离子": 1,
         "Ccn2": 1,
+        "D-二聚体": 1,
         "DMD/BMD": 1,
         "DPSCs": 1,
         "EGCG": 1,
@@ -9247,6 +9282,7 @@
         "IL-6/STAT3": 1,
         "ITGB1": 1,
         "ITK": 1,
+        "LED": 1,
         "Legumain": 1,
         "MDSCs": 2,
         "METTL3": 1,
@@ -9258,13 +9294,16 @@
         "OPG": 1,
         "OPG/RANKL": 1,
         "PD-L1": 1,
+        "PGC1α/PPARγ信号通路": 1,
         "PPAR-γ": 1,
         "PRPS2": 3,
+        "P糖蛋白": 1,
         "RANKL": 1,
         "RNF180": 1,
         "ROI-C": 1,
         "SEM": 1,
         "SEPT9": 1,
+        "SLC25A13基因": 1,
         "STM2457": 1,
         "Th17/Treg": 1,
         "USP51": 1,
@@ -9276,166 +9315,34 @@
         "miR-290a-5p": 1,
         "miRNA": 2,
         "microRNA": 1,
-        "xCT": 1
-      }
-    },
-    "10": {
-      "total": 13,
-      "keywords": {
-        "Akkermansia": 1,
-        "具核梭杆菌": 1,
-        "功能性消化不良": 1,
-        "溃疡性结肠炎": 1,
-        "结肠炎": 1,
-        "结肠镜检查": 1,
-        "肠微生态移植": 2,
-        "肠道功能障碍": 1,
-        "肠道微生物": 1,
-        "肠道细菌": 1,
-        "致泻大肠埃希氏菌": 1,
-        "重度溃疡性结肠炎": 1
-      }
-    },
-    "5": {
-      "total": 52,
-      "keywords": {
-        "B系肿瘤": 1,
-        "三阴性乳腺癌": 4,
-        "上尿路尿路上皮癌": 1,
-        "中低位直肠癌": 1,
-        "临床病理特征": 1,
-        "乙型肝炎病毒": 1,
-        "乳腺癌": 1,
-        "乳腺癌转移": 1,
-        "人乳头瘤病毒": 1,
-        "体表恶性肿瘤": 1,
-        "前列腺癌": 1,
-        "前列腺癌根治术": 1,
-        "十二指肠乳头癌": 1,
-        "卵巢癌": 3,
-        "原发性肝癌": 1,
-        "子宫内膜不典型增生": 1,
-        "子宫内膜样癌": 1,
-        "宫颈病变": 1,
-        "宫颈癌": 1,
-        "恶性肿瘤": 1,
-        "放化疗，dMMR，局部进展期直肠癌，治疗抵抗": 1,
-        "早发型结直肠癌": 1,
-        "早期子宫内膜癌": 1,
-        "晚期胰腺癌": 1,
-        "晚期非小细胞肺癌": 1,
-        "未分化型早期胃癌": 1,
-        "浅表性食管癌": 1,
-        "涎腺腺样囊性癌": 1,
-        "甲状腺乳头状癌": 1,
-        "癌恶病质": 1,
-        "直肠后系膜厚度": 1,
-        "直肠癌": 1,
-        "肝切除术": 1,
-        "肝移植": 1,
-        "肝细胞癌": 2,
-        "肺腺癌": 1,
-        "胃癌": 1,
-        "胆道闭锁": 1,
-        "胰头癌": 1,
-        "胰腺癌": 2,
-        "远端胃癌根治术，Billroth-Ⅱ式吻合，反流性胃炎，术后生活质量": 1,
-        "远端胆管癌": 1,
-        "非小细胞肺癌": 1,
-        "非肝硬化": 1,
-        "骨肉瘤": 1
-      }
-    },
-    "6": {
-      "total": 46,
-      "keywords": {
-        "CRISPR/Cas9": 1,
-        "CRISPR/Cas9筛选": 1,
-        "CYP2C19基因、血小板聚集率、P2Y12受体拮抗剂、不良心血管事件(MACE)、镁离子": 1,
-        "DNA甲基化": 1,
-        "MassARRAY技术": 1,
-        "PCR检测": 1,
-        "SLC25A13基因": 1,
-        "TP53R273C突变": 1,
-        "乳酸菌表达": 1,
-        "供体筛选": 1,
-        "侵袭转移": 1,
-        "光遗传学": 1,
-        "全外显子测序": 1,
-        "全外测序": 1,
-        "共表达基因": 1,
-        "关键基因": 1,
-        "分化": 1,
-        "分子分型": 1,
-        "分泌表达": 1,
-        "嗜性转换": 1,
-        "基因工程": 1,
-        "基因突变": 1,
-        "家系研究": 1,
-        "富集分析": 1,
-        "差异基因": 1,
-        "希特林蛋白缺乏症": 1,
-        "异常剪接": 1,
-        "招募": 1,
-        "插入/缺失突变": 1,
-        "断裂点": 1,
-        "流行病学": 1,
-        "点突变": 1,
-        "种植性转移": 1,
-        "突触可塑性": 2,
-        "筛查": 1,
-        "罕见变异": 1,
-        "肿瘤突变负荷": 1,
-        "胞内表达": 1,
-        "致病基因": 1,
-        "表观遗传学，组蛋白去甲基化酶，KDM4D，6-甲基腺嘌呤核苷酸（m6A），RNA去甲基化酶，ALKBH5，小分子抑制剂，结构优化，肿瘤": 1,
-        "转录分析": 1,
-        "转录组": 1,
-        "问卷调查": 1,
-        "高通量测序": 2
-      }
-    },
-    "0": {
-      "total": 71,
-      "keywords": {
-        "D-二聚体": 1,
-        "LED": 1,
-        "PGC1α/PPARγ信号通路": 1,
-        "P糖蛋白": 1,
+        "xCT": 1,
         "Ι型瓜氨酸血症": 1,
         "一氧化氮": 1,
         "丙泊酚": 1,
         "丝素蛋白/胶原蛋白/羟基磷灰石": 1,
+        "中空介孔二氧化锰": 1,
         "乳酸": 1,
         "二甲双胍": 1,
         "人脂肪来源蛋白复合物": 1,
         "低氧诱导因子-1": 1,
         "低阿片麻醉": 1,
-        "供体和受体": 1,
         "促红细胞生成素": 1,
-        "保留生育功能": 1,
         "光敏剂": 1,
         "冬凌草甲素": 1,
         "单羧酸转运蛋白4": 1,
         "卡培他滨": 1,
-        "卵巢储备功能减退": 1,
         "右美托咪定": 1,
         "吲哚及其衍生物": 1,
         "唾液酸": 1,
-        "外泌体": 3,
         "多环芳烃": 1,
         "天冬酰胺内肽酶": 1,
         "拟人参皂苷F11": 1,
-        "旁分泌": 1,
         "明胶-海藻酸钠生物墨水": 1,
         "杂环胺": 1,
         "核苷酸代谢": 1,
         "水凝胶": 1,
-        "汗腺": 1,
-        "激素抵抗": 1,
         "激酶": 1,
         "热休克蛋白27": 1,
-        "照度": 1,
         "甜味剂": 1,
         "生物标志物": 1,
         "生育酚": 1,
@@ -9444,18 +9351,16 @@
         "糖皮质激素受体β": 1,
         "糖酵解": 1,
         "缺氧诱导因子-1α": 1,
-        "聚集诱导发光": 1,
         "胶原三螺旋重复蛋白1": 2,
         "胺碘酮": 1,
-        "脂质体": 1,
         "色氨酸": 1,
-        "色温": 1,
         "艾司氯胺酮": 2,
         "血清25羟基维生素D3": 1,
         "血清代谢指标": 1,
         "血清尿酸": 1,
         "血红素氧合酶-1": 1,
         "表皮生长因子受体": 1,
+        "警报素S100A8/A9": 1,
         "谷氨酸": 1,
         "重复皮质酮注射": 1,
         "金属基质蛋白酶": 1,
@@ -9466,21 +9371,25 @@
         "黄芩素": 2
       }
     },
-    "4": {
-      "total": 52,
+    "5": {
+      "total": 61,
       "keywords": {
+        "B系肿瘤": 1,
         "NLRP3炎症小体": 1,
         "Sox9+细胞": 1,
         "TLR4信号通路": 1,
         "T淋巴细胞": 1,
         "T细胞": 1,
         "人脐带间充质干细胞": 1,
+        "供体和受体": 1,
         "免疫原性": 1,
         "免疫微环境": 1,
         "免疫抑制": 1,
         "免疫检查点抑制剂": 2,
         "免疫相关不良反应": 1,
+        "化疗耐药": 1,
         "反应性，感染性，关节炎": 1,
+        "外泌体": 3,
         "小胶质细胞": 1,
         "嵌合抗原受体": 1,
         "巨噬细胞": 2,
@@ -9490,11 +9399,13 @@
         "成纤维细胞": 1,
         "抗生素": 1,
         "抵抗机制": 1,
+        "旁分泌": 1,
+        "汗腺": 1,
         "淋巴管": 1,
         "淋巴细胞亚群": 1,
+        "激素抵抗": 1,
         "炎症": 1,
         "癌症干细胞（CSCs）": 1,
-        "神经炎症": 1,
         "类器官培养": 1,
         "类淋巴系统": 1,
         "纳米抗体": 1,
@@ -9511,23 +9422,29 @@
         "肿瘤浸润性免疫细胞。": 1,
         "肿瘤细胞干性": 1,
         "胚胎干细胞": 1,
+        "脂质体": 1,
         "自噬": 1,
-        "警报素S100A8/A9": 1,
+        "血管微环境": 1,
         "诱导分化": 1,
         "间充质干细胞": 3
       }
     },
     "3": {
-      "total": 60,
+      "total": 77,
       "keywords": {
+        "Micro-CT": 1,
         "下肢深静脉血栓": 1,
         "体重指数": 1,
+        "偏头痛": 1,
         "内毒素急性肺损伤": 1,
         "凋亡": 1,
         "前扣带回皮层": 1,
         "动脉粥样硬化": 1,
+        "危险因素": 2,
+        "卵巢储备功能减退": 1,
         "压力心率商": 1,
         "呼吸抑制": 1,
+        "多模态超声": 1,
         "完全睡眠剥夺": 1,
         "尿白蛋白肌酐比值": 1,
         "年龄": 1,
@@ -9539,15 +9456,20 @@
         "慢性应激": 1,
         "慢性肾脏病": 2,
         "慢性脑内低灌注": 1,
+        "扩散张量成像": 1,
         "抑郁情绪": 1,
         "抑郁症": 1,
         "替代胰岛素抵抗指数": 1,
+        "有先兆偏头痛": 1,
         "母婴分离": 1,
-        "狼疮肾炎": 1,
+        "独立危险因素": 1,
         "球结膜血管": 1,
         "生活质量评分": 2,
         "皮层扩布性抑制": 1,
         "睡眠-觉醒节律紊乱": 1,
+        "硬脑膜": 1,
+        "磁共振成像": 2,
+        "神经炎症": 1,
         "神经退化": 1,
         "糖尿病视网膜病变": 2,
         "缺血性卒中": 1,
@@ -9558,10 +9480,10 @@
         "肝缺血再灌注损伤": 1,
         "肥胖": 1,
         "肾阻力指数": 1,
+        "脑活动图谱": 1,
         "脓毒症": 1,
         "血压心率乘积": 1,
         "血管形态": 1,
-        "血管微环境": 1,
         "血管性痴呆症": 1,
         "血管拟态": 1,
         "血管生成": 1,
@@ -9571,115 +9493,163 @@
         "视疲劳": 1,
         "警觉性注意": 1,
         "认知障碍": 1,
+        "超声": 1,
+        "超声造影": 1,
         "身体质量指数": 1,
+        "静息态功能磁共振": 1,
         "非24小时睡眠-觉醒周期": 1,
+        "风险评分工具": 1,
+        "高分辨MRI": 1,
         "高分辨率血管壁成像": 1,
         "高血压": 1
       }
     },
-    "9": {
-      "total": 17,
+    "4": {
+      "total": 66,
+      "keywords": {
+        "三阴性乳腺癌": 4,
+        "上尿路尿路上皮癌": 1,
+        "中低位直肠癌": 1,
+        "乙型肝炎病毒": 1,
+        "乳腺癌": 1,
+        "乳腺癌转移": 1,
+        "人乳头瘤病毒": 1,
+        "体表恶性肿瘤": 1,
+        "具核梭杆菌": 1,
+        "前列腺癌": 1,
+        "前列腺癌根治术": 1,
+        "功能性消化不良": 1,
+        "十二指肠乳头癌": 1,
+        "卵巢癌": 3,
+        "原发性肝癌": 1,
+        "子宫内膜不典型增生": 1,
+        "子宫内膜样癌": 1,
+        "宫颈病变": 1,
+        "宫颈癌": 1,
+        "尿路外复发": 1,
+        "局部复发": 1,
+        "恶性肿瘤": 1,
+        "放化疗，dMMR，局部进展期直肠癌，治疗抵抗": 1,
+        "早发型结直肠癌": 1,
+        "早期子宫内膜癌": 1,
+        "晚期胰腺癌": 1,
+        "晚期非小细胞肺癌": 1,
+        "未分化型早期胃癌": 1,
+        "浅表性食管癌": 1,
+        "涎腺腺样囊性癌": 1,
+        "溃疡性结肠炎": 1,
+        "狼疮肾炎": 1,
+        "甲状腺乳头状癌": 1,
+        "癌恶病质": 1,
+        "直肠后系膜厚度": 1,
+        "直肠癌": 1,
+        "结肠炎": 1,
+        "结肠镜检查": 1,
+        "肝切除术": 1,
+        "肝移植": 1,
+        "肝细胞癌": 2,
+        "肠微生态移植": 2,
+        "肠道功能障碍": 1,
+        "肠道微生物": 1,
+        "肠道细菌": 1,
+        "肺腺癌": 1,
+        "胃癌": 1,
+        "胆道闭锁": 1,
+        "胰头癌": 1,
+        "胰腺癌": 2,
+        "膀胱内复发": 1,
+        "致泻大肠埃希氏菌": 1,
+        "远端胃癌根治术，Billroth-Ⅱ式吻合，反流性胃炎，术后生活质量": 1,
+        "远端胆管癌": 1,
+        "重度溃疡性结肠炎": 1,
+        "非小细胞肺癌": 1,
+        "非肝硬化": 1,
+        "骨肉瘤": 1
+      }
+    },
+    "2": {
+      "total": 74,
       "keywords": {
         "下颌运动": 1,
         "下颌骨": 1,
-        "偏头痛": 1,
-        "光动力法牙齿漂白": 1,
-        "前牙": 1,
-        "前牙压低": 1,
-        "无托槽隐形矫治": 1,
-        "有先兆偏头痛": 1,
-        "正畸保持": 1,
-        "正畸治疗": 1,
-        "正畸疼痛": 1,
-        "牙槽骨改建": 1,
-        "牙齿漂白": 1,
-        "颌面骨缺损": 1,
-        "颞下颌关节": 1,
-        "颧骨突出": 1,
-        "高颧骨楔形截骨降低术": 1
-      }
-    },
-    "7": {
-      "total": 30,
-      "keywords": {
-        "中空介孔二氧化锰": 1,
+        "低能量激光": 2,
         "供区并发症": 1,
+        "保留生育功能": 1,
+        "光动力法牙齿漂白": 1,
+        "内踝锁定板": 1,
+        "内镜解剖": 1,
+        "内镜黏膜下剥离术": 2,
         "创伤修复": 1,
         "创面修复": 1,
         "创面愈合": 1,
+        "前入路颈椎融合术": 1,
+        "前牙": 1,
+        "前牙压低": 1,
+        "化疗": 1,
+        "化疗/光动力疗法": 1,
         "半月板损伤": 1,
         "原位再生": 1,
         "圆锥角膜": 1,
         "增生性瘢痕": 1,
         "复发、难治": 1,
         "复发模式": 1,
-        "尿路外复发": 1,
-        "局部复发": 1,
-        "损伤修复": 1,
-        "无复发生存期": 1,
-        "易损斑块": 1,
-        "真菌性角膜炎": 1,
-        "组织再生": 1,
-        "股前外侧皮瓣": 1,
-        "背阔肌皮瓣": 1,
-        "膀胱内复发": 1,
-        "角膜生物力学": 1,
-        "踝关节骨折分型": 1,
-        "近端交界性失败": 1,
-        "邻面去釉": 1,
-        "釉质厚度": 1,
-        "釉质微裂纹": 1,
-        "错配修复": 1,
-        "非治愈性": 1,
-        "龋坏": 1
-      }
-    },
-    "8": {
-      "total": 31,
-      "keywords": {
-        "临床随访数据库": 1,
-        "低能量激光": 2,
-        "前入路颈椎融合术": 1,
-        "化疗": 1,
-        "化疗/光动力疗法": 1,
-        "化疗耐药": 1,
         "外科治疗": 1,
         "射频消融术": 1,
         "成人脊柱畸形": 1,
         "手术导板": 1,
         "手术策略": 1,
         "手术计划": 1,
+        "损伤修复": 1,
+        "无复发生存期": 1,
+        "无托槽隐形矫治": 1,
+        "易损斑块": 1,
         "机器人辅助腹腔镜": 1,
         "椎间融合器": 1,
+        "正畸保持": 1,
+        "正畸治疗": 1,
+        "正畸疼痛": 1,
         "治疗效果": 1,
         "治疗有效率": 1,
-        "消融技术": 1,
+        "牙槽骨改建": 1,
+        "牙齿漂白": 1,
         "疗效": 1,
         "疗效评估": 1,
         "皮质脊髓束": 1,
-        "硬脑膜": 1,
+        "真菌性角膜炎": 1,
         "穿刺": 1,
+        "组织再生": 1,
+        "经鼻内镜": 1,
         "肌萎缩侧索硬化": 2,
+        "股前外侧皮瓣": 1,
+        "背阔肌皮瓣": 1,
         "脊柱-骨盆-髋关节序列": 1,
         "腰椎椎体融合术": 1,
+        "角膜生物力学": 1,
+        "踝关节骨折分型": 1,
         "辅助放化疗": 1,
+        "近端交界性失败": 1,
         "退行性颈椎病": 1,
+        "邻面去釉": 1,
+        "釉质厚度": 1,
+        "釉质微裂纹": 1,
+        "错配修复": 1,
         "长节段固定融合手术": 1,
-        "颅底脊索瘤": 1
+        "非治愈性": 1,
+        "颅底脊索瘤": 1,
+        "颌面骨缺损": 1,
+        "颞下颌关节": 1,
+        "颧骨突出": 1,
+        "高颧骨楔形截骨降低术": 1,
+        "龋坏": 1
       }
     }
   },
   "cluster_labels": {
-    "0": "生物标志物与信号通路",
-    "1": "肿瘤预后与影像学",
-    "2": "免疫和分子生物学研究",
-    "3": "慢性肾脏病与并发症",
-    "4": "细胞免疫与干细胞研究",
-    "5": "恶性肿瘤的临床特征",
-    "6": "基因编辑与表型分析",
-    "7": "创伤与组织修复",
-    "8": "疼痛管理与外科治疗",
-    "9": "口腔正畸与颌面研究",
-    "10": "肠道微生物与疾病"
+    "0": "生物标志物研究",
+    "1": "人工智能与3D生物打印",
+    "2": "内镜技术与口腔外科",
+    "3": "肾脏疾病与生活质量",
+    "4": "肿瘤微环境与癌症研究",
+    "5": "细胞疗法与免疫调节"
   }
 }
