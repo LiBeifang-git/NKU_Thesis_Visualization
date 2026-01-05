@@ -15,31 +15,31 @@
     {
       "id": 2,
       "label": "DropBlock",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 3,
       "label": "Einstein-Randers度量",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 4,
       "label": "Einstein度量",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 5,
       "label": "G-K外汇期权模型",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 6,
       "label": "GerberShiu函数",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
@@ -57,7 +57,7 @@
     {
       "id": 9,
       "label": "Killing标架",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
@@ -75,7 +75,7 @@
     {
       "id": 12,
       "label": "MNIST",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -87,37 +87,37 @@
     {
       "id": 14,
       "label": "Oracle性质",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 15,
       "label": "Phase-type分布",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 16,
       "label": "Schwarz信息准则",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 17,
       "label": "Stackelberg均衡",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 18,
       "label": "TTr1SVD",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 19,
       "label": "VGG",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -129,37 +129,37 @@
     {
       "id": 21,
       "label": "不动点集",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 22,
       "label": "不可约元",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 23,
       "label": "亚式外汇篮子期权",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 24,
       "label": "交叉核实",
-      "group": 3,
+      "group": 0,
       "size": 2
     },
     {
       "id": 25,
       "label": "余齐性为一Finsler空间",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 26,
       "label": "典型相关分析",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -171,25 +171,25 @@
     {
       "id": 28,
       "label": "制药",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 29,
       "label": "动力系统",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 30,
       "label": "动态规划",
-      "group": 3,
+      "group": 0,
       "size": 2
     },
     {
       "id": 31,
       "label": "半监督桥神经网络",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -201,19 +201,19 @@
     {
       "id": 33,
       "label": "单调性",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 34,
       "label": "卷积相关分析",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 35,
       "label": "卷积神经网络",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -225,61 +225,61 @@
     {
       "id": 37,
       "label": "可度量化空间",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 38,
       "label": "同伦不动点集",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 39,
       "label": "噪声激励",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 40,
       "label": "图像分割",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 41,
       "label": "图像分析",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 42,
       "label": "图像加密",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 43,
       "label": "图像压缩",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 44,
       "label": "坐标下降法",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 45,
       "label": "复合二项风险模型",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 46,
       "label": "多变点检测",
-      "group": 2,
+      "group": 1,
       "size": 2
     },
     {
@@ -291,25 +291,25 @@
     {
       "id": 48,
       "label": "奇异值分解",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 49,
       "label": "定性性质",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 50,
       "label": "导航问题",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 51,
       "label": "射影平坦",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
@@ -321,7 +321,7 @@
     {
       "id": 53,
       "label": "常旗曲率",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -333,7 +333,7 @@
     {
       "id": 55,
       "label": "广义丛代数",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -345,73 +345,73 @@
     {
       "id": 57,
       "label": "张量分解",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 58,
       "label": "微分同胚群",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 59,
       "label": "扰动分析.",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 60,
       "label": "投资组合利润回撤",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 61,
       "label": "投资组合管理",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 62,
       "label": "收敛率",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 63,
       "label": "时耗",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 64,
       "label": "最优随机控制",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 65,
       "label": "最小化破产概率",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 66,
       "label": "有理同伦等价",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 67,
       "label": "有理同伦论",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 68,
       "label": "本质复杂度",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -429,55 +429,55 @@
     {
       "id": 71,
       "label": "模型选择",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 72,
       "label": "正则化",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 73,
       "label": "正则性",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 74,
       "label": "比较定理",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 75,
       "label": "混合方差缩减技术",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 76,
       "label": "滑动方法",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 77,
       "label": "演化",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 78,
       "label": "热核估计",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 79,
       "label": "特征融合",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -495,31 +495,31 @@
     {
       "id": 82,
       "label": "相似场",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 83,
       "label": "相依索赔",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 84,
       "label": "相合性",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 85,
       "label": "矩阵摄动理论",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 86,
       "label": "稀疏.",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
@@ -531,7 +531,7 @@
     {
       "id": 88,
       "label": "类激活映射",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
@@ -543,127 +543,127 @@
     {
       "id": 90,
       "label": "系统惩罚",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 91,
       "label": "纳什均衡",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 92,
       "label": "罚方法",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 93,
       "label": "色噪声",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 94,
       "label": "芬斯勒度量",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 95,
       "label": "蒙特卡罗方法",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 96,
       "label": "谱方法",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 97,
       "label": "贝叶斯信息准则",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 98,
       "label": "赋权快速查找算法",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 99,
       "label": "超图的持续上同调",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 100,
       "label": "重构",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 101,
       "label": "间歇性",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 102,
       "label": "随机偏微分方程",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 103,
       "label": "随机分红",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 104,
       "label": "随机利率",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 105,
       "label": "随机图",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 106,
       "label": "随机图过程",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 107,
       "label": "随机控制最优化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 108,
       "label": "随机收入",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 109,
       "label": "随机矩阵理论",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 110,
       "label": "随机过程",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
@@ -693,13 +693,13 @@
     {
       "id": 115,
       "label": "高维推断",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 116,
       "label": "齐性流形",
-      "group": 1,
+      "group": 0,
       "size": 1
     }
   ],
@@ -2587,113 +2587,92 @@
   ],
   "cluster_stats": {
     "0": {
-      "total": 25,
+      "total": 72,
       "keywords": {
         "Choquard方程": 1,
         "Clebsch变量": 1,
+        "DropBlock": 1,
+        "Einstein-Randers度量": 1,
+        "Einstein度量": 1,
         "HJB方程": 1,
         "Hamilton结构": 1,
+        "Killing标架": 1,
         "Laurent现象": 1,
         "Liouville定理": 1,
         "Maxwell-Vlasov系统": 1,
+        "Oracle性质": 1,
         "alpha-局部紧": 1,
-        "分子描述符": 1,
-        "半经典解": 1,
-        "变分法": 1,
-        "多解": 1,
-        "巨分支": 1,
-        "平移对称高阶幂法": 1,
-        "广义非局部双相方程": 1,
-        "李群作用": 1,
-        "极大值原理": 1,
-        "玻色-爱因斯坦凝聚态": 1,
-        "理想不可压缩流体": 1,
-        "窄域原理": 1,
-        "粘性解": 1,
-        "非局部双相方程": 1,
-        "非线性特征值": 1,
-        "非线性非局部椭圆问题": 1,
-        "非线性非齐次椭圆障碍问题": 1
-      }
-    },
-    "3": {
-      "total": 21,
-      "keywords": {
-        "DropBlock": 1,
-        "Killing标架": 1,
+        "不动点集": 1,
+        "不可约元": 1,
         "交叉核实": 2,
+        "余齐性为一Finsler空间": 1,
+        "分子描述符": 1,
         "制药": 1,
         "动力系统": 1,
         "动态规划": 2,
-        "坐标下降法": 1,
-        "导航问题": 1,
-        "时耗": 1,
-        "正则化": 1,
-        "滑动方法": 1,
-        "演化": 1,
-        "热核估计": 1,
-        "类激活映射": 1,
-        "系统惩罚": 1,
-        "罚方法": 1,
-        "赋权快速查找算法": 1,
-        "超图的持续上同调": 1,
-        "重构": 1
-      }
-    },
-    "1": {
-      "total": 24,
-      "keywords": {
-        "Einstein-Randers度量": 1,
-        "Einstein度量": 1,
-        "Oracle性质": 1,
-        "不动点集": 1,
-        "不可约元": 1,
-        "余齐性为一Finsler空间": 1,
+        "半经典解": 1,
         "单调性": 1,
+        "变分法": 1,
         "可度量化空间": 1,
         "同伦不动点集": 1,
+        "坐标下降法": 1,
+        "多解": 1,
         "定性性质": 1,
+        "导航问题": 1,
+        "射影平坦": 1,
+        "巨分支": 1,
         "常旗曲率": 1,
+        "平移对称高阶幂法": 1,
         "广义丛代数": 1,
+        "广义非局部双相方程": 1,
         "微分同胚群": 1,
         "收敛率": 1,
+        "时耗": 1,
         "有理同伦等价": 1,
         "有理同伦论": 1,
         "本质复杂度": 1,
+        "李群作用": 1,
+        "极大值原理": 1,
+        "正则化": 1,
         "正则性": 1,
         "比较定理": 1,
+        "滑动方法": 1,
+        "演化": 1,
+        "热核估计": 1,
+        "玻色-爱因斯坦凝聚态": 1,
+        "理想不可压缩流体": 1,
         "相似场": 1,
+        "相依索赔": 1,
         "相合性": 1,
+        "窄域原理": 1,
+        "类激活映射": 1,
+        "粘性解": 1,
+        "系统惩罚": 1,
+        "罚方法": 1,
         "芬斯勒度量": 1,
+        "赋权快速查找算法": 1,
+        "超图的持续上同调": 1,
+        "重构": 1,
+        "非局部双相方程": 1,
+        "非线性特征值": 1,
+        "非线性非局部椭圆问题": 1,
+        "非线性非齐次椭圆障碍问题": 1,
         "高维推断": 1,
         "齐性流形": 1
       }
     },
-    "4": {
-      "total": 14,
+    "1": {
+      "total": 48,
       "keywords": {
         "G-K外汇期权模型": 1,
         "GerberShiu函数": 1,
+        "MNIST": 1,
+        "Phase-type分布": 1,
         "Schwarz信息准则": 1,
         "Stackelberg均衡": 1,
-        "亚式外汇篮子期权": 1,
-        "复合二项风险模型": 1,
-        "投资组合利润回撤": 1,
-        "投资组合管理": 1,
-        "最小化破产概率": 1,
-        "模型选择": 1,
-        "相依索赔": 1,
-        "纳什均衡": 1,
-        "蒙特卡罗方法": 1,
-        "贝叶斯信息准则": 1
-      }
-    },
-    "2": {
-      "total": 23,
-      "keywords": {
-        "MNIST": 1,
         "TTr1SVD": 1,
         "VGG": 1,
+        "亚式外汇篮子期权": 1,
         "典型相关分析": 1,
         "半监督桥神经网络": 1,
         "卷积相关分析": 1,
@@ -2703,24 +2682,25 @@
         "图像分析": 1,
         "图像加密": 1,
         "图像压缩": 1,
+        "复合二项风险模型": 1,
         "多变点检测": 2,
         "奇异值分解": 1,
-        "射影平坦": 1,
         "张量分解": 1,
         "扰动分析.": 1,
+        "投资组合利润回撤": 1,
+        "投资组合管理": 1,
+        "最优随机控制": 1,
+        "最小化破产概率": 1,
+        "模型选择": 1,
         "混合方差缩减技术": 1,
         "特征融合": 1,
         "矩阵摄动理论": 1,
-        "色噪声": 1,
-        "谱方法": 1
-      }
-    },
-    "5": {
-      "total": 13,
-      "keywords": {
-        "Phase-type分布": 1,
-        "最优随机控制": 1,
         "稀疏.": 1,
+        "纳什均衡": 1,
+        "色噪声": 1,
+        "蒙特卡罗方法": 1,
+        "谱方法": 1,
+        "贝叶斯信息准则": 1,
         "间歇性": 1,
         "随机偏微分方程": 1,
         "随机分红": 1,
@@ -2735,11 +2715,7 @@
     }
   },
   "cluster_labels": {
-    "0": "Hamilton系统与方程",
-    "1": "Finsler几何与不动点理论",
-    "2": "深度学习与图像处理",
-    "3": "动态系统与优化方法",
-    "4": "金融风险管理模型",
-    "5": "随机控制与优化理论"
+    "0": "数学物理研究",
+    "1": "金融工程与机器学习"
   }
 }

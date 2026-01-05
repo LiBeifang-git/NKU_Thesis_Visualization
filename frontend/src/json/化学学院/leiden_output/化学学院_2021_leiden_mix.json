@@ -3,115 +3,115 @@
     {
       "id": 0,
       "label": "1,3-卤胺化产物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 1,
       "label": "1,3-烯炔的1,4-硅氢化加成反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 2,
       "label": "3,4-二氯异噻唑",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 3,
       "label": "6-甲氧基-1-萘满酮",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 4,
       "label": "8-羟基喹啉",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 5,
       "label": "Aldisin",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 6,
       "label": "Au催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 7,
       "label": "C(O)-N键活化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 8,
       "label": "C(sp2)-H键活化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 9,
       "label": "C-F键活化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 10,
       "label": "C-H键加成",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 11,
       "label": "CF3-C(sp3)骨架",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 12,
       "label": "CRISPR/Cas12a",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 13,
       "label": "CdS",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 14,
       "label": "Cu+催化的Click反应",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 15,
       "label": "C–H键活化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 16,
       "label": "D-A环丙烷",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 17,
       "label": "DC示踪",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 18,
       "label": "DFT/QSAR分析",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
@@ -123,1975 +123,1975 @@
     {
       "id": 20,
       "label": "DNA构象变化",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 21,
       "label": "DNA水凝胶",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 22,
       "label": "DNA纳米结构",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 23,
       "label": "GC-MS联用技术",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 24,
       "label": "H2O2检测",
-      "group": 6,
+      "group": 2,
       "size": 1
     },
     {
       "id": 25,
       "label": "Janus结构",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 26,
       "label": "Kukhtin-Ramirez加合物",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 27,
       "label": "LSPR",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 28,
       "label": "MRI/SERS双模态成像",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 29,
       "label": "N-酰氧基氨基甲酸酯",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 30,
       "label": "Ni–Al双金属催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 31,
       "label": "N–N键偶联",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 32,
       "label": "PVC",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 33,
       "label": "Pd-Nx活性物种",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 34,
       "label": "Pd2Si催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 35,
       "label": "PdZn合金催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 36,
       "label": "RAFT偶合化学",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 37,
       "label": "RNA干扰",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 38,
       "label": "SERS",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 39,
       "label": "VCM",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 40,
       "label": "X射线探测",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 41,
       "label": "X射线探测器",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 42,
       "label": "cGAS",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 43,
       "label": "h-Ti3C2",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 44,
       "label": "p-n异质结",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 45,
       "label": "qNMR",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 46,
       "label": "siRNA递送系统",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 47,
       "label": "β,γ-不饱和α-酮酸酯",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 48,
       "label": "“增强型”比率荧光",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 49,
       "label": "丁(烯)二酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 50,
       "label": "三尖杉酯碱",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 51,
       "label": "三氟甲氧基化",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 52,
       "label": "三组分反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 53,
       "label": "三苯基膦阳离子",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 54,
       "label": "三阴性乳腺癌",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 55,
       "label": "不对称催化",
-      "group": 7,
+      "group": 2,
       "size": 2
     },
     {
       "id": 56,
       "label": "不对称合成",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 57,
       "label": "不对称氢化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 58,
       "label": "不对称烯丙基化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 59,
       "label": "不对称碳氢键活化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 60,
       "label": "丙烯酸酯",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 61,
       "label": "中环内酯",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 62,
       "label": "串联氧化环化",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 63,
       "label": "主-客体相互作用",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 64,
       "label": "乏氧微环境",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 65,
       "label": "乙炔氢氯化",
-      "group": 4,
+      "group": 1,
       "size": 2
     },
     {
       "id": 66,
       "label": "乙炔氢氯化反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 67,
       "label": "二噁唑酮",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 68,
       "label": "二氟烷基化",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 69,
       "label": "二氧化碳",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 70,
       "label": "二硫化钼",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 71,
       "label": "二维光子晶体",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 72,
       "label": "二维钙钛矿",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 73,
       "label": "二芳基乙烯",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 74,
       "label": "二苯乙炔",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 75,
       "label": "二茂铁",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 76,
       "label": "亲核取代",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 77,
       "label": "人工分子机器",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 78,
       "label": "人源脱嘌呤/脱嘧啶核酸内切酶1",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 79,
       "label": "仿生材料",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 80,
       "label": "作用机制",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 81,
       "label": "偕二氟烯基骨架",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 82,
       "label": "催化加氢",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 83,
       "label": "催化发夹组装",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 84,
       "label": "元素掺杂",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 85,
       "label": "光催化",
-      "group": 7,
+      "group": 2,
       "size": 5
     },
     {
       "id": 86,
       "label": "光催化反应",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 87,
       "label": "光动力抗菌",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 88,
       "label": "光动力治疗",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 89,
       "label": "光化学传感器",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 90,
       "label": "光敏剂",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 91,
       "label": "光治疗",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 92,
       "label": "光致变色",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 93,
       "label": "六元螺环双烯配体，手性有机硼催化剂，吡啶官能团化反应，吡啶1,4-硼氢化反应",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 94,
       "label": "共价有机框架材料",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 95,
       "label": "共轭烯烃",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 96,
       "label": "农药分散剂",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 97,
       "label": "准固态电解质",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 98,
       "label": "减反射",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 99,
       "label": "分子内C-H/O-H插入反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 100,
       "label": "分子内[1+2]环化反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 101,
       "label": "分子功能材料",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 102,
       "label": "分子动力学模拟",
-      "group": 3,
+      "group": 0,
       "size": 3
     },
     {
       "id": 103,
       "label": "分子印迹",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 104,
       "label": "分子印迹聚合物",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 105,
       "label": "分子影像",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 106,
       "label": "分子机器",
-      "group": 3,
+      "group": 0,
       "size": 2
     },
     {
       "id": 107,
       "label": "分子模拟",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 108,
       "label": "分子离子固体",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 109,
       "label": "分子组装",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 110,
       "label": "分子设计",
-      "group": 3,
+      "group": 0,
       "size": 2
     },
     {
       "id": 111,
       "label": "分离材料",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 112,
       "label": "列当防治",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 113,
       "label": "刺激响应",
-      "group": 2,
+      "group": 0,
       "size": 3
     },
     {
       "id": 114,
       "label": "刺激响应变色",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 115,
       "label": "刺激响应性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 116,
       "label": "刺激响应性聚合物",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 117,
       "label": "前列腺特异性膜抗原",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 118,
       "label": "前药",
-      "group": 0,
+      "group": 3,
       "size": 1
     },
     {
       "id": 119,
       "label": "功能配合物",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 120,
       "label": "动态层层自组装膜",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 121,
       "label": "化学计量学",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 122,
       "label": "区域选择性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 123,
       "label": "半互穿聚合物结构",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 124,
       "label": "半胱氨酸修饰",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 125,
       "label": "协同催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 126,
       "label": "协同效应",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 127,
       "label": "协同治疗",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 128,
       "label": "单宁酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 129,
       "label": "单晶",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 130,
       "label": "单次注射疫苗",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 131,
       "label": "卤胺化双官能团化",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 132,
       "label": "卷积神经网络",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 133,
       "label": "原位生长",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 134,
       "label": "原卟啉原氧化酶",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
       "id": 135,
       "label": "双亲胶束",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 136,
       "label": "双硅氢化反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 137,
       "label": "双酰胺杀虫剂",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 138,
       "label": "双齿导向",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 139,
       "label": "反式切割活性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 140,
       "label": "反相悬浮聚合",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 141,
       "label": "发光行为",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 142,
       "label": "叔胺N",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 143,
       "label": "受控活性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 144,
       "label": "可见光",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 145,
       "label": "可视化检测",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 146,
       "label": "叶酸靶向",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 147,
       "label": "合成",
-      "group": 3,
+      "group": 0,
       "size": 3
     },
     {
       "id": 148,
       "label": "吡啶",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 149,
       "label": "吡啶N",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 150,
       "label": "含氟农药",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 151,
       "label": "含氟杂环化合物",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 152,
       "label": "含氟非离子表面活性剂",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 153,
       "label": "含氮杂环",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 154,
       "label": "吲哚",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 155,
       "label": "响应性催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 156,
       "label": "响应性聚合物",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 157,
       "label": "嘧啶二酮",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 158,
       "label": "嘧啶胺",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 159,
       "label": "噻二唑[3,4-a]哒嗪",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 160,
       "label": "团簇",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 161,
       "label": "固定化酶",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 162,
       "label": "固态电解质",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 163,
       "label": "场致液滴电离质谱",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 164,
       "label": "基于杯芳烃的轮烷",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 165,
       "label": "增效剂",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 166,
       "label": "复合材料",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 167,
       "label": "复合物催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 168,
       "label": "复杂生物样品",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 169,
       "label": "外消旋丙交酯开环聚合",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 170,
       "label": "多模态成像",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 171,
       "label": "多肽/蛋白",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 172,
       "label": "多肽自组装",
-      "group": 3,
+      "group": 0,
       "size": 4
     },
     {
       "id": 173,
       "label": "多重识别",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 174,
       "label": "天然免疫",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 175,
       "label": "天然多肽",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 176,
       "label": "天然来源饱和脂肪酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 177,
       "label": "室温磷光",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 178,
       "label": "密度泛函理论",
-      "group": 3,
+      "group": 0,
       "size": 4
     },
     {
       "id": 179,
       "label": "密度泛函理论计算",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 180,
       "label": "富锂锰基正极材料",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 181,
       "label": "对位选择性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 182,
       "label": "导向基辅助",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 183,
       "label": "小分子受体",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 184,
       "label": "尺寸效应",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 185,
       "label": "尿嘧啶DNA糖基化酶",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 186,
       "label": "局域芳香性",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 187,
       "label": "嵌段聚合物",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 188,
       "label": "工艺优化",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 189,
       "label": "幻数",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 190,
       "label": "异喹啉酮",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 191,
       "label": "异噁唑啉",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 192,
       "label": "异相原子掺杂",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 193,
       "label": "异质结工程",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 194,
       "label": "异质结构",
-      "group": 5,
+      "group": 0,
       "size": 2
     },
     {
       "id": 195,
       "label": "异配型镧系(II)化合物",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 196,
       "label": "张力环",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 197,
       "label": "循环稳定性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 198,
       "label": "手性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 199,
       "label": "扩展自适应偏置力",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 200,
       "label": "扩环策略",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 201,
       "label": "抑制枝晶",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 202,
       "label": "抑制蛋白纤维化",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 203,
       "label": "抑菌活性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 204,
       "label": "抗代谢",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 205,
       "label": "抗原决定簇表面印迹",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 206,
       "label": "抗烟草花叶病毒活性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 207,
       "label": "抗菌肽",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 208,
       "label": "接触角",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 209,
       "label": "放疗",
-      "group": 1,
+      "group": 3,
       "size": 2
     },
     {
       "id": 210,
       "label": "新工艺研发",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 211,
       "label": "无汞催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 212,
       "label": "无溶剂紫外引发",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 213,
       "label": "无背景SERS技术",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 214,
       "label": "晶态交联聚合物",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 215,
       "label": "晶态多孔框架材料",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 216,
       "label": "智能响应",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 217,
       "label": "智能驱动",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 218,
       "label": "有机光催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 219,
       "label": "有机太阳能电池",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 220,
       "label": "有机硅化合物",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 221,
       "label": "有机硼催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 222,
       "label": "有机离子化合物",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 223,
       "label": "有机醌类电极材料",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 224,
       "label": "有机铝催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 225,
       "label": "机器学习",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 226,
       "label": "机械滑动",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 227,
       "label": "机理",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 228,
       "label": "杀菌剂先导",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 229,
       "label": "杀菌活性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 230,
       "label": "杀虫活性",
-      "group": 1,
+      "group": 3,
       "size": 4
     },
     {
       "id": 231,
       "label": "杂原子改性多孔碳",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 232,
       "label": "杯芳烃",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 233,
       "label": "构效关系",
-      "group": 2,
+      "group": 0,
       "size": 3
     },
     {
       "id": 234,
       "label": "析氢",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 235,
       "label": "析氧",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 236,
       "label": "核-壳型复合纳米粒子",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 237,
       "label": "核壳法",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 238,
       "label": "核小体",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 239,
       "label": "核磁共振",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 240,
       "label": "核磁管清洗装置",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 241,
       "label": "根寄生杂草",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 242,
       "label": "梯度结构",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 243,
       "label": "梳型",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 244,
       "label": "植物诱导抗病活性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 245,
       "label": "模拟酶",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 246,
       "label": "气体分离",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 247,
       "label": "气体吸附",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 248,
       "label": "气体吸附-分离",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 249,
       "label": "氢烯基化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 250,
       "label": "氢烷基化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 251,
       "label": "氢羧化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 252,
       "label": "氢芳基化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 253,
       "label": "氢酯化",
-      "group": 4,
+      "group": 2,
       "size": 2
     },
     {
       "id": 254,
       "label": "氢键有机框架",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 255,
       "label": "氧化响应",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 256,
       "label": "氧化型导向基团",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 257,
       "label": "氧化应激",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 258,
       "label": "氧气自供给",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 259,
       "label": "氨基酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 260,
       "label": "氮宾",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 261,
       "label": "氮掺杂碳材料",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 262,
       "label": "氮杂环化合物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 263,
       "label": "氮杂环卡宾-镧系(II)胺基配合物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 264,
       "label": "氯代酮",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 265,
       "label": "氰基苯乙烯桥联双冠醚",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 266,
       "label": "水凝胶",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 267,
       "label": "水凝胶膜",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 268,
       "label": "水分解制氢",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 269,
       "label": "水收集",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 270,
       "label": "水热合成",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 271,
       "label": "水系电池",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 272,
       "label": "水系空气电池",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 273,
       "label": "水系铝电池",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 274,
       "label": "水系锌离子电池",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 275,
       "label": "水苏糖",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 276,
       "label": "沉淀聚合法",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 277,
       "label": "活性氧",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 278,
       "label": "深度学习",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 279,
       "label": "激活链",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 280,
       "label": "灵敏度",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 281,
       "label": "炔丙基核苷类似物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 282,
       "label": "炔基化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 283,
       "label": "炔烃",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 284,
       "label": "烯基化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 285,
       "label": "烯基化反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 286,
       "label": "烯烃",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 287,
       "label": "烷基硼类化合物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 288,
       "label": "片段同位素标记",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 289,
       "label": "特异性识别",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 290,
       "label": "牺牲载体法",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 291,
       "label": "独脚金内酯",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 292,
       "label": "独脚金内酯类似物/模拟物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 293,
       "label": "环丙烷并[c]香豆素",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 294,
       "label": "环糊精",
-      "group": 2,
+      "group": 0,
       "size": 2
     },
     {
       "id": 295,
       "label": "环肽天然产物",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 296,
       "label": "理论计算",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 297,
       "label": "琥珀酸脱氢酶抑制剂",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 298,
       "label": "生物传感",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 299,
       "label": "生物传感器",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 300,
       "label": "生物活性",
-      "group": 1,
+      "group": 3,
       "size": 4
     },
     {
       "id": 301,
       "label": "生物表面",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 302,
       "label": "生物被膜，抗生素，微环境，pH响应，乏氧响应，药物释放",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 303,
       "label": "甲基修饰",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 304,
       "label": "甲基硫醚",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 305,
       "label": "甲氧基丙烯酸酯类衍生物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 306,
       "label": "甲烷直接转化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 307,
       "label": "甲硫氨酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 308,
       "label": "甲苯",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 309,
       "label": "甲酸及其衍生物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 310,
       "label": "甲醇",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 311,
       "label": "甲醛",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 312,
       "label": "电催化",
-      "group": 7,
+      "group": 2,
       "size": 2
     },
     {
       "id": 313,
       "label": "电催化CO2还原",
-      "group": 7,
+      "group": 2,
       "size": 2
     },
     {
       "id": 314,
       "label": "电催化O2还原",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 315,
       "label": "电催化产氢",
-      "group": 8,
+      "group": 2,
       "size": 1
     },
     {
       "id": 316,
       "label": "电化学特性",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 317,
       "label": "电子结构",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 318,
       "label": "电子自旋共振",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 319,
       "label": "电沉积",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 320,
       "label": "电荷分离",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 321,
       "label": "电解水",
-      "group": 8,
+      "group": 4,
       "size": 2
     },
     {
       "id": 322,
       "label": "电解水析氢技术",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 323,
       "label": "电解液添加剂",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 324,
       "label": "界面工程",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 325,
       "label": "相转变材料",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 326,
       "label": "短碳氟链",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 327,
       "label": "石蒜碱",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 328,
       "label": "硅宾",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 329,
       "label": "硅氢化反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 330,
       "label": "硒代甲硫氨酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 331,
       "label": "硒代蛋氨酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 332,
       "label": "硒化物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 333,
       "label": "硫代三嗪酮",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 334,
       "label": "硼宾",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 335,
       "label": "碳−碳键偶联反应",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 336,
       "label": "碳氟表面活性剂",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 337,
       "label": "碳氢化合物",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 338,
       "label": "碳氢键官能团化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 339,
       "label": "碳氢键活化",
-      "group": 4,
+      "group": 2,
       "size": 3
     },
     {
       "id": 340,
       "label": "碳量子点",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 341,
       "label": "磁",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 342,
       "label": "磷化物",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 343,
       "label": "磷脂氧化",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 344,
       "label": "离子对复合物",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 345,
       "label": "离子检测",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 346,
       "label": "离子跨膜",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 347,
       "label": "稀土配合物",
-      "group": 5,
+      "group": 4,
       "size": 2
     },
     {
       "id": 348,
       "label": "稳定性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
@@ -2103,949 +2103,949 @@
     {
       "id": 350,
       "label": "类沸石型结构",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 351,
       "label": "粘性末端",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 352,
       "label": "精确可控定时给药系统",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 353,
       "label": "紫杉烷",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 354,
       "label": "纳米放疗增敏剂",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 355,
       "label": "纳米杀菌剂",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 356,
       "label": "纳米治疗剂",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 357,
       "label": "纳米粒子",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 358,
       "label": "纳米结构",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 359,
       "label": "纳米药物递送载体",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 360,
       "label": "纳米诊疗剂",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 361,
       "label": "纳米超晶格",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 362,
       "label": "纳米酶",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 363,
       "label": "纳米金",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 364,
       "label": "线性高分子",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 365,
       "label": "线粒体靶向",
-      "group": 2,
+      "group": 3,
       "size": 2
     },
     {
       "id": 366,
       "label": "细胞凋亡",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 367,
       "label": "细胞成像",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 368,
       "label": "细胞摄取",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 369,
       "label": "细胞毒性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 370,
       "label": "细菌成像",
-      "group": 6,
+      "group": 0,
       "size": 2
     },
     {
       "id": 371,
       "label": "细菌粘附",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 372,
       "label": "细菌耐药",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 373,
       "label": "细菌角膜炎",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 374,
       "label": "细颗粒物",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 375,
       "label": "结构-性能调控",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 376,
       "label": "缩合聚合",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 377,
       "label": "耐药菌",
-      "group": 1,
+      "group": 3,
       "size": 2
     },
     {
       "id": 378,
       "label": "联萘酚",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 379,
       "label": "聚合反应",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 380,
       "label": "聚合物分子刷",
-      "group": 2,
+      "group": 0,
       "size": 2
     },
     {
       "id": 381,
       "label": "聚合诱导自组装（PISA）",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 382,
       "label": "聚集滞留",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 383,
       "label": "肉桂醛",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 384,
       "label": "肿瘤",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 385,
       "label": "肿瘤微环境",
-      "group": 1,
+      "group": 3,
       "size": 3
     },
     {
       "id": 386,
       "label": "肿瘤治疗",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 387,
       "label": "肿瘤精准分子诊断",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 388,
       "label": "肿瘤血管正常化",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 389,
       "label": "胶体光子晶体",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 390,
       "label": "胶体微球",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 391,
       "label": "胶束",
-      "group": 2,
+      "group": 0,
       "size": 2
     },
     {
       "id": 392,
       "label": "胺基锂",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 393,
       "label": "膜材料",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 394,
       "label": "自由基化学",
-      "group": 3,
+      "group": 2,
       "size": 1
     },
     {
       "id": 395,
       "label": "自由基引发剂",
-      "group": 3,
+      "group": 2,
       "size": 1
     },
     {
       "id": 396,
       "label": "自由能微扰",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 397,
       "label": "自由能计算",
-      "group": 3,
+      "group": 0,
       "size": 3
     },
     {
       "id": 398,
       "label": "自组装",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 399,
       "label": "自组装,杂化纳米粒子,聚合物-蛋白质囊泡,空心胶囊,聚合诱导界面自组装",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 400,
       "label": "芳香醛酮",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 401,
       "label": "苯乙炔选择性加氢",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 402,
       "label": "苯并吡啶酮",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 403,
       "label": "苯甲酰胺",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 404,
       "label": "荧光成像",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 405,
       "label": "荧光检测",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 406,
       "label": "荧光点亮",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 407,
       "label": "荧光纳米温度计",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 408,
       "label": "荧光识别",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 409,
       "label": "药物递送",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 410,
       "label": "药物递送体系",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 411,
       "label": "萘并吡喃",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 412,
       "label": "葫芦脲",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 413,
       "label": "蓖麻",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 414,
       "label": "蛋白质印迹",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 415,
       "label": "蛋白质定点修饰",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 416,
       "label": "螯合树脂",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 417,
       "label": "血管生成",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 418,
       "label": "表界面改性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 419,
       "label": "表面分子印迹",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 420,
       "label": "表面囊泡融合",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 421,
       "label": "表面张力",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 422,
       "label": "表面改性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 423,
       "label": "表面聚合",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 424,
       "label": "解毒",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 425,
       "label": "订书肽",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 426,
       "label": "设计与合成",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 427,
       "label": "诊疗一体化",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 428,
       "label": "负极保护",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 429,
       "label": "负离子稀土氢化物",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 430,
       "label": "超分子化学",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 431,
       "label": "超分子纳米粒子",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 432,
       "label": "超分子聚合物",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 433,
       "label": "超卤素",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 434,
       "label": "跨膜转运",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 435,
       "label": "路易斯酸催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 436,
       "label": "载体改性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 437,
       "label": "过渡金属",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 438,
       "label": "过渡金属催化",
-      "group": 7,
+      "group": 2,
       "size": 2
     },
     {
       "id": 439,
       "label": "过渡金属单位点催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 440,
       "label": "近红外光谱",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 441,
       "label": "适配体",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 442,
       "label": "选择性沉积基底",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 443,
       "label": "逻辑门",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 444,
       "label": "邻氨基苯甲酰胺",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 445,
       "label": "配体效应",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 446,
       "label": "酚醛树脂",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 447,
       "label": "酶响应性",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 448,
       "label": "酶抑制活性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 449,
       "label": "酶的固定化",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 450,
       "label": "酸敏感",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 451,
       "label": "酸碱去耦电池",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 452,
       "label": "醇",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 453,
       "label": "醇类选择性氧化",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 454,
       "label": "醋酸铋/手性磷酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 455,
       "label": "重构",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 456,
       "label": "重要性采样",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 457,
       "label": "量子点",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 458,
       "label": "金属-有机框架",
-      "group": 5,
+      "group": 4,
       "size": 2
     },
     {
       "id": 459,
       "label": "金属-有机框架材料",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 460,
       "label": "金属-有机框架，智能材料，驱动器，包覆，双重刺激",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 461,
       "label": "金属-有机超分子笼",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 462,
       "label": "金属有机框架",
-      "group": 5,
+      "group": 4,
       "size": 2
     },
     {
       "id": 463,
       "label": "金属有机骨架",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 464,
       "label": "金属离子",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 465,
       "label": "金属配位作用",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 466,
       "label": "金纳米粒子",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 467,
       "label": "钌",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 468,
       "label": "钌催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 469,
       "label": "钙钛矿",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 470,
       "label": "钠-氧气电池",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 471,
       "label": "钠氧电池",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 472,
       "label": "钠负极",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 473,
       "label": "钠金属负极",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 474,
       "label": "钯催化",
-      "group": 7,
+      "group": 2,
       "size": 2
     },
     {
       "id": 475,
       "label": "钯催化反应",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 476,
       "label": "钴基催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 477,
       "label": "钴基硼化物",
-      "group": 0,
+      "group": 4,
       "size": 1
     },
     {
       "id": 478,
       "label": "铂催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 479,
       "label": "铂纳米粒子",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 480,
       "label": "铱催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 481,
       "label": "银催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 482,
       "label": "银基抗菌材料",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 483,
       "label": "锂离子电池",
-      "group": 8,
+      "group": 4,
       "size": 3
     },
     {
       "id": 484,
       "label": "锌-空气电池",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 485,
       "label": "锗宾",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 486,
       "label": "镍催化剂",
-      "group": 7,
+      "group": 2,
       "size": 2
     },
     {
       "id": 487,
       "label": "镍配合物",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 488,
       "label": "阴离子oxy-Cope重排",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 489,
       "label": "除草活性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 490,
       "label": "雷公藤红素",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 491,
       "label": "静电相互作用",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 492,
       "label": "非小细胞肺癌",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 493,
       "label": "非异氰酸酯聚氨酯",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 494,
       "label": "非活化烯烃",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 495,
       "label": "非稳定碳亲核试剂",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 496,
       "label": "非药物治疗",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 497,
       "label": "非金属催化",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 498,
       "label": "非金属催化剂",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 499,
       "label": "靶向",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 500,
       "label": "顺铂耐药性",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 501,
       "label": "香豆素",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 502,
       "label": "马兜铃酸",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 503,
       "label": "高交联聚合物",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 504,
       "label": "高电压钴酸锂正极",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 505,
       "label": "高质量单晶",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 506,
       "label": "高通量计算",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 507,
       "label": "鱼尼丁受体",
-      "group": 0,
+      "group": 1,
       "size": 2
     }
   ],
@@ -9904,8 +9904,8 @@
     "刘玉秀"
   ],
   "cluster_stats": {
-    "0": {
-      "total": 95,
+    "1": {
+      "total": 105,
       "keywords": {
         "1,3-卤胺化产物": 1,
         "3,4-二氯异噻唑": 1,
@@ -9914,21 +9914,27 @@
         "Aldisin": 1,
         "CRISPR/Cas12a": 1,
         "D-A环丙烷": 1,
+        "DNAzyme": 1,
         "N-酰氧基氨基甲酸酯": 1,
+        "PVC": 1,
         "cGAS": 1,
         "β,γ-不饱和α-酮酸酯": 1,
         "丁(烯)二酸": 1,
         "三尖杉酯碱": 1,
+        "三氟甲氧基化": 1,
         "三苯基膦阳离子": 1,
         "丙烯酸酯": 1,
         "中环内酯": 1,
+        "乙炔氢氯化": 2,
         "二噁唑酮": 1,
+        "二氟烷基化": 1,
+        "二氧化碳": 1,
         "二硫化钼": 1,
         "二芳基乙烯": 1,
         "二苯乙炔": 1,
         "人源脱嘌呤/脱嘧啶核酸内切酶1": 1,
+        "偕二氟烯基骨架": 1,
         "共轭烯烃": 1,
-        "前药": 1,
         "半胱氨酸修饰": 1,
         "单宁酸": 1,
         "卤胺化双官能团化": 1,
@@ -9937,6 +9943,9 @@
         "叶酸靶向": 1,
         "吡啶": 1,
         "吡啶N": 1,
+        "含氟农药": 1,
+        "含氟杂环化合物": 1,
+        "含氟非离子表面活性剂": 1,
         "含氮杂环": 1,
         "吲哚": 1,
         "嘧啶二酮": 1,
@@ -9973,6 +9982,7 @@
         "甲酸及其衍生物": 1,
         "甲醇": 1,
         "甲醛": 1,
+        "短碳氟链": 1,
         "石蒜碱": 1,
         "硅宾": 1,
         "硒代甲硫氨酸": 1,
@@ -9980,8 +9990,8 @@
         "硒化物": 1,
         "硫代三嗪酮": 1,
         "硼宾": 1,
+        "碳氟表面活性剂": 1,
         "磷化物": 1,
-        "类似物": 1,
         "联萘酚": 1,
         "肉桂醛": 1,
         "胺基锂": 1,
@@ -9995,7 +10005,6 @@
         "酚醛树脂": 1,
         "醇": 1,
         "醋酸铋/手性磷酸": 1,
-        "钴基硼化物": 1,
         "锗宾": 1,
         "非异氰酸酯聚氨酯": 1,
         "香豆素": 1,
@@ -10003,74 +10012,46 @@
         "鱼尼丁受体": 2
       }
     },
-    "4": {
-      "total": 51,
+    "2": {
+      "total": 112,
       "keywords": {
         "1,3-烯炔的1,4-硅氢化加成反应": 1,
+        "Au催化": 1,
         "C(O)-N键活化": 1,
         "C(sp2)-H键活化": 1,
         "C-F键活化": 1,
         "C-H键加成": 1,
         "CF3-C(sp3)骨架": 1,
-        "C–H键活化": 1,
-        "Kukhtin-Ramirez加合物": 1,
-        "N–N键偶联": 1,
-        "三氟甲氧基化": 1,
-        "三组分反应": 1,
-        "不对称合成": 1,
-        "不对称氢化": 1,
-        "不对称烯丙基化": 1,
-        "不对称碳氢键活化": 1,
-        "乙炔氢氯化": 2,
-        "乙炔氢氯化反应": 1,
-        "二氟烷基化": 1,
-        "亲核取代": 1,
-        "偕二氟烯基骨架": 1,
-        "催化加氢": 1,
-        "分子内C-H/O-H插入反应": 1,
-        "分子内[1+2]环化反应": 1,
-        "双硅氢化反应": 1,
-        "含氟农药": 1,
-        "含氟杂环化合物": 1,
-        "含氟非离子表面活性剂": 1,
-        "析氢": 1,
-        "氢烯基化": 1,
-        "氢烷基化": 1,
-        "氢羧化": 1,
-        "氢芳基化": 1,
-        "氢酯化": 2,
-        "激活链": 1,
-        "炔基化": 1,
-        "烯基化": 1,
-        "烯基化反应": 1,
-        "短碳氟链": 1,
-        "硅氢化反应": 1,
-        "碳−碳键偶联反应": 1,
-        "碳氟表面活性剂": 1,
-        "碳氢化合物": 1,
-        "碳氢键官能团化": 1,
-        "碳氢键活化": 3,
-        "苯乙炔选择性加氢": 1,
-        "非活化烯烃": 1,
-        "非稳定碳亲核试剂": 1
-      }
-    },
-    "7": {
-      "total": 49,
-      "keywords": {
-        "Au催化": 1,
         "Cu+催化的Click反应": 1,
+        "C–H键活化": 1,
+        "H2O2检测": 1,
+        "Kukhtin-Ramirez加合物": 1,
         "Ni–Al双金属催化": 1,
+        "N–N键偶联": 1,
         "Pd-Nx活性物种": 1,
         "Pd2Si催化剂": 1,
         "PdZn合金催化剂": 1,
         "RAFT偶合化学": 1,
+        "三组分反应": 1,
         "不对称催化": 2,
+        "不对称合成": 1,
+        "不对称氢化": 1,
+        "不对称烯丙基化": 1,
+        "不对称碳氢键活化": 1,
+        "串联氧化环化": 1,
+        "乏氧微环境": 1,
+        "乙炔氢氯化反应": 1,
+        "亲核取代": 1,
+        "催化加氢": 1,
         "催化发夹组装": 1,
         "光催化": 5,
         "光催化反应": 1,
         "六元螺环双烯配体，手性有机硼催化剂，吡啶官能团化反应，吡啶1,4-硼氢化反应": 1,
+        "分子内C-H/O-H插入反应": 1,
+        "分子内[1+2]环化反应": 1,
         "协同催化": 1,
+        "原卟啉原氧化酶": 1,
+        "双硅氢化反应": 1,
         "响应性催化剂": 1,
         "复合物催化剂": 1,
         "导向基辅助": 1,
@@ -10078,13 +10059,46 @@
         "有机光催化剂": 1,
         "有机硼催化": 1,
         "有机铝催化": 1,
+        "析氢": 1,
+        "析氧": 1,
+        "气体分离": 1,
+        "气体吸附": 1,
+        "气体吸附-分离": 1,
+        "氢烯基化": 1,
+        "氢烷基化": 1,
+        "氢羧化": 1,
+        "氢芳基化": 1,
+        "氢酯化": 2,
+        "氢键有机框架": 1,
+        "氧化响应": 1,
+        "氧化型导向基团": 1,
+        "氧化应激": 1,
+        "氧气自供给": 1,
+        "水分解制氢": 1,
+        "水收集": 1,
+        "水热合成": 1,
+        "激活链": 1,
+        "炔基化": 1,
+        "烯基化": 1,
+        "烯基化反应": 1,
         "甲烷直接转化": 1,
         "电催化": 2,
         "电催化CO2还原": 2,
         "电催化O2还原": 1,
+        "电催化产氢": 1,
+        "硅氢化反应": 1,
+        "碳−碳键偶联反应": 1,
+        "碳氢化合物": 1,
+        "碳氢键官能团化": 1,
+        "碳氢键活化": 3,
+        "磷脂氧化": 1,
+        "自由基化学": 1,
+        "自由基引发剂": 1,
+        "苯乙炔选择性加氢": 1,
         "路易斯酸催化": 1,
         "过渡金属催化": 2,
         "过渡金属单位点催化剂": 1,
+        "醇类选择性氧化": 1,
         "钌": 1,
         "钌催化剂": 1,
         "钯催化": 2,
@@ -10094,63 +10108,43 @@
         "铱催化": 1,
         "银催化": 1,
         "镍催化剂": 2,
+        "阴离子oxy-Cope重排": 1,
         "雷公藤红素": 1,
+        "非活化烯烃": 1,
+        "非稳定碳亲核试剂": 1,
         "非金属催化": 1,
         "非金属催化剂": 1
       }
     },
-    "6": {
-      "total": 41,
+    "0": {
+      "total": 202,
       "keywords": {
         "CdS": 1,
         "DC示踪": 1,
+        "DFT/QSAR分析": 1,
+        "DNA构象变化": 1,
+        "DNA水凝胶": 1,
         "GC-MS联用技术": 1,
-        "H2O2检测": 1,
+        "Janus结构": 1,
         "LSPR": 1,
         "MRI/SERS双模态成像": 1,
-        "PVC": 1,
         "SERS": 1,
         "VCM": 1,
         "X射线探测": 1,
         "X射线探测器": 1,
+        "p-n异质结": 1,
         "qNMR": 1,
         "“增强型”比率荧光": 1,
+        "主-客体相互作用": 1,
+        "二维光子晶体": 1,
+        "人工分子机器": 1,
+        "仿生材料": 1,
+        "作用机制": 1,
+        "元素掺杂": 1,
         "光化学传感器": 1,
         "光敏剂": 1,
         "光致变色": 1,
-        "发光行为": 1,
-        "可见光": 1,
-        "可视化检测": 1,
-        "场致液滴电离质谱": 1,
-        "复杂生物样品": 1,
-        "多模态成像": 1,
-        "多重识别": 1,
-        "室温磷光": 1,
-        "无背景SERS技术": 1,
-        "核磁共振": 1,
-        "核磁管清洗装置": 1,
-        "生物传感": 1,
-        "生物传感器": 1,
-        "电子自旋共振": 1,
-        "磁": 1,
-        "离子检测": 1,
-        "细胞成像": 1,
-        "细菌成像": 2,
-        "荧光成像": 1,
-        "荧光检测": 1,
-        "荧光点亮": 1,
-        "荧光纳米温度计": 1,
-        "荧光识别": 1,
-        "近红外光谱": 1
-      }
-    },
-    "3": {
-      "total": 66,
-      "keywords": {
-        "DFT/QSAR分析": 1,
-        "DNA构象变化": 1,
-        "人工分子机器": 1,
-        "仿生材料": 1,
+        "减反射": 1,
         "分子功能材料": 1,
         "分子动力学模拟": 3,
         "分子印迹": 1,
@@ -10161,50 +10155,154 @@
         "分子离子固体": 1,
         "分子组装": 1,
         "分子设计": 2,
+        "分离材料": 1,
+        "刺激响应": 3,
+        "刺激响应变色": 1,
+        "刺激响应性": 1,
+        "刺激响应性聚合物": 1,
+        "功能配合物": 1,
         "动态层层自组装膜": 1,
         "化学计量学": 1,
+        "区域选择性": 1,
+        "半互穿聚合物结构": 1,
+        "协同效应": 1,
+        "单晶": 1,
         "卷积神经网络": 1,
+        "双亲胶束": 1,
         "双齿导向": 1,
+        "反相悬浮聚合": 1,
+        "发光行为": 1,
+        "可见光": 1,
+        "可视化检测": 1,
         "合成": 3,
+        "响应性聚合物": 1,
+        "团簇": 1,
+        "固定化酶": 1,
+        "场致液滴电离质谱": 1,
+        "增效剂": 1,
         "复合材料": 1,
+        "复杂生物样品": 1,
+        "多模态成像": 1,
         "多肽自组装": 4,
+        "多重识别": 1,
+        "室温磷光": 1,
         "密度泛函理论": 4,
         "密度泛函理论计算": 1,
+        "对位选择性": 1,
         "小分子受体": 1,
+        "尺寸效应": 1,
+        "嵌段聚合物": 1,
+        "工艺优化": 1,
         "幻数": 1,
+        "异相原子掺杂": 1,
+        "异质结工程": 1,
+        "异质结构": 2,
+        "张力环": 1,
+        "循环稳定性": 1,
+        "手性": 1,
         "扩展自适应偏置力": 1,
+        "扩环策略": 1,
+        "抑制枝晶": 1,
         "抗原决定簇表面印迹": 1,
+        "接触角": 1,
+        "新工艺研发": 1,
         "无溶剂紫外引发": 1,
+        "无背景SERS技术": 1,
+        "晶态交联聚合物": 1,
+        "智能响应": 1,
         "智能驱动": 1,
         "机器学习": 1,
         "机械滑动": 1,
         "机理": 1,
+        "构效关系": 3,
+        "核磁共振": 1,
+        "核磁管清洗装置": 1,
+        "梯度结构": 1,
         "梳型": 1,
+        "模拟酶": 1,
+        "水凝胶": 1,
+        "水凝胶膜": 1,
+        "沉淀聚合法": 1,
         "深度学习": 1,
+        "灵敏度": 1,
         "片段同位素标记": 1,
+        "特异性识别": 1,
+        "环糊精": 2,
         "理论计算": 1,
+        "生物传感": 1,
+        "生物传感器": 1,
+        "生物表面": 1,
+        "电子结构": 1,
+        "电子自旋共振": 1,
+        "电沉积": 1,
+        "电荷分离": 1,
+        "界面工程": 1,
+        "相转变材料": 1,
+        "碳量子点": 1,
+        "磁": 1,
+        "离子检测": 1,
+        "离子跨膜": 1,
+        "稳定性": 1,
+        "类似物": 1,
+        "类沸石型结构": 1,
+        "粘性末端": 1,
+        "线性高分子": 1,
+        "细胞成像": 1,
+        "细菌成像": 2,
+        "结构-性能调控": 1,
+        "缩合聚合": 1,
+        "聚合反应": 1,
+        "聚合物分子刷": 2,
         "聚合诱导自组装（PISA）": 1,
+        "聚集滞留": 1,
+        "胶体光子晶体": 1,
+        "胶体微球": 1,
+        "胶束": 2,
         "膜材料": 1,
-        "自由基化学": 1,
-        "自由基引发剂": 1,
         "自由能微扰": 1,
         "自由能计算": 3,
         "自组装": 1,
         "自组装,杂化纳米粒子,聚合物-蛋白质囊泡,空心胶囊,聚合诱导界面自组装": 1,
+        "荧光成像": 1,
+        "荧光检测": 1,
+        "荧光点亮": 1,
+        "荧光纳米温度计": 1,
+        "荧光识别": 1,
         "蛋白质印迹": 1,
+        "蛋白质定点修饰": 1,
+        "螯合树脂": 1,
+        "表界面改性": 1,
         "表面分子印迹": 1,
+        "表面囊泡融合": 1,
+        "表面张力": 1,
+        "表面改性": 1,
+        "表面聚合": 1,
         "设计与合成": 1,
         "超分子化学": 1,
+        "超分子聚合物": 1,
+        "超卤素": 1,
+        "载体改性": 1,
+        "近红外光谱": 1,
+        "适配体": 1,
+        "选择性沉积基底": 1,
         "逻辑门": 1,
+        "配体效应": 1,
+        "酶响应性": 1,
+        "酶的固定化": 1,
+        "酸敏感": 1,
         "重构": 1,
+        "重要性采样": 1,
         "量子点": 1,
+        "静电相互作用": 1,
+        "靶向": 1,
+        "高交联聚合物": 1,
+        "高质量单晶": 1,
         "高通量计算": 1
       }
     },
-    "1": {
-      "total": 95,
+    "3": {
+      "total": 90,
       "keywords": {
-        "DNAzyme": 1,
         "DNA纳米结构": 1,
         "RNA干扰": 1,
         "siRNA递送系统": 1,
@@ -10215,13 +10313,12 @@
         "农药分散剂": 1,
         "列当防治": 1,
         "前列腺特异性膜抗原": 1,
+        "前药": 1,
         "协同治疗": 1,
         "单次注射疫苗": 1,
         "原位生长": 1,
-        "原卟啉原氧化酶": 1,
         "反式切割活性": 1,
         "受控活性": 1,
-        "固定化酶": 1,
         "多肽/蛋白": 1,
         "天然免疫": 1,
         "天然多肽": 1,
@@ -10239,13 +10336,11 @@
         "核小体": 1,
         "根寄生杂草": 1,
         "植物诱导抗病活性": 1,
-        "模拟酶": 1,
         "活性氧": 1,
         "牺牲载体法": 1,
         "环肽天然产物": 1,
         "生物活性": 4,
         "生物被膜，抗生素，微环境，pH响应，乏氧响应，药物释放": 1,
-        "离子跨膜": 1,
         "精确可控定时给药系统": 1,
         "纳米放疗增敏剂": 1,
         "纳米杀菌剂": 1,
@@ -10257,6 +10352,7 @@
         "纳米超晶格": 1,
         "纳米酶": 1,
         "纳米金": 1,
+        "线粒体靶向": 2,
         "细胞凋亡": 1,
         "细胞摄取": 1,
         "细胞毒性": 1,
@@ -10272,16 +10368,13 @@
         "肿瘤血管正常化": 1,
         "药物递送": 1,
         "药物递送体系": 1,
-        "蛋白质定点修饰": 1,
         "血管生成": 1,
         "解毒": 1,
         "订书肽": 1,
         "诊疗一体化": 1,
         "超分子纳米粒子": 1,
-        "超卤素": 1,
         "跨膜转运": 1,
         "酶抑制活性": 1,
-        "酶的固定化": 1,
         "金纳米粒子": 1,
         "铂纳米粒子": 1,
         "银基抗菌材料": 1,
@@ -10291,113 +10384,39 @@
         "顺铂耐药性": 1
       }
     },
-    "2": {
-      "total": 74,
+    "4": {
+      "total": 54,
       "keywords": {
-        "DNA水凝胶": 1,
-        "主-客体相互作用": 1,
-        "作用机制": 1,
-        "减反射": 1,
-        "刺激响应": 3,
-        "刺激响应变色": 1,
-        "刺激响应性": 1,
-        "刺激响应性聚合物": 1,
-        "功能配合物": 1,
-        "区域选择性": 1,
-        "半互穿聚合物结构": 1,
-        "协同效应": 1,
-        "双亲胶束": 1,
-        "反相悬浮聚合": 1,
-        "响应性聚合物": 1,
-        "团簇": 1,
-        "增效剂": 1,
-        "对位选择性": 1,
-        "尺寸效应": 1,
-        "嵌段聚合物": 1,
-        "工艺优化": 1,
-        "张力环": 1,
-        "循环稳定性": 1,
-        "手性": 1,
-        "扩环策略": 1,
-        "接触角": 1,
-        "新工艺研发": 1,
-        "晶态交联聚合物": 1,
-        "智能响应": 1,
-        "构效关系": 3,
-        "水凝胶": 1,
-        "水凝胶膜": 1,
-        "沉淀聚合法": 1,
-        "灵敏度": 1,
-        "特异性识别": 1,
-        "环糊精": 2,
-        "生物表面": 1,
-        "界面工程": 1,
-        "稳定性": 1,
-        "粘性末端": 1,
-        "线性高分子": 1,
-        "线粒体靶向": 2,
-        "缩合聚合": 1,
-        "聚合反应": 1,
-        "聚合物分子刷": 2,
-        "聚集滞留": 1,
-        "胶体光子晶体": 1,
-        "胶体微球": 1,
-        "胶束": 2,
-        "螯合树脂": 1,
-        "表界面改性": 1,
-        "表面囊泡融合": 1,
-        "表面张力": 1,
-        "表面改性": 1,
-        "表面聚合": 1,
-        "超分子聚合物": 1,
-        "载体改性": 1,
-        "适配体": 1,
-        "选择性沉积基底": 1,
-        "配体效应": 1,
-        "酶响应性": 1,
-        "酸敏感": 1,
-        "重要性采样": 1,
-        "静电相互作用": 1,
-        "靶向": 1,
-        "高交联聚合物": 1
-      }
-    },
-    "5": {
-      "total": 48,
-      "keywords": {
-        "Janus结构": 1,
         "h-Ti3C2": 1,
-        "p-n异质结": 1,
-        "二维光子晶体": 1,
         "二维钙钛矿": 1,
         "二茂铁": 1,
-        "元素掺杂": 1,
         "共价有机框架材料": 1,
-        "单晶": 1,
-        "异相原子掺杂": 1,
-        "异质结工程": 1,
-        "异质结构": 2,
+        "准固态电解质": 1,
+        "固态电解质": 1,
+        "富锂锰基正极材料": 1,
         "异配型镧系(II)化合物": 1,
-        "抑制枝晶": 1,
         "晶态多孔框架材料": 1,
         "有机太阳能电池": 1,
         "有机硅化合物": 1,
         "有机离子化合物": 1,
         "有机醌类电极材料": 1,
         "杂原子改性多孔碳": 1,
-        "梯度结构": 1,
-        "氢键有机框架": 1,
         "氮掺杂碳材料": 1,
-        "电子结构": 1,
-        "相转变材料": 1,
-        "碳量子点": 1,
+        "水系电池": 1,
+        "水系空气电池": 1,
+        "水系铝电池": 1,
+        "水系锌离子电池": 1,
+        "电化学特性": 1,
+        "电解水": 2,
+        "电解水析氢技术": 1,
+        "电解液添加剂": 1,
         "离子对复合物": 1,
         "稀土配合物": 2,
-        "类沸石型结构": 1,
         "紫杉烷": 1,
-        "结构-性能调控": 1,
+        "负极保护": 1,
         "负离子稀土氢化物": 1,
         "过渡金属": 1,
+        "酸碱去耦电池": 1,
         "金属-有机框架": 2,
         "金属-有机框架材料": 1,
         "金属-有机框架，智能材料，驱动器，包覆，双重刺激": 1,
@@ -10407,72 +10426,23 @@
         "金属离子": 1,
         "金属配位作用": 1,
         "钙钛矿": 1,
-        "镍配合物": 1,
-        "高质量单晶": 1
-      }
-    },
-    "9": {
-      "total": 16,
-      "keywords": {
-        "串联氧化环化": 1,
-        "乏氧微环境": 1,
-        "二氧化碳": 1,
-        "分离材料": 1,
-        "析氧": 1,
-        "气体分离": 1,
-        "气体吸附": 1,
-        "气体吸附-分离": 1,
-        "氧化响应": 1,
-        "氧化型导向基团": 1,
-        "氧化应激": 1,
-        "氧气自供给": 1,
-        "电荷分离": 1,
-        "磷脂氧化": 1,
-        "醇类选择性氧化": 1,
-        "阴离子oxy-Cope重排": 1
-      }
-    },
-    "8": {
-      "total": 28,
-      "keywords": {
-        "准固态电解质": 1,
-        "固态电解质": 1,
-        "富锂锰基正极材料": 1,
-        "水分解制氢": 1,
-        "水收集": 1,
-        "水热合成": 1,
-        "水系电池": 1,
-        "水系空气电池": 1,
-        "水系铝电池": 1,
-        "水系锌离子电池": 1,
-        "电催化产氢": 1,
-        "电化学特性": 1,
-        "电沉积": 1,
-        "电解水": 2,
-        "电解水析氢技术": 1,
-        "电解液添加剂": 1,
-        "负极保护": 1,
-        "酸碱去耦电池": 1,
         "钠-氧气电池": 1,
         "钠氧电池": 1,
         "钠负极": 1,
         "钠金属负极": 1,
+        "钴基硼化物": 1,
         "锂离子电池": 3,
         "锌-空气电池": 1,
+        "镍配合物": 1,
         "高电压钴酸锂正极": 1
       }
     }
   },
   "cluster_labels": {
-    "0": "基因编辑与药物开发",
-    "1": "抗肿瘤与生物疗法",
-    "2": "响应性材料与生物探针",
-    "3": "自组装分子与计算化学",
-    "4": "有机化学反应活化",
-    "5": "二维材料与异质结构",
-    "6": "生物成像技术",
-    "7": "催化剂与催化反应",
-    "8": "能源储存与电解质",
-    "9": "气体分离与环境材料"
+    "0": "分子设计与模拟",
+    "1": "催化反应研究",
+    "2": "生物活性与治疗",
+    "3": "纳米材料应用",
+    "4": "能源存储与转换"
   }
 }

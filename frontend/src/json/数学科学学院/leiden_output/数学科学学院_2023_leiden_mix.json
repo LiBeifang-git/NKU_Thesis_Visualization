@@ -3,19 +3,19 @@
     {
       "id": 0,
       "label": "$c$-Gibbs测度",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 1,
       "label": "$c$-几乎压缩",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 2,
       "label": "$cu$-中心",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
@@ -27,67 +27,67 @@
     {
       "id": 4,
       "label": "2-正则线性堆",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 5,
       "label": "ABC-PMC算法",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 6,
       "label": "AONT",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 7,
       "label": "ATAC-seq",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 8,
       "label": "BCP的稳定性",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 9,
       "label": "BERT",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 10,
       "label": "BSDE",
-      "group": 9,
+      "group": 3,
       "size": 1
     },
     {
       "id": 11,
       "label": "CBI过程",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 12,
       "label": "CIR利率模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 13,
       "label": "Dini-BMO正则性",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 14,
       "label": "Dini-Holder正则性",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
@@ -99,133 +99,133 @@
     {
       "id": 16,
       "label": "Euler方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 17,
       "label": "Fatou性质",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 18,
       "label": "Figiel型问题",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 19,
       "label": "Finsler流形",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 20,
       "label": "Finsler流形;李群;左不变Randers度量;旗曲率",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 21,
       "label": "Floer理论与Gysin型正合序列",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 22,
       "label": "Fréchet空间",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 23,
       "label": "Gauss-Hermite积分",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 24,
       "label": "Gerber-Shiu函数",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 25,
       "label": "Gleason-Yamabe定理",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 26,
       "label": "HJB方程",
-      "group": 1,
+      "group": 3,
       "size": 2
     },
     {
       "id": 27,
       "label": "HP模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 28,
       "label": "Hamilton-Jacobi-Bellman方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 29,
       "label": "Hamilton系统",
-      "group": 1,
+      "group": 3,
       "size": 2
     },
     {
       "id": 30,
       "label": "Hilbert第五问题",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 31,
       "label": "Hurst指数",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 32,
       "label": "IDR，Transformer，GNN，贝叶斯优化",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 33,
       "label": "Kirchhoff型方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 34,
       "label": "L0梯度正则化",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 35,
       "label": "LDA",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 36,
       "label": "MISER码",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 37,
       "label": "ModReLU激活函数",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -243,43 +243,43 @@
     {
       "id": 40,
       "label": "Narayana数",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 41,
       "label": "Navier-Stokes方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 42,
       "label": "Orlicz增长条件",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 43,
       "label": "Orlicz空间",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 44,
       "label": "Ornstein-Uhlenbeck过程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 45,
       "label": "PGP加密",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 46,
       "label": "Pliss引理",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
@@ -291,79 +291,79 @@
     {
       "id": 48,
       "label": "Quillen模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 49,
       "label": "R/S分析法",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 50,
       "label": "RNA二级结构",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 51,
       "label": "RNA速率",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 52,
       "label": "Radon测度",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 53,
       "label": "Randers度量",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 54,
       "label": "Riesz位势",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 55,
       "label": "Riesz势",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 56,
       "label": "Schauder不动点定理",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 57,
       "label": "Schnorr-Lyubashevsky框架",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 58,
       "label": "Sobolev空间",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 59,
       "label": "Tonelli哈密顿系统",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 60,
       "label": "Wolff势",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -387,7 +387,7 @@
     {
       "id": 64,
       "label": "一般堆",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
@@ -417,7 +417,7 @@
     {
       "id": 69,
       "label": "不确定性原则",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
@@ -429,7 +429,7 @@
     {
       "id": 71,
       "label": "两阶段广告定价",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
@@ -441,19 +441,19 @@
     {
       "id": 73,
       "label": "主题模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 74,
       "label": "主题演化",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 75,
       "label": "之字形堆",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
@@ -483,7 +483,7 @@
     {
       "id": 80,
       "label": "亥姆霍兹方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -495,31 +495,31 @@
     {
       "id": 82,
       "label": "代理签名",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 83,
       "label": "以情景为基础",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 84,
       "label": "以环面Anosov线性同构为因子",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 85,
       "label": "仿射过程",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 86,
       "label": "优质内容",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
@@ -531,43 +531,43 @@
     {
       "id": 88,
       "label": "体积增长",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 89,
       "label": "信任偏差",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 90,
       "label": "免赔额和承保范围",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 91,
       "label": "全局最优解",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 92,
       "label": "共轭相位恢复",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 93,
       "label": "再保险",
-      "group": 3,
+      "group": 1,
       "size": 2
     },
     {
       "id": 94,
       "label": "再生码",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -579,25 +579,25 @@
     {
       "id": 96,
       "label": "减弱强凸性",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 97,
       "label": "几乎随机占优",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 98,
       "label": "凸函数",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 99,
       "label": "凸差算法",
-      "group": 4,
+      "group": 0,
       "size": 2
     },
     {
@@ -615,49 +615,49 @@
     {
       "id": 102,
       "label": "分形市场理论",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 103,
       "label": "分形维数",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 104,
       "label": "分数次极大函数",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 105,
       "label": "分数次极大算子",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 106,
       "label": "分数阶导数",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 107,
       "label": "分数阶随机Rayleigh-Stokes方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 108,
       "label": "分类空间",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 109,
       "label": "分解方法",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
@@ -669,7 +669,7 @@
     {
       "id": 111,
       "label": "创新不确定性",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
@@ -681,7 +681,7 @@
     {
       "id": 113,
       "label": "利率模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -693,25 +693,25 @@
     {
       "id": 115,
       "label": "动态多因子模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 116,
       "label": "动态系统性风险测度",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 117,
       "label": "动态规划",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 118,
       "label": "勒贝格混合范数空间",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -729,7 +729,7 @@
     {
       "id": 121,
       "label": "单播索引编码",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -741,37 +741,37 @@
     {
       "id": 123,
       "label": "单细胞测序",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 124,
       "label": "占优偏好度",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 125,
       "label": "压缩感知",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 126,
       "label": "参数估计",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 127,
       "label": "参照分析",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 128,
       "label": "参考测度.",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
@@ -795,7 +795,7 @@
     {
       "id": 132,
       "label": "双边反射随机偏微分方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -825,61 +825,61 @@
     {
       "id": 137,
       "label": "发育动态",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 138,
       "label": "变分法",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 139,
       "label": "变分自编码器",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 140,
       "label": "可补空间",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 141,
       "label": "后量子签名",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 142,
       "label": "向量网络编码",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 143,
       "label": "含参瞬变偏微分方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 144,
       "label": "哈密尔顿-雅可比-贝尔曼方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 145,
       "label": "哈密顿系统",
-      "group": 1,
+      "group": 3,
       "size": 2
     },
     {
       "id": 146,
       "label": "唯一性",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
@@ -891,67 +891,67 @@
     {
       "id": 148,
       "label": "图像修饰",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 149,
       "label": "图像分解",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 150,
       "label": "图像超分辨率",
-      "group": 6,
+      "group": 0,
       "size": 2
     },
     {
       "id": 151,
       "label": "均值-方差准则",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 152,
       "label": "基于编码的签名",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 153,
       "label": "复合二项模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 154,
       "label": "复数值卷积神经网络",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 155,
       "label": "外域",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 156,
       "label": "多标的资产的欧式期权定价",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 157,
       "label": "多模态数据检索",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 158,
       "label": "多用户安全",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -963,7 +963,7 @@
     {
       "id": 160,
       "label": "多险种",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
@@ -975,19 +975,19 @@
     {
       "id": 162,
       "label": "大偏差原理",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 163,
       "label": "奖励广告",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 164,
       "label": "奖惩机制",
-      "group": 3,
+      "group": 2,
       "size": 1
     },
     {
@@ -999,7 +999,7 @@
     {
       "id": 166,
       "label": "字典学习",
-      "group": 5,
+      "group": 2,
       "size": 2
     },
     {
@@ -1011,7 +1011,7 @@
     {
       "id": 168,
       "label": "密度估计",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
@@ -1023,7 +1023,7 @@
     {
       "id": 170,
       "label": "对比学习",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -1041,43 +1041,43 @@
     {
       "id": 173,
       "label": "局部AONT",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 174,
       "label": "局部紧群",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 175,
       "label": "嵌套阿基米德Copula",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 176,
       "label": "工具变量主成分分析",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 177,
       "label": "巨灾债券定价",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 178,
       "label": "巴拿赫空间",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 179,
       "label": "市场情绪",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
@@ -1095,43 +1095,43 @@
     {
       "id": 182,
       "label": "广义解的存在性",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 183,
       "label": "延拓",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 184,
       "label": "开集",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 185,
       "label": "异质信念",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 186,
       "label": "弹性波",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 187,
       "label": "强化学习",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 188,
       "label": "形变引理",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "id": 192,
       "label": "循环神经网络",
-      "group": 5,
+      "group": 2,
       "size": 2
     },
     {
@@ -1167,13 +1167,13 @@
     {
       "id": 194,
       "label": "恰当范数恢复",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 195,
       "label": "拉普拉斯金字塔",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -1185,19 +1185,19 @@
     {
       "id": 197,
       "label": "指数效用准则",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 198,
       "label": "损失厌恶偏好",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
       "id": 199,
       "label": "摩尔斯复形",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -1209,13 +1209,13 @@
     {
       "id": 201,
       "label": "散射问题",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 202,
       "label": "数值积分",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -1227,79 +1227,79 @@
     {
       "id": 204,
       "label": "整函数.",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 205,
       "label": "新凯恩斯",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 206,
       "label": "时间序列",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 207,
       "label": "显隐式因子模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 208,
       "label": "曝光矫正",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 209,
       "label": "更新风险模型.",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 210,
       "label": "最优分红",
-      "group": 3,
+      "group": 1,
       "size": 2
     },
     {
       "id": 211,
       "label": "最优分红策略",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 212,
       "label": "最优堆结构预测",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 213,
       "label": "最优投资策略",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 214,
       "label": "最优比例再保险",
-      "group": 3,
+      "group": 1,
       "size": 2
     },
     {
       "id": 215,
       "label": "最优索引码",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 216,
       "label": "最优长期增长率",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
@@ -1347,7 +1347,7 @@
     {
       "id": 224,
       "label": "机器学习",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -1359,49 +1359,49 @@
     {
       "id": 226,
       "label": "松弛控制",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 227,
       "label": "极值理论",
-      "group": 4,
+      "group": 0,
       "size": 2
     },
     {
       "id": 228,
       "label": "标量旗曲率",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 229,
       "label": "栈式卷积自编码器",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 230,
       "label": "校验子译码问题",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 231,
       "label": "核回归",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 232,
       "label": "框架",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 233,
       "label": "梯度项",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
@@ -1431,133 +1431,133 @@
     {
       "id": 238,
       "label": "模型范畴",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 239,
       "label": "模空间",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 240,
       "label": "次分数布朗运动",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 241,
       "label": "次调和",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 242,
       "label": "正则变化",
-      "group": 9,
+      "group": 0,
       "size": 2
     },
     {
       "id": 243,
       "label": "正解存在性",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 244,
       "label": "残差神经网络",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 245,
       "label": "比例再保险",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 246,
       "label": "注意力机制",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 247,
       "label": "流体动力学",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 248,
       "label": "测地线",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 249,
       "label": "消费者认知价值",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 250,
       "label": "深度学习",
-      "group": 5,
+      "group": 2,
       "size": 4
     },
     {
       "id": 251,
       "label": "混合Sobolev空间",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 252,
       "label": "混沌展开",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 253,
       "label": "渐近性",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 254,
       "label": "渐近性质",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 255,
       "label": "渐近正态性",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 256,
       "label": "渐近独立",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 257,
       "label": "渠道入侵",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 258,
       "label": "温和解",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 259,
       "label": "演化博弈",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -1569,7 +1569,7 @@
     {
       "id": 261,
       "label": "物理测度",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
@@ -1581,31 +1581,31 @@
     {
       "id": 263,
       "label": "特征哈希",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 264,
       "label": "特质波动率",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 265,
       "label": "球覆盖性质(BCP)",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 266,
       "label": "生成函数方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 267,
       "label": "监督学习",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -1617,19 +1617,19 @@
     {
       "id": 269,
       "label": "相位恢复",
-      "group": 6,
+      "group": 0,
       "size": 4
     },
     {
       "id": 270,
       "label": "相依性",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 271,
       "label": "相依结构",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
@@ -1641,37 +1641,37 @@
     {
       "id": 273,
       "label": "短时Fourier变换",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 274,
       "label": "破产概率",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 275,
       "label": "离散摩尔斯函数",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 276,
       "label": "离散风险模型",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 277,
       "label": "私募基金",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 278,
       "label": "秩距离码",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -1683,31 +1683,31 @@
     {
       "id": 280,
       "label": "稀疏相位恢复",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 281,
       "label": "稀疏逼近",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 282,
       "label": "空间转录组;单细胞测序;自编码器;增强方法",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 283,
       "label": "筛滤引理",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 284,
       "label": "签名-加密-证明范式",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -1719,13 +1719,13 @@
     {
       "id": 286,
       "label": "管理能力评价",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 287,
       "label": "粘性解",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
@@ -1737,25 +1737,25 @@
     {
       "id": 289,
       "label": "纳什均衡",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 290,
       "label": "线性收敛性",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 291,
       "label": "线性的AONT",
-      "group": 9,
+      "group": 0,
       "size": 1
     },
     {
       "id": 292,
       "label": "组合索引编码",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -1773,19 +1773,19 @@
     {
       "id": 295,
       "label": "编码理论",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 296,
       "label": "群签名方案",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 297,
       "label": "自然语言处理",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -1797,7 +1797,7 @@
     {
       "id": 299,
       "label": "范数恢复",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
@@ -1809,7 +1809,7 @@
     {
       "id": 301,
       "label": "蛋白质，蛋白质晶体结构质量，图卷积网络，深度学习",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -1821,19 +1821,19 @@
     {
       "id": 303,
       "label": "调和alpha-CIR过程",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 304,
       "label": "贝叶斯优化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 305,
       "label": "贪婪算法",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
@@ -1845,13 +1845,13 @@
     {
       "id": 307,
       "label": "超额损失再保险",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 308,
       "label": "跟踪引理",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
@@ -1869,25 +1869,25 @@
     {
       "id": 311,
       "label": "近似可控性",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 312,
       "label": "近似贝叶斯计算",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 313,
       "label": "递推公式",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 314,
       "label": "逼近理论",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
@@ -1899,61 +1899,61 @@
     {
       "id": 316,
       "label": "酉范畴化",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 317,
       "label": "配对交易",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 318,
       "label": "采样定理",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 319,
       "label": "重尾分布",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 320,
       "label": "重标贪婪逼近算法",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 321,
       "label": "重赋范",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 322,
       "label": "量化投资",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 323,
       "label": "量化投资组合管理",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 324,
       "label": "量子化",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 325,
       "label": "长期影响",
-      "group": 4,
+      "group": 1,
       "size": 1
     },
     {
@@ -1965,7 +1965,7 @@
     {
       "id": 327,
       "label": "降阶模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -1977,97 +1977,97 @@
     {
       "id": 329,
       "label": "随机Anderson模型",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 330,
       "label": "随机Cahn-Hilliard方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 331,
       "label": "随机Nash-Stackelberg-Nash微分博弈",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 332,
       "label": "随机Stackelberg微分博弈",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 333,
       "label": "随机发展方程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 334,
       "label": "随机控制",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 335,
       "label": "随机非零和微分博弈",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 336,
       "label": "障碍期权",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 337,
       "label": "非对称信息",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 338,
       "label": "风险传染测度",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 339,
       "label": "风险分担",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 340,
       "label": "风险度量",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 341,
       "label": "风险敏感随机控制",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 342,
       "label": "风险测度",
-      "group": 3,
+      "group": 1,
       "size": 1
     },
     {
       "id": 343,
       "label": "马尔可夫链",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 344,
       "label": "马尔科夫决策过程",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
@@ -2079,19 +2079,19 @@
     {
       "id": 346,
       "label": "高斯噪声",
-      "group": 1,
+      "group": 3,
       "size": 1
     },
     {
       "id": 347,
       "label": "高斯混合模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 348,
       "label": "高维ARMA模型",
-      "group": 2,
+      "group": 1,
       "size": 1
     }
   ],
@@ -7042,59 +7042,91 @@
     "陈鲁生"
   ],
   "cluster_stats": {
-    "7": {
-      "total": 18,
+    "0": {
+      "total": 206,
       "keywords": {
         "$c$-Gibbs测度": 1,
         "$c$-几乎压缩": 1,
         "$cu$-中心": 1,
-        "R/S分析法": 1,
-        "Radon测度": 1,
-        "Randers度量": 1,
-        "减弱强凸性": 1,
-        "分解方法": 1,
-        "压缩感知": 1,
-        "参照分析": 1,
-        "参考测度.": 1,
-        "松弛控制": 1,
-        "注意力机制": 1,
-        "测地线": 1,
-        "温和解": 1,
-        "物理测度": 1,
-        "粘性解": 1,
-        "量子化": 1
-      }
-    },
-    "0": {
-      "total": 84,
-      "keywords": {
         "(P,L)指标与迭代不等式": 1,
+        "2-正则线性堆": 1,
+        "ABC-PMC算法": 1,
+        "AONT": 1,
+        "ATAC-seq": 1,
+        "BCP的稳定性": 1,
+        "BERT": 1,
+        "CBI过程": 1,
+        "Dini-BMO正则性": 1,
+        "Dini-Holder正则性": 1,
         "Dyck路径": 1,
+        "Fatou性质": 1,
+        "Figiel型问题": 1,
+        "Finsler流形": 1,
+        "Finsler流形;李群;左不变Randers度量;旗曲率": 1,
+        "Floer理论与Gysin型正合序列": 1,
+        "Fréchet空间": 1,
+        "Gleason-Yamabe定理": 1,
+        "Hilbert第五问题": 1,
+        "L0梯度正则化": 1,
+        "LDA": 1,
+        "ModReLU激活函数": 1,
         "Momentangle复形": 1,
         "Motzkin路": 1,
+        "Narayana数": 1,
+        "Orlicz增长条件": 1,
+        "Orlicz空间": 1,
+        "Pliss引理": 1,
         "P对称": 2,
+        "R/S分析法": 1,
+        "RNA二级结构": 1,
+        "RNA速率": 1,
+        "Riesz位势": 1,
+        "Riesz势": 1,
+        "Schauder不动点定理": 1,
+        "Sobolev空间": 1,
+        "Wolff势": 1,
         "ε-等距": 1,
         "π-基": 1,
         "一致下界": 1,
+        "一般堆": 1,
         "一阶算法": 1,
         "三次曲面": 1,
         "三维球面,凸曲面,收缩曲率流,pinching估计": 1,
         "上同调运算": 1,
         "不等式": 1,
         "中心对称": 1,
+        "之字形堆": 1,
         "二局部导子": 1,
         "二局部自同构": 1,
         "二次李代数": 1,
         "二步幂零李代数": 1,
         "代数几何": 1,
+        "以环面Anosov线性同构为因子": 1,
+        "仿射过程": 1,
         "低维李代数": 1,
+        "体积增长": 1,
+        "全局最优解": 1,
+        "共轭相位恢复": 1,
         "准双曲轨弧": 1,
+        "减弱强凸性": 1,
+        "凸函数": 1,
+        "凸差算法": 2,
+        "分形维数": 1,
+        "分数次极大函数": 1,
+        "分数次极大算子": 1,
+        "分数阶导数": 1,
+        "分类空间": 1,
+        "分解方法": 1,
         "切除同构": 1,
         "初始点选择": 1,
         "加权图": 1,
+        "勒贝格混合范数空间": 1,
         "单位球面": 1,
         "单同伦": 1,
         "单纯复形偶": 1,
+        "单细胞测序": 1,
+        "压缩感知": 1,
+        "参照分析": 1,
         "友矩阵": 1,
         "双上同调": 1,
         "双曲时刻": 1,
@@ -7102,19 +7134,42 @@
         "反应不足": 1,
         "反源问题": 1,
         "反问题": 1,
+        "变分法": 1,
+        "可补空间": 1,
+        "唯一性": 1,
         "四元数": 2,
+        "图像修饰": 1,
+        "图像分解": 1,
+        "图像超分辨率": 2,
+        "外域": 1,
+        "大偏差原理": 1,
         "子因子": 1,
         "对偶表示": 1,
         "尾部中心矩": 1,
         "尾部矩": 1,
-        "工具变量主成分分析": 1,
+        "局部AONT": 1,
+        "局部紧群": 1,
+        "巴拿赫空间": 1,
         "平移不变空间": 1,
         "平面图": 1,
+        "广义解的存在性": 1,
+        "延拓": 1,
+        "开集": 1,
+        "异质信念": 1,
+        "形变引理": 1,
         "形心": 1,
         "形心算子": 1,
         "径向基函数": 1,
         "微分同胚群": 1,
+        "恰当范数恢复": 1,
+        "拉普拉斯金字塔": 1,
         "拉格朗日反演": 1,
+        "数值积分": 1,
+        "整函数.": 1,
+        "新凯恩斯": 1,
+        "时间序列": 1,
+        "曝光矫正": 1,
+        "最优堆结构预测": 1,
         "最小P循环对称周期": 1,
         "最短游程": 1,
         "最长游程": 1,
@@ -7123,212 +7178,72 @@
         "有禁集合划分": 1,
         "本征正交分解": 1,
         "李群": 1,
+        "松弛控制": 1,
+        "极值理论": 2,
+        "核回归": 1,
+        "框架": 1,
+        "梯度项": 1,
         "棘轮限制": 1,
         "椭圆不等式": 1,
         "椭圆型方程": 1,
         "椭圆型障碍问题": 1,
-        "点源": 1,
-        "特征值": 1,
-        "相交数": 1,
-        "矩阵": 1,
-        "稀疏分解": 2,
-        "算子代数": 1,
-        "系数矩阵": 1,
-        "结构稀疏": 1,
-        "维数灾难": 1,
-        "节点修复": 1,
-        "蛋白质接触图": 2,
-        "融合环": 1,
-        "超二次": 1,
-        "转移核": 1,
-        "部分双曲": 1,
-        "闸轨道": 3,
-        "除子类群": 1,
-        "非对称信息": 1,
-        "骨架节点集": 1
-      }
-    },
-    "9": {
-      "total": 18,
-      "keywords": {
-        "2-正则线性堆": 1,
-        "AONT": 1,
-        "ATAC-seq": 1,
-        "BERT": 1,
-        "BSDE": 1,
-        "Dini-BMO正则性": 1,
-        "Dini-Holder正则性": 1,
-        "LDA": 1,
-        "RNA二级结构": 1,
-        "RNA速率": 1,
-        "一般堆": 1,
-        "之字形堆": 1,
-        "单细胞测序": 1,
-        "局部AONT": 1,
-        "最优堆结构预测": 1,
+        "模空间": 1,
+        "次调和": 1,
         "正则变化": 2,
-        "线性的AONT": 1
-      }
-    },
-    "4": {
-      "total": 37,
-      "keywords": {
-        "ABC-PMC算法": 1,
-        "不确定性原则": 1,
-        "信任偏差": 1,
-        "全局最优解": 1,
-        "几乎随机占优": 1,
-        "凸差算法": 2,
-        "占优偏好度": 1,
-        "参数估计": 1,
-        "唯一性": 1,
-        "均值-方差准则": 1,
-        "大偏差原理": 1,
-        "密度估计": 1,
-        "局部紧群": 1,
-        "广义解的存在性": 1,
-        "异质信念": 1,
-        "指数效用准则": 1,
-        "损失厌恶偏好": 1,
-        "极值理论": 2,
         "正解存在性": 1,
+        "混合Sobolev空间": 1,
         "渐近性": 1,
         "渐近性质": 1,
         "渐近正态性": 1,
         "渐近独立": 1,
+        "温和解": 1,
+        "点源": 1,
+        "特征值": 1,
+        "相交数": 1,
+        "相位恢复": 4,
         "相依性": 1,
         "相依结构": 1,
+        "矩阵": 1,
+        "短时Fourier变换": 1,
+        "稀疏分解": 2,
+        "稀疏相位恢复": 1,
         "稀疏逼近": 1,
+        "筛滤引理": 1,
+        "算子代数": 1,
+        "系数矩阵": 1,
         "线性收敛性": 1,
-        "贝叶斯优化": 1,
+        "线性的AONT": 1,
+        "结构稀疏": 1,
+        "维数灾难": 1,
+        "节点修复": 1,
+        "范数恢复": 1,
+        "蛋白质接触图": 2,
+        "融合环": 1,
+        "调和alpha-CIR过程": 1,
         "贪婪算法": 1,
+        "超二次": 1,
+        "跟踪引理": 1,
+        "转移核": 1,
         "近似可控性": 1,
         "近似贝叶斯计算": 1,
+        "递推公式": 1,
         "逼近理论": 1,
-        "采样定理": 1,
+        "部分双曲": 1,
+        "酉范畴化": 1,
+        "配对交易": 1,
+        "重尾分布": 1,
         "重标贪婪逼近算法": 1,
-        "长期影响": 1
+        "重赋范": 1,
+        "量子化": 1,
+        "闸轨道": 3,
+        "除子类群": 1,
+        "骨架节点集": 1
       }
     },
     "3": {
-      "total": 43,
+      "total": 44,
       "keywords": {
-        "BCP的稳定性": 1,
-        "Hurst指数": 1,
-        "两阶段广告定价": 1,
-        "优质内容": 1,
-        "免赔额和承保范围": 1,
-        "再保险": 2,
-        "分形市场理论": 1,
-        "创新不确定性": 1,
-        "动态系统性风险测度": 1,
-        "多标的资产的欧式期权定价": 1,
-        "多险种": 1,
-        "奖励广告": 1,
-        "奖惩机制": 1,
-        "巨灾债券定价": 1,
-        "市场情绪": 1,
-        "更新风险模型.": 1,
-        "最优分红": 2,
-        "最优分红策略": 1,
-        "最优投资策略": 1,
-        "最优比例再保险": 2,
-        "最优长期增长率": 1,
-        "标量旗曲率": 1,
-        "比例再保险": 1,
-        "消费者认知价值": 1,
-        "特质波动率": 1,
-        "球覆盖性质(BCP)": 1,
-        "破产概率": 1,
-        "离散风险模型": 1,
-        "私募基金": 1,
-        "管理能力评价": 1,
-        "超额损失再保险": 1,
-        "配对交易": 1,
-        "量化投资": 1,
-        "量化投资组合管理": 1,
-        "障碍期权": 1,
-        "风险传染测度": 1,
-        "风险分担": 1,
-        "风险度量": 1,
-        "风险敏感随机控制": 1,
-        "风险测度": 1
-      }
-    },
-    "6": {
-      "total": 24,
-      "keywords": {
-        "CBI过程": 1,
-        "L0梯度正则化": 1,
-        "Pliss引理": 1,
-        "仿射过程": 1,
-        "共轭相位恢复": 1,
-        "图像修饰": 1,
-        "图像分解": 1,
-        "图像超分辨率": 2,
-        "形变引理": 1,
-        "恰当范数恢复": 1,
-        "曝光矫正": 1,
-        "核回归": 1,
-        "梯度项": 1,
-        "次调和": 1,
-        "相位恢复": 4,
-        "稀疏相位恢复": 1,
-        "筛滤引理": 1,
-        "范数恢复": 1,
-        "调和alpha-CIR过程": 1,
-        "跟踪引理": 1
-      }
-    },
-    "2": {
-      "total": 41,
-      "keywords": {
-        "CIR利率模型": 1,
-        "Fatou性质": 1,
-        "Figiel型问题": 1,
-        "HP模型": 1,
-        "Quillen模型": 1,
-        "主题模型": 1,
-        "主题演化": 1,
-        "以情景为基础": 1,
-        "体积增长": 1,
-        "分布式存储": 1,
-        "分布式存储系统": 1,
-        "分类空间": 1,
-        "利率模型": 1,
-        "动态多因子模型": 1,
-        "动态规划": 1,
-        "发育动态": 1,
-        "可补空间": 1,
-        "复合二项模型": 1,
-        "外域": 1,
-        "多模态数据检索": 1,
-        "多用户安全": 1,
-        "多秘密共享": 1,
-        "多频数据": 1,
-        "存储开销": 1,
-        "延拓": 1,
-        "开集": 1,
-        "政企合作": 1,
-        "数据重构": 1,
-        "时间序列": 1,
-        "显隐式因子模型": 1,
-        "框架": 1,
-        "模型范畴": 1,
-        "模空间": 1,
-        "渠道入侵": 1,
-        "短时Fourier变换": 1,
-        "轻量级网络": 1,
-        "酉范畴化": 1,
-        "重赋范": 1,
-        "降阶模型": 1,
-        "高斯混合模型": 1,
-        "高维ARMA模型": 1
-      }
-    },
-    "1": {
-      "total": 53,
-      "keywords": {
+        "BSDE": 1,
         "Euler方程": 1,
         "Gauss-Hermite积分": 1,
         "Gerber-Shiu函数": 1,
@@ -7336,39 +7251,29 @@
         "Hamilton-Jacobi-Bellman方程": 1,
         "Hamilton系统": 2,
         "Kirchhoff型方程": 1,
-        "ModReLU激活函数": 1,
-        "Narayana数": 1,
         "Navier-Stokes方程": 1,
         "Ornstein-Uhlenbeck过程": 1,
         "Tonelli哈密顿系统": 1,
         "亥姆霍兹方程": 1,
-        "凸函数": 1,
-        "分数次极大函数": 1,
-        "分数次极大算子": 1,
-        "分数阶导数": 1,
+        "几乎随机占优": 1,
         "分数阶随机Rayleigh-Stokes方程": 1,
         "双边反射随机偏微分方程": 1,
-        "变分法": 1,
         "含参瞬变偏微分方程": 1,
         "哈密尔顿-雅可比-贝尔曼方程": 1,
         "哈密顿系统": 2,
         "嵌套阿基米德Copula": 1,
         "弹性波": 1,
-        "拉普拉斯金字塔": 1,
         "摩尔斯复形": 1,
         "散射问题": 1,
-        "数值积分": 1,
-        "整函数.": 1,
-        "新凯恩斯": 1,
         "次分数布朗运动": 1,
         "流体动力学": 1,
         "混沌展开": 1,
         "演化博弈": 1,
         "生成函数方程": 1,
         "离散摩尔斯函数": 1,
+        "粘性解": 1,
         "纳什均衡": 1,
-        "递推公式": 1,
-        "重尾分布": 1,
+        "采样定理": 1,
         "随机Anderson模型": 1,
         "随机Cahn-Hilliard方程": 1,
         "随机Nash-Stackelberg-Nash微分博弈": 1,
@@ -7381,31 +7286,85 @@
         "高斯噪声": 1
       }
     },
-    "8": {
-      "total": 18,
+    "1": {
+      "total": 75,
       "keywords": {
-        "Finsler流形": 1,
-        "Finsler流形;李群;左不变Randers度量;旗曲率": 1,
-        "Floer理论与Gysin型正合序列": 1,
-        "Fréchet空间": 1,
-        "Gleason-Yamabe定理": 1,
-        "Hilbert第五问题": 1,
-        "Orlicz增长条件": 1,
-        "Orlicz空间": 1,
-        "Riesz位势": 1,
-        "Riesz势": 1,
-        "Schauder不动点定理": 1,
-        "Sobolev空间": 1,
-        "Wolff势": 1,
-        "以环面Anosov线性同构为因子": 1,
-        "分形维数": 1,
-        "勒贝格混合范数空间": 1,
-        "巴拿赫空间": 1,
-        "混合Sobolev空间": 1
+        "CIR利率模型": 1,
+        "HP模型": 1,
+        "Hurst指数": 1,
+        "Quillen模型": 1,
+        "Radon测度": 1,
+        "Randers度量": 1,
+        "不确定性原则": 1,
+        "两阶段广告定价": 1,
+        "主题模型": 1,
+        "主题演化": 1,
+        "以情景为基础": 1,
+        "优质内容": 1,
+        "信任偏差": 1,
+        "免赔额和承保范围": 1,
+        "再保险": 2,
+        "分形市场理论": 1,
+        "创新不确定性": 1,
+        "利率模型": 1,
+        "动态多因子模型": 1,
+        "动态系统性风险测度": 1,
+        "动态规划": 1,
+        "占优偏好度": 1,
+        "参数估计": 1,
+        "参考测度.": 1,
+        "发育动态": 1,
+        "均值-方差准则": 1,
+        "复合二项模型": 1,
+        "多标的资产的欧式期权定价": 1,
+        "多模态数据检索": 1,
+        "多用户安全": 1,
+        "多险种": 1,
+        "奖励广告": 1,
+        "密度估计": 1,
+        "工具变量主成分分析": 1,
+        "巨灾债券定价": 1,
+        "市场情绪": 1,
+        "指数效用准则": 1,
+        "损失厌恶偏好": 1,
+        "显隐式因子模型": 1,
+        "更新风险模型.": 1,
+        "最优分红": 2,
+        "最优分红策略": 1,
+        "最优投资策略": 1,
+        "最优比例再保险": 2,
+        "最优长期增长率": 1,
+        "标量旗曲率": 1,
+        "模型范畴": 1,
+        "比例再保险": 1,
+        "测地线": 1,
+        "消费者认知价值": 1,
+        "渠道入侵": 1,
+        "物理测度": 1,
+        "特质波动率": 1,
+        "球覆盖性质(BCP)": 1,
+        "破产概率": 1,
+        "离散风险模型": 1,
+        "私募基金": 1,
+        "管理能力评价": 1,
+        "超额损失再保险": 1,
+        "量化投资": 1,
+        "量化投资组合管理": 1,
+        "长期影响": 1,
+        "降阶模型": 1,
+        "障碍期权": 1,
+        "非对称信息": 1,
+        "风险传染测度": 1,
+        "风险分担": 1,
+        "风险度量": 1,
+        "风险敏感随机控制": 1,
+        "风险测度": 1,
+        "高斯混合模型": 1,
+        "高维ARMA模型": 1
       }
     },
-    "5": {
-      "total": 37,
+    "2": {
+      "total": 48,
       "keywords": {
         "IDR，Transformer，GNN，贝叶斯优化": 1,
         "MISER码": 1,
@@ -7413,21 +7372,30 @@
         "Schnorr-Lyubashevsky框架": 1,
         "代理签名": 1,
         "再生码": 1,
+        "分布式存储": 1,
+        "分布式存储系统": 1,
         "单播索引编码": 1,
         "变分自编码器": 1,
         "后量子签名": 1,
         "向量网络编码": 1,
         "基于编码的签名": 1,
         "复数值卷积神经网络": 1,
+        "多秘密共享": 1,
+        "多频数据": 1,
+        "奖惩机制": 1,
         "字典学习": 2,
+        "存储开销": 1,
         "对比学习": 1,
         "强化学习": 1,
         "循环神经网络": 2,
+        "政企合作": 1,
+        "数据重构": 1,
         "最优索引码": 1,
         "机器学习": 1,
         "栈式卷积自编码器": 1,
         "校验子译码问题": 1,
         "残差神经网络": 1,
+        "注意力机制": 1,
         "深度学习": 4,
         "特征哈希": 1,
         "监督学习": 1,
@@ -7438,20 +7406,16 @@
         "编码理论": 1,
         "群签名方案": 1,
         "自然语言处理": 1,
-        "蛋白质，蛋白质晶体结构质量，图卷积网络，深度学习": 1
+        "蛋白质，蛋白质晶体结构质量，图卷积网络，深度学习": 1,
+        "贝叶斯优化": 1,
+        "轻量级网络": 1
       }
     }
   },
   "cluster_labels": {
-    "0": "轨道及符号研究",
-    "1": "哈密顿动力系统",
-    "2": "金融模型与情景分析",
-    "3": "再保险与风险管理",
-    "4": "优化算法与极值理论",
-    "5": "深度学习与编码技术",
-    "6": "图像处理与恢复",
-    "7": "测度理论与压缩感知",
-    "8": "Finsler几何研究",
-    "9": "序列数据分析"
+    "0": "图像处理与恢复",
+    "1": "金融风险管理",
+    "2": "深度学习与加密技术",
+    "3": "哈密顿系统与方程"
   }
 }

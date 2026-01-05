@@ -63,7 +63,7 @@
     {
       "id": 10,
       "label": "CoCo债券",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -93,37 +93,37 @@
     {
       "id": 15,
       "label": "ESG",
-      "group": 2,
+      "group": 3,
       "size": 8
     },
     {
       "id": 16,
       "label": "ESG表现",
-      "group": 2,
+      "group": 3,
       "size": 7
     },
     {
       "id": 17,
       "label": "ESG评级",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 18,
       "label": "ESG评级分歧",
-      "group": 2,
+      "group": 3,
       "size": 3
     },
     {
       "id": 19,
       "label": "ESG评级变动",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 20,
       "label": "ETF持股",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -177,7 +177,7 @@
     {
       "id": 29,
       "label": "Lerner指数",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -213,13 +213,13 @@
     {
       "id": 35,
       "label": "QDII基金",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 36,
       "label": "QFII",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -243,7 +243,7 @@
     {
       "id": 40,
       "label": "Shapley值",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -285,13 +285,13 @@
     {
       "id": 47,
       "label": "“双碳”目标",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 48,
       "label": "“惠民保”省级保障指数",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -303,7 +303,7 @@
     {
       "id": 50,
       "label": "“漂绿”",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
@@ -315,19 +315,19 @@
     {
       "id": 52,
       "label": "《社会保险法》",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 53,
       "label": "一带一路",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 54,
       "label": "三支柱养老保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -345,7 +345,7 @@
     {
       "id": 57,
       "label": "不动产信托投资基金",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -363,37 +363,37 @@
     {
       "id": 60,
       "label": "个人养老金",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 61,
       "label": "中介效应",
-      "group": 8,
+      "group": 0,
       "size": 7
     },
     {
       "id": 62,
       "label": "中农再",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 63,
       "label": "中国农业大灾风险分散",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 64,
       "label": "中国大类资产配置",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 65,
       "label": "中央农业大灾基金",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -405,31 +405,31 @@
     {
       "id": 67,
       "label": "中小企业",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 68,
       "label": "中小企业创新",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 69,
       "label": "中期借贷便利",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 70,
       "label": "主体信用评级",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 71,
       "label": "乡村振兴",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -447,7 +447,7 @@
     {
       "id": 74,
       "label": "二级资本债券",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -465,7 +465,7 @@
     {
       "id": 77,
       "label": "互联⽹⾦融",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
@@ -483,13 +483,13 @@
     {
       "id": 80,
       "label": "产业结构优化",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 81,
       "label": "产业结构升级",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
@@ -525,19 +525,19 @@
     {
       "id": 87,
       "label": "人力资本",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 88,
       "label": "人力资本结构",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 89,
       "label": "人口老龄化",
-      "group": 3,
+      "group": 4,
       "size": 2
     },
     {
@@ -549,19 +549,19 @@
     {
       "id": 91,
       "label": "人民币国际化",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 92,
       "label": "人民币汇率",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 93,
       "label": "人身险公司",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
@@ -573,169 +573,169 @@
     {
       "id": 95,
       "label": "代理成本",
-      "group": 8,
+      "group": 1,
       "size": 1
     },
     {
       "id": 96,
       "label": "代理问题",
-      "group": 8,
+      "group": 1,
       "size": 4
     },
     {
       "id": 97,
       "label": "价值因子",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 98,
       "label": "价格型货币政策",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 99,
       "label": "企业ESG",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 100,
       "label": "企业ESG表现",
-      "group": 2,
+      "group": 3,
       "size": 2
     },
     {
       "id": 101,
       "label": "企业ESG评级",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 102,
       "label": "企业价值",
-      "group": 2,
+      "group": 3,
       "size": 4
     },
     {
       "id": 103,
       "label": "企业全要素生产率",
-      "group": 2,
+      "group": 3,
       "size": 2
     },
     {
       "id": 104,
       "label": "企业创新",
-      "group": 7,
+      "group": 3,
       "size": 8
     },
     {
       "id": 105,
       "label": "企业声誉",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 106,
       "label": "企业多元化经营",
-      "group": 0,
+      "group": 3,
       "size": 1
     },
     {
       "id": 107,
       "label": "企业年金",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 108,
       "label": "企业异质性",
-      "group": 0,
+      "group": 3,
       "size": 1
     },
     {
       "id": 109,
       "label": "企业性质",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 110,
       "label": "企业感知",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 111,
       "label": "企业投资",
-      "group": 2,
+      "group": 1,
       "size": 3
     },
     {
       "id": 112,
       "label": "企业效率",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 113,
       "label": "企业数字化",
-      "group": 7,
+      "group": 3,
       "size": 2
     },
     {
       "id": 114,
       "label": "企业数字化转型",
-      "group": 7,
+      "group": 3,
       "size": 2
     },
     {
       "id": 115,
       "label": "企业现金持有",
-      "group": 6,
+      "group": 2,
       "size": 1
     },
     {
       "id": 116,
       "label": "企业社会责任",
-      "group": 2,
+      "group": 3,
       "size": 4
     },
     {
       "id": 117,
       "label": "企业绩效",
-      "group": 2,
+      "group": 3,
       "size": 6
     },
     {
       "id": 118,
       "label": "企业绿色创新",
-      "group": 7,
+      "group": 3,
       "size": 2
     },
     {
       "id": 119,
       "label": "企业规模",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 120,
       "label": "企业财务困境",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 121,
       "label": "企业资源配置",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 122,
       "label": "企业金融化",
-      "group": 4,
+      "group": 2,
       "size": 5
     },
     {
@@ -759,61 +759,61 @@
     {
       "id": 126,
       "label": "企业高质量发展",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 127,
       "label": "会计稳健性",
-      "group": 6,
+      "group": 3,
       "size": 1
     },
     {
       "id": 128,
       "label": "供应链",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 129,
       "label": "便利收益率",
-      "group": 2,
+      "group": 1,
       "size": 2
     },
     {
       "id": 130,
       "label": "保费测算",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 131,
       "label": "保险业",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 132,
       "label": "保险公司",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 133,
       "label": "保险定价",
-      "group": 6,
+      "group": 4,
       "size": 2
     },
     {
       "id": 134,
       "label": "保险监管",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 135,
       "label": "保险资金持股",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -891,13 +891,13 @@
     {
       "id": 148,
       "label": "信贷约束",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 149,
       "label": "信贷配置",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -909,7 +909,7 @@
     {
       "id": 151,
       "label": "债券融资成本",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -921,31 +921,31 @@
     {
       "id": 153,
       "label": "债券通",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 154,
       "label": "债务期限结构",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 155,
       "label": "债务融资",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 156,
       "label": "债务融资成本",
-      "group": 4,
+      "group": 2,
       "size": 2
     },
     {
       "id": 157,
       "label": "债务规模",
-      "group": 4,
+      "group": 2,
       "size": 2
     },
     {
@@ -963,19 +963,19 @@
     {
       "id": 160,
       "label": "健康",
-      "group": 3,
+      "group": 4,
       "size": 2
     },
     {
       "id": 161,
       "label": "全要素生产率",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 162,
       "label": "公共金融服务体系",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -993,37 +993,37 @@
     {
       "id": 165,
       "label": "公司并购",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 166,
       "label": "公司战略激进度",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 167,
       "label": "公司治理",
-      "group": 2,
+      "group": 3,
       "size": 2
     },
     {
       "id": 168,
       "label": "公司治理效率",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 169,
       "label": "公司绩效",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 170,
       "label": "公告效应",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -1035,7 +1035,7 @@
     {
       "id": 172,
       "label": "共同富裕",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -1053,151 +1053,151 @@
     {
       "id": 175,
       "label": "养老保险",
-      "group": 3,
+      "group": 4,
       "size": 2
     },
     {
       "id": 176,
       "label": "养老金",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 177,
       "label": "内控质量",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
       "id": 178,
       "label": "内部控制",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
       "id": 179,
       "label": "农业产业结构",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 180,
       "label": "农业产出",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 181,
       "label": "农业保险",
-      "group": 3,
+      "group": 4,
       "size": 7
     },
     {
       "id": 182,
       "label": "农业再保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 183,
       "label": "农业大灾风险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 184,
       "label": "农业收入保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 185,
       "label": "农业机械化",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 186,
       "label": "农业洪涝灾害",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 187,
       "label": "农业碳排放",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 188,
       "label": "农业资本积累",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 189,
       "label": "农业风险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 190,
       "label": "农村中老年人健康",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 191,
       "label": "农村居民收入",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 192,
       "label": "农村居民收入不平等",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 193,
       "label": "农村居民消费",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 194,
       "label": "农民收入",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 195,
       "label": "农药使用量",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 196,
       "label": "农险发展水平",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 197,
       "label": "减排",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 198,
       "label": "减贫效应",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 199,
       "label": "减量效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -1227,31 +1227,31 @@
     {
       "id": 204,
       "label": "创业经历",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 205,
       "label": "创新能力",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 206,
       "label": "利润指数保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 207,
       "label": "利率市场化",
-      "group": 10,
+      "group": 1,
       "size": 2
     },
     {
       "id": 208,
       "label": "利率走廊",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
@@ -1263,13 +1263,13 @@
     {
       "id": 210,
       "label": "制造业",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 211,
       "label": "制造业企业",
-      "group": 7,
+      "group": 3,
       "size": 2
     },
     {
@@ -1281,31 +1281,31 @@
     {
       "id": 213,
       "label": "动态资产配置",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 214,
       "label": "劳动力流动",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 215,
       "label": "劳动力调整成本",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 216,
       "label": "劳动力需求",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 217,
       "label": "劳动参与率",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
@@ -1329,19 +1329,19 @@
     {
       "id": 221,
       "label": "区域经济",
-      "group": 7,
+      "group": 0,
       "size": 2
     },
     {
       "id": 222,
       "label": "医疗保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 223,
       "label": "协同发展",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
@@ -1353,7 +1353,7 @@
     {
       "id": 225,
       "label": "双创债",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -1377,7 +1377,7 @@
     {
       "id": 229,
       "label": "反制裁",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -1395,7 +1395,7 @@
     {
       "id": 232,
       "label": "可持续发展",
-      "group": 7,
+      "group": 3,
       "size": 4
     },
     {
@@ -1407,19 +1407,19 @@
     {
       "id": 234,
       "label": "可转债下修",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
       "id": 235,
       "label": "可转债条款",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
       "id": 236,
       "label": "合成控制法",
-      "group": 8,
+      "group": 0,
       "size": 2
     },
     {
@@ -1431,13 +1431,13 @@
     {
       "id": 238,
       "label": "员工效率",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 239,
       "label": "商业人寿保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
@@ -1449,7 +1449,7 @@
     {
       "id": 241,
       "label": "商业养老保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -1473,7 +1473,7 @@
     {
       "id": 245,
       "label": "四川城乡居民住宅地震巨灾保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
@@ -1503,7 +1503,7 @@
     {
       "id": 250,
       "label": "固定资产投资",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -1515,13 +1515,13 @@
     {
       "id": 252,
       "label": "国债",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 253,
       "label": "国债期货",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -1533,7 +1533,7 @@
     {
       "id": 255,
       "label": "在险价值",
-      "group": 0,
+      "group": 5,
       "size": 1
     },
     {
@@ -1545,31 +1545,31 @@
     {
       "id": 257,
       "label": "地方债",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 258,
       "label": "地方政府债务",
-      "group": 4,
+      "group": 2,
       "size": 2
     },
     {
       "id": 259,
       "label": "地方政府性债务",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 260,
       "label": "地方金融发展",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 261,
       "label": "地质灾害保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
@@ -1581,121 +1581,121 @@
     {
       "id": 263,
       "label": "地震巨灾保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 264,
       "label": "城乡居民医疗保险整合",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 265,
       "label": "城乡居民基本养老保险",
-      "group": 3,
+      "group": 4,
       "size": 2
     },
     {
       "id": 266,
       "label": "城乡居民基本医疗保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 267,
       "label": "城乡收入差距",
-      "group": 3,
+      "group": 4,
       "size": 2
     },
     {
       "id": 268,
       "label": "城市定制型商业医疗保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 269,
       "label": "城投债",
-      "group": 4,
+      "group": 2,
       "size": 2
     },
     {
       "id": 270,
       "label": "城镇职工基本养老保险",
-      "group": 3,
+      "group": 4,
       "size": 2
     },
     {
       "id": 271,
       "label": "域内溢出效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 272,
       "label": "基本养老保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 273,
       "label": "基本医疗保险",
-      "group": 3,
+      "group": 4,
       "size": 2
     },
     {
       "id": 274,
       "label": "基础化工行业",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 275,
       "label": "基金业绩",
-      "group": 2,
+      "group": 1,
       "size": 2
     },
     {
       "id": 276,
       "label": "基金管理",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 277,
       "label": "基金管理公司自持比例",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 278,
       "label": "基金绩效",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 279,
       "label": "声誉",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 280,
       "label": "外资开放",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 281,
       "label": "外部审计",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
       "id": 282,
       "label": "外部监督",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
@@ -1785,13 +1785,13 @@
     {
       "id": 297,
       "label": "失能状态",
-      "group": 2,
+      "group": 4,
       "size": 1
     },
     {
       "id": 298,
       "label": "失能等级评估",
-      "group": 2,
+      "group": 4,
       "size": 1
     },
     {
@@ -1815,37 +1815,37 @@
     {
       "id": 302,
       "label": "安全资产",
-      "group": 9,
+      "group": 2,
       "size": 2
     },
     {
       "id": 303,
       "label": "宏观杠杆率",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 304,
       "label": "官员特征",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 305,
       "label": "定价效率",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 306,
       "label": "定价研究",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 307,
       "label": "实体企业金融化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -1857,109 +1857,109 @@
     {
       "id": 309,
       "label": "实证研究",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 310,
       "label": "实际汇率低估",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 311,
       "label": "客户画像",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 312,
       "label": "家庭代际经济",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 313,
       "label": "家庭保险需求",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 314,
       "label": "家庭债务负担",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 315,
       "label": "家庭养老",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 316,
       "label": "家庭实际生育数量",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 317,
       "label": "家庭教育支出",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 318,
       "label": "家庭消费",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 319,
       "label": "家庭生育",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 320,
       "label": "家庭生育意愿",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 321,
       "label": "家庭负债",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 322,
       "label": "家庭金融",
-      "group": 9,
+      "group": 2,
       "size": 2
     },
     {
       "id": 323,
       "label": "家庭金融资产配置",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 324,
       "label": "家族企业代际传承",
-      "group": 9,
+      "group": 3,
       "size": 1
     },
     {
       "id": 325,
       "label": "寿险公司",
-      "group": 6,
+      "group": 4,
       "size": 2
     },
     {
       "id": 326,
       "label": "小微企业贷款",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
@@ -1977,13 +1977,13 @@
     {
       "id": 329,
       "label": "巨灾保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 330,
       "label": "巨灾债券",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -2007,7 +2007,7 @@
     {
       "id": 334,
       "label": "市场流动性",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
@@ -2031,7 +2031,7 @@
     {
       "id": 338,
       "label": "并购绩效",
-      "group": 2,
+      "group": 3,
       "size": 2
     },
     {
@@ -2079,13 +2079,13 @@
     {
       "id": 346,
       "label": "影响探究",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 347,
       "label": "影响机制",
-      "group": 8,
+      "group": 0,
       "size": 3
     },
     {
@@ -2097,7 +2097,7 @@
     {
       "id": 349,
       "label": "慈善捐赠",
-      "group": 2,
+      "group": 4,
       "size": 1
     },
     {
@@ -2109,25 +2109,25 @@
     {
       "id": 351,
       "label": "房价变化冲击",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 352,
       "label": "技术创新",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 353,
       "label": "技术效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 354,
       "label": "技术断供",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
@@ -2139,25 +2139,25 @@
     {
       "id": 356,
       "label": "投融资期限错配",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 357,
       "label": "投资价值",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 358,
       "label": "投资效率",
-      "group": 2,
+      "group": 1,
       "size": 5
     },
     {
       "id": 359,
       "label": "投资绩效",
-      "group": 2,
+      "group": 1,
       "size": 2
     },
     {
@@ -2175,43 +2175,43 @@
     {
       "id": 362,
       "label": "投资背景",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 363,
       "label": "投资行为",
-      "group": 2,
+      "group": 1,
       "size": 2
     },
     {
       "id": 364,
       "label": "折溢价",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 365,
       "label": "担保品框架",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 366,
       "label": "指数保险",
-      "group": 6,
+      "group": 4,
       "size": 2
     },
     {
       "id": 367,
       "label": "挤出效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 368,
       "label": "损失评估",
-      "group": 0,
+      "group": 4,
       "size": 2
     },
     {
@@ -2247,31 +2247,31 @@
     {
       "id": 374,
       "label": "支付方式",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 375,
       "label": "收入保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 376,
       "label": "收入再分配",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 377,
       "label": "政府债务风险",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 378,
       "label": "政府创新补贴",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
@@ -2289,43 +2289,43 @@
     {
       "id": 381,
       "label": "政策效果",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 382,
       "label": "效力分析",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 383,
       "label": "效率",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 384,
       "label": "数字人民币",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 385,
       "label": "数字化转型",
-      "group": 7,
+      "group": 3,
       "size": 8
     },
     {
       "id": 386,
       "label": "数字普惠金融",
-      "group": 4,
+      "group": 2,
       "size": 6
     },
     {
       "id": 387,
       "label": "数字金融",
-      "group": 4,
+      "group": 2,
       "size": 5
     },
     {
@@ -2343,7 +2343,7 @@
     {
       "id": 390,
       "label": "新冠疫情",
-      "group": 1,
+      "group": 5,
       "size": 1
     },
     {
@@ -2355,7 +2355,7 @@
     {
       "id": 392,
       "label": "无形资产强度",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -2379,31 +2379,31 @@
     {
       "id": 396,
       "label": "晋升激励",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
       "id": 397,
       "label": "普惠保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 398,
       "label": "替代率适度水平",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 399,
       "label": "最优再保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 400,
       "label": "最佳研发投入",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -2421,19 +2421,19 @@
     {
       "id": 403,
       "label": "机构投资者",
-      "group": 2,
+      "group": 1,
       "size": 2
     },
     {
       "id": 404,
       "label": "机构投资者持股",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 405,
       "label": "标签效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -2445,19 +2445,19 @@
     {
       "id": 407,
       "label": "森林保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 408,
       "label": "森林固碳",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 409,
       "label": "森林火灾保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
@@ -2511,19 +2511,19 @@
     {
       "id": 418,
       "label": "汇率传递",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 419,
       "label": "汇率渠道",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 420,
       "label": "江淮城市群",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
@@ -2547,7 +2547,7 @@
     {
       "id": 424,
       "label": "波动溢出效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -2559,31 +2559,31 @@
     {
       "id": 426,
       "label": "洪水保险制度",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 427,
       "label": "洪水保险定价",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 428,
       "label": "流动性分层",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 429,
       "label": "流动性囤积",
-      "group": 5,
+      "group": 2,
       "size": 2
     },
     {
       "id": 430,
       "label": "流动性资产配置",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -2595,19 +2595,19 @@
     {
       "id": 432,
       "label": "海外宏观经济要素",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 433,
       "label": "消费需求",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 434,
       "label": "涉农贷款",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -2625,13 +2625,13 @@
     {
       "id": 437,
       "label": "溢出效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 438,
       "label": "灵活就业人员",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
@@ -2661,7 +2661,7 @@
     {
       "id": 443,
       "label": "环保投资",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -2673,13 +2673,13 @@
     {
       "id": 445,
       "label": "环境绩效",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 446,
       "label": "现金持有",
-      "group": 6,
+      "group": 2,
       "size": 1
     },
     {
@@ -2691,55 +2691,55 @@
     {
       "id": 448,
       "label": "生育决策",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 449,
       "label": "盈余管理",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 450,
       "label": "盈利性",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 451,
       "label": "盈利绩效",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 452,
       "label": "盈利能⼒",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 453,
       "label": "盈利能力",
-      "group": 2,
+      "group": 3,
       "size": 3
     },
     {
       "id": 454,
       "label": "监管措施分类",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 455,
       "label": "相对符号跳跃RSJ",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 456,
       "label": "相对贫困",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -2751,43 +2751,43 @@
     {
       "id": 458,
       "label": "短债长用",
-      "group": 4,
+      "group": 2,
       "size": 2
     },
     {
       "id": 459,
       "label": "短贷长投",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 460,
       "label": "研发投入",
-      "group": 2,
+      "group": 1,
       "size": 5
     },
     {
       "id": 461,
       "label": "碳排放强度",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 462,
       "label": "碳排放权交易",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 463,
       "label": "碳排放权交易试点市场",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 464,
       "label": "碳排放权价格",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -2799,7 +2799,7 @@
     {
       "id": 466,
       "label": "社会养老保险",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -2817,7 +2817,7 @@
     {
       "id": 469,
       "label": "私募股权投资",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -2829,7 +2829,7 @@
     {
       "id": 471,
       "label": "科创债",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -2841,7 +2841,7 @@
     {
       "id": 473,
       "label": "租赁公司",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
@@ -2853,7 +2853,7 @@
     {
       "id": 475,
       "label": "空间溢出效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -2865,7 +2865,7 @@
     {
       "id": 477,
       "label": "第三⽅⽀付",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -2877,25 +2877,25 @@
     {
       "id": 479,
       "label": "管理层激励",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
       "id": 480,
       "label": "管理层短视",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
       "id": 481,
       "label": "管理者过度自信",
-      "group": 8,
+      "group": 3,
       "size": 1
     },
     {
       "id": 482,
       "label": "粮食安全",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -2907,19 +2907,19 @@
     {
       "id": 484,
       "label": "精算定价",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 485,
       "label": "精算平衡",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 486,
       "label": "精算气候指数",
-      "group": 6,
+      "group": 5,
       "size": 1
     },
     {
@@ -2931,19 +2931,19 @@
     {
       "id": 488,
       "label": "经济增长",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 489,
       "label": "经济政策不确定性",
-      "group": 5,
+      "group": 1,
       "size": 3
     },
     {
       "id": 490,
       "label": "经济高质量发展",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
@@ -2955,13 +2955,13 @@
     {
       "id": 492,
       "label": "经营效率",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 493,
       "label": "经营绩效",
-      "group": 2,
+      "group": 3,
       "size": 2
     },
     {
@@ -2973,115 +2973,115 @@
     {
       "id": 495,
       "label": "结构性货币政策",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 496,
       "label": "结构性货币政策有效性",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 497,
       "label": "结构效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 498,
       "label": "绩效",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 499,
       "label": "综合创新指数",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 500,
       "label": "绿色信贷",
-      "group": 7,
+      "group": 3,
       "size": 4
     },
     {
       "id": 501,
       "label": "绿色信贷政策",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 502,
       "label": "绿色债券",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 503,
       "label": "绿色全要素生产率",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 504,
       "label": "绿色农业",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 505,
       "label": "绿色创新",
-      "group": 7,
+      "group": 3,
       "size": 4
     },
     {
       "id": 506,
       "label": "绿色创新水平",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 507,
       "label": "绿色创新绩效",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 508,
       "label": "绿色技术创新",
-      "group": 7,
+      "group": 3,
       "size": 2
     },
     {
       "id": 509,
       "label": "绿色政策",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 510,
       "label": "绿色转型",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 511,
       "label": "绿色金融",
-      "group": 7,
+      "group": 3,
       "size": 3
     },
     {
       "id": 512,
       "label": "缓解效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 513,
       "label": "缴费适度水平",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -3099,19 +3099,19 @@
     {
       "id": 516,
       "label": "网络溢出",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 517,
       "label": "羊群行为",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 518,
       "label": "耕地保护",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -3153,13 +3153,13 @@
     {
       "id": 525,
       "label": "股权融资成本",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 526,
       "label": "股权质押",
-      "group": 1,
+      "group": 2,
       "size": 2
     },
     {
@@ -3231,13 +3231,13 @@
     {
       "id": 538,
       "label": "董事高管责任保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 539,
       "label": "董监高责任险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
@@ -3249,85 +3249,85 @@
     {
       "id": 541,
       "label": "虚弱",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 542,
       "label": "虚弱指数",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 543,
       "label": "融券交易",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
       "id": 544,
       "label": "融资交易",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 545,
       "label": "融资成本",
-      "group": 4,
+      "group": 2,
       "size": 2
     },
     {
       "id": 546,
       "label": "融资租赁",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 547,
       "label": "融资约束",
-      "group": 4,
+      "group": 2,
       "size": 26
     },
     {
       "id": 548,
       "label": "融资错配",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 549,
       "label": "行业资源",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 550,
       "label": "行为金融",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 551,
       "label": "西藏",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 552,
       "label": "规模效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 553,
       "label": "证券法",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
       "id": 554,
       "label": "评价指标体系",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
@@ -3339,7 +3339,7 @@
     {
       "id": 556,
       "label": "调节效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -3351,91 +3351,91 @@
     {
       "id": 558,
       "label": "负债管理",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 559,
       "label": "负债驱动投资",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 560,
       "label": "财务稳定性",
-      "group": 6,
+      "group": 2,
       "size": 1
     },
     {
       "id": 561,
       "label": "财务绩效",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 562,
       "label": "财政体系",
-      "group": 6,
+      "group": 2,
       "size": 1
     },
     {
       "id": 563,
       "label": "财政分权",
-      "group": 6,
+      "group": 2,
       "size": 1
     },
     {
       "id": 564,
       "label": "财政巨灾保险",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 565,
       "label": "财政涉灾预算",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 566,
       "label": "财险公司",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 567,
       "label": "货币市场",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 568,
       "label": "货币政策",
-      "group": 10,
+      "group": 1,
       "size": 4
     },
     {
       "id": 569,
       "label": "货币政策传导",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 570,
       "label": "货币政策松紧程度",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 571,
       "label": "贫困脆弱性",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 572,
       "label": "贫富差距",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -3447,43 +3447,43 @@
     {
       "id": 574,
       "label": "贸易渠道",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 575,
       "label": "费率厘定",
-      "group": 6,
+      "group": 1,
       "size": 3
     },
     {
       "id": 576,
       "label": "资产证券化",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 577,
       "label": "资产负债管理",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 578,
       "label": "资产选择",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 579,
       "label": "资产配置",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 580,
       "label": "资本密集",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
@@ -3501,37 +3501,37 @@
     {
       "id": 583,
       "label": "资本成本",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 584,
       "label": "资本结构",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 585,
       "label": "资源错配",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 586,
       "label": "资金缺口",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 587,
       "label": "资金运用",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 588,
       "label": "赡养负担",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -3543,7 +3543,7 @@
     {
       "id": 590,
       "label": "超额储蓄供给",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
@@ -3567,25 +3567,25 @@
     {
       "id": 594,
       "label": "过度自信",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 595,
       "label": "过度负债",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 596,
       "label": "进口价格",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
       "id": 597,
       "label": "进口受限",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
@@ -3609,7 +3609,7 @@
     {
       "id": 601,
       "label": "退休冲击",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
@@ -3621,109 +3621,109 @@
     {
       "id": 603,
       "label": "重污染企业",
-      "group": 7,
+      "group": 3,
       "size": 2
     },
     {
       "id": 604,
       "label": "重污染行业",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 605,
       "label": "量化投资",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 606,
       "label": "金融产业集聚",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 607,
       "label": "金融信创",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 608,
       "label": "金融制裁",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 609,
       "label": "金融化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 610,
       "label": "金融危机",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 611,
       "label": "金融可得性",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 612,
       "label": "金融惠企",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 613,
       "label": "金融排斥",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 614,
       "label": "金融数智化",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 615,
       "label": "金融渠道",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 616,
       "label": "金融知识",
-      "group": 4,
+      "group": 2,
       "size": 1
     },
     {
       "id": 617,
       "label": "金融科技",
-      "group": 4,
+      "group": 2,
       "size": 3
     },
     {
       "id": 618,
       "label": "金融资产减值",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 619,
       "label": "金融资产配置效率",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
       "id": 620,
       "label": "金融集聚",
-      "group": 4,
+      "group": 2,
       "size": 2
     },
     {
@@ -3825,37 +3825,37 @@
     {
       "id": 637,
       "label": "长期护理保险",
-      "group": 6,
+      "group": 4,
       "size": 3
     },
     {
       "id": 638,
       "label": "长期护理保险定价",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 639,
       "label": "长期护理状态界定",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 640,
       "label": "长期护理需求",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 641,
       "label": "长期贫困",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 642,
       "label": "门槛效应",
-      "group": 8,
+      "group": 0,
       "size": 2
     },
     {
@@ -3867,13 +3867,13 @@
     {
       "id": 644,
       "label": "防灾防损",
-      "group": 6,
+      "group": 4,
       "size": 1
     },
     {
       "id": 645,
       "label": "阻碍效应",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
@@ -3891,7 +3891,7 @@
     {
       "id": 648,
       "label": "隔代照料",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -3903,13 +3903,13 @@
     {
       "id": 650,
       "label": "非利息收入",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 651,
       "label": "非效率投资",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
@@ -3921,7 +3921,7 @@
     {
       "id": 653,
       "label": "预期利率冲击",
-      "group": 10,
+      "group": 1,
       "size": 1
     },
     {
@@ -3939,7 +3939,7 @@
     {
       "id": 656,
       "label": "预防性现金持有",
-      "group": 6,
+      "group": 2,
       "size": 1
     },
     {
@@ -3975,7 +3975,7 @@
     {
       "id": 662,
       "label": "风险金融资产配置",
-      "group": 9,
+      "group": 2,
       "size": 1
     },
     {
@@ -3987,13 +3987,13 @@
     {
       "id": 664,
       "label": "高质量发展",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 665,
       "label": "高速铁路建设",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
@@ -12425,7 +12425,7 @@
   ],
   "cluster_stats": {
     "0": {
-      "total": 146,
+      "total": 182,
       "keywords": {
         "AR-GARCH": 1,
         "ARIMA": 1,
@@ -12462,37 +12462,41 @@
         "∆CoVaR": 1,
         "三阶段DEA模型": 1,
         "两职分离": 1,
+        "中介效应": 7,
         "事件研究法": 2,
         "二代个人特质": 1,
         "二维信息扩散模型": 1,
         "云原生": 1,
-        "互联⽹⾦融": 1,
         "互联网": 1,
         "产品设计": 1,
         "人工智能": 1,
         "从人因素": 1,
-        "企业多元化经营": 1,
-        "企业异质性": 1,
         "倾向匹配得分": 1,
         "倾向性得分匹配": 1,
+        "公告效应": 1,
         "共形变换": 1,
+        "减贫效应": 1,
+        "减量效应": 1,
         "出险概率": 1,
         "动态空间模型": 1,
         "区位熵": 2,
         "区域异质性": 2,
+        "区域经济": 2,
         "双向固定效应模型": 2,
         "双重差分": 1,
         "双重差分模型": 4,
+        "反制裁": 1,
         "反向传播神经网络": 1,
         "发展模型": 1,
         "可解释机器学习模型": 1,
+        "合成控制法": 2,
         "向量自回归模型": 1,
         "因子分析": 1,
         "因子模型": 2,
         "因子筛选": 1,
         "固定效应模型": 1,
-        "在险价值": 1,
         "地区差异": 1,
+        "域内溢出效应": 1,
         "多元化": 1,
         "多元线性回归": 2,
         "多分类Logistic回归": 1,
@@ -12505,7 +12509,8 @@
         "多策略组合": 1,
         "多重均衡理论": 1,
         "大数据": 1,
-        "客户画像": 1,
+        "官员特征": 1,
+        "实证研究": 1,
         "层次聚类": 1,
         "并购概率": 1,
         "异常回报率": 1,
@@ -12515,8 +12520,14 @@
         "异质性特征": 1,
         "张量分解": 1,
         "强化学习": 1,
+        "影响探究": 1,
+        "影响机制": 3,
         "截尾估计": 1,
-        "损失评估": 2,
+        "技术效应": 1,
+        "技术断供": 1,
+        "挤出效应": 1,
+        "政策效果": 1,
+        "效力分析": 1,
         "文本分析": 1,
         "文本分析法": 1,
         "时变参数向量自回归": 1,
@@ -12524,31 +12535,46 @@
         "时间序列": 1,
         "有序Probit模型": 1,
         "机器学习": 7,
+        "标签效应": 1,
         "梯度提升树": 1,
         "概率预测": 1,
         "死因死亡率": 1,
         "死因消除": 1,
+        "江淮城市群": 1,
         "波动性": 1,
+        "波动溢出效应": 1,
         "深度学习": 1,
         "渐进双重差分": 1,
+        "溢出效应": 1,
         "熵权法": 1,
         "特征向量中心性": 1,
         "生命周期": 1,
+        "相对符号跳跃RSJ": 1,
         "社会关系网络": 1,
         "神经网络": 1,
         "神经网络模型": 1,
         "空间杜宾模型": 1,
+        "空间溢出效应": 1,
         "空间误差模型": 1,
+        "结构效应": 1,
+        "缓解效应": 1,
         "网络中心性": 1,
         "网络关系": 1,
+        "网络溢出": 1,
+        "羊群行为": 1,
         "自适应套索": 1,
         "藤copula": 1,
+        "规模效应": 1,
         "词向量文本分析法": 1,
+        "调节效应": 1,
         "贝叶斯优化": 1,
         "超越阈值模型": 1,
         "车联网": 1,
         "车险索赔预测": 1,
+        "过度自信": 1,
         "迭代组合方法": 1,
+        "门槛效应": 2,
+        "阻碍效应": 1,
         "随机波动率模型": 1,
         "隐含波动率": 1,
         "零膨胀泊松分布": 1,
@@ -12559,19 +12585,35 @@
       }
     },
     "1": {
-      "total": 110,
+      "total": 195,
       "keywords": {
         "A股上市医药企业": 1,
         "A股市场": 1,
+        "ETF持股": 1,
         "IPO": 1,
         "IPO破发": 1,
+        "Lerner指数": 1,
+        "QDII基金": 1,
+        "QFII": 1,
         "SET100泰国股市指数": 1,
+        "Shapley值": 1,
         "上市公司": 1,
+        "不动产信托投资基金": 1,
         "交易信号": 1,
         "产品市场竞争": 1,
         "产品市场竞争力": 1,
         "产权属性": 1,
         "产权性质": 3,
+        "人民币国际化": 1,
+        "人民币汇率": 1,
+        "代理成本": 1,
+        "代理问题": 4,
+        "价值因子": 1,
+        "价格型货币政策": 1,
+        "企业投资": 3,
+        "便利收益率": 2,
+        "保费测算": 1,
+        "保险资金持股": 1,
         "信号传递": 1,
         "信息不对称": 6,
         "信息不对称理论": 1,
@@ -12582,57 +12624,91 @@
         "信息透明度": 2,
         "公司公告效应": 1,
         "公司层面投资者情绪": 1,
-        "公告效应": 1,
         "公告时机": 1,
         "关联交易": 1,
         "分析师关注": 1,
         "分析师关注度": 1,
         "创业板": 1,
+        "利率市场化": 2,
+        "利率走廊": 1,
         "利益转移": 1,
         "北交所": 1,
         "卖空机制": 1,
-        "可转债下修": 1,
-        "可转债条款": 1,
+        "固定资产投资": 1,
         "国际原油市场": 1,
+        "基金业绩": 2,
+        "基金管理": 1,
+        "基金管理公司自持比例": 1,
+        "基金绩效": 1,
+        "外资开放": 1,
         "大股东持股": 1,
         "媒体关注": 1,
         "媒体关注度": 2,
         "媒体报道": 1,
+        "宏观杠杆率": 1,
+        "定价效率": 1,
+        "定价研究": 1,
         "实体清单": 2,
+        "实际汇率低估": 1,
+        "客户画像": 1,
         "尾部信息": 1,
         "市场关注度": 1,
         "市场层面投资者情绪": 1,
         "市场情绪": 1,
+        "市场流动性": 1,
         "市场竞争": 1,
         "市场预期": 1,
         "恒生电子": 1,
+        "房价变化冲击": 1,
         "投机偏好": 1,
+        "投资价值": 1,
+        "投资效率": 5,
+        "投资绩效": 2,
         "投资者关注": 3,
         "投资者情绪": 1,
+        "投资背景": 1,
+        "投资行为": 2,
+        "折溢价": 1,
         "控制权转移": 1,
         "控股股东": 1,
         "控股股东侵占疑虑": 1,
         "控股股东股权质押": 1,
+        "支付方式": 1,
         "政治注意力": 1,
-        "新冠疫情": 1,
+        "数字人民币": 1,
         "无实际控制人": 1,
+        "替代率适度水平": 1,
+        "最佳研发投入": 1,
+        "机构投资者": 2,
+        "机构投资者持股": 1,
+        "汇率传递": 1,
+        "汇率渠道": 1,
         "沪深300股指期权": 1,
         "沪深港通": 1,
         "注意力转移": 1,
+        "海外宏观经济要素": 1,
         "牛熊市": 1,
-        "相对符号跳跃RSJ": 1,
+        "环保投资": 1,
+        "监管措施分类": 1,
         "看涨—看跌期权平价公式": 1,
+        "研发投入": 5,
+        "私募股权投资": 1,
         "私有信息": 1,
         "科创板": 1,
         "第二类限制性股票": 1,
         "精准营销": 1,
+        "精算定价": 1,
+        "精算平衡": 1,
+        "经济政策不确定性": 3,
+        "结构性货币政策": 1,
+        "结构性货币政策有效性": 1,
+        "缴费适度水平": 1,
         "股价信息效率": 1,
         "股价反应": 1,
         "股价同步性": 3,
         "股价崩盘风险": 3,
         "股指预测": 1,
         "股权激励": 2,
-        "股权质押": 2,
         "股权集中度": 2,
         "股票定价效率": 1,
         "股票市场反应": 1,
@@ -12643,25 +12719,38 @@
         "股票累积超额收益率": 1,
         "股票超额收益率": 1,
         "股票预期收益": 1,
-        "融券交易": 1,
-        "证券法": 1,
+        "货币市场": 1,
+        "货币政策": 4,
+        "货币政策传导": 1,
+        "货币政策松紧程度": 1,
+        "贸易渠道": 1,
+        "费率厘定": 3,
         "资本市场": 1,
         "资本市场开放": 3,
         "转股行为": 1,
+        "进口价格": 1,
+        "进口受限": 1,
         "配对交易": 1,
+        "量化投资": 1,
+        "非利息收入": 1,
+        "非效率投资": 1,
+        "预期利率冲击": 1,
         "高新技术产业上市公司": 1
       }
     },
-    "4": {
-      "total": 111,
+    "2": {
+      "total": 157,
       "keywords": {
         "CoCo债券": 1,
+        "中国大类资产配置": 1,
         "中期借贷便利": 1,
         "二级资本债券": 1,
-        "人力资本": 1,
-        "人力资本结构": 1,
+        "互联⽹⾦融": 1,
+        "企业现金持有": 1,
         "企业财务困境": 1,
         "企业金融化": 5,
+        "信贷约束": 1,
+        "信贷配置": 1,
         "债券融资成本": 1,
         "债券通": 1,
         "债务期限结构": 1,
@@ -12669,11 +12758,11 @@
         "债务融资成本": 2,
         "债务规模": 2,
         "公共金融服务体系": 1,
-        "劳动力流动": 1,
-        "劳动力调整成本": 1,
-        "劳动力需求": 1,
-        "劳动参与率": 1,
+        "动态资产配置": 1,
         "双创债": 1,
+        "可转债下修": 1,
+        "可转债条款": 1,
+        "固定资产投资风险": 1,
         "国债": 1,
         "国债期货": 1,
         "地方债": 1,
@@ -12681,30 +12770,64 @@
         "地方政府性债务": 1,
         "地方金融发展": 1,
         "城投债": 2,
+        "安全资产": 2,
         "实体企业金融化": 1,
+        "家庭代际经济": 1,
+        "家庭保险需求": 1,
+        "家庭债务负担": 1,
+        "家庭养老": 1,
+        "家庭实际生育数量": 1,
+        "家庭教育支出": 1,
+        "家庭消费": 1,
+        "家庭生育": 1,
+        "家庭生育意愿": 1,
+        "家庭负债": 1,
+        "家庭金融": 2,
+        "家庭金融资产配置": 1,
+        "小微企业贷款": 1,
         "巨灾债券": 1,
         "投融资期限错配": 1,
+        "担保品框架": 1,
         "政府债务风险": 1,
         "数字普惠金融": 6,
         "数字金融": 5,
-        "灵活就业人员": 1,
+        "无形资产强度": 1,
+        "流动性分层": 1,
+        "流动性囤积": 2,
+        "流动性资产配置": 1,
+        "消费需求": 1,
+        "现金持有": 1,
+        "生育决策": 1,
         "短债长用": 2,
         "短贷长投": 1,
         "科创债": 1,
         "股权融资成本": 1,
+        "股权质押": 2,
+        "融券交易": 1,
         "融资交易": 1,
         "融资成本": 2,
         "融资租赁": 1,
         "融资约束": 26,
         "融资错配": 1,
         "行为金融": 1,
+        "证券法": 1,
         "负债管理": 1,
         "负债驱动投资": 1,
+        "财务稳定性": 1,
+        "财政体系": 1,
+        "财政分权": 1,
+        "资产证券化": 1,
+        "资产负债管理": 1,
+        "资产选择": 1,
+        "资产配置": 1,
         "资本密集": 1,
         "资本成本": 1,
         "资本结构": 1,
+        "资源错配": 1,
         "资金缺口": 1,
         "资金运用": 1,
+        "赡养负担": 1,
+        "超额储蓄供给": 1,
         "过度负债": 1,
         "金融产业集聚": 1,
         "金融信创": 1,
@@ -12718,142 +12841,122 @@
         "金融渠道": 1,
         "金融知识": 1,
         "金融科技": 3,
-        "金融集聚": 2
+        "金融资产减值": 1,
+        "金融资产配置效率": 1,
+        "金融集聚": 2,
+        "隔代照料": 1,
+        "预防性现金持有": 1,
+        "风险金融资产配置": 1
       }
     },
-    "2": {
-      "total": 118,
+    "3": {
+      "total": 165,
       "keywords": {
         "ESG": 8,
         "ESG表现": 7,
         "ESG评级": 1,
         "ESG评级分歧": 3,
         "ESG评级变动": 1,
-        "ETF持股": 1,
-        "QDII基金": 1,
-        "QFII": 1,
-        "不动产信托投资基金": 1,
+        "“漂绿”": 1,
+        "一带一路": 1,
+        "中小企业": 1,
+        "中小企业创新": 1,
         "主体信用评级": 1,
+        "产业结构优化": 1,
+        "产业结构升级": 1,
+        "人力资本": 1,
+        "人力资本结构": 1,
         "企业ESG": 1,
         "企业ESG表现": 2,
         "企业ESG评级": 1,
         "企业价值": 4,
         "企业全要素生产率": 2,
+        "企业创新": 8,
         "企业声誉": 1,
+        "企业多元化经营": 1,
+        "企业异质性": 1,
         "企业性质": 1,
         "企业感知": 1,
-        "企业投资": 3,
         "企业效率": 1,
+        "企业数字化": 2,
+        "企业数字化转型": 2,
         "企业社会责任": 4,
         "企业绩效": 6,
+        "企业绿色创新": 2,
         "企业规模": 1,
         "企业资源配置": 1,
-        "便利收益率": 2,
+        "企业高质量发展": 1,
+        "会计稳健性": 1,
+        "供应链": 1,
         "全要素生产率": 1,
         "公司并购": 1,
         "公司战略激进度": 1,
         "公司治理": 2,
         "公司治理效率": 1,
         "公司绩效": 1,
+        "内控质量": 1,
+        "内部控制": 1,
+        "创业经历": 1,
+        "创新能力": 1,
+        "制造业": 1,
+        "制造业企业": 2,
+        "劳动力流动": 1,
+        "劳动力调整成本": 1,
+        "劳动力需求": 1,
+        "劳动参与率": 1,
+        "协同发展": 1,
+        "可持续发展": 4,
         "员工效率": 1,
-        "固定资产投资": 1,
-        "固定资产投资风险": 1,
-        "基金业绩": 2,
-        "基金管理": 1,
-        "基金管理公司自持比例": 1,
-        "基金绩效": 1,
+        "基础化工行业": 1,
         "声誉": 1,
-        "外资开放": 1,
-        "失能状态": 1,
-        "失能等级评估": 1,
+        "外部审计": 1,
+        "外部监督": 1,
+        "家族企业代际传承": 1,
         "并购绩效": 2,
-        "慈善捐赠": 1,
-        "投资价值": 1,
-        "投资效率": 5,
-        "投资绩效": 2,
-        "投资背景": 1,
-        "投资行为": 2,
+        "技术创新": 1,
+        "政府创新补贴": 1,
         "效率": 1,
-        "最佳研发投入": 1,
-        "机构投资者": 2,
-        "机构投资者持股": 1,
-        "环保投资": 1,
+        "数字化转型": 8,
+        "晋升激励": 1,
+        "灵活就业人员": 1,
         "环境绩效": 1,
         "盈余管理": 1,
         "盈利性": 1,
         "盈利绩效": 1,
         "盈利能⼒": 1,
         "盈利能力": 3,
-        "研发投入": 5,
-        "私募股权投资": 1,
+        "管理层激励": 1,
+        "管理层短视": 1,
+        "管理者过度自信": 1,
+        "经济增长": 1,
+        "经济高质量发展": 1,
         "经营效率": 1,
         "经营绩效": 2,
         "绩效": 1,
+        "综合创新指数": 1,
+        "绿色信贷": 4,
+        "绿色信贷政策": 1,
+        "绿色债券": 1,
+        "绿色全要素生产率": 1,
+        "绿色农业": 1,
+        "绿色创新": 4,
+        "绿色创新水平": 1,
+        "绿色创新绩效": 1,
+        "绿色技术创新": 2,
+        "绿色政策": 1,
+        "绿色转型": 1,
+        "绿色金融": 3,
+        "行业资源": 1,
         "评价指标体系": 1,
         "财务绩效": 1,
-        "量化投资": 1,
-        "非利息收入": 1,
-        "非效率投资": 1
+        "重污染企业": 2,
+        "重污染行业": 1,
+        "高质量发展": 1,
+        "高速铁路建设": 1
       }
     },
-    "6": {
-      "total": 58,
-      "keywords": {
-        "Lerner指数": 1,
-        "Shapley值": 1,
-        "人身险公司": 1,
-        "价值因子": 1,
-        "企业现金持有": 1,
-        "会计稳健性": 1,
-        "保费测算": 1,
-        "保险业": 1,
-        "保险公司": 1,
-        "保险定价": 2,
-        "保险监管": 1,
-        "保险资金持股": 1,
-        "利润指数保险": 1,
-        "商业人寿保险": 1,
-        "四川城乡居民住宅地震巨灾保险": 1,
-        "地质灾害保险": 1,
-        "地震巨灾保险": 1,
-        "定价效率": 1,
-        "定价研究": 1,
-        "寿险公司": 2,
-        "巨灾保险": 1,
-        "折溢价": 1,
-        "指数保险": 2,
-        "支付方式": 1,
-        "替代率适度水平": 1,
-        "最优再保险": 1,
-        "森林保险": 1,
-        "森林火灾保险": 1,
-        "洪水保险制度": 1,
-        "洪水保险定价": 1,
-        "现金持有": 1,
-        "租赁公司": 1,
-        "精算定价": 1,
-        "精算平衡": 1,
-        "精算气候指数": 1,
-        "缴费适度水平": 1,
-        "董事高管责任保险": 1,
-        "董监高责任险": 1,
-        "财务稳定性": 1,
-        "财政体系": 1,
-        "财政分权": 1,
-        "财政巨灾保险": 1,
-        "财政涉灾预算": 1,
-        "财险公司": 1,
-        "费率厘定": 3,
-        "长期护理保险": 3,
-        "长期护理保险定价": 1,
-        "长期护理状态界定": 1,
-        "长期护理需求": 1,
-        "防灾防损": 1,
-        "预防性现金持有": 1
-      }
-    },
-    "3": {
-      "total": 78,
+    "4": {
+      "total": 117,
       "keywords": {
         "“双碳”目标": 1,
         "“惠民保”省级保障指数": 1,
@@ -12865,7 +12968,12 @@
         "中央农业大灾基金": 1,
         "乡村振兴": 1,
         "人口老龄化": 2,
+        "人身险公司": 1,
         "企业年金": 1,
+        "保险业": 1,
+        "保险公司": 1,
+        "保险定价": 2,
+        "保险监管": 1,
         "健康": 2,
         "共同富裕": 1,
         "养老保险": 2,
@@ -12889,9 +12997,13 @@
         "农药使用量": 1,
         "农险发展水平": 1,
         "减排": 1,
-        "减贫效应": 1,
+        "利润指数保险": 1,
         "医疗保险": 1,
+        "商业人寿保险": 1,
         "商业养老保险": 1,
+        "四川城乡居民住宅地震巨灾保险": 1,
+        "地质灾害保险": 1,
+        "地震巨灾保险": 1,
         "城乡居民医疗保险整合": 1,
         "城乡居民基本养老保险": 2,
         "城乡居民基本医疗保险": 1,
@@ -12900,10 +13012,22 @@
         "城镇职工基本养老保险": 2,
         "基本养老保险": 1,
         "基本医疗保险": 2,
+        "失能状态": 1,
+        "失能等级评估": 1,
+        "寿险公司": 2,
+        "巨灾保险": 1,
+        "慈善捐赠": 1,
+        "指数保险": 2,
+        "损失评估": 2,
         "收入保险": 1,
         "收入再分配": 1,
         "普惠保险": 1,
+        "最优再保险": 1,
+        "森林保险": 1,
         "森林固碳": 1,
+        "森林火灾保险": 1,
+        "洪水保险制度": 1,
+        "洪水保险定价": 1,
         "涉农贷款": 1,
         "相对贫困": 1,
         "碳排放强度": 1,
@@ -12911,72 +13035,31 @@
         "碳排放权交易试点市场": 1,
         "碳排放权价格": 1,
         "社会养老保险": 1,
+        "租赁公司": 1,
         "第三⽅⽀付": 1,
         "粮食安全": 1,
         "耕地保护": 1,
+        "董事高管责任保险": 1,
+        "董监高责任险": 1,
         "虚弱": 1,
         "虚弱指数": 1,
+        "西藏": 1,
+        "财政巨灾保险": 1,
+        "财政涉灾预算": 1,
+        "财险公司": 1,
         "贫困脆弱性": 1,
         "贫富差距": 1,
         "退休冲击": 1,
-        "长期贫困": 1
-      }
-    },
-    "7": {
-      "total": 80,
-      "keywords": {
-        "“漂绿”": 1,
-        "一带一路": 1,
-        "中小企业": 1,
-        "中小企业创新": 1,
-        "产业结构优化": 1,
-        "产业结构升级": 1,
-        "企业创新": 8,
-        "企业数字化": 2,
-        "企业数字化转型": 2,
-        "企业绿色创新": 2,
-        "企业高质量发展": 1,
-        "供应链": 1,
-        "创业经历": 1,
-        "创新能力": 1,
-        "制造业": 1,
-        "制造业企业": 2,
-        "区域经济": 2,
-        "协同发展": 1,
-        "可持续发展": 4,
-        "基础化工行业": 1,
-        "小微企业贷款": 1,
-        "技术创新": 1,
-        "技术断供": 1,
-        "政府创新补贴": 1,
-        "数字人民币": 1,
-        "数字化转型": 8,
-        "江淮城市群": 1,
-        "经济增长": 1,
-        "经济高质量发展": 1,
-        "综合创新指数": 1,
-        "绿色信贷": 4,
-        "绿色信贷政策": 1,
-        "绿色债券": 1,
-        "绿色全要素生产率": 1,
-        "绿色农业": 1,
-        "绿色创新": 4,
-        "绿色创新水平": 1,
-        "绿色创新绩效": 1,
-        "绿色技术创新": 2,
-        "绿色政策": 1,
-        "绿色转型": 1,
-        "绿色金融": 3,
-        "行业资源": 1,
-        "资源错配": 1,
-        "重污染企业": 2,
-        "重污染行业": 1,
-        "高质量发展": 1,
-        "高速铁路建设": 1
+        "长期护理保险": 3,
+        "长期护理保险定价": 1,
+        "长期护理状态界定": 1,
+        "长期护理需求": 1,
+        "长期贫困": 1,
+        "防灾防损": 1
       }
     },
     "5": {
-      "total": 89,
+      "total": 81,
       "keywords": {
         "不确定性": 1,
         "中央银行": 1,
@@ -12987,36 +13070,31 @@
         "信用风险": 3,
         "信用风险传染": 1,
         "信用风险溢出": 1,
-        "信贷约束": 1,
-        "信贷配置": 1,
         "信贷风险": 1,
         "债券违约风险": 1,
         "商业信用": 1,
         "商业银⾏": 1,
         "商业银行": 9,
         "商业银行信贷": 1,
+        "在险价值": 1,
         "地震危险性": 1,
         "天气指数": 1,
-        "担保品框架": 1,
         "操作风险": 1,
         "政策不确定性": 1,
+        "新冠疫情": 1,
         "气候变化": 1,
         "气候变化风险": 1,
         "气候转型风险": 1,
         "气候风险": 2,
         "气象灾害": 1,
-        "流动性分层": 1,
-        "流动性囤积": 2,
         "流动性风险": 1,
         "灾害风险": 1,
         "环境不确定性": 1,
-        "监管措施分类": 1,
+        "精算气候指数": 1,
         "系统重要性银行": 1,
-        "经济政策不确定性": 3,
         "经营不确定性": 1,
         "经营风险": 1,
         "贷款风险": 1,
-        "超额储蓄供给": 1,
         "违约距离、违约概率、公司投资效率、行业效应": 1,
         "违约风险": 2,
         "银保混业": 1,
@@ -13042,122 +13120,14 @@
         "风险状况": 1,
         "风险管理": 3
       }
-    },
-    "8": {
-      "total": 50,
-      "keywords": {
-        "中介效应": 7,
-        "代理成本": 1,
-        "代理问题": 4,
-        "内控质量": 1,
-        "内部控制": 1,
-        "减量效应": 1,
-        "反制裁": 1,
-        "合成控制法": 2,
-        "域内溢出效应": 1,
-        "外部审计": 1,
-        "外部监督": 1,
-        "官员特征": 1,
-        "实证研究": 1,
-        "影响探究": 1,
-        "影响机制": 3,
-        "技术效应": 1,
-        "挤出效应": 1,
-        "政策效果": 1,
-        "效力分析": 1,
-        "晋升激励": 1,
-        "标签效应": 1,
-        "波动溢出效应": 1,
-        "溢出效应": 1,
-        "空间溢出效应": 1,
-        "管理层激励": 1,
-        "管理层短视": 1,
-        "管理者过度自信": 1,
-        "结构效应": 1,
-        "缓解效应": 1,
-        "网络溢出": 1,
-        "羊群行为": 1,
-        "西藏": 1,
-        "规模效应": 1,
-        "调节效应": 1,
-        "过度自信": 1,
-        "门槛效应": 2,
-        "阻碍效应": 1
-      }
-    },
-    "9": {
-      "total": 31,
-      "keywords": {
-        "中国大类资产配置": 1,
-        "动态资产配置": 1,
-        "安全资产": 2,
-        "家庭代际经济": 1,
-        "家庭保险需求": 1,
-        "家庭债务负担": 1,
-        "家庭养老": 1,
-        "家庭实际生育数量": 1,
-        "家庭教育支出": 1,
-        "家庭消费": 1,
-        "家庭生育": 1,
-        "家庭生育意愿": 1,
-        "家庭负债": 1,
-        "家庭金融": 2,
-        "家庭金融资产配置": 1,
-        "家族企业代际传承": 1,
-        "无形资产强度": 1,
-        "流动性资产配置": 1,
-        "消费需求": 1,
-        "生育决策": 1,
-        "资产证券化": 1,
-        "资产负债管理": 1,
-        "资产选择": 1,
-        "资产配置": 1,
-        "赡养负担": 1,
-        "金融资产减值": 1,
-        "金融资产配置效率": 1,
-        "隔代照料": 1,
-        "风险金融资产配置": 1
-      }
-    },
-    "10": {
-      "total": 26,
-      "keywords": {
-        "人民币国际化": 1,
-        "人民币汇率": 1,
-        "价格型货币政策": 1,
-        "利率市场化": 2,
-        "利率走廊": 1,
-        "宏观杠杆率": 1,
-        "实际汇率低估": 1,
-        "市场流动性": 1,
-        "房价变化冲击": 1,
-        "汇率传递": 1,
-        "汇率渠道": 1,
-        "海外宏观经济要素": 1,
-        "结构性货币政策": 1,
-        "结构性货币政策有效性": 1,
-        "货币市场": 1,
-        "货币政策": 4,
-        "货币政策传导": 1,
-        "货币政策松紧程度": 1,
-        "贸易渠道": 1,
-        "进口价格": 1,
-        "进口受限": 1,
-        "预期利率冲击": 1
-      }
     }
   },
   "cluster_labels": {
-    "0": "金融计量模型研究",
-    "1": "市场信息透明度研究",
-    "4": "数字金融与企业融资",
-    "2": "企业社会责任与绩效",
-    "6": "长期护理保险研究",
-    "3": "养老保险与健康保障",
-    "7": "企业绿色创新与转型",
-    "5": "银行风险管理研究",
-    "8": "代理问题与内控机制",
-    "9": "家庭金融行为研究",
-    "10": "货币政策与市场流动性"
+    "0": "区域经济影响分析",
+    "1": "投资效率与政策研究",
+    "2": "数字金融与企业融资",
+    "3": "企业可持续发展研究",
+    "4": "老龄化与保险研究",
+    "5": "银行风险管理研究"
   }
 }

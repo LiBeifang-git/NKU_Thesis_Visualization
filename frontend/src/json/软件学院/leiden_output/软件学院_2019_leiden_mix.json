@@ -9,73 +9,73 @@
     {
       "id": 1,
       "label": "AIML",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 2,
       "label": "API",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 3,
       "label": "ASP.NET",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 4,
       "label": "ASP.Net",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 5,
       "label": "B/S",
-      "group": 0,
+      "group": 3,
       "size": 2
     },
     {
       "id": 6,
       "label": "B2B电子商务",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 7,
       "label": "B2C商务",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 8,
       "label": "C/S",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 9,
       "label": "CRISP-DM",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 10,
       "label": "IPFS",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 11,
       "label": "JavaScript",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 12,
       "label": "MYSQL",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
@@ -87,37 +87,37 @@
     {
       "id": 14,
       "label": "MyBatis",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 15,
       "label": "Neo4j",
-      "group": 4,
+      "group": 3,
       "size": 2
     },
     {
       "id": 16,
       "label": "Oracle",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 17,
       "label": "ReactNative",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 18,
       "label": "SQLServer",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 19,
       "label": "SQLServer2008数据库",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
@@ -129,7 +129,7 @@
     {
       "id": 21,
       "label": "SpringMVC",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
@@ -141,31 +141,31 @@
     {
       "id": 23,
       "label": "UNet",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 24,
       "label": "VGGNet",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 25,
       "label": "VirtualBox的",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 26,
       "label": "WebRTC",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 27,
       "label": "Web搜索引擎",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
@@ -177,103 +177,103 @@
     {
       "id": 29,
       "label": "中小企业",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 30,
       "label": "中心化",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 31,
       "label": "乌干达警察",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 32,
       "label": "云技术",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 33,
       "label": "云计算I",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 34,
       "label": "产品分销",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 35,
       "label": "人机交互",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 36,
       "label": "以天坊",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 37,
       "label": "任务分配",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 38,
       "label": "信息聚合算法",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 39,
       "label": "信用管理",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 40,
       "label": "信用背书",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 41,
       "label": "公共服务",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 42,
       "label": "公共财政",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 43,
       "label": "养老管理平台",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 44,
       "label": "内在的",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 45,
       "label": "决策树J48",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
@@ -285,13 +285,13 @@
     {
       "id": 47,
       "label": "分布式账本",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 48,
       "label": "刑警组织",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -303,13 +303,13 @@
     {
       "id": 50,
       "label": "动机",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 51,
       "label": "区块链",
-      "group": 6,
+      "group": 1,
       "size": 4
     },
     {
@@ -321,49 +321,49 @@
     {
       "id": 53,
       "label": "医疗物资管理",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 54,
       "label": "协同过滤",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 55,
       "label": "协同过滤技术",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 56,
       "label": "单元测试生成",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 57,
       "label": "卫生保健数据挖掘",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 58,
       "label": "卷积神经网络",
-      "group": 3,
+      "group": 0,
       "size": 3
     },
     {
       "id": 59,
       "label": "可视化",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 60,
       "label": "可视化系统",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -375,19 +375,19 @@
     {
       "id": 62,
       "label": "商业智能",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 63,
       "label": "回归模型",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 64,
       "label": "国际船舶进出口申报管理",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -411,25 +411,25 @@
     {
       "id": 68,
       "label": "在线学习",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 69,
       "label": "在线系统",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 70,
       "label": "埃塞俄比亚农业",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 71,
       "label": "基于互联网的电子商务平台",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -441,31 +441,31 @@
     {
       "id": 73,
       "label": "基于项目的协同过滤技术",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 74,
       "label": "复制动力学",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 75,
       "label": "复杂网络",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 76,
       "label": "多层感知器",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 77,
       "label": "多机器人协作",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -477,13 +477,13 @@
     {
       "id": 79,
       "label": "安全",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 80,
       "label": "完全卷积网络",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
@@ -495,91 +495,91 @@
     {
       "id": 82,
       "label": "就业管理",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 83,
       "label": "工资管理",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 84,
       "label": "座位计划",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 85,
       "label": "开放预算",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 86,
       "label": "开源软件开发",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 87,
       "label": "异常检测",
-      "group": 1,
+      "group": 0,
       "size": 2
     },
     {
       "id": 88,
       "label": "影响",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 89,
       "label": "怀孕",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 90,
       "label": "恶意交易",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 91,
       "label": "挖掘操作模型",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 92,
       "label": "捐献者",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 93,
       "label": "控制系统",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 94,
       "label": "推荐系统",
-      "group": 7,
+      "group": 0,
       "size": 3
     },
     {
       "id": 95,
       "label": "教师表现",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 96,
       "label": "教师认证",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -591,91 +591,91 @@
     {
       "id": 98,
       "label": "数据中心网络",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 99,
       "label": "数据仓库",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 100,
       "label": "数据库",
-      "group": 4,
+      "group": 3,
       "size": 3
     },
     {
       "id": 101,
       "label": "数据挖掘",
-      "group": 3,
+      "group": 0,
       "size": 2
     },
     {
       "id": 102,
       "label": "日志挖掘",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 103,
       "label": "日志解析",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 104,
       "label": "时序预测",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 105,
       "label": "智能合约",
-      "group": 6,
+      "group": 1,
       "size": 2
     },
     {
       "id": 106,
       "label": "智能家居",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 107,
       "label": "服务链",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 108,
       "label": "朴素贝叶斯",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 109,
       "label": "朴素贝叶斯和KNN",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 110,
       "label": "机器人操作系统",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 111,
       "label": "机器学习",
-      "group": 3,
+      "group": 0,
       "size": 4
     },
     {
       "id": 112,
       "label": "标签分布学习",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
@@ -687,13 +687,13 @@
     {
       "id": 114,
       "label": "模型视图控制器(MVC)",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 115,
       "label": "比特币",
-      "group": 6,
+      "group": 2,
       "size": 1
     },
     {
@@ -705,37 +705,37 @@
     {
       "id": 117,
       "label": "流量工程",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 118,
       "label": "测试准则",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 119,
       "label": "测试套件",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 120,
       "label": "测试选择",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 121,
       "label": "深度学习",
-      "group": 3,
+      "group": 0,
       "size": 3
     },
     {
       "id": 122,
       "label": "滚动制导滤波",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
@@ -747,37 +747,37 @@
     {
       "id": 124,
       "label": "物流",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 125,
       "label": "物联网（IOT）",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 126,
       "label": "用户项目评分矩阵",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 127,
       "label": "电子市场",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 128,
       "label": "电子政务",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 129,
       "label": "电子物流",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -795,7 +795,7 @@
     {
       "id": 132,
       "label": "知识图谱",
-      "group": 4,
+      "group": 0,
       "size": 2
     },
     {
@@ -813,13 +813,13 @@
     {
       "id": 135,
       "label": "社区",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 136,
       "label": "移动应用",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
@@ -837,25 +837,25 @@
     {
       "id": 139,
       "label": "系统日志",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 140,
       "label": "系统设计",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 141,
       "label": "结构化分析方法",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 142,
       "label": "统一计算设备架构",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -867,49 +867,49 @@
     {
       "id": 144,
       "label": "网络故障排除",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 145,
       "label": "网络设备异常",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 146,
       "label": "自主身份管理",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 147,
       "label": "自动问答",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 148,
       "label": "虚拟助手",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 149,
       "label": "虚拟机",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 150,
       "label": "虚拟机管理程序",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 151,
       "label": "血液银行",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
@@ -921,43 +921,43 @@
     {
       "id": 153,
       "label": "视觉机器控制器",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 154,
       "label": "计算机节点",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 155,
       "label": "设备日志",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 156,
       "label": "语音识别",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 157,
       "label": "负载均衡",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 158,
       "label": "超级账本",
-      "group": 6,
+      "group": 1,
       "size": 1
     },
     {
       "id": 159,
       "label": "跨境管理",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -969,37 +969,37 @@
     {
       "id": 161,
       "label": "软件定义网络",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 162,
       "label": "迁移学习",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 163,
       "label": "运动目标捕获",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 164,
       "label": "进化博弈论",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 165,
       "label": "远程API",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 166,
       "label": "重复树",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
@@ -1011,25 +1011,25 @@
     {
       "id": 168,
       "label": "门票",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 169,
       "label": "随机森林",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 170,
       "label": "集成",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 171,
       "label": "雇员",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
@@ -1047,19 +1047,19 @@
     {
       "id": 174,
       "label": "预订",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 175,
       "label": "马达加斯加领事和外交服务",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 176,
       "label": "高职",
-      "group": 0,
+      "group": 1,
       "size": 1
     }
   ],
@@ -3665,68 +3665,9 @@
   ],
   "cluster_stats": {
     "1": {
-      "total": 30,
+      "total": 60,
       "keywords": {
         "(3-5个)财务系统": 1,
-        "人机交互": 1,
-        "分布式系统": 1,
-        "单元测试生成": 1,
-        "可视化": 1,
-        "可视化系统": 1,
-        "在线系统": 1,
-        "多机器人协作": 1,
-        "开源软件开发": 1,
-        "异常检测": 2,
-        "控制系统": 1,
-        "日志挖掘": 1,
-        "日志解析": 1,
-        "机器人操作系统": 1,
-        "模型视图控制器(MVC)": 1,
-        "测试准则": 1,
-        "测试套件": 1,
-        "测试选择": 1,
-        "管理信息系统": 1,
-        "系统日志": 1,
-        "系统设计": 1,
-        "结构化分析方法": 1,
-        "统一计算设备架构": 1,
-        "自动问答": 1,
-        "视觉机器控制器": 1,
-        "设备日志": 1,
-        "语音识别": 1,
-        "运动目标捕获": 1,
-        "集成": 1
-      }
-    },
-    "4": {
-      "total": 24,
-      "keywords": {
-        "AIML": 1,
-        "API": 1,
-        "ASP.NET": 1,
-        "ASP.Net": 1,
-        "C/S": 1,
-        "IPFS": 1,
-        "JavaScript": 1,
-        "MYSQL": 1,
-        "MyBatis": 1,
-        "Neo4j": 2,
-        "Oracle": 1,
-        "ReactNative": 1,
-        "SQLServer": 1,
-        "SQLServer2008数据库": 1,
-        "SpringMVC": 1,
-        "UNet": 1,
-        "WebRTC": 1,
-        "数据仓库": 1,
-        "数据库": 3,
-        "知识图谱": 2
-      }
-    },
-    "0": {
-      "total": 50,
-      "keywords": {
-        "B/S": 2,
         "B2B电子商务": 1,
         "B2C商务": 1,
         "中小企业": 1,
@@ -3736,12 +3677,16 @@
         "以天坊": 1,
         "任务分配": 1,
         "信用管理": 1,
+        "信用背书": 1,
         "公共服务": 1,
         "公共财政": 1,
         "养老管理平台": 1,
         "内在的": 1,
+        "分布式系统": 1,
+        "分布式账本": 1,
         "刑警组织": 1,
         "动机": 1,
+        "区块链": 4,
         "医疗物资管理": 1,
         "商业智能": 1,
         "国际船舶进出口申报管理": 1,
@@ -3756,8 +3701,10 @@
         "影响": 1,
         "怀孕": 1,
         "恶意交易": 1,
+        "捐献者": 1,
         "教师表现": 1,
         "教师认证": 1,
+        "智能合约": 2,
         "服务链": 1,
         "流量工程": 1,
         "物流": 1,
@@ -3765,11 +3712,12 @@
         "电子政务": 1,
         "电子物流": 1,
         "社区": 1,
-        "编队控制": 1,
+        "管理信息系统": 1,
         "自主身份管理": 1,
+        "血液银行": 1,
         "负载均衡": 1,
+        "超级账本": 1,
         "跨境管理": 1,
-        "路径规划": 1,
         "门票": 1,
         "雇员": 1,
         "预订": 1,
@@ -3778,34 +3726,112 @@
       }
     },
     "3": {
-      "total": 30,
+      "total": 24,
+      "keywords": {
+        "AIML": 1,
+        "API": 1,
+        "ASP.NET": 1,
+        "ASP.Net": 1,
+        "B/S": 2,
+        "C/S": 1,
+        "IPFS": 1,
+        "JavaScript": 1,
+        "MYSQL": 1,
+        "MyBatis": 1,
+        "Neo4j": 2,
+        "Oracle": 1,
+        "ReactNative": 1,
+        "SQLServer": 1,
+        "SQLServer2008数据库": 1,
+        "SpringMVC": 1,
+        "StanfordCoreNLP": 1,
+        "UNet": 1,
+        "WebRTC": 1,
+        "数据库": 3
+      }
+    },
+    "0": {
+      "total": 87,
       "keywords": {
         "CRISP-DM": 1,
-        "StanfordCoreNLP": 1,
         "VGGNet": 1,
+        "VirtualBox的": 1,
+        "Web搜索引擎": 1,
+        "云技术": 1,
+        "云计算I": 1,
+        "人机交互": 1,
+        "信息聚合算法": 1,
         "决策树J48": 1,
+        "协同过滤": 1,
+        "协同过滤技术": 1,
+        "单元测试生成": 1,
         "卫生保健数据挖掘": 1,
         "卷积神经网络": 3,
+        "可视化": 1,
+        "可视化系统": 1,
         "回归模型": 1,
         "在线学习": 1,
+        "在线系统": 1,
+        "基于项目的协同过滤技术": 1,
+        "复杂网络": 1,
         "多层感知器": 1,
+        "多机器人协作": 1,
         "完全卷积网络": 1,
+        "开源软件开发": 1,
+        "异常检测": 2,
         "挖掘操作模型": 1,
+        "控制系统": 1,
+        "推荐系统": 3,
+        "数据中心网络": 1,
+        "数据仓库": 1,
         "数据挖掘": 2,
+        "日志挖掘": 1,
+        "日志解析": 1,
         "时序预测": 1,
+        "智能家居": 1,
         "朴素贝叶斯": 1,
         "朴素贝叶斯和KNN": 1,
+        "机器人操作系统": 1,
         "机器学习": 4,
         "标签分布学习": 1,
+        "模型视图控制器(MVC)": 1,
+        "测试准则": 1,
+        "测试套件": 1,
+        "测试选择": 1,
         "深度学习": 3,
+        "滚动制导滤波": 1,
+        "物联网（IOT）": 1,
+        "用户项目评分矩阵": 1,
+        "知识图谱": 2,
+        "移动应用": 1,
+        "系统日志": 1,
+        "系统设计": 1,
+        "结构化分析方法": 1,
+        "统一计算设备架构": 1,
+        "编队控制": 1,
+        "网络故障排除": 1,
+        "网络设备异常": 1,
+        "自动问答": 1,
+        "虚拟助手": 1,
+        "虚拟机": 1,
+        "虚拟机管理程序": 1,
+        "视觉机器控制器": 1,
+        "计算机节点": 1,
+        "设备日志": 1,
+        "语音识别": 1,
+        "路径规划": 1,
+        "软件定义网络": 1,
         "迁移学习": 1,
+        "运动目标捕获": 1,
         "进化博弈论": 1,
+        "远程API": 1,
         "重复树": 1,
-        "随机森林": 1
+        "随机森林": 1,
+        "集成": 1
       }
     },
     "2": {
-      "total": 25,
+      "total": 26,
       "keywords": {
         "McEliece加密系统": 1,
         "SeamCarving": 1,
@@ -3821,6 +3847,7 @@
         "对抗量子密码学": 1,
         "数字签名": 1,
         "椭圆曲线算法": 1,
+        "比特币": 1,
         "水印": 1,
         "灰分值": 1,
         "皮肤癌": 1,
@@ -3833,63 +3860,12 @@
         "零知识证明": 1,
         "露点温度": 1
       }
-    },
-    "5": {
-      "total": 16,
-      "keywords": {
-        "VirtualBox的": 1,
-        "云技术": 1,
-        "云计算I": 1,
-        "复杂网络": 1,
-        "数据中心网络": 1,
-        "智能家居": 1,
-        "物联网（IOT）": 1,
-        "移动应用": 1,
-        "网络故障排除": 1,
-        "网络设备异常": 1,
-        "虚拟助手": 1,
-        "虚拟机": 1,
-        "虚拟机管理程序": 1,
-        "计算机节点": 1,
-        "软件定义网络": 1,
-        "远程API": 1
-      }
-    },
-    "7": {
-      "total": 10,
-      "keywords": {
-        "Web搜索引擎": 1,
-        "信息聚合算法": 1,
-        "协同过滤": 1,
-        "协同过滤技术": 1,
-        "基于项目的协同过滤技术": 1,
-        "推荐系统": 3,
-        "滚动制导滤波": 1,
-        "用户项目评分矩阵": 1
-      }
-    },
-    "6": {
-      "total": 12,
-      "keywords": {
-        "信用背书": 1,
-        "分布式账本": 1,
-        "区块链": 4,
-        "捐献者": 1,
-        "智能合约": 2,
-        "比特币": 1,
-        "血液银行": 1,
-        "超级账本": 1
-      }
     }
   },
   "cluster_labels": {
-    "0": "电子商务与信用管理",
-    "1": "异常检测与人机交互",
-    "2": "医学图像处理与加密",
-    "3": "机器学习与数据挖掘",
-    "4": "知识图谱与数据库技术",
-    "5": "云计算与物联网",
-    "6": "区块链技术与智能合约",
-    "7": "推荐系统与信息检索"
+    "0": "机器学习与深度学习",
+    "1": "区块链技术应用",
+    "2": "医学图像处理",
+    "3": "数据库与API技术"
   }
 }

@@ -3,19 +3,19 @@
     {
       "id": 0,
       "label": "“东林党议”",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 1,
       "label": "“大一统”观念",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 2,
       "label": "“死六臣”",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
@@ -27,427 +27,427 @@
     {
       "id": 4,
       "label": "“陶刘案”",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 5,
       "label": "《为狱等状四种》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 6,
       "label": "《八旗通志初集》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 7,
       "label": "《品花宝鉴》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 8,
       "label": "《奏谳书》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 9,
       "label": "《庄陵志（史补）》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 10,
       "label": "《庄陵配食录》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 11,
       "label": "《忠义传》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 12,
       "label": "《敌产处理条例》",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 13,
       "label": "《明史》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 14,
       "label": "《明史》编纂",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 15,
       "label": "《梨俱吠陀》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 16,
       "label": "《留美学生月报》",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 17,
       "label": "《皇华集》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 18,
       "label": "《萨凡奇计划》",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 19,
       "label": "《钦定保民四事全书》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 20,
       "label": "《钦定八旗通志》",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 21,
       "label": "一神教",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 22,
       "label": "万国工业博览会",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 23,
       "label": "三星堆文化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 24,
       "label": "东林党",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 25,
       "label": "丝绸之路",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 26,
       "label": "丧葬习俗",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 27,
       "label": "丧葬礼俗",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 28,
       "label": "中国使臣",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 29,
       "label": "中外交流",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 30,
       "label": "中朝关系",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 31,
       "label": "中美技术合作",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 32,
       "label": "乌克兰",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 33,
       "label": "书院",
-      "group": 6,
+      "group": 3,
       "size": 1
     },
     {
       "id": 34,
       "label": "五刑",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 35,
       "label": "亲属相犯",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 36,
       "label": "亲希腊主义",
-      "group": 0,
+      "group": 1,
       "size": 1
     },
     {
       "id": 37,
       "label": "人群社会",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 38,
       "label": "伊丽莎白·休斯",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 39,
       "label": "佛寺",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 40,
       "label": "佛教",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 41,
       "label": "佛教因素",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 42,
       "label": "使用制度",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 43,
       "label": "俄罗斯化",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 44,
       "label": "俄罗斯帝国",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 45,
       "label": "修城运动",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 46,
       "label": "修练储备",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 47,
       "label": "儿童",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 48,
       "label": "元代",
-      "group": 8,
+      "group": 4,
       "size": 3
     },
     {
       "id": 49,
       "label": "公共工程",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 50,
       "label": "公共空间",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 51,
       "label": "关键词：南卡罗来纳",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 52,
       "label": "军费",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 53,
       "label": "冲突",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 54,
       "label": "凯尔特人",
-      "group": 7,
+      "group": 2,
       "size": 1
     },
     {
       "id": 55,
       "label": "出洋",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 56,
       "label": "分期",
-      "group": 2,
+      "group": 0,
       "size": 2
     },
     {
       "id": 57,
       "label": "切罗基人",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 58,
       "label": "加拉太人",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 59,
       "label": "动物形象",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 60,
       "label": "劳工",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 61,
       "label": "劳工行政",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 62,
       "label": "劳资争议",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 63,
       "label": "北京梨园文化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 64,
       "label": "北马尼托巴低地",
-      "group": 3,
+      "group": 2,
       "size": 1
     },
     {
       "id": 65,
       "label": "区块链",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 66,
       "label": "区域史",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 67,
       "label": "医学化",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 68,
       "label": "医疗保健",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 69,
       "label": "半坡文化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 70,
       "label": "协饷制度",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 71,
       "label": "南宋",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 72,
       "label": "博物馆",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 73,
       "label": "博物馆严肃游戏",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 74,
       "label": "印白交往",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
@@ -459,139 +459,139 @@
     {
       "id": 76,
       "label": "原住民",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 77,
       "label": "原则机变",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 78,
       "label": "参观体验",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 79,
       "label": "变迁",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 80,
       "label": "叙事",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 81,
       "label": "古代晚期",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 82,
       "label": "古建筑",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 83,
       "label": "古环境",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 84,
       "label": "古籍保护",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 85,
       "label": "古蜀文化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 86,
       "label": "叶燮",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 87,
       "label": "司法档案",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 88,
       "label": "启蒙报刊",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 89,
       "label": "周礼",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 90,
       "label": "唐代",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 91,
       "label": "唐宋时期",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 92,
       "label": "唐至元代",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 93,
       "label": "商人自卫",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 94,
       "label": "商周",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 95,
       "label": "商周时期",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 96,
       "label": "商周青铜器",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 97,
       "label": "因陀罗",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 98,
       "label": "国共内战",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
@@ -609,115 +609,115 @@
     {
       "id": 101,
       "label": "国统区",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 102,
       "label": "地域社会",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 103,
       "label": "地方文化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 104,
       "label": "地方治安",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 105,
       "label": "地方统治",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 106,
       "label": "埃塞俄比亚",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 107,
       "label": "埋葬习俗",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 108,
       "label": "基督教女性",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 109,
       "label": "基督教民主党",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 110,
       "label": "堪萨斯领土",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 111,
       "label": "墓葬",
-      "group": 9,
+      "group": 1,
       "size": 4
     },
     {
       "id": 112,
       "label": "墓葬装饰",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 113,
       "label": "墨西哥的革命精神",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 114,
       "label": "墨西哥石油",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 115,
       "label": "墨西哥身份认同",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 116,
       "label": "墨西哥革命",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 117,
       "label": "士大夫心理",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 118,
       "label": "士绅",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 119,
       "label": "夏威夷",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
@@ -729,559 +729,559 @@
     {
       "id": 121,
       "label": "多米尼加",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 122,
       "label": "大府",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 123,
       "label": "天津商会",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 124,
       "label": "天津商团",
-      "group": 3,
+      "group": 4,
       "size": 1
     },
     {
       "id": 125,
       "label": "天津地区",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 126,
       "label": "天津社会局",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 127,
       "label": "天花接种",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 128,
       "label": "奏谳制度",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 129,
       "label": "奥托王朝",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 130,
       "label": "女同性爱",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 131,
       "label": "姚培谦",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 132,
       "label": "姜寨遗址",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 133,
       "label": "婚姻纠纷",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 134,
       "label": "婚姻自主权",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 135,
       "label": "孀妇",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 136,
       "label": "孔广栻",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 137,
       "label": "孔继涵",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 138,
       "label": "宋代",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 139,
       "label": "宋元墓葬",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 140,
       "label": "官修史书",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 141,
       "label": "家庭生活水平",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 142,
       "label": "小俄罗斯",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 143,
       "label": "屠龙神话",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 144,
       "label": "山林经济",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 145,
       "label": "山民生计",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 146,
       "label": "崇祯朝",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 147,
       "label": "川峡四路",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 148,
       "label": "州志",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 149,
       "label": "工人工资",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 150,
       "label": "工潮",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 151,
       "label": "巴美关系、9/11事件后、政策、后果、利益",
-      "group": 1,
+      "group": 2,
       "size": 1
     },
     {
       "id": 152,
       "label": "希木叶尔",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 153,
       "label": "帝国教会制度",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 154,
       "label": "干谒",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 155,
       "label": "庄士敦",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 156,
       "label": "庚款留美计划",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 157,
       "label": "异常",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 158,
       "label": "形态学",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 159,
       "label": "影响",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 160,
       "label": "德产",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 161,
       "label": "德侨",
-      "group": 7,
+      "group": 0,
       "size": 1
     },
     {
       "id": 162,
       "label": "德化窑",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 163,
       "label": "忠义观",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 164,
       "label": "性别规范",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 165,
       "label": "情感史",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 166,
       "label": "慈善",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 167,
       "label": "成因",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 168,
       "label": "战后接收",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 169,
       "label": "房地产",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 170,
       "label": "房屋",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 171,
       "label": "扎波罗热哥萨克",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 172,
       "label": "执壶",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 173,
       "label": "执法",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 174,
       "label": "扫盲",
-      "group": 6,
+      "group": 3,
       "size": 1
     },
     {
       "id": 175,
       "label": "抗日战争",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 176,
       "label": "招投标制度",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 177,
       "label": "拜占庭",
-      "group": 0,
+      "group": 4,
       "size": 1
     },
     {
       "id": 178,
       "label": "政区",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 179,
       "label": "政教关系",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 180,
       "label": "敌伪产业处理局",
-      "group": 8,
+      "group": 0,
       "size": 1
     },
     {
       "id": 181,
       "label": "教产",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 182,
       "label": "教会贵族",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 183,
       "label": "数字化藏品版权",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 184,
       "label": "数字孪生技术",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 185,
       "label": "文化中心主义",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 186,
       "label": "文化因素传播",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 187,
       "label": "文明交融",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 188,
       "label": "文本生成",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 189,
       "label": "新俄罗斯",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 190,
       "label": "新军",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 191,
       "label": "新石器时代",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 192,
       "label": "新西班牙地区",
-      "group": 3,
+      "group": 2,
       "size": 1
     },
     {
       "id": 193,
       "label": "日本",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 194,
       "label": "日本女子教育",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 195,
       "label": "日本移民",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 196,
       "label": "日裔社区",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 197,
       "label": "早期罗斯城市",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 198,
       "label": "明代",
-      "group": 8,
+      "group": 4,
       "size": 2
     },
     {
       "id": 199,
       "label": "明史学",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 200,
       "label": "春秋地理",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 201,
       "label": "晚明",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 202,
       "label": "晚清",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 203,
       "label": "晚清香港",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 204,
       "label": "智利",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 205,
       "label": "暴力手段",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 206,
       "label": "朝圣",
-      "group": 5,
+      "group": 2,
       "size": 1
     },
     {
       "id": 207,
       "label": "朝鲜世祖",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 208,
       "label": "朝鲜端宗",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 209,
       "label": "朝鲜观",
-      "group": 5,
+      "group": 4,
       "size": 1
     },
     {
       "id": 210,
       "label": "格涅兹多沃",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 211,
       "label": "棚民保甲",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 212,
       "label": "正统观",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 213,
       "label": "死亡文化史",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
@@ -1293,19 +1293,19 @@
     {
       "id": 215,
       "label": "殿堂台基",
-      "group": 5,
+      "group": 0,
       "size": 1
     },
     {
       "id": 216,
       "label": "比较分析",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 217,
       "label": "民国中后期",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
@@ -1317,253 +1317,253 @@
     {
       "id": 219,
       "label": "民间士庶",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 220,
       "label": "水利",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 221,
       "label": "汉代",
-      "group": 8,
+      "group": 4,
       "size": 2
     },
     {
       "id": 222,
       "label": "汉文化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 223,
       "label": "江西地区",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 224,
       "label": "沙眼",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 225,
       "label": "河北",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 226,
       "label": "河北平津区",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 227,
       "label": "河北省立保定高级工业职业学校",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 228,
       "label": "法制史",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 229,
       "label": "法律体系",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 230,
       "label": "波斯",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 231,
       "label": "活化利用",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 232,
       "label": "济南府",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 233,
       "label": "济宁社会",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 234,
       "label": "浮滨文化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 235,
       "label": "海运",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 236,
       "label": "涪水",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 237,
       "label": "淮河下游",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 238,
       "label": "清代",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 239,
       "label": "清初",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 240,
       "label": "清末新政",
-      "group": 8,
+      "group": 4,
       "size": 1
     },
     {
       "id": 241,
       "label": "源流",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 242,
       "label": "溥仪",
-      "group": 7,
+      "group": 4,
       "size": 1
     },
     {
       "id": 243,
       "label": "滨海地域",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 244,
       "label": "煤炭",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 245,
       "label": "燃料",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 246,
       "label": "版权保护",
-      "group": 4,
+      "group": 0,
       "size": 1
     },
     {
       "id": 247,
       "label": "牛肉",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 248,
       "label": "牛肉汁",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 249,
       "label": "物质文化交流",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 250,
       "label": "特权招标",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 251,
       "label": "特里塔",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 252,
       "label": "狎优现象",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 253,
       "label": "狐臭",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 254,
       "label": "玉琮",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 255,
       "label": "玉皇庙墓地",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 256,
       "label": "玉皇庙文化",
-      "group": 5,
+      "group": 1,
       "size": 1
     },
     {
       "id": 257,
       "label": "琥珀器物",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 258,
       "label": "瓦希商路",
-      "group": 3,
+      "group": 2,
       "size": 1
     },
     {
       "id": 259,
       "label": "瓷器",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 260,
       "label": "生业经济",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -1575,169 +1575,169 @@
     {
       "id": 262,
       "label": "生活史",
-      "group": 1,
+      "group": 3,
       "size": 2
     },
     {
       "id": 263,
       "label": "留美中国学生联合会",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 264,
       "label": "留美生",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 265,
       "label": "疾病",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 266,
       "label": "石室墓",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 267,
       "label": "石油产业监管制度",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 268,
       "label": "石油税收",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 269,
       "label": "礼制",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 270,
       "label": "社会分层",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 271,
       "label": "社会分工",
-      "group": 1,
+      "group": 0,
       "size": 2
     },
     {
       "id": 272,
       "label": "社会等级",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 273,
       "label": "祭祀坑",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 274,
       "label": "禁欲",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 275,
       "label": "福建",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 276,
       "label": "种属判定",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 277,
       "label": "种族关系",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 278,
       "label": "种植园社会",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 279,
       "label": "科里多的起源",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 280,
       "label": "稿抄本",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 281,
       "label": "粪便遗存",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 282,
       "label": "纺织业",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 283,
       "label": "统计分析",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 284,
       "label": "罗伯特·富兰克林·威廉姆斯",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 285,
       "label": "罗马",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 286,
       "label": "美国",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 287,
       "label": "美国民权运动",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 288,
       "label": "群众科学",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 289,
       "label": "职业教育",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
@@ -1749,241 +1749,241 @@
     {
       "id": 291,
       "label": "肺结核",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 292,
       "label": "脂质分析",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 293,
       "label": "臭汗症",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 294,
       "label": "舆服制度",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 295,
       "label": "良妻贤母",
-      "group": 6,
+      "group": 0,
       "size": 1
     },
     {
       "id": 296,
       "label": "艺术特征",
-      "group": 2,
+      "group": 1,
       "size": 1
     },
     {
       "id": 297,
       "label": "苏州",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 298,
       "label": "英国",
-      "group": 0,
+      "group": 2,
       "size": 2
     },
     {
       "id": 299,
       "label": "葫芦沟墓地",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 300,
       "label": "葬俗",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 301,
       "label": "葬玉",
-      "group": 9,
+      "group": 1,
       "size": 1
     },
     {
       "id": 302,
       "label": "言论罪",
-      "group": 4,
+      "group": 3,
       "size": 1
     },
     {
       "id": 303,
       "label": "识字",
-      "group": 6,
+      "group": 3,
       "size": 1
     },
     {
       "id": 304,
       "label": "貘形装饰",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 305,
       "label": "财政",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 306,
       "label": "资源委员会",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 307,
       "label": "跨国公司",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 308,
       "label": "路",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 309,
       "label": "身份转变",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 310,
       "label": "辂制",
-      "group": 2,
+      "group": 0,
       "size": 1
     },
     {
       "id": 311,
       "label": "近代天津",
-      "group": 3,
+      "group": 4,
       "size": 2
     },
     {
       "id": 312,
       "label": "速成识字法",
-      "group": 6,
+      "group": 3,
       "size": 1
     },
     {
       "id": 313,
       "label": "郡尉",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 314,
       "label": "郡级政区",
-      "group": 1,
+      "group": 0,
       "size": 1
     },
     {
       "id": 315,
       "label": "采铜技术",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 316,
       "label": "铜矿遗址",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 317,
       "label": "长江三峡开发",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 318,
       "label": "闽东山区",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 319,
       "label": "闽南地区",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 320,
       "label": "阐释",
-      "group": 2,
+      "group": 3,
       "size": 1
     },
     {
       "id": 321,
       "label": "阿尔萨特（JoséAntoniodeAlzateyRamírez）",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 322,
       "label": "阿拉伯南部",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 323,
       "label": "阿连德政府",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 324,
       "label": "陈言",
-      "group": 7,
+      "group": 3,
       "size": 1
     },
     {
       "id": 325,
       "label": "陕西四川",
-      "group": 3,
+      "group": 0,
       "size": 1
     },
     {
       "id": 326,
       "label": "陶瓷俑",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 327,
       "label": "陶礼器",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 328,
       "label": "青花瓷",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 329,
       "label": "青铜器",
-      "group": 7,
+      "group": 1,
       "size": 1
     },
     {
       "id": 330,
       "label": "革命科里多",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
@@ -1995,19 +1995,19 @@
     {
       "id": 332,
       "label": "食牛西俗",
-      "group": 3,
+      "group": 2,
       "size": 1
     },
     {
       "id": 333,
       "label": "马萨利亚",
-      "group": 0,
+      "group": 2,
       "size": 1
     },
     {
       "id": 334,
       "label": "高卢",
-      "group": 0,
+      "group": 2,
       "size": 1
     }
   ],
@@ -5788,13 +5788,12 @@
     "刘毅"
   ],
   "cluster_stats": {
-    "4": {
-      "total": 34,
+    "3": {
+      "total": 44,
       "keywords": {
         "“东林党议”": 1,
         "“大一统”观念": 1,
         "“死六臣”": 1,
-        "“癸酉靖难”": 1,
         "“陶刘案”": 1,
         "《为狱等状四种》": 1,
         "《八旗通志初集》": 1,
@@ -5810,66 +5809,227 @@
         "《钦定保民四事全书》": 1,
         "《钦定八旗通志》": 1,
         "东林党": 1,
+        "书院": 1,
         "五刑": 1,
-        "区块链": 1,
+        "叙事": 1,
         "古籍保护": 1,
+        "叶燮": 1,
         "司法档案": 1,
+        "姚培谦": 1,
+        "孔广栻": 1,
+        "孔继涵": 1,
         "官修史书": 1,
         "忠义观": 1,
+        "情感史": 1,
+        "扫盲": 1,
         "数字化藏品版权": 1,
-        "数字孪生技术": 1,
         "明史学": 1,
         "春秋地理": 1,
         "正统观": 1,
         "法制史": 1,
-        "版权保护": 1,
+        "生活史": 2,
         "稿抄本": 1,
-        "言论罪": 1
+        "言论罪": 1,
+        "识字": 1,
+        "速成识字法": 1,
+        "阐释": 1,
+        "陈言": 1
       }
     },
-    "8": {
-      "total": 27,
+    "4": {
+      "total": 38,
       "keywords": {
-        "《敌产处理条例》": 1,
+        "“癸酉靖难”": 1,
+        "丝绸之路": 1,
+        "中国使臣": 1,
+        "中朝关系": 1,
         "元代": 3,
         "南宋": 1,
         "古代晚期": 1,
         "唐代": 1,
         "唐宋时期": 1,
         "唐至元代": 1,
+        "商人自卫": 1,
         "商周时期": 1,
         "国共内战": 1,
+        "天津商会": 1,
+        "天津商团": 1,
         "宋代": 1,
         "崇祯朝": 1,
-        "战后接收": 1,
         "抗日战争": 1,
-        "敌伪产业处理局": 1,
+        "拜占庭": 1,
         "明代": 2,
         "晚明": 1,
         "晚清": 1,
         "晚清香港": 1,
+        "朝鲜世祖": 1,
+        "朝鲜端宗": 1,
+        "朝鲜观": 1,
         "民国中后期": 1,
         "汉代": 2,
         "清代": 1,
         "清初": 1,
-        "清末新政": 1
+        "清末新政": 1,
+        "溥仪": 1,
+        "近代天津": 2
       }
     },
     "0": {
-      "total": 55,
+      "total": 136,
+      "keywords": {
+        "《敌产处理条例》": 1,
+        "万国工业博览会": 1,
+        "亲属相犯": 1,
+        "人群社会": 1,
+        "使用制度": 1,
+        "修练储备": 1,
+        "儿童": 1,
+        "公共工程": 1,
+        "公共空间": 1,
+        "军费": 1,
+        "冲突": 1,
+        "出洋": 1,
+        "分期": 2,
+        "劳工": 1,
+        "劳工行政": 1,
+        "劳资争议": 1,
+        "区块链": 1,
+        "区域史": 1,
+        "医学化": 1,
+        "医疗保健": 1,
+        "协饷制度": 1,
+        "印白交往": 1,
+        "原则机变": 1,
+        "变迁": 1,
+        "周礼": 1,
+        "商周": 1,
+        "国统区": 1,
+        "地域社会": 1,
+        "地方治安": 1,
+        "地方统治": 1,
+        "基督教女性": 1,
+        "基督教民主党": 1,
+        "士大夫心理": 1,
+        "士绅": 1,
+        "大府": 1,
+        "天津地区": 1,
+        "天津社会局": 1,
+        "天花接种": 1,
+        "奏谳制度": 1,
+        "女同性爱": 1,
+        "婚姻纠纷": 1,
+        "婚姻自主权": 1,
+        "孀妇": 1,
+        "家庭生活水平": 1,
+        "山林经济": 1,
+        "山民生计": 1,
+        "川峡四路": 1,
+        "州志": 1,
+        "工人工资": 1,
+        "工潮": 1,
+        "帝国教会制度": 1,
+        "异常": 1,
+        "影响": 1,
+        "德产": 1,
+        "德侨": 1,
+        "性别规范": 1,
+        "慈善": 1,
+        "成因": 1,
+        "战后接收": 1,
+        "房地产": 1,
+        "房屋": 1,
+        "执法": 1,
+        "招投标制度": 1,
+        "政区": 1,
+        "政教关系": 1,
+        "敌伪产业处理局": 1,
+        "教产": 1,
+        "教会贵族": 1,
+        "数字孪生技术": 1,
+        "文本生成": 1,
+        "新军": 1,
+        "日本女子教育": 1,
+        "暴力手段": 1,
+        "棚民保甲": 1,
+        "殿堂台基": 1,
+        "比较分析": 1,
+        "民间士庶": 1,
+        "水利": 1,
+        "江西地区": 1,
+        "沙眼": 1,
+        "河北": 1,
+        "河北平津区": 1,
+        "河北省立保定高级工业职业学校": 1,
+        "法律体系": 1,
+        "活化利用": 1,
+        "济南府": 1,
+        "济宁社会": 1,
+        "海运": 1,
+        "涪水": 1,
+        "淮河下游": 1,
+        "源流": 1,
+        "滨海地域": 1,
+        "煤炭": 1,
+        "燃料": 1,
+        "版权保护": 1,
+        "牛肉": 1,
+        "牛肉汁": 1,
+        "特权招标": 1,
+        "狎优现象": 1,
+        "狐臭": 1,
+        "生业经济": 1,
+        "疾病": 1,
+        "石油产业监管制度": 1,
+        "石油税收": 1,
+        "礼制": 1,
+        "社会分层": 1,
+        "社会分工": 2,
+        "社会等级": 1,
+        "禁欲": 1,
+        "福建": 1,
+        "种属判定": 1,
+        "种族关系": 1,
+        "种植园社会": 1,
+        "纺织业": 1,
+        "统计分析": 1,
+        "群众科学": 1,
+        "职业教育": 1,
+        "肺结核": 1,
+        "脂质分析": 1,
+        "臭汗症": 1,
+        "舆服制度": 1,
+        "良妻贤母": 1,
+        "苏州": 1,
+        "财政": 1,
+        "资源委员会": 1,
+        "路": 1,
+        "身份转变": 1,
+        "辂制": 1,
+        "郡尉": 1,
+        "郡级政区": 1,
+        "长江三峡开发": 1,
+        "闽东山区": 1,
+        "闽南地区": 1,
+        "陕西四川": 1
+      }
+    },
+    "2": {
+      "total": 63,
       "keywords": {
         "《留美学生月报》": 1,
         "《萨凡奇计划》": 1,
         "中美技术合作": 1,
         "乌克兰": 1,
-        "亲希腊主义": 1,
         "伊丽莎白·休斯": 1,
         "俄罗斯化": 1,
         "俄罗斯帝国": 1,
         "修城运动": 1,
         "关键词：南卡罗来纳": 1,
+        "凯尔特人": 1,
         "切罗基人": 1,
         "加拉太人": 1,
+        "北马尼托巴低地": 1,
+        "印第安人事务局": 1,
         "原住民": 1,
         "启蒙报刊": 1,
         "因陀罗": 1,
@@ -5883,20 +6043,23 @@
         "多米尼加": 1,
         "奥托王朝": 1,
         "小俄罗斯": 1,
+        "巴美关系、9/11事件后、政策、后果、利益": 1,
         "希木叶尔": 1,
         "庄士敦": 1,
         "庚款留美计划": 1,
         "扎波罗热哥萨克": 1,
-        "拜占庭": 1,
         "新俄罗斯": 1,
+        "新西班牙地区": 1,
         "日本": 1,
         "日本移民": 1,
         "日裔社区": 1,
         "早期罗斯城市": 1,
         "智利": 1,
+        "朝圣": 1,
         "格涅兹多沃": 1,
         "波斯": 1,
         "特里塔": 1,
+        "瓦希商路": 1,
         "留美中国学生联合会": 1,
         "留美生": 1,
         "科里多的起源": 1,
@@ -5904,269 +6067,81 @@
         "罗马": 1,
         "美国": 1,
         "美国民权运动": 1,
+        "联邦印第安人医疗卫生政策": 1,
         "英国": 2,
         "跨国公司": 1,
         "阿尔萨特（JoséAntoniodeAlzateyRamírez）": 1,
         "阿拉伯南部": 1,
         "阿连德政府": 1,
         "革命科里多": 1,
+        "音乐变革": 1,
+        "食牛西俗": 1,
         "马萨利亚": 1,
         "高卢": 1
       }
     },
-    "5": {
-      "total": 30,
+    "1": {
+      "total": 66,
       "keywords": {
         "一神教": 1,
         "三星堆文化": 1,
-        "中国使臣": 1,
+        "丧葬习俗": 1,
+        "丧葬礼俗": 1,
         "中外交流": 1,
-        "中朝关系": 1,
+        "亲希腊主义": 1,
         "佛寺": 1,
         "佛教": 1,
         "佛教因素": 1,
+        "动物形象": 1,
         "北京梨园文化": 1,
         "半坡文化": 1,
         "博物馆": 1,
         "博物馆严肃游戏": 1,
-        "印白交往": 1,
         "参观体验": 1,
+        "古建筑": 1,
+        "古环境": 1,
         "古蜀文化": 1,
-        "地方文化": 1,
-        "屠龙神话": 1,
-        "干谒": 1,
-        "文化中心主义": 1,
-        "文化因素传播": 1,
-        "文明交融": 1,
-        "朝圣": 1,
-        "朝鲜世祖": 1,
-        "朝鲜端宗": 1,
-        "朝鲜观": 1,
-        "殿堂台基": 1,
-        "汉文化": 1,
-        "浮滨文化": 1,
-        "物质文化交流": 1,
-        "玉皇庙文化": 1
-      }
-    },
-    "1": {
-      "total": 50,
-      "keywords": {
-        "万国工业博览会": 1,
-        "人群社会": 1,
-        "公共工程": 1,
-        "公共空间": 1,
-        "劳工": 1,
-        "劳工行政": 1,
-        "劳资争议": 1,
-        "区域史": 1,
+        "商周青铜器": 1,
         "国家形象": 1,
         "国族构建": 1,
-        "国统区": 1,
-        "地域社会": 1,
-        "地方治安": 1,
-        "地方统治": 1,
-        "基督教民主党": 1,
-        "士大夫心理": 1,
-        "士绅": 1,
-        "外交政策": 1,
-        "大府": 1,
-        "家庭生活水平": 1,
-        "山林经济": 1,
-        "山民生计": 1,
-        "工人工资": 1,
-        "工潮": 1,
-        "巴美关系、9/11事件后、政策、后果、利益": 1,
-        "帝国教会制度": 1,
-        "执法": 1,
-        "政区": 1,
-        "政教关系": 1,
-        "教会贵族": 1,
-        "暴力手段": 1,
-        "殖民主义": 1,
-        "民族主义": 1,
-        "民间士庶": 1,
-        "济南府": 1,
-        "济宁社会": 1,
-        "生业经济": 1,
-        "生态中心主义": 1,
-        "生活史": 2,
-        "社会分层": 1,
-        "社会分工": 2,
-        "社会等级": 1,
-        "种族关系": 1,
-        "种植园社会": 1,
-        "群众科学": 1,
-        "职业教育": 1,
-        "郡尉": 1,
-        "郡级政区": 1
-      }
-    },
-    "3": {
-      "total": 35,
-      "keywords": {
-        "丝绸之路": 1,
-        "北马尼托巴低地": 1,
-        "商人自卫": 1,
-        "商周": 1,
-        "天津商会": 1,
-        "天津商团": 1,
-        "天津地区": 1,
-        "天津社会局": 1,
-        "川峡四路": 1,
-        "新西班牙地区": 1,
-        "水利": 1,
-        "江西地区": 1,
-        "河北": 1,
-        "河北平津区": 1,
-        "河北省立保定高级工业职业学校": 1,
-        "海运": 1,
-        "涪水": 1,
-        "淮河下游": 1,
-        "滨海地域": 1,
-        "煤炭": 1,
-        "燃料": 1,
-        "牛肉": 1,
-        "牛肉汁": 1,
-        "瓦希商路": 1,
-        "福建": 1,
-        "纺织业": 1,
-        "苏州": 1,
-        "路": 1,
-        "近代天津": 2,
-        "长江三峡开发": 1,
-        "闽东山区": 1,
-        "闽南地区": 1,
-        "陕西四川": 1,
-        "食牛西俗": 1
-      }
-    },
-    "9": {
-      "total": 18,
-      "keywords": {
-        "丧葬习俗": 1,
-        "丧葬礼俗": 1,
+        "地方文化": 1,
         "埋葬习俗": 1,
         "墓葬": 4,
         "墓葬装饰": 1,
+        "外交政策": 1,
         "姜寨遗址": 1,
         "宋元墓葬": 1,
+        "屠龙神话": 1,
+        "干谒": 1,
+        "形态学": 1,
+        "德化窑": 1,
+        "执壶": 1,
+        "文化中心主义": 1,
+        "文化因素传播": 1,
+        "文明交融": 1,
+        "新石器时代": 1,
         "死亡文化史": 1,
+        "殖民主义": 1,
+        "民族主义": 1,
+        "汉文化": 1,
+        "浮滨文化": 1,
+        "物质文化交流": 1,
+        "玉琮": 1,
         "玉皇庙墓地": 1,
+        "玉皇庙文化": 1,
+        "琥珀器物": 1,
+        "瓷器": 1,
+        "生态中心主义": 1,
         "石室墓": 1,
         "祭祀坑": 1,
         "粪便遗存": 1,
+        "艺术特征": 1,
         "葫芦沟墓地": 1,
         "葬俗": 1,
-        "葬玉": 1
-      }
-    },
-    "6": {
-      "total": 28,
-      "keywords": {
-        "书院": 1,
-        "亲属相犯": 1,
-        "儿童": 1,
-        "医学化": 1,
-        "医疗保健": 1,
-        "基督教女性": 1,
-        "天花接种": 1,
-        "女同性爱": 1,
-        "婚姻纠纷": 1,
-        "婚姻自主权": 1,
-        "孀妇": 1,
-        "州志": 1,
-        "性别规范": 1,
-        "慈善": 1,
-        "房地产": 1,
-        "房屋": 1,
-        "扫盲": 1,
-        "教产": 1,
-        "日本女子教育": 1,
-        "沙眼": 1,
-        "狐臭": 1,
-        "疾病": 1,
-        "禁欲": 1,
-        "肺结核": 1,
-        "臭汗症": 1,
-        "良妻贤母": 1,
-        "识字": 1,
-        "速成识字法": 1
-      }
-    },
-    "2": {
-      "total": 45,
-      "keywords": {
-        "使用制度": 1,
-        "修练储备": 1,
-        "军费": 1,
-        "冲突": 1,
-        "出洋": 1,
-        "分期": 2,
-        "动物形象": 1,
-        "协饷制度": 1,
-        "印第安人事务局": 1,
-        "原则机变": 1,
-        "变迁": 1,
-        "叙事": 1,
-        "周礼": 1,
-        "奏谳制度": 1,
-        "异常": 1,
-        "形态学": 1,
-        "影响": 1,
-        "情感史": 1,
-        "成因": 1,
-        "招投标制度": 1,
-        "文本生成": 1,
-        "新军": 1,
-        "棚民保甲": 1,
-        "比较分析": 1,
-        "法律体系": 1,
-        "活化利用": 1,
-        "源流": 1,
-        "特权招标": 1,
-        "狎优现象": 1,
-        "石油产业监管制度": 1,
-        "石油税收": 1,
-        "礼制": 1,
-        "种属判定": 1,
-        "统计分析": 1,
-        "联邦印第安人医疗卫生政策": 1,
-        "脂质分析": 1,
-        "舆服制度": 1,
-        "艺术特征": 1,
-        "财政": 1,
-        "资源委员会": 1,
-        "身份转变": 1,
-        "辂制": 1,
-        "阐释": 1,
-        "音乐变革": 1
-      }
-    },
-    "7": {
-      "total": 25,
-      "keywords": {
-        "凯尔特人": 1,
-        "古建筑": 1,
-        "古环境": 1,
-        "叶燮": 1,
-        "商周青铜器": 1,
-        "姚培谦": 1,
-        "孔广栻": 1,
-        "孔继涵": 1,
-        "德产": 1,
-        "德侨": 1,
-        "德化窑": 1,
-        "执壶": 1,
-        "新石器时代": 1,
-        "溥仪": 1,
-        "玉琮": 1,
-        "琥珀器物": 1,
-        "瓷器": 1,
+        "葬玉": 1,
         "貘形装饰": 1,
         "采铜技术": 1,
         "铜矿遗址": 1,
-        "陈言": 1,
         "陶瓷俑": 1,
         "陶礼器": 1,
         "青花瓷": 1,
@@ -6175,15 +6150,10 @@
     }
   },
   "cluster_labels": {
-    "0": "海外留学研究",
-    "1": "社会历史与劳工",
-    "2": "军事与制度研究",
-    "3": "近代华商研究",
-    "4": "明清历史事件",
-    "5": "中外文化交流",
-    "6": "医学与婚姻研究",
-    "7": "古代文化遗产",
-    "8": "历史时期划分",
-    "9": "丧葬文化研究"
+    "0": "社会制度与分工",
+    "1": "丧葬文化与宗教",
+    "2": "国际文化交流",
+    "3": "历史事件与议题",
+    "4": "中国历史时期研究"
   }
 }
