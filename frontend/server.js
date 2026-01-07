@@ -9,9 +9,10 @@ app.use(express.json());
 const pool = mysql.createPool({
   host: '10.130.36.92',
   user: 'root',
-  password: 'cjy20030306yuE',
+  password: '***',
   database: 'nk_thesis'
 });
+
 
 app.get('/api/cjy/midup', async (req, res) => {
   try {
