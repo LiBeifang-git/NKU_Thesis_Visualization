@@ -352,8 +352,8 @@ g.append("g")
   // tooltip
   const tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
-    .style("height","11%")
-    .style("width","8%")
+    .style("height","auto")
+    .style("width","auto")
     .style("position", "absolute")
     .style("padding", "6px")
     .style("background", "rgba(0,0,0,0.7)")
@@ -415,16 +415,16 @@ g.append("g")
   dataNest.forEach((d, i) => {
     legend.append("rect")
       .attr("x", 0)
-      .attr("y", i * 20)
-      .attr("width", 12)
-      .attr("height", 12)
+      .attr("y", i * 15)
+      .attr("width", 10)
+      .attr("height", 10)
       .style("fill", color(d.college));
 
     legend.append("text")
       .attr("x", 18)
-      .attr("y", i * 20 + 10)
+      .attr("y", i * 15 + 10)
       .text(d.college)
-      .style("font-size", "12px");
+      .style("font-size", "10px");
   });
   window.addEventListener("DOMContentLoaded", () => {
   loadStats();

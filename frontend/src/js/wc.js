@@ -1,11 +1,8 @@
-// ==========================================
-// 1. 全局变量与工具准备
-// ==========================================
 let scatterDataCache = null; 
 let tooltip; 
 
 document.addEventListener("DOMContentLoaded", function() {
-    // 初始化散点图 Tooltip
+
     tooltip = d3.select("body").append("div")
         .attr("id", "global-tooltip")
         .style("opacity", 0)
@@ -14,40 +11,31 @@ document.addEventListener("DOMContentLoaded", function() {
         .style("color", "#fff")
         .style("padding", "10px")
         .style("border-radius", "5px")
-        .style("font-size", "14px") // 增大字体
+        .style("font-size", "14px") 
         .style("pointer-events", "none")
         .style("z-index", "9999");
 });
 
-// ==========================================
-// 2. Tab 切换与数据读取逻辑
-// ==========================================
 window.switchTab = function(index) {
-    // 1. 隐藏所有 Tab
     var tabs = document.getElementsByClassName('tab-content');
     for (var i = 0; i < tabs.length; i++) {
         tabs[i].style.display = 'none';
     }
 
-    // 2. 显示当前 Tab
     var selected = document.getElementById('content-' + index);
     if (selected) {
         selected.style.display = 'block';
     }
 
-    // 3. 模块 2 特殊逻辑：加载 CSV 并绘图
     if (index === 2) {
         setTimeout(() => {
             if (scatterDataCache) {
                 drawScatterPlot(scatterDataCache);
             } else {
-                // --- 加载 CSV ---
                 d3.csv("final_data.csv").then(function(data) {
-                    // ★★★ 核心修复：添加 source 字段判断 ★★★
                     data.forEach(d => {
                         d.year = +d.year;
                         d.similarity = +d.similarity;
-                        // 这里判断学院名称是否包含 "MIT"，从而打上标签
                         d.source = (d.college && d.college.includes("MIT")) ? "MIT" : "Nankai";
                     });
                     
@@ -63,9 +51,6 @@ window.switchTab = function(index) {
     }
 }
 
-// ==========================================
-// 3. 核心绘图逻辑 (与上传的 HTML 完全一致)
-// ==========================================
 
 function kernelDensityEstimator(kernel, X) {
     return function(V) {
@@ -84,8 +69,7 @@ function kernelEpanechnikov(k) {
 function drawScatterPlot(data) {
     const container = "#scatter-plot";
     const margin = {top: 20, right: 30, bottom: 40, left: 60};
-    
-    // 获取容器宽度 (自适应)
+
     const containerEl = document.querySelector(container);
     const clientWidth = containerEl ? containerEl.clientWidth : 1200;
     const width = clientWidth - margin.left - margin.right;
@@ -100,8 +84,7 @@ function drawScatterPlot(data) {
     if(data.length === 0) return;
 
     const years = Array.from(new Set(data.map(d => d.year))).sort((a,b)=>a-b);
-    
-    // --- 动态计算 Y 轴 ---
+
     const yMin = d3.min(data, d => d.similarity);
     const yMax = d3.max(data, d => d.similarity);
     const yPadding = (yMax - yMin) * 0.1; 
@@ -117,7 +100,6 @@ function drawScatterPlot(data) {
         .domain(["Nankai", "MIT"])
         .range(["#2c82c9", "#e74c3c"]);
 
-    // --- KDE 计算 ---
     const dataByYear = d3.group(data, d => d.year);
     const kdeTicks = y.ticks(100); 
     const bandwidth = (yDomain[1] - yDomain[0]) / 25;
@@ -129,8 +111,7 @@ function drawScatterPlot(data) {
     years.forEach(year => {
         denseDataStruct[year] = { Nankai: null, MIT: null };
         const yearData = dataByYear.get(year) || [];
-        
-        // ★★★ 这里的筛选依赖于前面 d.source 的正确赋值 ★★★
+
         const nankaiSims = yearData.filter(d => d.source === "Nankai").map(d => d.similarity);
         const mitSims = yearData.filter(d => d.source === "MIT").map(d => d.similarity);
 
@@ -156,11 +137,9 @@ function drawScatterPlot(data) {
         .y(d => y(d[0]))
         .curve(d3.curveBasis);
 
-    // --- 绘制 ---
-    // 坐标轴
     svg.append("g").attr("transform", `translate(0,${height})`)
        .call(d3.axisBottom(x).tickFormat(d3.format("d")))
-       .selectAll("text").style("fill", "#fff").style("font-size", "12px"); // 增大坐标轴字体
+       .selectAll("text").style("fill", "#fff").style("font-size", "12px");
        
     svg.append("g").call(d3.axisLeft(y).ticks(5))
        .selectAll("text").style("fill", "#fff").style("font-size", "12px");
@@ -181,7 +160,7 @@ function drawScatterPlot(data) {
                 .attr("transform", `translate(${xCenter},0)`)
                 .attr("fill", sourceColor("Nankai")).attr("stroke", sourceColor("Nankai"))
                 .style("fill-opacity", 0.3)
-                .style("mix-blend-mode", "normal") // 修正混合模式以适应深色背景
+                .style("mix-blend-mode", "normal") 
                 .attr("d", rightHalfArea);
         }
         if (densities.MIT) {
@@ -194,7 +173,6 @@ function drawScatterPlot(data) {
         }
     });
 
-    // 绘制散点
     svg.selectAll(".dot")
         .data(data)
         .enter().append("circle")
@@ -220,6 +198,7 @@ function drawScatterPlot(data) {
                 content += `作者: ${d.author || '-'}<br>导师: ${d.supervisor || '-'}<br>`;
             }
             content += `学院: ${d.college}<br>`;
+            content += `方向: ${d.matched_domain}<br>`;
             content += `相似度: <strong>${d.similarity.toFixed(4)}</strong>`;
             content += `</div>`;
             
@@ -232,9 +211,6 @@ function drawScatterPlot(data) {
         });
 }
 
-// ==========================================
-// 4. 左侧河流图 (DOMContentLoaded)
-// ==========================================
 document.addEventListener("DOMContentLoaded", function() {
     const config = {
         containerId: "#line-chart",
@@ -251,7 +227,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     if (streamTooltip.empty()) {
         streamTooltip = d3.select("body").append("div")
-            .attr("class", "stream-tooltip") // CSS中已设置此类的样式
+            .attr("class", "stream-tooltip")
             .style("position", "absolute")
             .style("background", "rgba(0,0,0,0.9)")
             .style("color", "#fff")
@@ -364,13 +340,12 @@ document.addEventListener("DOMContentLoaded", function() {
         const legend = d3.select(config.legendId);
         legend.html("").style("display", "flex").style("flex-direction", "column").style("overflow-y", "auto");
         colleges.forEach(col => {
-            legend.append("div").style("display","flex").style("color","#ccc").style("font-size","13px").style("margin-bottom","5px")
+            legend.append("div").style("display","flex").style("color","#ffffffff").style("font-size","13px").style("margin-bottom","5px")
                 .html(`<div style="width:12px;height:12px;background:${color(col)};margin-right:8px;border-radius:2px;"></div>${col}`);
         });
     }
 });
 
-// --- 模块3 地图逻辑 ---
 (function initMapZoom() {
     setTimeout(() => {
         const container = document.getElementById('map-container');

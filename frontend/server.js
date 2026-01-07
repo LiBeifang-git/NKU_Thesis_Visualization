@@ -6,23 +6,19 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// 创建数据库连接池
 const pool = mysql.createPool({
-  host: 'localhost',
+  host: '10.130.36.92',
   user: 'root',
-  password: 'WaterCloset1nk',
+  password: 'cjy20030306yuE',
   database: 'nk_thesis'
 });
 
-
-// ✅ 正确的接口路由
 app.get('/api/cjy/midup', async (req, res) => {
   try {
-      // 查询数据库
+
       const [paperRows] = await pool.query('SELECT COUNT(*) AS total_papers FROM thesis_detail');
       const totalPapers = paperRows[0].total_papers;
 
-      // 导师总数（第一导师列 + 不同院系算不同人）
       const [teacherRows] = await pool.query(`
       SELECT COUNT(DISTINCT CONCAT(\`第一导师姓名\`, '-', \`院系\`)) AS total_teachers
       FROM thesis_detail
@@ -30,7 +26,6 @@ app.get('/api/cjy/midup', async (req, res) => {
     `);
       const totalTeachers = teacherRows[0].total_teachers;
 
-      // 学生总数（作者列 + 不同院系算不同人）
       const [studentRows] = await pool.query(`
         SELECT COUNT(DISTINCT CONCAT(\`作者\`, '-', \`院系\`)) AS total_students
         FROM thesis_detail
@@ -38,7 +33,6 @@ app.get('/api/cjy/midup', async (req, res) => {
       `);
       const totalStudents = studentRows[0].total_students;
 
-          // 学院总数
       const [collegeRows] = await pool.query(`
         SELECT COUNT(DISTINCT \`院系\`) AS total_colleges
         FROM thesis_detail
@@ -63,7 +57,7 @@ app.get('/api/cjy/midup', async (req, res) => {
 
 app.get('/api/cjy/rightup', async (req, res) => {
   try {
-    // 查询点击量前 10 名
+
     const [rows] = await pool.query(`
       SELECT \`中文标题\` AS title,
              \`点击量\` AS views
@@ -72,14 +66,14 @@ app.get('/api/cjy/rightup', async (req, res) => {
       LIMIT 8
     `);
 
-    // 计算最大值用于进度条比例
+
     const maxView = rows.length ? rows[0].views : 1;
 
     const list = rows.map((item, index) => ({
       rank: index + 1,
       title: item.title,
       views: item.views,
-      percent: ((item.views / maxView) * 100).toFixed(2)  // 给前端进度条
+      percent: ((item.views / maxView) * 100).toFixed(2) 
     }));
 
     res.json({ code: 200, data: list });
@@ -89,7 +83,7 @@ app.get('/api/cjy/rightup', async (req, res) => {
   }
 });
 
-// 查询近三年的硕士、博士人数
+
 app.get('/api/cjy/rightdown', async (req, res) => {
   try {
     const [rows] = await pool.query( `
@@ -100,14 +94,13 @@ app.get('/api/cjy/rightdown', async (req, res) => {
       GROUP BY 学位年度, 学生类型
       ORDER BY 学位年度 DESC;
     `);
-    // 初始化结构
+
     const data = {
       "2024": { "硕士": 0, "博士": 0 },
       "2023": { "硕士": 0, "博士": 0 },
       "2022": { "硕士": 0, "博士": 0 }
     };
 
-    // 注入结果
     rows.forEach(row => {
       if (data[row.year]) {
         data[row.year][row.level] = row.count;
@@ -122,11 +115,9 @@ app.get('/api/cjy/rightdown', async (req, res) => {
   }
 });
 
-
-//完成top分析
 app.get('/api/cjy/leftdown', async (req, res) => {
   try {
-     // 1) 毕业学生人数最多的学位年度（按总记录数）
+
      const [yearRows] = await pool.query(`
       SELECT 学位年度 AS year, COUNT(*) AS count
       FROM thesis_detail
@@ -136,7 +127,6 @@ app.get('/api/cjy/leftdown', async (req, res) => {
     `);
     const top_year = yearRows[0] ? { year: String(yearRows[0].year), count: yearRows[0].count } : { year: null, count: 0 };
 
-     // 2) 博士比例最高的学院
     const [phdRows] = await pool.query(`
       SELECT 院系 AS college,
              SUM(CASE WHEN 学生类型 = '博士' THEN 1 ELSE 0 END) AS phd_count,
@@ -154,11 +144,10 @@ app.get('/api/cjy/leftdown', async (req, res) => {
         college: phdRows[0].college,
         phd_count: Number(phdRows[0].phd_count),
         total_count: Number(phdRows[0].total_count),
-        phd_ratio: Number(phdRows[0].phd_ratio)  // 0..1
+        phd_ratio: Number(phdRows[0].phd_ratio) 
       }
     : { college: null, phd_count: 0, total_count: 0, phd_ratio: 0 };
 
-    // 3) 带学生最多的导师（使用 第一导师姓名 列）
     const [teacherRows] = await pool.query(`
       SELECT 
           \`第一导师姓名\` AS teacher, 
@@ -179,7 +168,6 @@ app.get('/api/cjy/leftdown', async (req, res) => {
     }
   : { teacher: null, college: null, student_count: 0 };
 
-    // 4) 论文最多的学院（院系）
     const [collegeRows] = await pool.query(`
       SELECT 院系 AS college, COUNT(*) AS paper_count
       FROM thesis_detail
@@ -189,8 +177,6 @@ app.get('/api/cjy/leftdown', async (req, res) => {
     `);
     const top_college = collegeRows[0] ? { college: collegeRows[0].college, paper_count: collegeRows[0].paper_count } : { college: null, paper_count: 0 };
 
-    
-      // 5) 参考文献最多
       const [[maxObj]] = await pool.query(
         `SELECT MAX(CAST(\`参考文献总数\` AS UNSIGNED)) AS max_refs FROM thesis_detail;`
       );
@@ -215,7 +201,6 @@ app.get('/api/cjy/leftdown', async (req, res) => {
         };
       }
 
-    // 6) 博士人数最多的学院
     const [topDoctorCollege] = await pool.query(`
       SELECT 院系 AS college,
              COUNT(*) AS doctor_total
@@ -255,8 +240,6 @@ app.get('/api/cjy/leftdown', async (req, res) => {
 });
 
 
-
-// 完成平均参考文献分析
 app.get('/api/cjy/middown', async (req, res) => {
   try {
     const [rows] = await pool.query(`
@@ -376,10 +359,8 @@ app.get('/api/cjy/stream-data', async (req, res) => {
 
 const path = require('path');
 
-// 设置静态文件目录
 app.use(express.static(path.join(__dirname, 'src')));
 
-// 根路径访问 index.html
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'src', 'index.html'));
 });

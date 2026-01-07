@@ -1,6 +1,5 @@
 @charset "utf-8";
-
-/* =================全局设置================= */
+/*全局设置*/
 * {
   box-sizing: border-box;
   margin: 0;
@@ -20,17 +19,17 @@ body {
   
 }
 
-/* =================顶部 head================= */
+/* 顶部 head*/
 .head {
     display: flex;
     position: fixed;
-    width: 100%;           /* 占满整个宽度 */
-    z-index: 999;          /* 保证在最上层 */
+    width: 100%;           
+    z-index: 999;          
 
     align-items: center;
     justify-content: space-between;
-    height: 6rem;                     /* 固定高度，产生滚动条 */
-    background-color: #f5f0e6;        /* 浅米色背景 */
+    height: 6rem;                     
+    background-color: #f5f0e6;       
     padding: 0 2%;
     border-bottom: 2px solid #e0d8c3;
     box-shadow: 0 4px 10px rgba(0,0,0,0.05);
@@ -38,20 +37,19 @@ body {
 
 /* 中间标题 */
 .head h1 {
-    color:#683958;                   /* 深咖啡色，文学气息 */
-    font-size: 3rem;                   /* 固定字体大小 */
+    color:#683958;                   
+    font-size: 3rem;                   
     text-align: center;
     flex: 1;
-    line-height: 9rem;                 /* 垂直居中 */
+    line-height: 9rem;                
     font-weight: 600;
     font-family: "Georgia", "Times New Roman", serif; 
     letter-spacing: 0.1rem;
-    white-space: nowrap;                /* 防止缩小屏幕换行 */
+    white-space: nowrap;                
     overflow: hidden;
     text-overflow: ellipsis;
 }
 
-/* 去掉下划线 */
 .head h1 a {
     text-decoration: none;
     color: inherit;
@@ -60,12 +58,12 @@ body {
 /* 左侧图标 */
 .head-icons {
     display: flex;
-    gap: 1rem;                         /* 图标间距 */
+    gap: 1rem;                         
     align-items: center;
     flex-shrink: 0;
 }
 .head-icons img {
-    width: 3rem;                         /* 固定大小，缩小屏幕出现滚动条 */
+    width: 3rem;                         
     height: 3rem;
     cursor: pointer;
     transition: transform 0.25s, filter 0.25s;
@@ -79,7 +77,7 @@ body {
 /* 右侧时间 */
 .time {
     font-family: "Courier New", Courier, monospace;
-    font-size: 1.3rem;                  /* 固定大小 */
+    font-size: 1.3rem;                  
     color: #6b5e4f;
     flex-shrink: 0;
     letter-spacing: 0.01rem;
@@ -88,34 +86,34 @@ body {
 
   
   
-/* =================主体布局================= */
+/* 主体布局*/
 .mainbox {
   padding: 0 0.2rem;
-  height: calc(100% - 2rem); /* 减去 head 高度 */
+  height: calc(100% - 2rem); 
   display: flex;
-  padding-top: 4.3%;  /* 留出 nav 高度 */
+  padding-top: 4.3%; 
   box-sizing: border-box;
 }
 
 .mainbox > li {
-    float: left;           /* 旧版写法，或者配合 flex 使用 */
+    float: left;          
     padding: 0 0.1rem;
-    list-style-type: none; /* 去掉列表前面的点 */
+    list-style-type: none; 
 }
 .mainbox > ul {
   display: flex;
   flex: 1;
   gap: 0.1rem;
   height: 100%;
+  width: 100%;
 }
 .mainbox > ul > li {
-  flex: 1;
   display: flex;
   flex-direction: column;
   gap: 0.15rem;
 }
 
-/* =================图表容器================= */
+/*图表容器*/
 .boxall {
     position: relative;    
     display: flex;
@@ -131,32 +129,29 @@ body {
 
   
 .alltitle {
-  position: absolute;        /* 固定在 box 左上角 */
+  position: absolute;       
   top: 0.5rem;
   left: 0.5rem;
   font-size: 12em;
   font-weight: 500;
   color: #fff;
-  padding: 0.25rem 0.5rem 0.25rem 1.5rem;  /* 左侧留出圆点空间 */
+  padding: 0.25rem 0.5rem 0.25rem 1.5rem; 
   border-bottom: 1px solid #C7BCC8;
 }
 
-/* 左侧小圆点 */
-/* 左侧小圆点（灰紫） */
 .alltitle::before {
   position: absolute;
   content: "";
   width: 6px;
   height: 6px;
-  background: #7A6E79;          /* 深灰紫主色 */
-  box-shadow: 0 0 5px #C7BCC8;  /* 柔灰紫发光 */
+  background: #7A6E79;         
+  box-shadow: 0 0 5px #C7BCC8;  
   border-radius: 50%;
   left: 10px;
   top: 50%;
   transform: translateY(-50%);
 }
 
-/* 底部渐变线条（灰紫） */
 .alltitle::after {
   content: "";
   position: absolute;
@@ -166,9 +161,9 @@ body {
   height: 1px;
   background: linear-gradient(
       to right,
-      #7A6E79,  /* 深灰紫 */
-      #7A6E79,  /* 轻柔灰紫 */
-      #7A6E79   /* 深灰紫 */
+      #7A6E79,  
+      #7A6E79,  
+      #7A6E79   
   );
   box-shadow: 0 0 5px #C7BCC8;
   opacity: 0.6;
@@ -191,9 +186,8 @@ body {
   height: 100%;
 }
 
-/*===============左上图表========================*/
+/*左上图表*/
 
-/* 左侧业绩总览 */
 .overview {
     flex: 1;
     margin-right: 0.2rem;
@@ -219,7 +213,7 @@ body {
     font-family: "Georgia", "Times New Roman", serif; 
 }
 .overview h1 span {
-    font-size: 6rem;
+    font-size: 4.5rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -237,15 +231,16 @@ body {
 }
 .metrics-list li {
     float: left;
-    width: 33.33%; /* 三个指标平均分 */
+    width: 33.33%; 
     padding: 10px 0;
     text-align: center;
 }
 
 /* 指标圆环 */
 .metric-circle {
-    width: 100px;
-    height: 100px;
+    width: 75px;
+    height: 75px;
+    margin-top: 15px;
     margin: 0 auto 5px auto;
     position: relative;
     display: flex;
@@ -283,7 +278,6 @@ body {
     animation: rotateCounterClockwise 15s infinite linear;
 }
 
-/* 动画命名 */
 @keyframes rotateClockwise {
     to { transform: rotate(360deg); }
 }
@@ -299,36 +293,33 @@ body {
 }
 
 
-/*==================右上图标===============*/
+/*右上图标*/
 
-/* 内容区：整体向下让出标题空间，所有内容整体放大 */
 .rank-box {
   width: 100%;
   height: calc(100% - 3.5rem);
   box-sizing: border-box;
-  overflow-y: auto;          /* 关键：不够就滚动 */
+  overflow-y: auto;         
   overflow-x: hidden;
   margin-top: 1.8rem;
 }
 
-/* 列表竖排，条目充分分隔 */
 .rank-list {
   list-style: none;
   margin: 0;
-  padding: 0.5rem 0;        /* 原 0.2rem → 0.6rem */
+  padding: 0.5rem 0;      
   height: 100%;
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;              /* 原 0.1rem → 0.6rem */
+  gap: 0.4rem;         
   
 }
 
-/* 单项整体放大 */
 .rank-item {
   display: flex;
   align-items: flex-start;
-  gap: 0.3rem;               /* 原 0.12rem → 0.6rem */
-  padding: 0.2rem 0.3rem;    /* 原 0.35rem 0.4rem → 0.8rem 0.6rem */
+  gap: 0.3rem;             
+  padding: 0.2rem 0.3rem;    
   background: transparent;
 }
 
@@ -337,9 +328,8 @@ body {
   background: rgba(255,255,255,0.15);
 }
 
-/* 左侧编号区域更宽 */
 .rank-num-wrap {
-  width: 2rem;             /* 原 0.45rem → 2.2rem */
+  width: 2rem;           
   height: 2rem;
   flex: 0 0 2.2rem;
   display: flex;
@@ -347,20 +337,19 @@ body {
   justify-content: center;
 }
 
-/* 大号编号徽章 */
 .rank-num {
   display: inline-block;
-  width: 2rem;               /* 原 1rem → 2rem */
+  width: 2rem;          
   height: 2rem;
   line-height: 1.5rem;
-  font-size: 1.2rem;         /* 原 1rem → 1.4rem */
+  font-size: 1.2rem;       
   color: #fff;
   text-align: center;
-  border-radius: 50%;        /* 改成圆形徽章，更美观 */
+  border-radius: 50%;       
   background: #878787;
 }
 
-/* 前8名颜色 */
+/* 颜色 */
 .rank-num.rank-1 { background: #5bb5bd; }
 .rank-num.rank-2 { background: #FEB536; }
 .rank-num.rank-3 { background: #9F2E2E; }
@@ -371,17 +360,17 @@ body {
 .rank-num.rank-8 { background: #7A6E79; }
 
 
-/* 内容区：左标题 → 右进度条 */
+/* 内容区 */
 .rank-main {
   flex: 1;
   display: flex;
   flex-direction: column;
 }
 
-/* 标题：增大字号，更清楚 */
+/* 标题 */
 .rank-title {
   color: #fff;
-  font-size: 0.9rem;         /* 原 0.15rem → 1.2rem */
+  font-size: 0.9rem;         
   opacity: 0.95;
   line-height: 1;
   overflow: hidden;
@@ -393,26 +382,24 @@ body {
   margin-bottom: 0.1em;
 }
 
-
-/* 条行整体变高 */
 .rank-row {
   display: flex;
   align-items: center;
   gap: 1.2rem;         
-  margin-top: -0.5rem;   /* 关键：进度条上移 */     
+  margin-top: -0.5rem;      
 }
 
-/* 进度条容器放大 */
+/* 进度条容器 */
 .rank-bar {
   position: relative;
   flex: 1;
-  height: 0.6rem;            /* 原 0.18rem → 0.6rem */
+  height: 0.6rem;            
   background: rgba(255,255,255,0.08);
   border-radius: 0.3rem;
   overflow: hidden;
 }
 
-/* 灰紫渐变进度条加粗 */
+/* 进度条*/
 .rank-bar-fill {
   height: 100%;
   border-radius: 0.3rem;
@@ -426,29 +413,27 @@ body {
 }
 
 
-/* 数字基础样式 + 进入动画 */
+/* 进入动画 */
 .rank-value {
   min-width: 2.6rem;
   font-size: 1.6rem;
   color: #683958;
   text-align: right;
   margin-top: -0.1rem;
-
-  /* 轻盈入场动画 */
   opacity: 0;
   transform: translateY(6px);
   animation: valueFadeUp 0.6s ease-out forwards;
 
-  /* 允许 hover 动画 */
+  /* hover 动画 */
   transition: transform 0.25s ease, 
               color 0.25s ease, 
               text-shadow 0.25s ease;
 }
 
-/* hover 时微微放大 + 提亮 + 加一点光 */
+/* hover*/
 .rank-value:hover {
   transform: translateY(0) scale(1.12);
-  color: #8e4f78;  /* 比 #683958 更亮一些的紫色 */
+  color: #8e4f78; 
   text-shadow: 0 0 6px rgba(142, 79, 120, 0.6);
 }
 
@@ -464,7 +449,7 @@ body {
   }
 }
 
-/*==================右下图表================*/
+/*右下图表*/
 #grad-chart {
   width: 70%;
   height: 100%;
@@ -481,8 +466,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.3rem 0.4rem;
-  border-radius: 8px;
   margin-top: 0.2rem;
 }
 
@@ -493,12 +476,12 @@ body {
   color: #201d1d;
   white-space: nowrap;
   margin-top: 25px;
-  margin-left:25px;
+  margin-left:0px;
 }
 
 
 
-/*==========================左下图========================*/
+/*左下图*/
 #top-chart {
   width: 100%;
   height: 80%;
@@ -506,22 +489,22 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  overflow: hidden;  /* 防止整个容器滚动 */
+  overflow: hidden;  
   position: relative;
 }
 
 #top-chart .table-wrapper {
-  height: 100%;           /* 填满父容器 */
-  max-height: 100%;   /* 这里非常重要 */
-  overflow-y: auto;       /* 内容超出时垂直滚动 */
-  -webkit-overflow-scrolling: touch; /* 平滑滚动（移动端） */
-  border-radius: 12px;    /* 保留圆角 */
+  height: 100%; 
+  max-height: 100%;
+  overflow-y: auto;      
+  -webkit-overflow-scrolling: touch; 
+  border-radius: 12px;    
   backdrop-filter: blur(10px);
   position: relative;
 }
 
 
-/* 玻璃拟态容器   background: rgba(255,255,255,0.12);*/
+/* 容器;*/
 #top-chart .top-table {
   width: 100%;
   height: 100%;
@@ -533,7 +516,7 @@ body {
   animation: tableFadeIn 0.8s ease-out forwards;
 }
 
-/* 表头：深色渐变 + 浅边框光泽 */
+/* 表头*/
 #top-chart .top-table th {
   position: sticky;
   top:0;
@@ -589,28 +572,29 @@ body {
 
 
 
-/*=========================中间下面的折线图================================*/
+/*折线图*/
 #line-chart {
-height: 90%;
-width: 100%;
-margin-top: 2.5rem;
+  width: 100%;
+  height: 100% !important; 
+
+  margin-top: 0px !important; 
+  overflow: hidden; 
 }
 
-/*=======================中间对应的地图===================================*/
+/*中间对应的地图*/
 
 #map-chart {
   width: 100%;
-  height: calc(100% - 40px);  /* 给标题留空间 */
+  height: calc(100% - 40px);  
   margin-top: 2.5rem;
   
  
 }
 .view-switch {
     display: flex;
-    gap: 8px; /* 按钮之间的间距 */
+    gap: 8px;
 }
 
-/* 按钮样式 */
 .view-btn {
     background: rgba(255,255,255,0.1);
     border: 1px solid rgba(255,255,255,0.3);
@@ -628,58 +612,55 @@ margin-top: 2.5rem;
     color: #fff;
 }
 
-/* 选中状态 */
 .view-btn.active {
-    background: #0f62fe; /* 选中时的蓝色背景 */
+    background: #0f62fe; 
     color: white;
     border-color: #0f62fe;
     box-shadow: 0 0 5px rgba(15, 98, 254, 0.5);
 }
-/* 确保 Tab 内容容器撑满父级 */
+
 .tab-content {
     width: 100%;
     height: 100%;
 }
 
-/* 修复 graph.html (object) 的宽度问题 */
 #child-object {
     width: 100%;
     height: 100%;
-    display: block; /* 消除 inline 间隙 */
+    display: block; 
     border: none;
 }
 
-/* 修复 D3 容器宽度 */
 #scatter-plot {
     width: 100%;
-    height: 85%; /* 给标题和图例留出空间 */
+    height: 85%; 
     position: relative;
 }
 .chart-card h2 {
-    font-size: 20px !important; /* 增大标题 */
+    font-size: 20px !important; 
     font-weight: bold;
 }
 
 .legend-box {
-    font-size: 16px !important; /* 增大图例文字 */
+    font-size: 16px !important; 
     margin-bottom: 20px;
 }
 
 .legend-item .legend-color {
     width: 16px;
-    height: 16px; /* 增大图例色块 */
+    height: 16px; 
 }
 
-/* --- 修复河流图 Tooltip 文字太小 --- */
 .stream-tooltip {
-    font-size: 16px !important; /* 增大提示框文字 */
+    font-size: 16px !important; 
     line-height: 1.8 !important;
     padding: 15px !important;
     max-width: 300px;
 }
-
-/* --- 修复全局 Tooltip (散点图用) --- */
 #global-tooltip {
     font-size: 15px !important;
     line-height: 1.6;
+}
+#chart-title-text-1{
+
 }
