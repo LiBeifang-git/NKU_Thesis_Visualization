@@ -1,0 +1,7 @@
+*.pyc
+*.db
+*.o
+*.exe
+logfile.txt
+timing_greedy
+log
