@@ -1,0 +1,3918 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "CH公司",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 1,
+      "label": "CreditMetrics模型",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 2,
+      "label": "E-销售人员管理系统",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 3,
+      "label": "ERP管理系统",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 4,
+      "label": "E品牌手机",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 5,
+      "label": "IPO",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 6,
+      "label": "IPO抑价",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 7,
+      "label": "Logit模型",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 8,
+      "label": "MF公司",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 9,
+      "label": "PY汽车音响公司",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 10,
+      "label": "SPACE分析",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 11,
+      "label": "SWOT",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 12,
+      "label": "SWOT分析",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 13,
+      "label": "一卡通",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 14,
+      "label": "上下游企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 15,
+      "label": "上市公司",
+      "group": -1,
+      "size": 2
+    },
+    {
+      "id": 16,
+      "label": "世纪经纬(MMDS)",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 17,
+      "label": "个人积分法则",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 18,
+      "label": "中介服务",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 19,
+      "label": "中国消费电子企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 20,
+      "label": "中小企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 21,
+      "label": "中小电子出口企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 22,
+      "label": "中小软件企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 23,
+      "label": "中美住房抵押贷款市场比较",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 24,
+      "label": "主成份分析",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 25,
+      "label": "事业部",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 26,
+      "label": "互联网",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 27,
+      "label": "五力模型",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 28,
+      "label": "交易费用",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 29,
+      "label": "产品开发过程",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 30,
+      "label": "产学研合作",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 31,
+      "label": "人力资源",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 32,
+      "label": "人才梯队",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 33,
+      "label": "代工厂管理",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 34,
+      "label": "价值",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 35,
+      "label": "价值评估",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 36,
+      "label": "价值链",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 37,
+      "label": "企业资源计划",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 38,
+      "label": "企业间营销组合",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 39,
+      "label": "会计信息质量",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 40,
+      "label": "传导机制",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 41,
+      "label": "低成本",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 42,
+      "label": "供应商关系管理",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 43,
+      "label": "供应链",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 44,
+      "label": "供应链管理",
+      "group": 0,
+      "size": 2
+    },
+    {
+      "id": 45,
+      "label": "保险业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 46,
+      "label": "信息不对称",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 47,
+      "label": "信息化",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 48,
+      "label": "信用卡",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 49,
+      "label": "信用度量术模型",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 50,
+      "label": "信用评分",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 51,
+      "label": "信用风险",
+      "group": 6,
+      "size": 2
+    },
+    {
+      "id": 52,
+      "label": "信用风险管理",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 53,
+      "label": "信贷风险",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 54,
+      "label": "信贷风险管理",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 55,
+      "label": "债券市场",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 56,
+      "label": "债券融资",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 57,
+      "label": "公司业绩",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 58,
+      "label": "公司治理",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 59,
+      "label": "公司治理结构",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 60,
+      "label": "公司绩效",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 61,
+      "label": "关系营销",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 62,
+      "label": "关系营销改善",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 63,
+      "label": "内部控制",
+      "group": -1,
+      "size": 2
+    },
+    {
+      "id": 64,
+      "label": "净申购率",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 65,
+      "label": "创业管理",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 66,
+      "label": "创业项目选择",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 67,
+      "label": "创新",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 68,
+      "label": "创新型竞争优势",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 69,
+      "label": "创新文化",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 70,
+      "label": "利率冲击",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 71,
+      "label": "利率政策",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 72,
+      "label": "利率敏感性缺口",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 73,
+      "label": "利率期限结构",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 74,
+      "label": "利率衍生产品",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 75,
+      "label": "利率风险",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 76,
+      "label": "动态项目型组织",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 77,
+      "label": "包装扫描",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 78,
+      "label": "医药企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 79,
+      "label": "印刷行业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 80,
+      "label": "发展战略",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 81,
+      "label": "可行性",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 82,
+      "label": "向量自回归模型",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 83,
+      "label": "商业银行",
+      "group": 4,
+      "size": 7
+    },
+    {
+      "id": 84,
+      "label": "商业银行内部控制",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 85,
+      "label": "团队合作",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 86,
+      "label": "国产手机",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 87,
+      "label": "国有商业银行",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 88,
+      "label": "国有资本",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 89,
+      "label": "国际营销策略组合",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 90,
+      "label": "国际资本流动",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 91,
+      "label": "在险价值",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 92,
+      "label": "基本面分析",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 93,
+      "label": "基金",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 94,
+      "label": "增发",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 95,
+      "label": "外汇风险",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 96,
+      "label": "外汇风险控制",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 97,
+      "label": "外贸企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 98,
+      "label": "宏盛达五金厂",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 99,
+      "label": "客户价值",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 100,
+      "label": "客户关系管理",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": 101,
+      "label": "客户分类管理",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 102,
+      "label": "客户满意度",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 103,
+      "label": "客户资产管理",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 104,
+      "label": "对策",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 105,
+      "label": "对策选择",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 106,
+      "label": "并行开发",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 107,
+      "label": "并购动机",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 108,
+      "label": "并购对象",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 109,
+      "label": "并购战略",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 110,
+      "label": "广东省上市公司",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 111,
+      "label": "应用",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 112,
+      "label": "影响因素",
+      "group": -1,
+      "size": 2
+    },
+    {
+      "id": 113,
+      "label": "循序推进",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 114,
+      "label": "心理契约",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 115,
+      "label": "成本控制",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 116,
+      "label": "成本改进",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 117,
+      "label": "战略",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 118,
+      "label": "战略采购",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 119,
+      "label": "房地产开发",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 120,
+      "label": "房地产泡沫",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 121,
+      "label": "扁平化",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 122,
+      "label": "手机游戏",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 123,
+      "label": "技术创新",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 124,
+      "label": "投资",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 125,
+      "label": "持续期",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 126,
+      "label": "控制方法",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 127,
+      "label": "操作风险",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 128,
+      "label": "新产品开发",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 129,
+      "label": "新产品试制",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 130,
+      "label": "新股发行制度",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 131,
+      "label": "方差分解",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 132,
+      "label": "时机",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 133,
+      "label": "服务营销",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 134,
+      "label": "服装业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 135,
+      "label": "机制设计理论",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 136,
+      "label": "条形码",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 137,
+      "label": "核心企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 138,
+      "label": "核心竞争力",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 139,
+      "label": "模型分析",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 140,
+      "label": "模式选择",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 141,
+      "label": "次贷危机",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 142,
+      "label": "民生银行",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 143,
+      "label": "汇率波动",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 144,
+      "label": "汽车城",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 145,
+      "label": "汽车音响企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 146,
+      "label": "沪深300指数期货",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 147,
+      "label": "法律风险",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 148,
+      "label": "流动性",
+      "group": 6,
+      "size": 2
+    },
+    {
+      "id": 149,
+      "label": "测度",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 150,
+      "label": "深港一体化",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 151,
+      "label": "混业经营",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 152,
+      "label": "港口企业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 153,
+      "label": "港口公司",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 154,
+      "label": "激励理论",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 155,
+      "label": "烟草行业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 156,
+      "label": "热销",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 157,
+      "label": "物料成本",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 158,
+      "label": "物流优化",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 159,
+      "label": "物流系统",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 160,
+      "label": "环境分析",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 161,
+      "label": "现实货币",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 162,
+      "label": "现货市场",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 163,
+      "label": "理事会",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 164,
+      "label": "理财业务",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 165,
+      "label": "生产外包",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 166,
+      "label": "电子产品",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 167,
+      "label": "电子制造服务",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 168,
+      "label": "电子商务",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 169,
+      "label": "电子货币",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 170,
+      "label": "盈余管理",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 171,
+      "label": "监督对策",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 172,
+      "label": "目标公司",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 173,
+      "label": "相关性",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 174,
+      "label": "知识管理",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 175,
+      "label": "票据贴现",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 176,
+      "label": "科技成果转化",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 177,
+      "label": "空置率",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 178,
+      "label": "竞争力",
+      "group": 2,
+      "size": 2
+    },
+    {
+      "id": 179,
+      "label": "竞争战略",
+      "group": 2,
+      "size": 2
+    },
+    {
+      "id": 180,
+      "label": "竞争策略",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 181,
+      "label": "竞赛机制",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 182,
+      "label": "管理",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 183,
+      "label": "管理失效",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 184,
+      "label": "组织关系协调",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 185,
+      "label": "组织结构",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 186,
+      "label": "经营效率",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 187,
+      "label": "绩效",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 188,
+      "label": "综合经营模式",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 189,
+      "label": "网上支付",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 190,
+      "label": "网上银行",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 191,
+      "label": "网络游戏",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 192,
+      "label": "网络营销策略",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 193,
+      "label": "网络虚拟世界",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 194,
+      "label": "网络虚拟货币",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 195,
+      "label": "股指期货",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 196,
+      "label": "股指期货套利",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 197,
+      "label": "股权再融资",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 198,
+      "label": "股票市场",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 199,
+      "label": "胜任力模型",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 200,
+      "label": "能力开发",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 201,
+      "label": "脉冲相应分析",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 202,
+      "label": "自回归条件久期模型",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 203,
+      "label": "营销模式",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 204,
+      "label": "营销策略",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 205,
+      "label": "营销组合策略",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 206,
+      "label": "董事会制度",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 207,
+      "label": "蒙特卡罗模拟",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 208,
+      "label": "虚假财务信息",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 209,
+      "label": "融资租赁",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 210,
+      "label": "计算机行业",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 211,
+      "label": "证券投资基金",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 212,
+      "label": "识别与防范",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 213,
+      "label": "财务风险控制",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 214,
+      "label": "货币政策",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 215,
+      "label": "贸易收支",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 216,
+      "label": "贸易结构",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 217,
+      "label": "资产证券化",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 218,
+      "label": "资源能力",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 219,
+      "label": "跨文化管理",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 220,
+      "label": "跨职能团队",
+      "group": 2,
+      "size": 1
+    },
+    {
+      "id": 221,
+      "label": "运营合作",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 222,
+      "label": "进出口贸易",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 223,
+      "label": "退出",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 224,
+      "label": "退出方式",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 225,
+      "label": "退出机制",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 226,
+      "label": "逆向选择",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 227,
+      "label": "选择方法",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 228,
+      "label": "选择标准",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 229,
+      "label": "道德风险",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 230,
+      "label": "郊区化",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 231,
+      "label": "配股",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 232,
+      "label": "采购成本控制",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 233,
+      "label": "采购方法",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 234,
+      "label": "量产",
+      "group": 0,
+      "size": 1
+    },
+    {
+      "id": 235,
+      "label": "金融",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 236,
+      "label": "金融危机",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 237,
+      "label": "金融控股公司",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 238,
+      "label": "金融风险",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 239,
+      "label": "银行信贷融资",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 240,
+      "label": "长城计算机公司",
+      "group": 3,
+      "size": 1
+    },
+    {
+      "id": 241,
+      "label": "长效激励机制",
+      "group": 5,
+      "size": 1
+    },
+    {
+      "id": 242,
+      "label": "防范",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 243,
+      "label": "非对称效应",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 244,
+      "label": "非洲市场",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 245,
+      "label": "鞅定价法",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 246,
+      "label": "项目管理",
+      "group": -1,
+      "size": 1
+    },
+    {
+      "id": 247,
+      "label": "顾客终生价值",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": 248,
+      "label": "预测市场",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 249,
+      "label": "预警",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 250,
+      "label": "风险",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 251,
+      "label": "风险投资",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 252,
+      "label": "风险控制",
+      "group": 6,
+      "size": 2
+    },
+    {
+      "id": 253,
+      "label": "风险管理",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 254,
+      "label": "风险管理战略",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 255,
+      "label": "风险调整",
+      "group": 6,
+      "size": 1
+    },
+    {
+      "id": 256,
+      "label": "高尔夫",
+      "group": 4,
+      "size": 1
+    },
+    {
+      "id": 257,
+      "label": "（银行）信贷渠道",
+      "group": 4,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 66,
+      "target": 98,
+      "value": 0.1906966269016266,
+      "count": 1
+    },
+    {
+      "source": 98,
+      "target": 65,
+      "value": 0.20348602533340454,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 98,
+      "value": 0.19568392634391785,
+      "count": 1
+    },
+    {
+      "source": 66,
+      "target": 65,
+      "value": 0.6696560978889465,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 66,
+      "value": 0.43132299184799194,
+      "count": 1
+    },
+    {
+      "source": 67,
+      "target": 65,
+      "value": 0.4932388365268707,
+      "count": 1
+    },
+    {
+      "source": 151,
+      "target": 140,
+      "value": 0.2631460130214691,
+      "count": 1
+    },
+    {
+      "source": 151,
+      "target": 171,
+      "value": 0.2644365727901459,
+      "count": 1
+    },
+    {
+      "source": 151,
+      "target": 113,
+      "value": 0.22445495426654816,
+      "count": 1
+    },
+    {
+      "source": 171,
+      "target": 140,
+      "value": 0.3198068141937256,
+      "count": 1
+    },
+    {
+      "source": 113,
+      "target": 140,
+      "value": 0.35077139735221863,
+      "count": 1
+    },
+    {
+      "source": 113,
+      "target": 171,
+      "value": 0.27151429653167725,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 87,
+      "value": 0.3068750500679016,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 185,
+      "value": 0.19777877628803253,
+      "count": 1
+    },
+    {
+      "source": 87,
+      "target": 121,
+      "value": 0.08436083048582077,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 185,
+      "value": 0.36776262521743774,
+      "count": 1
+    },
+    {
+      "source": 58,
+      "target": 121,
+      "value": 0.17212891578674316,
+      "count": 1
+    },
+    {
+      "source": 121,
+      "target": 185,
+      "value": 0.2888793349266052,
+      "count": 1
+    },
+    {
+      "source": 191,
+      "target": 122,
+      "value": 0.6505234837532043,
+      "count": 1
+    },
+    {
+      "source": 191,
+      "target": 27,
+      "value": 0.1518106460571289,
+      "count": 1
+    },
+    {
+      "source": 191,
+      "target": 12,
+      "value": 0.16866977512836456,
+      "count": 1
+    },
+    {
+      "source": 27,
+      "target": 122,
+      "value": 0.19041557610034943,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 122,
+      "value": 0.19857379794120789,
+      "count": 1
+    },
+    {
+      "source": 12,
+      "target": 27,
+      "value": 0.5025104880332947,
+      "count": 1
+    },
+    {
+      "source": 243,
+      "target": 71,
+      "value": 0.20747466385364532,
+      "count": 1
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "value": 0.6493494510650635,
+      "count": 1
+    },
+    {
+      "source": 70,
+      "target": 243,
+      "value": 0.370857298374176,
+      "count": 1
+    },
+    {
+      "source": 168,
+      "target": 256,
+      "value": 0.23820801079273224,
+      "count": 1
+    },
+    {
+      "source": 36,
+      "target": 256,
+      "value": 0.1659386157989502,
+      "count": 1
+    },
+    {
+      "source": 168,
+      "target": 36,
+      "value": 0.31952324509620667,
+      "count": 1
+    },
+    {
+      "source": 159,
+      "target": 134,
+      "value": 0.2632245719432831,
+      "count": 1
+    },
+    {
+      "source": 136,
+      "target": 134,
+      "value": 0.20299357175827026,
+      "count": 1
+    },
+    {
+      "source": 77,
+      "target": 134,
+      "value": 0.23679663240909576,
+      "count": 1
+    },
+    {
+      "source": 158,
+      "target": 134,
+      "value": 0.24439817667007446,
+      "count": 1
+    },
+    {
+      "source": 136,
+      "target": 159,
+      "value": 0.28533095121383667,
+      "count": 1
+    },
+    {
+      "source": 159,
+      "target": 77,
+      "value": 0.3227751851081848,
+      "count": 1
+    },
+    {
+      "source": 158,
+      "target": 159,
+      "value": 0.7456232905387878,
+      "count": 1
+    },
+    {
+      "source": 136,
+      "target": 77,
+      "value": 0.38301995396614075,
+      "count": 1
+    },
+    {
+      "source": 136,
+      "target": 158,
+      "value": 0.23776406049728394,
+      "count": 1
+    },
+    {
+      "source": 158,
+      "target": 77,
+      "value": 0.31849783658981323,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 19,
+      "value": 0.23494578897953033,
+      "count": 1
+    },
+    {
+      "source": 109,
+      "target": 19,
+      "value": 0.25982245802879333,
+      "count": 1
+    },
+    {
+      "source": 68,
+      "target": 109,
+      "value": 0.42758479714393616,
+      "count": 1
+    },
+    {
+      "source": 232,
+      "target": 166,
+      "value": 0.22846508026123047,
+      "count": 1
+    },
+    {
+      "source": 118,
+      "target": 166,
+      "value": 0.299702525138855,
+      "count": 1
+    },
+    {
+      "source": 166,
+      "target": 116,
+      "value": 0.2789859175682068,
+      "count": 1
+    },
+    {
+      "source": 233,
+      "target": 166,
+      "value": 0.31444251537323,
+      "count": 1
+    },
+    {
+      "source": 118,
+      "target": 232,
+      "value": 0.595334529876709,
+      "count": 1
+    },
+    {
+      "source": 232,
+      "target": 116,
+      "value": 0.5978415012359619,
+      "count": 1
+    },
+    {
+      "source": 233,
+      "target": 232,
+      "value": 0.6337992548942566,
+      "count": 1
+    },
+    {
+      "source": 118,
+      "target": 116,
+      "value": 0.35517454147338867,
+      "count": 1
+    },
+    {
+      "source": 118,
+      "target": 233,
+      "value": 0.6350128650665283,
+      "count": 1
+    },
+    {
+      "source": 233,
+      "target": 116,
+      "value": 0.3356097638607025,
+      "count": 1
+    },
+    {
+      "source": 236,
+      "target": 90,
+      "value": 0.4480724334716797,
+      "count": 1
+    },
+    {
+      "source": 238,
+      "target": 90,
+      "value": 0.4443962275981903,
+      "count": 1
+    },
+    {
+      "source": 238,
+      "target": 236,
+      "value": 0.647808313369751,
+      "count": 1
+    },
+    {
+      "source": 184,
+      "target": 44,
+      "value": 0.3936975300312042,
+      "count": 1
+    },
+    {
+      "source": 184,
+      "target": 167,
+      "value": 0.2445906400680542,
+      "count": 1
+    },
+    {
+      "source": 184,
+      "target": 28,
+      "value": 0.2183605581521988,
+      "count": 1
+    },
+    {
+      "source": 184,
+      "target": 218,
+      "value": 0.2783285081386566,
+      "count": 1
+    },
+    {
+      "source": 167,
+      "target": 44,
+      "value": 0.3482605218887329,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 28,
+      "value": 0.24660351872444153,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 218,
+      "value": 0.32763105630874634,
+      "count": 1
+    },
+    {
+      "source": 167,
+      "target": 28,
+      "value": 0.3021155297756195,
+      "count": 1
+    },
+    {
+      "source": 167,
+      "target": 218,
+      "value": 0.24564942717552185,
+      "count": 1
+    },
+    {
+      "source": 218,
+      "target": 28,
+      "value": 0.1938229352235794,
+      "count": 1
+    },
+    {
+      "source": 251,
+      "target": 223,
+      "value": 0.2173234522342682,
+      "count": 1
+    },
+    {
+      "source": 251,
+      "target": 224,
+      "value": 0.21604813635349274,
+      "count": 1
+    },
+    {
+      "source": 251,
+      "target": 225,
+      "value": 0.23519600927829742,
+      "count": 1
+    },
+    {
+      "source": 251,
+      "target": 18,
+      "value": 0.26946771144866943,
+      "count": 1
+    },
+    {
+      "source": 223,
+      "target": 224,
+      "value": 0.7450971603393555,
+      "count": 1
+    },
+    {
+      "source": 223,
+      "target": 225,
+      "value": 0.6346344351768494,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 223,
+      "value": 0.26857757568359375,
+      "count": 1
+    },
+    {
+      "source": 225,
+      "target": 224,
+      "value": 0.7186862230300903,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 224,
+      "value": 0.29527896642684937,
+      "count": 1
+    },
+    {
+      "source": 18,
+      "target": 225,
+      "value": 0.3279404044151306,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 137,
+      "value": 0.29628878831863403,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 14,
+      "value": 0.44446277618408203,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 221,
+      "value": 0.39996567368507385,
+      "count": 1
+    },
+    {
+      "source": 43,
+      "target": 252,
+      "value": 0.307522714138031,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 137,
+      "value": 0.5284458994865417,
+      "count": 1
+    },
+    {
+      "source": 221,
+      "target": 137,
+      "value": 0.4636136293411255,
+      "count": 1
+    },
+    {
+      "source": 252,
+      "target": 137,
+      "value": 0.32039910554885864,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 221,
+      "value": 0.45788174867630005,
+      "count": 1
+    },
+    {
+      "source": 14,
+      "target": 252,
+      "value": 0.27708494663238525,
+      "count": 1
+    },
+    {
+      "source": 221,
+      "target": 252,
+      "value": 0.3699697256088257,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 165,
+      "value": 0.41125667095184326,
+      "count": 1
+    },
+    {
+      "source": 41,
+      "target": 33,
+      "value": 0.35149234533309937,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 41,
+      "value": 0.32457730174064636,
+      "count": 1
+    },
+    {
+      "source": 234,
+      "target": 41,
+      "value": 0.38825735449790955,
+      "count": 1
+    },
+    {
+      "source": 33,
+      "target": 165,
+      "value": 0.5486048460006714,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 165,
+      "value": 0.45064038038253784,
+      "count": 1
+    },
+    {
+      "source": 234,
+      "target": 165,
+      "value": 0.49791330099105835,
+      "count": 1
+    },
+    {
+      "source": 129,
+      "target": 33,
+      "value": 0.4211620092391968,
+      "count": 1
+    },
+    {
+      "source": 234,
+      "target": 33,
+      "value": 0.3742687404155731,
+      "count": 1
+    },
+    {
+      "source": 234,
+      "target": 129,
+      "value": 0.3978903591632843,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 86,
+      "value": 0.569617748260498,
+      "count": 1
+    },
+    {
+      "source": 86,
+      "target": 205,
+      "value": 0.15131233632564545,
+      "count": 1
+    },
+    {
+      "source": 4,
+      "target": 205,
+      "value": 0.1741628646850586,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 247,
+      "value": 0.4318618178367615,
+      "count": 1
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "value": 0.8720594644546509,
+      "count": 1
+    },
+    {
+      "source": 247,
+      "target": 62,
+      "value": 0.4302254319190979,
+      "count": 1
+    },
+    {
+      "source": 119,
+      "target": 230,
+      "value": 0.3051377832889557,
+      "count": 1
+    },
+    {
+      "source": 180,
+      "target": 230,
+      "value": 0.18622267246246338,
+      "count": 1
+    },
+    {
+      "source": 180,
+      "target": 119,
+      "value": 0.24522264301776886,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 145,
+      "value": 0.6787153482437134,
+      "count": 1
+    },
+    {
+      "source": 38,
+      "target": 145,
+      "value": 0.3358948230743408,
+      "count": 1
+    },
+    {
+      "source": 178,
+      "target": 145,
+      "value": 0.21265161037445068,
+      "count": 1
+    },
+    {
+      "source": 9,
+      "target": 38,
+      "value": 0.2606954574584961,
+      "count": 1
+    },
+    {
+      "source": 178,
+      "target": 9,
+      "value": 0.16121765971183777,
+      "count": 1
+    },
+    {
+      "source": 178,
+      "target": 38,
+      "value": 0.32886332273483276,
+      "count": 1
+    },
+    {
+      "source": 248,
+      "target": 35,
+      "value": 0.38714364171028137,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 248,
+      "value": 0.2581629753112793,
+      "count": 1
+    },
+    {
+      "source": 248,
+      "target": 124,
+      "value": 0.38886791467666626,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 35,
+      "value": 0.18823356926441193,
+      "count": 1
+    },
+    {
+      "source": 35,
+      "target": 124,
+      "value": 0.3800731897354126,
+      "count": 1
+    },
+    {
+      "source": 135,
+      "target": 124,
+      "value": 0.1552954763174057,
+      "count": 1
+    },
+    {
+      "source": 103,
+      "target": 99,
+      "value": 0.6104623079299927,
+      "count": 1
+    },
+    {
+      "source": 99,
+      "target": 100,
+      "value": 0.6131352186203003,
+      "count": 1
+    },
+    {
+      "source": 103,
+      "target": 100,
+      "value": 0.638594925403595,
+      "count": 1
+    },
+    {
+      "source": 152,
+      "target": 199,
+      "value": 0.14629140496253967,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 152,
+      "value": 0.20291131734848022,
+      "count": 1
+    },
+    {
+      "source": 152,
+      "target": 200,
+      "value": 0.1927713304758072,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 199,
+      "value": 0.3719779849052429,
+      "count": 1
+    },
+    {
+      "source": 200,
+      "target": 199,
+      "value": 0.46549832820892334,
+      "count": 1
+    },
+    {
+      "source": 32,
+      "target": 200,
+      "value": 0.43897995352745056,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 209,
+      "value": 0.2950901389122009,
+      "count": 1
+    },
+    {
+      "source": 111,
+      "target": 209,
+      "value": 0.18268384039402008,
+      "count": 1
+    },
+    {
+      "source": 182,
+      "target": 209,
+      "value": 0.21162155270576477,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 111,
+      "value": 0.24880443513393402,
+      "count": 1
+    },
+    {
+      "source": 79,
+      "target": 182,
+      "value": 0.2669747471809387,
+      "count": 1
+    },
+    {
+      "source": 182,
+      "target": 111,
+      "value": 0.40238261222839355,
+      "count": 1
+    },
+    {
+      "source": 162,
+      "target": 195,
+      "value": 0.47807344794273376,
+      "count": 1
+    },
+    {
+      "source": 196,
+      "target": 195,
+      "value": 0.7469542622566223,
+      "count": 1
+    },
+    {
+      "source": 162,
+      "target": 196,
+      "value": 0.40298789739608765,
+      "count": 1
+    },
+    {
+      "source": 188,
+      "target": 45,
+      "value": 0.24750223755836487,
+      "count": 1
+    },
+    {
+      "source": 237,
+      "target": 45,
+      "value": 0.35872408747673035,
+      "count": 1
+    },
+    {
+      "source": 252,
+      "target": 45,
+      "value": 0.33618929982185364,
+      "count": 1
+    },
+    {
+      "source": 188,
+      "target": 237,
+      "value": 0.3363516926765442,
+      "count": 1
+    },
+    {
+      "source": 188,
+      "target": 252,
+      "value": 0.32871732115745544,
+      "count": 1
+    },
+    {
+      "source": 237,
+      "target": 252,
+      "value": 0.37732094526290894,
+      "count": 1
+    },
+    {
+      "source": 143,
+      "target": 222,
+      "value": 0.3198965787887573,
+      "count": 1
+    },
+    {
+      "source": 143,
+      "target": 215,
+      "value": 0.3904854357242584,
+      "count": 1
+    },
+    {
+      "source": 143,
+      "target": 216,
+      "value": 0.3386083245277405,
+      "count": 1
+    },
+    {
+      "source": 215,
+      "target": 222,
+      "value": 0.5815250873565674,
+      "count": 1
+    },
+    {
+      "source": 216,
+      "target": 222,
+      "value": 0.5809284448623657,
+      "count": 1
+    },
+    {
+      "source": 216,
+      "target": 215,
+      "value": 0.5952978134155273,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 52,
+      "value": 0.343578964471817,
+      "count": 1
+    },
+    {
+      "source": 1,
+      "target": 52,
+      "value": 0.49614888429641724,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 1,
+      "value": 0.26130151748657227,
+      "count": 1
+    },
+    {
+      "source": 239,
+      "target": 56,
+      "value": 0.7207865715026855,
+      "count": 1
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "value": 0.3075859844684601,
+      "count": 1
+    },
+    {
+      "source": 239,
+      "target": 57,
+      "value": 0.2980128526687622,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 106,
+      "value": 0.4731177091598511,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 76,
+      "value": 0.315725713968277,
+      "count": 1
+    },
+    {
+      "source": 29,
+      "target": 220,
+      "value": 0.2738603353500366,
+      "count": 1
+    },
+    {
+      "source": 76,
+      "target": 106,
+      "value": 0.39199507236480713,
+      "count": 1
+    },
+    {
+      "source": 220,
+      "target": 106,
+      "value": 0.3493404984474182,
+      "count": 1
+    },
+    {
+      "source": 76,
+      "target": 220,
+      "value": 0.49737465381622314,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 46,
+      "value": 0.23584461212158203,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 226,
+      "value": 0.3458596169948578,
+      "count": 1
+    },
+    {
+      "source": 46,
+      "target": 229,
+      "value": 0.30389565229415894,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 226,
+      "value": 0.1642843782901764,
+      "count": 1
+    },
+    {
+      "source": 54,
+      "target": 229,
+      "value": 0.47034603357315063,
+      "count": 1
+    },
+    {
+      "source": 229,
+      "target": 226,
+      "value": 0.25065937638282776,
+      "count": 1
+    },
+    {
+      "source": 146,
+      "target": 81,
+      "value": 0.160335510969162,
+      "count": 1
+    },
+    {
+      "source": 146,
+      "target": 250,
+      "value": 0.18821489810943604,
+      "count": 1
+    },
+    {
+      "source": 146,
+      "target": 132,
+      "value": 0.22315821051597595,
+      "count": 1
+    },
+    {
+      "source": 250,
+      "target": 81,
+      "value": 0.36729317903518677,
+      "count": 1
+    },
+    {
+      "source": 132,
+      "target": 81,
+      "value": 0.39370691776275635,
+      "count": 1
+    },
+    {
+      "source": 132,
+      "target": 250,
+      "value": 0.345658540725708,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 63,
+      "value": 0.2667276859283447,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "value": 0.6393746137619019,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 84,
+      "value": 0.6592140793800354,
+      "count": 1
+    },
+    {
+      "source": 154,
+      "target": 17,
+      "value": 0.3565593361854553,
+      "count": 1
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 0.26322638988494873,
+      "count": 1
+    },
+    {
+      "source": 154,
+      "target": 2,
+      "value": 0.2004641592502594,
+      "count": 1
+    },
+    {
+      "source": 11,
+      "target": 117,
+      "value": 0.4047125279903412,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 117,
+      "value": 0.2814561128616333,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 117,
+      "value": 0.21710827946662903,
+      "count": 1
+    },
+    {
+      "source": 190,
+      "target": 117,
+      "value": 0.2520788311958313,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 11,
+      "value": 0.2179558277130127,
+      "count": 1
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0.16374032199382782,
+      "count": 1
+    },
+    {
+      "source": 190,
+      "target": 11,
+      "value": 0.1711253821849823,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 13,
+      "value": 0.26864129304885864,
+      "count": 1
+    },
+    {
+      "source": 47,
+      "target": 190,
+      "value": 0.35098743438720703,
+      "count": 1
+    },
+    {
+      "source": 190,
+      "target": 13,
+      "value": 0.29315388202667236,
+      "count": 1
+    },
+    {
+      "source": 155,
+      "target": 100,
+      "value": 0.24000239372253418,
+      "count": 1
+    },
+    {
+      "source": 155,
+      "target": 101,
+      "value": 0.23573917150497437,
+      "count": 1
+    },
+    {
+      "source": 155,
+      "target": 102,
+      "value": 0.24731676280498505,
+      "count": 1
+    },
+    {
+      "source": 101,
+      "target": 100,
+      "value": 0.647171139717102,
+      "count": 1
+    },
+    {
+      "source": 102,
+      "target": 100,
+      "value": 0.6134645938873291,
+      "count": 1
+    },
+    {
+      "source": 101,
+      "target": 102,
+      "value": 0.5571133494377136,
+      "count": 1
+    },
+    {
+      "source": 138,
+      "target": 20,
+      "value": 0.2861936390399933,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 59,
+      "value": 0.38894206285476685,
+      "count": 1
+    },
+    {
+      "source": 20,
+      "target": 16,
+      "value": 0.24381707608699799,
+      "count": 1
+    },
+    {
+      "source": 138,
+      "target": 59,
+      "value": 0.35133278369903564,
+      "count": 1
+    },
+    {
+      "source": 138,
+      "target": 16,
+      "value": 0.15799003839492798,
+      "count": 1
+    },
+    {
+      "source": 59,
+      "target": 16,
+      "value": 0.1677308827638626,
+      "count": 1
+    },
+    {
+      "source": 163,
+      "target": 30,
+      "value": 0.1361778974533081,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 30,
+      "value": 0.14563241600990295,
+      "count": 1
+    },
+    {
+      "source": 241,
+      "target": 30,
+      "value": 0.24797125160694122,
+      "count": 1
+    },
+    {
+      "source": 176,
+      "target": 30,
+      "value": 0.4160284101963043,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 163,
+      "value": 0.16766482591629028,
+      "count": 1
+    },
+    {
+      "source": 241,
+      "target": 163,
+      "value": 0.13570299744606018,
+      "count": 1
+    },
+    {
+      "source": 176,
+      "target": 163,
+      "value": 0.15162208676338196,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 241,
+      "value": 0.18263579905033112,
+      "count": 1
+    },
+    {
+      "source": 39,
+      "target": 176,
+      "value": 0.18879997730255127,
+      "count": 1
+    },
+    {
+      "source": 176,
+      "target": 241,
+      "value": 0.2752843499183655,
+      "count": 1
+    },
+    {
+      "source": 133,
+      "target": 153,
+      "value": 0.23513059318065643,
+      "count": 1
+    },
+    {
+      "source": 153,
+      "target": 179,
+      "value": 0.17949503660202026,
+      "count": 1
+    },
+    {
+      "source": 133,
+      "target": 179,
+      "value": 0.3245839476585388,
+      "count": 1
+    },
+    {
+      "source": 123,
+      "target": 22,
+      "value": 0.31205105781555176,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 22,
+      "value": 0.282052218914032,
+      "count": 1
+    },
+    {
+      "source": 22,
+      "target": 174,
+      "value": 0.2825058102607727,
+      "count": 1
+    },
+    {
+      "source": 123,
+      "target": 69,
+      "value": 0.6361188292503357,
+      "count": 1
+    },
+    {
+      "source": 123,
+      "target": 174,
+      "value": 0.3565499186515808,
+      "count": 1
+    },
+    {
+      "source": 69,
+      "target": 174,
+      "value": 0.3638404607772827,
+      "count": 1
+    },
+    {
+      "source": 150,
+      "target": 235,
+      "value": 0.23257550597190857,
+      "count": 1
+    },
+    {
+      "source": 80,
+      "target": 235,
+      "value": 0.2194642424583435,
+      "count": 1
+    },
+    {
+      "source": 80,
+      "target": 150,
+      "value": 0.23134496808052063,
+      "count": 1
+    },
+    {
+      "source": 203,
+      "target": 144,
+      "value": 0.24190881848335266,
+      "count": 1
+    },
+    {
+      "source": 144,
+      "target": 204,
+      "value": 0.22226814925670624,
+      "count": 1
+    },
+    {
+      "source": 203,
+      "target": 204,
+      "value": 0.7074200510978699,
+      "count": 1
+    },
+    {
+      "source": 219,
+      "target": 114,
+      "value": 0.25424742698669434,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 219,
+      "value": 0.33344730734825134,
+      "count": 1
+    },
+    {
+      "source": 31,
+      "target": 114,
+      "value": 0.22894927859306335,
+      "count": 1
+    },
+    {
+      "source": 246,
+      "target": 128,
+      "value": 0.37184691429138184,
+      "count": 1
+    },
+    {
+      "source": 246,
+      "target": 85,
+      "value": 0.4054306149482727,
+      "count": 1
+    },
+    {
+      "source": 85,
+      "target": 128,
+      "value": 0.34607210755348206,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 187,
+      "value": 0.31271615624427795,
+      "count": 1
+    },
+    {
+      "source": 64,
+      "target": 93,
+      "value": 0.31214237213134766,
+      "count": 1
+    },
+    {
+      "source": 93,
+      "target": 187,
+      "value": 0.2960761785507202,
+      "count": 1
+    },
+    {
+      "source": 130,
+      "target": 55,
+      "value": 0.3396139442920685,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 130,
+      "value": 0.4587995409965515,
+      "count": 1
+    },
+    {
+      "source": 130,
+      "target": 40,
+      "value": 0.162053644657135,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 55,
+      "value": 0.2829304337501526,
+      "count": 1
+    },
+    {
+      "source": 55,
+      "target": 40,
+      "value": 0.21450194716453552,
+      "count": 1
+    },
+    {
+      "source": 6,
+      "target": 40,
+      "value": 0.1722436547279358,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 44,
+      "value": 0.398829847574234,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 100,
+      "value": 0.39647966623306274,
+      "count": 1
+    },
+    {
+      "source": 44,
+      "target": 42,
+      "value": 0.6734338402748108,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 100,
+      "value": 0.36870652437210083,
+      "count": 1
+    },
+    {
+      "source": 37,
+      "target": 42,
+      "value": 0.4169699549674988,
+      "count": 1
+    },
+    {
+      "source": 42,
+      "target": 100,
+      "value": 0.5972153544425964,
+      "count": 1
+    },
+    {
+      "source": 8,
+      "target": 178,
+      "value": 0.18169638514518738,
+      "count": 1
+    },
+    {
+      "source": 217,
+      "target": 141,
+      "value": 0.40196526050567627,
+      "count": 1
+    },
+    {
+      "source": 141,
+      "target": 23,
+      "value": 0.42818087339401245,
+      "count": 1
+    },
+    {
+      "source": 217,
+      "target": 23,
+      "value": 0.3784102201461792,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 51,
+      "value": 0.3415459394454956,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 49,
+      "value": 0.2400253862142563,
+      "count": 1
+    },
+    {
+      "source": 49,
+      "target": 51,
+      "value": 0.5743393301963806,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 208,
+      "value": 0.35241058468818665,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 15,
+      "value": 0.1778014600276947,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 212,
+      "value": 0.10650765150785446,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 208,
+      "value": 0.18711510300636292,
+      "count": 1
+    },
+    {
+      "source": 212,
+      "target": 208,
+      "value": 0.25514721870422363,
+      "count": 1
+    },
+    {
+      "source": 7,
+      "target": 212,
+      "value": 0.1817711740732193,
+      "count": 1
+    },
+    {
+      "source": 170,
+      "target": 197,
+      "value": 0.31562504172325134,
+      "count": 1
+    },
+    {
+      "source": 197,
+      "target": 94,
+      "value": 0.28852611780166626,
+      "count": 1
+    },
+    {
+      "source": 231,
+      "target": 197,
+      "value": 0.6076178550720215,
+      "count": 1
+    },
+    {
+      "source": 170,
+      "target": 94,
+      "value": 0.2978288531303406,
+      "count": 1
+    },
+    {
+      "source": 170,
+      "target": 231,
+      "value": 0.28146153688430786,
+      "count": 1
+    },
+    {
+      "source": 231,
+      "target": 94,
+      "value": 0.4243685007095337,
+      "count": 1
+    },
+    {
+      "source": 51,
+      "target": 164,
+      "value": 0.3729378581047058,
+      "count": 1
+    },
+    {
+      "source": 127,
+      "target": 164,
+      "value": 0.38838815689086914,
+      "count": 1
+    },
+    {
+      "source": 147,
+      "target": 164,
+      "value": 0.37059587240219116,
+      "count": 1
+    },
+    {
+      "source": 127,
+      "target": 51,
+      "value": 0.5442432165145874,
+      "count": 1
+    },
+    {
+      "source": 147,
+      "target": 51,
+      "value": 0.5451905727386475,
+      "count": 1
+    },
+    {
+      "source": 127,
+      "target": 147,
+      "value": 0.5303879976272583,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 156,
+      "value": 0.30317914485931396,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 173,
+      "value": 0.17072716355323792,
+      "count": 1
+    },
+    {
+      "source": 5,
+      "target": 82,
+      "value": 0.17273366451263428,
+      "count": 1
+    },
+    {
+      "source": 173,
+      "target": 156,
+      "value": 0.2439342588186264,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 156,
+      "value": 0.1572783887386322,
+      "count": 1
+    },
+    {
+      "source": 82,
+      "target": 173,
+      "value": 0.378218412399292,
+      "count": 1
+    },
+    {
+      "source": 193,
+      "target": 194,
+      "value": 0.6665759682655334,
+      "count": 1
+    },
+    {
+      "source": 161,
+      "target": 193,
+      "value": 0.23863597214221954,
+      "count": 1
+    },
+    {
+      "source": 193,
+      "target": 169,
+      "value": 0.34803307056427,
+      "count": 1
+    },
+    {
+      "source": 193,
+      "target": 189,
+      "value": 0.42498838901519775,
+      "count": 1
+    },
+    {
+      "source": 161,
+      "target": 194,
+      "value": 0.5427542924880981,
+      "count": 1
+    },
+    {
+      "source": 194,
+      "target": 169,
+      "value": 0.7477911114692688,
+      "count": 1
+    },
+    {
+      "source": 194,
+      "target": 189,
+      "value": 0.5035619139671326,
+      "count": 1
+    },
+    {
+      "source": 161,
+      "target": 169,
+      "value": 0.5749289989471436,
+      "count": 1
+    },
+    {
+      "source": 161,
+      "target": 189,
+      "value": 0.3505184054374695,
+      "count": 1
+    },
+    {
+      "source": 189,
+      "target": 169,
+      "value": 0.452516108751297,
+      "count": 1
+    },
+    {
+      "source": 157,
+      "target": 112,
+      "value": 0.22924375534057617,
+      "count": 1
+    },
+    {
+      "source": 157,
+      "target": 115,
+      "value": 0.5309109687805176,
+      "count": 1
+    },
+    {
+      "source": 157,
+      "target": 126,
+      "value": 0.2596789300441742,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 115,
+      "value": 0.26313528418540955,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 126,
+      "value": 0.3645889461040497,
+      "count": 1
+    },
+    {
+      "source": 115,
+      "target": 126,
+      "value": 0.563862144947052,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 108,
+      "value": 0.20419301092624664,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 228,
+      "value": 0.15637049078941345,
+      "count": 1
+    },
+    {
+      "source": 78,
+      "target": 227,
+      "value": 0.1222161129117012,
+      "count": 1
+    },
+    {
+      "source": 108,
+      "target": 228,
+      "value": 0.2723434865474701,
+      "count": 1
+    },
+    {
+      "source": 227,
+      "target": 108,
+      "value": 0.2656189203262329,
+      "count": 1
+    },
+    {
+      "source": 227,
+      "target": 228,
+      "value": 0.7102479934692383,
+      "count": 1
+    },
+    {
+      "source": 95,
+      "target": 97,
+      "value": 0.4295552372932434,
+      "count": 1
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "value": 0.4111330509185791,
+      "count": 1
+    },
+    {
+      "source": 254,
+      "target": 97,
+      "value": 0.2471838891506195,
+      "count": 1
+    },
+    {
+      "source": 95,
+      "target": 96,
+      "value": 0.8382320404052734,
+      "count": 1
+    },
+    {
+      "source": 254,
+      "target": 95,
+      "value": 0.4809180498123169,
+      "count": 1
+    },
+    {
+      "source": 254,
+      "target": 96,
+      "value": 0.5493131875991821,
+      "count": 1
+    },
+    {
+      "source": 179,
+      "target": 0,
+      "value": 0.21486040949821472,
+      "count": 1
+    },
+    {
+      "source": 160,
+      "target": 0,
+      "value": 0.24673935770988464,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 0,
+      "value": 0.3116474151611328,
+      "count": 1
+    },
+    {
+      "source": 160,
+      "target": 179,
+      "value": 0.3189198970794678,
+      "count": 1
+    },
+    {
+      "source": 10,
+      "target": 179,
+      "value": 0.18841467797756195,
+      "count": 1
+    },
+    {
+      "source": 160,
+      "target": 10,
+      "value": 0.535388708114624,
+      "count": 1
+    },
+    {
+      "source": 148,
+      "target": 88,
+      "value": 0.2901550531387329,
+      "count": 1
+    },
+    {
+      "source": 88,
+      "target": 34,
+      "value": 0.2650192975997925,
+      "count": 1
+    },
+    {
+      "source": 148,
+      "target": 34,
+      "value": 0.34289300441741943,
+      "count": 1
+    },
+    {
+      "source": 149,
+      "target": 120,
+      "value": 0.2040877640247345,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 120,
+      "value": 0.18118152022361755,
+      "count": 1
+    },
+    {
+      "source": 177,
+      "target": 120,
+      "value": 0.3427557349205017,
+      "count": 1
+    },
+    {
+      "source": 104,
+      "target": 149,
+      "value": 0.29429787397384644,
+      "count": 1
+    },
+    {
+      "source": 177,
+      "target": 149,
+      "value": 0.291454017162323,
+      "count": 1
+    },
+    {
+      "source": 177,
+      "target": 104,
+      "value": 0.1990717351436615,
+      "count": 1
+    },
+    {
+      "source": 211,
+      "target": 255,
+      "value": 0.31599247455596924,
+      "count": 1
+    },
+    {
+      "source": 211,
+      "target": 181,
+      "value": 0.19279104471206665,
+      "count": 1
+    },
+    {
+      "source": 255,
+      "target": 181,
+      "value": 0.3318593502044678,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 186,
+      "value": 0.3325556516647339,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 112,
+      "value": 0.18411515653133392,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 105,
+      "value": 0.21865171194076538,
+      "count": 1
+    },
+    {
+      "source": 112,
+      "target": 186,
+      "value": 0.28794559836387634,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 186,
+      "value": 0.29318103194236755,
+      "count": 1
+    },
+    {
+      "source": 105,
+      "target": 112,
+      "value": 0.2846607267856598,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 72,
+      "value": 0.6463713645935059,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 125,
+      "value": 0.2905787229537964,
+      "count": 1
+    },
+    {
+      "source": 75,
+      "target": 91,
+      "value": 0.5013054609298706,
+      "count": 1
+    },
+    {
+      "source": 125,
+      "target": 72,
+      "value": 0.2938463091850281,
+      "count": 1
+    },
+    {
+      "source": 72,
+      "target": 91,
+      "value": 0.38561737537384033,
+      "count": 1
+    },
+    {
+      "source": 125,
+      "target": 91,
+      "value": 0.35038578510284424,
+      "count": 1
+    },
+    {
+      "source": 53,
+      "target": 142,
+      "value": 0.294327974319458,
+      "count": 1
+    },
+    {
+      "source": 242,
+      "target": 142,
+      "value": 0.15641707181930542,
+      "count": 1
+    },
+    {
+      "source": 249,
+      "target": 142,
+      "value": 0.1542634814977646,
+      "count": 1
+    },
+    {
+      "source": 53,
+      "target": 242,
+      "value": 0.2735607922077179,
+      "count": 1
+    },
+    {
+      "source": 249,
+      "target": 53,
+      "value": 0.3136086165904999,
+      "count": 1
+    },
+    {
+      "source": 249,
+      "target": 242,
+      "value": 0.6253045797348022,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 73,
+      "value": 0.6564098596572876,
+      "count": 1
+    },
+    {
+      "source": 73,
+      "target": 245,
+      "value": 0.3222006559371948,
+      "count": 1
+    },
+    {
+      "source": 207,
+      "target": 73,
+      "value": 0.20406924188137054,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 245,
+      "value": 0.32596856355667114,
+      "count": 1
+    },
+    {
+      "source": 74,
+      "target": 207,
+      "value": 0.2376769781112671,
+      "count": 1
+    },
+    {
+      "source": 207,
+      "target": 245,
+      "value": 0.15755346417427063,
+      "count": 1
+    },
+    {
+      "source": 148,
+      "target": 202,
+      "value": 0.23066869378089905,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 148,
+      "value": 0.3296462893486023,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 202,
+      "value": 0.13534781336784363,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 48,
+      "value": 0.44640976190567017,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 253,
+      "value": 0.28019654750823975,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 50,
+      "value": 0.3787727355957031,
+      "count": 1
+    },
+    {
+      "source": 48,
+      "target": 253,
+      "value": 0.25845766067504883,
+      "count": 1
+    },
+    {
+      "source": 50,
+      "target": 48,
+      "value": 0.5612739324569702,
+      "count": 1
+    },
+    {
+      "source": 50,
+      "target": 253,
+      "value": 0.3468005657196045,
+      "count": 1
+    },
+    {
+      "source": 107,
+      "target": 15,
+      "value": 0.25339967012405396,
+      "count": 1
+    },
+    {
+      "source": 15,
+      "target": 172,
+      "value": 0.5152668952941895,
+      "count": 1
+    },
+    {
+      "source": 107,
+      "target": 172,
+      "value": 0.3159986138343811,
+      "count": 1
+    },
+    {
+      "source": 198,
+      "target": 92,
+      "value": 0.3430255055427551,
+      "count": 1
+    },
+    {
+      "source": 198,
+      "target": 139,
+      "value": 0.26123741269111633,
+      "count": 1
+    },
+    {
+      "source": 198,
+      "target": 24,
+      "value": 0.19132013618946075,
+      "count": 1
+    },
+    {
+      "source": 139,
+      "target": 92,
+      "value": 0.5156949758529663,
+      "count": 1
+    },
+    {
+      "source": 92,
+      "target": 24,
+      "value": 0.4865870177745819,
+      "count": 1
+    },
+    {
+      "source": 139,
+      "target": 24,
+      "value": 0.4894171953201294,
+      "count": 1
+    },
+    {
+      "source": 257,
+      "target": 214,
+      "value": 0.34649938344955444,
+      "count": 1
+    },
+    {
+      "source": 257,
+      "target": 131,
+      "value": 0.09795477986335754,
+      "count": 1
+    },
+    {
+      "source": 201,
+      "target": 257,
+      "value": 0.14394867420196533,
+      "count": 1
+    },
+    {
+      "source": 131,
+      "target": 214,
+      "value": 0.20387688279151917,
+      "count": 1
+    },
+    {
+      "source": 201,
+      "target": 214,
+      "value": 0.2418338656425476,
+      "count": 1
+    },
+    {
+      "source": 201,
+      "target": 131,
+      "value": 0.37037551403045654,
+      "count": 1
+    },
+    {
+      "source": 210,
+      "target": 240,
+      "value": 0.4670700430870056,
+      "count": 1
+    },
+    {
+      "source": 244,
+      "target": 240,
+      "value": 0.2110568881034851,
+      "count": 1
+    },
+    {
+      "source": 89,
+      "target": 240,
+      "value": 0.15806715190410614,
+      "count": 1
+    },
+    {
+      "source": 210,
+      "target": 244,
+      "value": 0.24791944026947021,
+      "count": 1
+    },
+    {
+      "source": 89,
+      "target": 210,
+      "value": 0.15051090717315674,
+      "count": 1
+    },
+    {
+      "source": 89,
+      "target": 244,
+      "value": 0.3692135810852051,
+      "count": 1
+    },
+    {
+      "source": 206,
+      "target": 60,
+      "value": 0.33433812856674194,
+      "count": 1
+    },
+    {
+      "source": 206,
+      "target": 110,
+      "value": 0.30610668659210205,
+      "count": 1
+    },
+    {
+      "source": 110,
+      "target": 60,
+      "value": 0.36072978377342224,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 26,
+      "value": 0.22240513563156128,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 192,
+      "value": 0.23891392350196838,
+      "count": 1
+    },
+    {
+      "source": 21,
+      "target": 100,
+      "value": 0.2186942994594574,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 192,
+      "value": 0.41943758726119995,
+      "count": 1
+    },
+    {
+      "source": 26,
+      "target": 100,
+      "value": 0.29586556553840637,
+      "count": 1
+    },
+    {
+      "source": 192,
+      "target": 100,
+      "value": 0.35232144594192505,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 63,
+      "value": 0.38135257363319397,
+      "count": 1
+    },
+    {
+      "source": 63,
+      "target": 183,
+      "value": 0.4254266023635864,
+      "count": 1
+    },
+    {
+      "source": 3,
+      "target": 183,
+      "value": 0.35394611954689026,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 175,
+      "value": 0.3083157539367676,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 213,
+      "value": 0.34109681844711304,
+      "count": 1
+    },
+    {
+      "source": 83,
+      "target": 25,
+      "value": 0.41951441764831543,
+      "count": 1
+    },
+    {
+      "source": 213,
+      "target": 175,
+      "value": 0.30960553884506226,
+      "count": 1
+    },
+    {
+      "source": 175,
+      "target": 25,
+      "value": 0.16157588362693787,
+      "count": 1
+    },
+    {
+      "source": 213,
+      "target": 25,
+      "value": 0.2561948299407959,
+      "count": 1
+    }
+  ]
+}
